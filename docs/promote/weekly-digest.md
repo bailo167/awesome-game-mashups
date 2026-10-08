@@ -1,6 +1,6 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-09. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-08. These are additions to the index, not necessarily new releases.
 
 - **[Ultrakill64](https://github.com/bailo167/awesome-game-mashups#project-ultrakill64)** — A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. (Released · Code available · Demo)
 - **[Ultrakill in Ultrakill](https://github.com/bailo167/awesome-game-mashups#project-ultrakill-in-ultrakill)** — Plays ULTRAKILL on in-game terminals inside ULTRAKILL, three instances deep. (Released · Code available · Demo)
@@ -15,6 +15,7 @@ Week ending 2026-10-09. These are additions to the index, not necessarily new re
 - **[Minecraft X Saints Row: The Third Remastered](https://github.com/bailo167/awesome-game-mashups#project-minecraft-x-saints-row-3)** — Runs real Minecraft inside Saints Row: The Third Remastered, with building, TNT and combat in Stilwater. (Code available · In development · Experimental)
 - **[Minecraft PassthroughIV](https://github.com/bailo167/awesome-game-mashups#project-minecraft-passthrough-iv)** — Draws a real Minecraft Java session into GTA IV's Liberty City. (Released · Experimental)
 - **[Minecraft in Minecraft (CHUNGUS 2 redstone computer)](https://github.com/bailo167/awesome-game-mashups#project-minecraft-in-minecraft-chungus-2)** — A playable miniature Minecraft running on a redstone computer built inside Minecraft. (Code available · Demo)
+- **[Mario Mode — SM64 in Spider-Man 2](https://github.com/bailo167/awesome-game-mashups#project-sm64-spiderman2)** — Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. (Released · Code available · Experimental)
 - **[gmDoom (+ gmDoom Maps)](https://github.com/bailo167/awesome-game-mashups#project-gmdoom)** — A Lua partial port of Doom that loads Doom weapons, monsters and WAD maps straight into Garry's Mod. (Released)
 - **[GEMU — retro consoles in Garry's Mod](https://github.com/bailo167/awesome-game-mashups#project-gemu-gmod)** — Puts playable retro consoles and handhelds into Garry's Mod. (Released · Code available · Experimental · Related)
 - **[G64](https://github.com/bailo167/awesome-game-mashups#project-g64)** — Puts a fully playable Super Mario 64 Mario, with his original moveset, into Garry's Mod. (Released · Code available)
@@ -28,7 +29,6 @@ Week ending 2026-10-09. These are additions to the index, not necessarily new re
 - **[DOOM in Factorio](https://github.com/bailo167/awesome-game-mashups#project-factorio-doom)** — Runs the original Doom in real time inside a dedicated Factorio world as a mod-portal mod. (Released · Code available · Experimental)
 - **[CraftMSC](https://github.com/bailo167/awesome-game-mashups#project-craftmsc)** — Runs real Minecraft 1.12.2 inside My Summer Car. (Released · Experimental)
 - **[Celeste Doom](https://github.com/bailo167/awesome-game-mashups#project-celeste-doom)** — An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. (Released)
-- **[Mario Mode — SM64 in Spider-Man 2](https://github.com/bailo167/awesome-game-mashups#project-sm64-spiderman2)** — Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. (Released · Code available · Experimental)
 - **[FreeDoom386i](https://github.com/bailo167/awesome-game-mashups#project-freedoom386i)** — Runs playable Freedoom on My Winter Car's in-game 386 PC with sound and keyboard controls. (Released)
 - **[Sonic the Hedgehog — Ultimate Speed & Combat Mod](https://github.com/bailo167/awesome-game-mashups#project-sonic-ultimate-speed-combat-gta-v)** — Recreates Sonic-style high-speed movement and combat systems inside GTA V Story Mode. (Released · Experimental · Related)
 - **[Skate Fortress 2](https://github.com/bailo167/awesome-game-mashups#project-skate-fortress-2)** — Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. (Code available · In development · Experimental)
@@ -75,3 +75,15 @@ Week ending 2026-10-09. These are additions to the index, not necessarily new re
 - **[CS-Craft](https://github.com/bailo167/awesome-game-mashups#project-cs-craft)** — Adds a Minecraft Overworld/progression mode to a CS:GO Rust/Bevy rewrite. (Released · Code available · Experimental)
 - **[CrossplayProject — Minecraft ↔ Roblox](https://github.com/bailo167/awesome-game-mashups#project-crossplayproject)** — Links Minecraft and Roblox so players, blocks and chat synchronize between both games. (Released · Code available · Archived)
 - **[ccboy — Game Boy in Minecraft](https://github.com/bailo167/awesome-game-mashups#project-ccboy)** — Streams Game Boy gameplay from an external emulator to ComputerCraft monitors in Minecraft. (Code available · Related)
+- **[Wasmcraft game demos](https://github.com/bailo167/awesome-game-mashups#project-wasmcraft)** — Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. (Code available · Demo)
+- **[UltraDoom / UltrakillDoom](https://github.com/bailo167/awesome-game-mashups#project-ultradoom)** — Lets you play DOOM on the shop terminals inside ULTRAKILL. (Released · Code available)
+- **[Pokémon Red in Minecraft](https://github.com/bailo167/awesome-game-mashups#project-pokemon-red)** — Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft. (Released)
+- **[NucleDoom](https://github.com/bailo167/awesome-game-mashups#project-nucledoom)** — Runs DOOM inside Minecraft with controls and sound. (Released · Code available)
+- **[Minecraft Crossover Bridge](https://github.com/bailo167/awesome-game-mashups#project-minecraft-crossover-bridge)** — Brings Minecraft blocks, mobs and combat into Monster Hunter: World or Elden Ring on Apple Silicon Macs. (Code available · In development)
+- **[Minecraft Classic 0.30 inside Hytale](https://github.com/bailo167/awesome-game-mashups#project-minecraft-classic-hytale)** — Shows Minecraft Classic running on Hytale’s in-game world-map screen. (In development · Video only)
+- **[HyCraft](https://github.com/bailo167/awesome-game-mashups#project-hycraft)** — Lets Minecraft players join Hytale servers and interact with their worlds. (Released · Code available · Experimental)
+- **[HellGate: Doom Portal](https://github.com/bailo167/awesome-game-mashups#project-hellgate-doom-portal)** — Opens a portal from Minecraft into a playable DOOM II experience. (Released · Unavailable)
+- **[Earlier viral Minecraft in Skyrim footage](https://github.com/bailo167/awesome-game-mashups#project-minecraft-skyrim-earlier-footage)** — Earlier Minecraft-in-Skyrim footage remains unsourced; it is not the verified SkyCraft project. (Unconfirmed)
+- **[DoomMaps](https://github.com/bailo167/awesome-game-mashups#project-doom-maps)** — Runs DOOM on Hytale’s in-game world-map screen. (Code available · Demo)
+- **[Dead by Daylight Add-On (Zero Squad)](https://github.com/bailo167/awesome-game-mashups#project-dead-by-daylight)** — Recreates Dead by Daylight’s generators, chases, traps and survivor systems in Minecraft Bedrock. (Released)
+- **[Arcade Mod Reloaded](https://github.com/bailo167/awesome-game-mashups#project-arcade-mod-reloaded)** — Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. (Released · Code available)

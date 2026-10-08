@@ -6,7 +6,7 @@
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Visual site build & deployment](docs/MAINTENANCE.md#publishing-the-site)
 
-**Catalogue updated:** 2026-10-09. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-08. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -2033,7 +2033,7 @@ A Hearts of Iron IV Workshop mod that runs the whole DOOM engine, based on doomg
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3800765971)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2059,7 +2059,7 @@ An ASI plugin and Fabric mod pair that runs Minecraft Java next to GTA IV and re
 - [Release / download](https://www.nexusmods.com/gta4/mods/1498)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2088,7 +2088,7 @@ Adds DOOM as an app on Schedule I's in-game TVs. A native DOOM runtime renders o
 - [DOOM II TV edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2483)
 - [Ultimate Doom / TNT / Plutonia edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2484)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2114,7 +2114,7 @@ An experimental passthrough that runs Minecraft 1.12.2 alongside My Summer Car a
 - [Release / download](https://www.nexusmods.com/mysummercar/mods/12619)
 - [universal-modder (upstream)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2139,7 +2139,7 @@ Adds a Freeplay cabinet that you buy from the in-game Arcademania shop and place
 
 - [Release / download](https://www.nexusmods.com/arcadeparadise/mods/7)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2167,7 +2167,7 @@ Adds SNES, NES and Genesis console stations with CRT TVs, plus GB/GBC/GBA handhe
 - [Release / download](https://github.com/Nighthawk42/gemu/releases)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3801421244)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2193,7 +2193,7 @@ Spawning NG64's Mario from BeamNG.drive's vehicle selector gives Super Mario 64'
 - [Source code](https://github.com/zer0ducksgiven/NG64)
 - [Release / download](https://github.com/zer0ducksgiven/NG64/releases)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2220,7 +2220,7 @@ A libsm64-based mod that runs SM64's Mario movement inside Halo CE in the Master
 - [Release / download](https://github.com/KodyJKing/smc64/releases)
 - [Watch demo](https://www.youtube.com/watch?v=tj5fAk7KkHA)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2241,7 +2241,7 @@ An X video posted on 30 Sep 2026 ('I put Tarkov into Skyrim. Now with guns and e
 
 - [Creator post](https://x.com/cydonix/status/2105177318968955044)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2269,7 +2269,7 @@ G64 is a Garry's Mod addon that uses ckosmic's fork of libsm64 to run Super Mari
 - [Watch demo](https://www.youtube.com/watch?v=JMLDKfCohl0)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=2814638140)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2298,7 +2298,7 @@ kgsws found a code-execution vulnerability in DOS DOOM2.EXE and used it to load 
 - [Project page](https://doomwiki.org/wiki/ACE_Engine)
 - [ACE Engine (follow-up, LGPL-2.1)](https://github.com/kgsws/doom_ace)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2326,7 +2326,7 @@ Retro64 uses a libsm64 fork to simulate Super Mario 64's movement code in Minecr
 - [Watch demo](https://www.youtube.com/watch?v=2yWKqc2rmHI)
 - [Project page](https://retro64mod.github.io/)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2352,7 +2352,7 @@ DOOMSona adds Doom cartridges to Persona 5 Royal's second-hand shop and runs the
 - [Source code](https://github.com/xan1242/DoomSona)
 - [Release / download](https://gamebanana.com/mods/511278)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2377,7 +2377,7 @@ gmDoom is a partial source port of DOOM for Garry's Mod that reads a user's IWAD
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=145310679)
 - [gmDoom Maps source (Jcw87)](https://github.com/Jcw87/gmod-doom-maps)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2407,7 +2407,7 @@ Headshotnoby's plugin embeds libsm64 into GTA San Andreas so Mario moves with SM
 - [gzdoom-sm64 (same author)](https://github.com/headshot2017/gzdoom-sm64)
 - [OpenLara SM64 (same author)](https://github.com/headshot2017/OpenLara)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2432,7 +2432,7 @@ Skyth's mod runs Super Mario 64's decompiled movement through libsm64 in Sonic G
 
 - [Release / download](https://gamebanana.com/mods/368411)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2458,7 +2458,7 @@ Supersonic Mario uses libsm64 to drop a playable, networked SM64 Mario into Rock
 - [Source code](https://github.com/Serialbocks/SupersonicMarioPlugin)
 - [Release / download](https://github.com/Serialbocks/SupersonicMarioPlugin/releases/tag/v1.1.1)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2484,7 +2484,7 @@ An entry in the Sonic Hacking Contest 2020 that embeds Chocolate Doom in Sonic M
 - [Source code](https://github.com/TheStoneBanana/mania-doom)
 - [Project page](https://old.sonicstadium.org/?p=61884)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2509,7 +2509,7 @@ sammyuri's team wrote a tiny 3D Minecraft for the CHUNGUS 2 redstone CPU and ran
 - [Watch demo](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 - [CHUNGUS 2 assembler (MIT)](https://github.com/sammyuri/chungus-2-assembler)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2534,7 +2534,7 @@ This Factorio 2.1 mod runs Doom with its levels, menus, sounds, music, HUD and s
 - [Release / download](https://mods.factorio.com/mod/doom)
 - [Watch demo](https://www.youtube.com/watch?v=ZgFlZszci2Y)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2557,7 +2557,7 @@ Celeste Doom ports the C# Managed Doom engine onto Celeste's Monocle framework. 
 
 - [Release / download](https://gamebanana.com/mods/646780)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2587,7 +2587,7 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
 - [Inspired by minecraft-crossover-bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2614,7 +2614,7 @@ Both games run at once: Saints Row owns the world, vehicles and camera, while on
 - [Creator profile](https://github.com/SawyerTheNerd)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2639,7 +2639,7 @@ A BepInEx plugin that uses the libsm64 Unity runtime to put Super Mario 64's Mar
 - [Creator profile](https://github.com/Squaresweets)
 - [libsm64-unity upstream](https://github.com/libsm64/libsm64-unity-dev)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2663,7 +2663,7 @@ Three ULTRAKILL instances run at once; each frame, screenshots are passed betwee
 - [Source code](https://github.com/Squaresweets/Ultrakill-in-Ultrakill)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
