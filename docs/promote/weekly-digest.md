@@ -1,7 +1,8 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-08. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-09. These are additions to the index, not necessarily new releases.
 
+- **[passthrough-mod-toolkit](https://github.com/bailo167/awesome-game-mashups#project-passthrough-mod-toolkit)** — Generates the shared-memory bridge skeleton for two-process "passthrough" game mashups from one schema. (Code available · Experimental · Related)
 - **[Mario Mode — SM64 in Spider-Man 2](https://github.com/bailo167/awesome-game-mashups#project-sm64-spiderman2)** — Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. (Released · Code available · Experimental)
 - **[FreeDoom386i](https://github.com/bailo167/awesome-game-mashups#project-freedoom386i)** — Runs playable Freedoom on My Winter Car's in-game 386 PC with sound and keyboard controls. (Released)
 - **[Sonic the Hedgehog — Ultimate Speed & Combat Mod](https://github.com/bailo167/awesome-game-mashups#project-sonic-ultimate-speed-combat-gta-v)** — Recreates Sonic-style high-speed movement and combat systems inside GTA V Story Mode. (Released · Experimental · Related)
@@ -49,15 +50,3 @@ Week ending 2026-10-08. These are additions to the index, not necessarily new re
 - **[CS-Craft](https://github.com/bailo167/awesome-game-mashups#project-cs-craft)** — Adds a Minecraft Overworld/progression mode to a CS:GO Rust/Bevy rewrite. (Released · Code available · Experimental)
 - **[CrossplayProject — Minecraft ↔ Roblox](https://github.com/bailo167/awesome-game-mashups#project-crossplayproject)** — Links Minecraft and Roblox so players, blocks and chat synchronize between both games. (Released · Code available · Archived)
 - **[ccboy — Game Boy in Minecraft](https://github.com/bailo167/awesome-game-mashups#project-ccboy)** — Streams Game Boy gameplay from an external emulator to ComputerCraft monitors in Minecraft. (Code available · Related)
-- **[Wasmcraft game demos](https://github.com/bailo167/awesome-game-mashups#project-wasmcraft)** — Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. (Code available · Demo)
-- **[UltraDoom / UltrakillDoom](https://github.com/bailo167/awesome-game-mashups#project-ultradoom)** — Lets you play DOOM on the shop terminals inside ULTRAKILL. (Released · Code available)
-- **[Pokémon Red in Minecraft](https://github.com/bailo167/awesome-game-mashups#project-pokemon-red)** — Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft. (Released)
-- **[NucleDoom](https://github.com/bailo167/awesome-game-mashups#project-nucledoom)** — Runs DOOM inside Minecraft with controls and sound. (Released · Code available)
-- **[Minecraft Crossover Bridge](https://github.com/bailo167/awesome-game-mashups#project-minecraft-crossover-bridge)** — Brings Minecraft blocks, mobs and combat into Monster Hunter: World or Elden Ring on Apple Silicon Macs. (Code available · In development)
-- **[Minecraft Classic 0.30 inside Hytale](https://github.com/bailo167/awesome-game-mashups#project-minecraft-classic-hytale)** — Shows Minecraft Classic running on Hytale’s in-game world-map screen. (In development · Video only)
-- **[HyCraft](https://github.com/bailo167/awesome-game-mashups#project-hycraft)** — Lets Minecraft players join Hytale servers and interact with their worlds. (Released · Code available · Experimental)
-- **[HellGate: Doom Portal](https://github.com/bailo167/awesome-game-mashups#project-hellgate-doom-portal)** — Opens a portal from Minecraft into a playable DOOM II experience. (Released)
-- **[Earlier viral Minecraft in Skyrim footage](https://github.com/bailo167/awesome-game-mashups#project-minecraft-skyrim-earlier-footage)** — Earlier Minecraft-in-Skyrim footage remains unsourced; it is not the verified SkyCraft project. (Unconfirmed)
-- **[DoomMaps](https://github.com/bailo167/awesome-game-mashups#project-doom-maps)** — Runs DOOM on Hytale’s in-game world-map screen. (Code available · Demo)
-- **[Dead by Daylight Add-On (Zero Squad)](https://github.com/bailo167/awesome-game-mashups#project-dead-by-daylight)** — Recreates Dead by Daylight’s generators, chases, traps and survivor systems in Minecraft Bedrock. (Released)
-- **[Arcade Mod Reloaded](https://github.com/bailo167/awesome-game-mashups#project-arcade-mod-reloaded)** — Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. (Released · Code available)

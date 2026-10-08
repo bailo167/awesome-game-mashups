@@ -2,11 +2,11 @@
 
 > Games rebuilt **inside other games**.
 
-**71 entries:** 61 core projects, 3 unconfirmed sightings and 7 related projects. Not all entries are verified releases.
+**72 entries:** 61 core projects, 3 unconfirmed sightings and 8 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Visual site build & deployment](docs/MAINTENANCE.md#publishing-the-site)
 
-**Catalogue updated:** 2026-10-08. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-09. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -37,7 +37,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) · [FreeDoom386i](#project-freedoom386i) · [Sonic the Hedgehog — Ultimate Speed & Combat Mod](#project-sonic-ultimate-speed-combat-gta-v) · [Skate Fortress 2](#project-skate-fortress-2) · [Requiem x Minecraft — Building and Survival](#project-requiem-x-minecraft) · [Minecraft Ring](#project-minecraft-ring) · [GrandTheftMinecraft](#project-grandtheftminecraft) · [Good Enough Game Integration (GEGI)](#project-good-enough-game-integration)
+[passthrough-mod-toolkit](#project-passthrough-mod-toolkit) · [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) · [FreeDoom386i](#project-freedoom386i) · [Sonic the Hedgehog — Ultimate Speed & Combat Mod](#project-sonic-ultimate-speed-combat-gta-v) · [Skate Fortress 2](#project-skate-fortress-2) · [Requiem x Minecraft — Building and Survival](#project-requiem-x-minecraft) · [Minecraft Ring](#project-minecraft-ring) · [GrandTheftMinecraft](#project-grandtheftminecraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -134,6 +134,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 | [Chanyoris](#project-chanyoris) | Runs a full competitive falling-block puzzle game inside a Minecraft map item. | Released · Related | — |
 | [GeometryTale](#project-geometrytale) | Recreates Geometry Dash-style 2D levels as a playable Hytale world. | Released · Related | — |
 | [Minecraft, but It's Crash Bandicoot (Remake)](#project-crash-bandicoot-remake) | Recreates two Crash Bandicoot levels with custom gameplay in Minecraft. | Released · Related | — |
+| [passthrough-mod-toolkit](#project-passthrough-mod-toolkit) | Generates the shared-memory bridge skeleton for two-process "passthrough" game mashups from one schema. | Code available · Experimental · Related | — |
 | [Portal Zombies](#project-portal-zombies) | Adds Portal-themed scenery and teleporters to a Black Ops III Zombies map. | Released · Unavailable · Related | — |
 | [Requiem x Minecraft — Building and Survival](#project-requiem-x-minecraft) | Adds Minecraft-style building, hotbar and survival mechanics to Resident Evil Requiem. | Released · Experimental · Related | — |
 | [Sonic the Hedgehog — Ultimate Speed & Combat Mod](#project-sonic-ultimate-speed-combat-gta-v) | Recreates Sonic-style high-speed movement and combat systems inside GTA V Story Mode. | Released · Experimental · Related | — |
@@ -1856,6 +1857,33 @@ An Overstrike script mod embeds libsm64 into Marvel's Spider-Man 2. Mario uses t
 
 ---
 
+<a name="project-passthrough-mod-toolkit"></a>
+
+### passthrough-mod-toolkit
+
+**Guest:** Any guest game (samples target Minecraft: Java Edition)  
+**Host:** Any host game (toolkit; protocol samples cover Skyrim Special Edition, Fallout 4 and Valheim)  
+**Creator:** Orinkle  
+**Status:** Code available · Experimental · Related  
+**Approach:** schema-driven code generation for two-process shared-memory passthrough bridges, with stub processes and a round-trip check against existing SkyCraft-family headers  
+**Scope note:** a scaffold, not a playable mashup: it does not run or patch games, does not ship a host-side plugin, and its README states it has no on-hardware verification.  
+
+A builder's toolkit for passthrough mods, where a guest game (usually Minecraft) owns the player's body and a host game owns the world, with the two processes bridged over shared memory. One schema.yaml generates protocol bindings in C++, C#, Java, Rust and Python; fake-host and fake-guest stubs let bridge logic be exercised without either game installed, and a parameter library and MCP server support agent-driven builds. The creator documents that its schema reproduces the SkyCraft, FalloutCraft and ValCraft protocol headers with zero structural difference.
+
+**Requirements:** Python 3.9+ with PyYAML for the toolkit. Generated bridges target the user's own game installs and loaders (for example SKSE, BepInEx, ScriptHookV or F4SE), which are not bundled; the host-side game plugin must still be written and calibrated per game build.
+
+- [Source code](https://github.com/Orinkle/passthrough-mod-toolkit)
+- [Creator profile](https://github.com/Orinkle)
+- [Honest limits](https://github.com/Orinkle/passthrough-mod-toolkit#honest-limits)
+- [30-second stub demo](https://github.com/Orinkle/passthrough-mod-toolkit#30-second-demo)
+
+**Dated source review:** 2026-10-08
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
 ## Creator clusters
 
 ### chasmlol
@@ -1882,6 +1910,13 @@ A Hytale experimentation cluster focused on rendering other runtimes through the
 - [DoomMaps](https://github.com/ssquadteam/DoomMaps) — public source
 - Minecraft Classic 0.30 inside Hytale — verified creator demo
 - Minecraft ↔ Hytale crossplay — verified creator demo / WIP
+
+### Passthrough family (SkyCraft lineage)
+
+A large share of the 2026 wave reuses [SkyCraft](#project-skycraft)'s two-process design: a hidden Minecraft instance owns the player's body (movement, inventory, blocks, combat) while the host game owns the world and the picture, bridged over shared memory.
+
+- Host ports: [FalloutCraft](#project-falloutcraft), [ValCraft](#project-valcraft), [Killcraft](#project-killcraft), [OWCraft](#project-owcraft), [SubCraft](#project-subcraft), [LibertyCraft](#project-libertycraft), [Minecraft X Half-Life](#project-minecraft-x-half-life), [WowCraft](#project-wowcraft)
+- Build your own: [passthrough-mod-toolkit](#project-passthrough-mod-toolkit) by Orinkle generates the bridge skeleton (protocol bindings in five languages plus fake host/guest stubs) from one schema, and documents a zero-diff round trip against the SkyCraft, FalloutCraft and ValCraft headers. It is a scaffold: the host-side plugin is still hand-written and measured per game.
 
 ## What belongs here?
 
