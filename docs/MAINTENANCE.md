@@ -22,7 +22,7 @@ Pages enablement is administrative. Committing files does not imply permission t
 
 - **Catalogue integrity:** PRs get read-only validation, unit tests and generated-output checks. Trusted `main` runs can migrate the legacy schema and regenerate committed outputs in a normal non-force-pushed commit. Artifacts record the resulting source commit. A separate read-only Chromium browser job tests HTTP search/filters, URL persistence, mobile layout and no-JavaScript fallback before main-only Pages deployment.
 - **Check links:** public reachability audit with no auth headers. Redirect destinations are validated. 2xx = reachable; 404/410 = unavailable; 403/429/timeouts = unresolved. HTTP success does not verify claims. The JSON report retains unresolved URLs rather than hiding them with broad exceptions.
-- **Maintenance health:** independent, read-only freshness alarm for the last completed full research cycle. It cannot publish catalogue changes, resume the ChatGPT task or override a denied action. See the incident section below.
+- **Maintenance health:** independent, read-only freshness alarm for the last completed full research cycle. It cannot publish catalogue changes, resume the scheduled maintenance task or override a denied action. See the incident section below.
 - Action references are pinned to verified full commit SHAs. Dependabot proposes updates; nothing auto-merges dependency or workflow changes.
 
 Public PR code never runs with a write token, `pull_request_target`, or a private-network runner. Require review for workflows and generators when enabling branch rules; CODEOWNERS alone is review routing.
@@ -49,7 +49,7 @@ Scheduled research should prioritize missing demos, undocumented requirements, s
 
 ## Publication incidents and the independent freshness alarm
 
-The GitHub account's push permission, ChatGPT app-confirmation settings and platform safety review are separate controls. A prompt cannot override the latter. Do not diagnose a generic denial as a token problem, payload-size limit or transient error without evidence. A passing interactive write proves only that particular write succeeded; it does not prove future scheduled writes will succeed. See the incident classification in `.github/CATALOGUE_MAINTENANCE.md`.
+The GitHub account's push permission, the scheduler's own permission settings and any platform safety review are separate controls. A prompt cannot override the latter. Do not diagnose a generic denial as a token problem, payload-size limit or transient error without evidence. A passing interactive write proves only that particular write succeeded; it does not prove future scheduled writes will succeed. See the incident classification in `.github/CATALOGUE_MAINTENANCE.md`.
 
 The research task must not call scheduler-management tools during execution. Pausing, deleting or changing the task requires a separate maintainer request. This is an instruction, not a technical capability restriction provided by the repository.
 
@@ -64,6 +64,6 @@ python3 -m unittest discover -s tests -p 'test_maintenance_health.py' -v
 
 The default freshness window is two Brisbane calendar days because the historical checkpoint records a date rather than an exact completion time. Exit 0 means only that the recorded full-cycle date is within the window; exit 1 means missing or stale, and exit 2 means invalid input. Recent structural changes, partial reviews and project-count changes do not refresh the full-cycle checkpoint. The script cannot authenticate the truth of a recorded review date.
 
-A red **Maintenance health** result is separate from **Catalogue integrity** or **Check links**. Investigate why research has not completed; never change review dates, thresholds or workflow enablement merely to hide it. The alarm cannot inspect ChatGPT's task enablement, restart the task, or guarantee notification delivery. It adds observability; it does not fix or bypass a platform publication denial.
+A red **Maintenance health** result is separate from **Catalogue integrity** or **Check links**. Investigate why research has not completed; never change review dates, thresholds or workflow enablement merely to hide it. The alarm cannot inspect the scheduled task's enablement, restart the task, or guarantee notification delivery. It adds observability; it does not fix or bypass a platform publication denial.
 
 For repeated unexplained platform denials, prepare a private support record with exact messages, times, task ID, affected public paths, before/after commit SHAs and observed permission settings. Keep credentials, private chats and HAR captures out of the public repository. Support investigation and user approval, where required, are separate from routine catalogue maintenance. No support case should be claimed without a confirmed submission.
