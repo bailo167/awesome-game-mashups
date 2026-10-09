@@ -4,7 +4,7 @@
 
 **97 entries:** 84 core projects, 4 unconfirmed sightings and 9 related projects. Not all entries are verified releases.
 
-[**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Visual site build & deployment](docs/MAINTENANCE.md#publishing-the-site)
+[**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Catalogue updated:** 2026-10-08. This is an editorial update date, not a blanket verification date.
 

@@ -96,12 +96,11 @@
       "outcome": "INCOMPLETE — unresolved HTTP responses retained, not treated as verified or dead",
       "artifact_name": "link-reachability"
     },
-    "pages": "Built and HTTP-tested; deployment skipped because owner Pages enablement is still required.",
+    "pages": "Enabled by the owner on 2026-10-09; deployed by Catalogue integrity run 37885377282 and read back.",
     "automation": "Maintenance prompt updated for schema v2, generation/readback and evidence gaps; schedule remains 02:30 and 14:30 Australia/Brisbane.",
     "pull_requests": "Dependabot PR #1 reviewed; four major-version action upgrades remain open for compatibility/deployment review rather than automatic merge."
   },
   "remaining_upgrade_steps": [
-    "Owner: Settings > Pages > Source > GitHub Actions, then run Catalogue integrity. Confirm public home/detail/assets/feed/build-info before setting site_enabled true.",
     "Owner: upload the generated 1280x640 social-preview.png in Settings > General > Social preview.",
     "A creator-gameplay montage requires permission for every clip and any music. The original directory walkthrough is not gameplay footage.",
     "Continue source reviews, missing demos and documented requirements; this upgrade did not freshly verify all 56 projects.",
@@ -112,5 +111,11 @@
     "Do not advance last_completed_cycle for partial or blocked runs.",
     "The README Check links / Links badge is intentionally absent.",
     "The historical last_completed_cycle is preserved; use structural_upgrade and live data for the current migrated baseline."
-  ]
+  ],
+  "pages": {
+    "enabled": "2026-10-09",
+    "deploy_run_id": 37885377282,
+    "url": "https://bailo167.github.io/awesome-game-mashups/",
+    "readback": "Home, assets (style.css, app.js, icon.svg), project pages, updates, feed.xml, sitemap.xml, robots.txt and build-info.json returned 200 after deployment (97 entries)."
+  }
 }
