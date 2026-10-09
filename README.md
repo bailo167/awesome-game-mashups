@@ -2,11 +2,11 @@
 
 > Games rebuilt **inside other games**.
 
-**97 entries:** 84 core projects, 4 unconfirmed sightings and 9 related projects. Not all entries are verified releases.
+**109 entries:** 93 core projects, 6 unconfirmed sightings and 10 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
-**Catalogue updated:** 2026-10-08. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-09. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -38,7 +38,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Ultrakill64](#project-ultrakill64) · [Ultrakill in Ultrakill](#project-ultrakill-in-ultrakill) · [Supersonic Mario](#project-supersonic-mario) · [SMC64 — Mario in Halo: CE](#project-smc64-halo) · [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](#project-sm64-san-andreas) · [SM64 Generations](#project-sm64-generations) · [Schedule I Doom TV](#project-schedule-i-doom-tv) · [Retro64](#project-retro64)
+[World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) · [MinecraftNES](#project-minecraftnes) · [Just Doom It (Elin)](#project-just-doom-it) · [Juni Emu — GBA in Minecraft](#project-juni-emu) · [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -52,10 +52,12 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Arcade Mod Reloaded](#project-arcade-mod-reloaded) | Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. | Released · Code available | — |
 | [BullySkate](#project-bullyskate) | Lets Jimmy skate through Bullworth using Skate 3 physics. | Released · Code available | — |
 | [Celeste Doom](#project-celeste-doom) | An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. | Released | — |
+| [Classic64 — Mario in ClassiCube](#project-classic64) | A ClassiCube plugin that adds a playable Super Mario 64 Mario to Minecraft Classic-style worlds. | Released · Code available | — |
 | [CraftMSC](#project-craftmsc) | Runs real Minecraft 1.12.2 inside My Summer Car. | Released · Experimental | — |
 | [CrossplayProject — Minecraft ↔ Roblox](#project-crossplayproject) | Links Minecraft and Roblox so players, blocks and chat synchronize between both games. | Released · Code available · Archived | — |
 | [CS-Craft](#project-cs-craft) | Adds a Minecraft Overworld/progression mode to a CS:GO Rust/Bevy rewrite. | Released · Code available · Experimental | — |
 | [Dark Souls: Remastest / Remastester](#project-remastest) | Mixes Halo maps and weapons with a major Dark Souls multiplayer and combat overhaul. | Released | [Watch](https://www.youtube.com/watch?v=qRBTMhG2_00) |
+| [DDNet SM64 — Mario in Teeworlds](#project-ddnet-sm64) | Drops a 3D Super Mario 64 Mario into the 2D multiplayer game DDNet (Teeworlds). | Released · Code available · Experimental | — |
 | [Dead by Daylight Add-On (Zero Squad)](#project-dead-by-daylight) | Recreates Dead by Daylight’s generators, chases, traps and survivor systems in Minecraft Bedrock. | Released | [Watch](https://www.youtube.com/watch?v=plcN45eaRwg) |
 | [DOOM in Factorio](#project-factorio-doom) | Runs the original Doom in real time inside a dedicated Factorio world as a mod-portal mod. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=ZgFlZszci2Y) |
 | [DOOM in Hearts of Iron IV](#project-doom-hearts-of-iron-iv) | Plays DOOM's shareware first episode inside Hearts of Iron IV as a Workshop mod. | Released · Code available | — |
@@ -74,21 +76,27 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [GrandTheftMinecraft](#project-grandtheftminecraft) | Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode. | Released · Code available · Experimental | — |
 | [GTA San AnSkateas](#project-gta-san-anskateas) | Runs Skate 3 skating, tricks and physics on GTA San Andreas streets and collision. | Released · Code available · Experimental | — |
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
+| [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64) | Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. | Released · Code available · Experimental | — |
 | [HyCraft](#project-hycraft) | Lets Minecraft players join Hytale servers and interact with their worlds. | Released · Code available · Experimental | — |
 | [hytale2mc](#project-hytale2mc) | Lets Minecraft and Hytale players join the same synchronized cross-game minigames. | Released · Code available · Experimental | [Watch](https://github.com/user-attachments/assets/0dd1647d-c700-4dca-94e7-312144ce7544) |
+| [Juni Emu — GBA in Minecraft](#project-juni-emu) | A Forge mod that plays Game Boy Advance cartridges inside Minecraft, found in generated game stores. | Released · Experimental | — |
+| [Just Doom It (Elin)](#project-just-doom-it) | Adds a DOOM arcade cabinet to Elin that runs the real Managed Doom engine and pays out casino chips. | Released · Code available | — |
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
+| [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
 | [NG64 — Mario in BeamNG.drive](#project-ng64-beamng) | Lets you play as Super Mario 64's Mario in BeamNG.drive. | Released · Code available · Experimental | — |
 | [NucleDoom](#project-nucledoom) | Runs DOOM inside Minecraft with controls and sound. | Released · Code available | — |
 | [Ocarina of Time in Minecraft](#project-ocarina-of-time) | Recreates Zelda: Ocarina of Time in Minecraft, with its story, bosses, quests and items. | Released | [Watch](https://www.youtube.com/watch?v=HSGioTZ_rf4) |
+| [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) | Lets you play Tomb Raider 1 as Super Mario 64's Mario, switching between Mario and Lara. | Released · Code available | — |
 | [OWCraft](#project-owcraft) | Runs real Minecraft movement, blocks and inventory on Outer Wilds planets. | Released · Code available · Experimental | — |
 | [PipeLink Launcher — GTA SA × Skate 3 × MW2](#project-pipelink-launcher) | Runs Skate 3 and MW2 gameplay modes inside GTA San Andreas. | Released · Code available · Experimental | [Watch](https://streamable.com/19fo55) |
 | [Pokémon Red in Minecraft](#project-pokemon-red) | Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft. | Released | — |
 | [Project Inception](#project-project-inception) | Runs a playable second Minecraft game on a screen inside Minecraft. | Released · Code available | — |
 | [Retro Handheld Emulator 1x1 scale](#project-retro-handheld-emulator) | Runs playable Game Boy games on a giant in-world display inside Hytale. | Released | — |
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
+| [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) | A lineage of in-game console emulators for Garry's Mod, from GNES (2016) to the RetroArch-based Retromod 2.0. | Released | — |
 | [Schedule I Doom TV](#project-schedule-i-doom-tv) | Plays DOOM on the in-game televisions in Schedule I. | Released · Code available | — |
 | [SkateGM](#project-skategm) | Runs Skate 3 physics, tricks and scoring inside Garry's Mod, including multiplayer. | Released · Code available | — |
 | [SkyCraft](#project-skycraft) | Brings Minecraft building, exploration and gameplay into Skyrim. | Released · Code available · Experimental | — |
@@ -101,6 +109,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Ultrakill in Ultrakill](#project-ultrakill-in-ultrakill) | Plays ULTRAKILL on in-game terminals inside ULTRAKILL, three instances deep. | Released · Code available · Demo | — |
 | [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Released · Code available · Demo | — |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
+| [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
 | [Wither Storm × GTA V Passthrough](#project-wither-storm-gta-v) | Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=spm-u_cZvl8) |
 | [WowCraft — Minecraft inside World of Warcraft](#project-wowcraft) | Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1. | Released · Experimental | [Watch](https://www.youtube.com/watch?v=sX3lsLiPS2s) |
 
@@ -146,10 +155,12 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 
 | Project | What it is | Status | Demo |
 |---|---|---|---|
+| [Doom in Balatro](#project-doom-in-balatro) | Creator footage of Doom running inside Balatro's Jokers collection menu; no public download found. | Video only · Unconfirmed | [Watch](https://www.reddit.com/r/balatro/comments/1eby5y7/literally_nobody_asked_for_it_but_here_it_is_doom/) |
 | [Earlier viral Minecraft in Skyrim footage](#project-minecraft-skyrim-earlier-footage) | Earlier Minecraft-in-Skyrim footage remains unsourced; it is not the verified SkyCraft project. | Unconfirmed | — |
 | [Escape from Skyrim (Tarkov in Skyrim)](#project-escape-from-skyrim) | Viral video of Escape from Tarkov gameplay systems in Skyrim, with no release. | Video only · Unconfirmed | [Watch](https://x.com/cydonix/status/2105177318968955044) |
 | [Minecraft in Cyberpunk 2077](#project-minecraft-cyberpunk) | A viral claim puts Minecraft gameplay inside Cyberpunk 2077. | Unconfirmed | — |
 | [Minecraft in Elden Ring](#project-minecraft-elden-ring-tobynjacobs) | TobynJacobs’ footage shows Minecraft-style gameplay in Elden Ring; wider claims remain unconfirmed. | Video only · Unconfirmed | [Watch](https://x.com/TobynJacobs/status/2104884843297599594) |
+| [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) | Viral videos of a browser port of WaW Zombies mashed up with Fortnite, Wii Sports, Mario Kart and more; not public. | Video only · Unconfirmed | [Watch](https://x.com/p_e_cooper/status/2104980433972703483) |
 
 ## Related projects
 
@@ -157,6 +168,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 |---|---|---|---|
 | [ccboy — Game Boy in Minecraft](#project-ccboy) | Streams Game Boy gameplay from an external emulator to ComputerCraft monitors in Minecraft. | Code available · Related | — |
 | [Chanyoris](#project-chanyoris) | Runs a full competitive falling-block puzzle game inside a Minecraft map item. | Released · Related | — |
+| [DOOMTEST (Arma Reforger)](#project-doomtest-arma-reforger) | A Doom-style shooter, with a map editor, on an arcade cabinet inside Arma Reforger. | Released · Related | — |
 | [GEMU — retro consoles in Garry's Mod](#project-gemu-gmod) | Puts playable retro consoles and handhelds into Garry's Mod. | Released · Code available · Experimental · Related | — |
 | [GeometryTale](#project-geometrytale) | Recreates Geometry Dash-style 2D levels as a playable Hytale world. | Released · Related | [Watch](https://www.youtube.com/watch?v=N13Usbcgn60) |
 | [Minecraft, but It's Crash Bandicoot (Remake)](#project-crash-bandicoot-remake) | Recreates two Crash Bandicoot levels with custom gameplay in Minecraft. | Released · Related | [Watch](https://www.youtube.com/watch?v=E4y9sj8vXJs) |
@@ -2403,9 +2415,6 @@ Headshotnoby's plugin embeds libsm64 into GTA San Andreas so Mario moves with SM
 - [Source code](https://github.com/headshot2017/sm64-san-andreas)
 - [Release / download](https://github.com/headshot2017/sm64-san-andreas/releases)
 - [Watch demo](https://www.youtube.com/watch?v=AS86LTwcGcA)
-- [Classic64 (same author, ClassiCube)](https://github.com/headshot2017/Classic64)
-- [gzdoom-sm64 (same author)](https://github.com/headshot2017/gzdoom-sm64)
-- [OpenLara SM64 (same author)](https://github.com/headshot2017/OpenLara)
 
 **Dated source review:** 2026-10-08
 **Catalogue play-test:** Not recorded.
@@ -2670,6 +2679,322 @@ Three ULTRAKILL instances run at once; each frame, screenshots are passed betwee
 
 ---
 
+<a name="project-gzdoom-sm64"></a>
+
+### gzdoom-sm64 — Mario in Doom
+
+**Guest:** Super Mario 64  
+**Host:** DOOM (GZDoom 3.2.0)  
+**Creator:** Headshotnoby (headshot2017)  
+**Status:** Released · Code available · Experimental  
+**Approach:** GZDoom fork embedding libsm64  
+
+A fork of GZDoom 3.2.0 that swaps the Doom player for a playable Super Mario 64 Mario driven by libsm64, moving with SM64's physics through Doom maps. The creator describes it as a work in progress and publishes a development build.
+
+**Requirements:** A Doom IWAD and the user's own Super Mario 64 (US) ROM.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/headshot2017/gzdoom-sm64)
+- [Release / download](https://github.com/headshot2017/gzdoom-sm64/releases/tag/v20221211)
+- [Creator profile](https://github.com/headshot2017)
+- [libsm64 upstream](https://github.com/libsm64/libsm64)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-openlara-sm64"></a>
+
+### OpenLara SM64 — Mario in Tomb Raider
+
+**Guest:** Super Mario 64  
+**Host:** Tomb Raider (1996) via the OpenLara engine  
+**Creator:** Headshotnoby (headshot2017)  
+**Status:** Released · Code available  
+**Approach:** OpenLara fork embedding libsm64 as a submodule  
+
+A fork of XProger's open-source OpenLara engine that adds a libsm64 Mario to Tomb Raider 1, with collision work by muddymind. The README marks all 15 TR1 levels as tested and finishable as Mario, and the player can switch between Mario and Lara.
+
+**Requirements:** Tomb Raider 1 game data and the user's own Super Mario 64 (US) ROM.
+
+- [Source code](https://github.com/headshot2017/OpenLara)
+- [Release / download](https://github.com/headshot2017/OpenLara/releases/tag/v1.02)
+- [Creator profile](https://github.com/headshot2017)
+- [OpenLara upstream](https://github.com/XProger/OpenLara)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-ddnet-sm64"></a>
+
+### DDNet SM64 — Mario in Teeworlds
+
+**Guest:** Super Mario 64  
+**Host:** DDNet (Teeworlds)  
+**Creator:** Headshotnoby (headshot2017)  
+**Status:** Released · Code available · Experimental  
+**Approach:** DDNet fork embedding libsm64  
+
+A DDNet client fork that spawns a libsm64 Mario from the menu or a /mario server command, bridging SM64's 3D movement code into a 2D multiplayer platformer.
+
+**Requirements:** The user's own Super Mario 64 (US) ROM.
+
+**Platforms documented:** Windows, Linux
+
+- [Source code](https://github.com/headshot2017/ddnet-sm64)
+- [Release / download](https://github.com/headshot2017/ddnet-sm64/releases/tag/v1.0)
+- [Creator profile](https://github.com/headshot2017)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-classic64"></a>
+
+### Classic64 — Mario in ClassiCube
+
+**Guest:** Super Mario 64  
+**Host:** ClassiCube (Minecraft Classic-compatible client)  
+**Creator:** Headshotnoby (headshot2017)  
+**Status:** Released · Code available  
+**Approach:** ClassiCube plugin embedding libsm64  
+
+A plugin for ClassiCube, a C client compatible with Minecraft Classic, that uses libsm64 to insert a playable Super Mario 64 Mario into block worlds. The README notes it is unrelated to the Retro64 Minecraft mod.
+
+**Requirements:** ClassiCube and the user's own Super Mario 64 (US) ROM.
+
+**Platforms documented:** Windows, Linux
+
+- [Source code](https://github.com/headshot2017/Classic64)
+- [Release / download](https://github.com/headshot2017/Classic64/releases/tag/v1.2)
+- [Creator profile](https://github.com/headshot2017)
+- [ClassiCube](https://github.com/ClassiCube/ClassiCube)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-minecraftnes"></a>
+
+### MinecraftNES
+
+**Guest:** NES games  
+**Host:** Minecraft: Java Edition 1.16 (vanilla resource pack)  
+**Creator:** Suso (5uso)  
+**Status:** Released · Code available · Demo  
+**Approach:** NES emulator implemented in core shader programs of a vanilla resource pack  
+
+Emulates the NES inside unmodified Minecraft Java 1.16 using only resource-pack shader programs, with the ROM converted into a texture. It supports mapper 0 and mapper 2 games and includes a TAS input mode.
+
+**Requirements:** Minecraft Java 1.16.x with Fabulous graphics, and a mapper 0 or mapper 2 NES ROM converted with the repository's ROM.py into the pack's ROM texture.
+
+**Platforms documented:** Minecraft Java Edition 1.16
+
+- [Source code](https://github.com/5uso/MinecraftNES)
+- [Release / download](https://github.com/5uso/MinecraftNES/releases/tag/1.0.0)
+- [Creator profile](https://github.com/5uso)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-ckosmic-gmod-emulators"></a>
+
+### Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators
+
+**Guest:** NES, SNES, Game Boy / GBC / GBA, Sega Genesis and other RetroArch-supported systems  
+**Host:** Garry's Mod  
+**Creator:** ckosmic  
+**Status:** Released  
+**Approach:** Garry's Mod addons rendering emulators (JSNES, then RetroArch) onto in-game screen entities  
+
+ckosmic built a series of Garry's Mod addons for playing retro console games on in-game screens: GNES (2016), which ran the JSNES emulator and was billed as the first gaming-system emulator in Garry's Mod; GEMU (2017), a multi-system emulator for NES, SNES, Game Boy, GBA and Genesis; the original Retromod (2018); and Retromod 2.0 (2021), which uses RetroArch as its backend. Retromod 2.0 is the current addon; the earlier ones are kept as history.
+
+**Requirements:** Garry's Mod on Windows; Retromod 2.0 uses RetroArch as its backend and needs the user's own ROMs (see its Workshop installation instructions).
+
+**Platforms documented:** Windows
+
+- [Release / download](https://steamcommunity.com/sharedfiles/filedetails/?id=2438477032)
+- [Creator profile](https://github.com/ckosmic)
+- [GNES v0.8.6 (2016, historical)](https://steamcommunity.com/sharedfiles/filedetails/?id=736083419)
+- [GEMU by ckosmic (2017, historical)](https://steamcommunity.com/sharedfiles/filedetails/?id=945777403)
+- [Retromod 1.0 (2018, deprecated)](https://steamcommunity.com/sharedfiles/filedetails/?id=1457560331)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-vm-computers"></a>
+
+### VM Computers
+
+**Guest:** x86 operating systems and their games (e.g. DOS Doom) via VirtualBox  
+**Host:** Minecraft: Java Edition (Fabric 1.15–1.16)  
+**Creator:** Delta2Force  
+**Status:** Released · Code available · Archived  
+**Approach:** Fabric mod driving a local VirtualBox VM and rendering its display in-world  
+
+A Fabric mod in which players order computer parts from an in-game satellite and assemble a computer that runs a real VirtualBox virtual machine, displayed and controlled in the Minecraft world. Coverage and creator footage show DOS Doom being played on these in-game PCs.
+
+**Requirements:** Fabric for Minecraft 1.15–1.16.5, VirtualBox 6.1 or later installed locally, and the user's own OS install media; single-player on the user's own client only.
+
+**Platforms documented:** Minecraft Java Edition 1.16
+
+- [Source code](https://github.com/Delta2Force/MCVmComputers)
+- [Release / download](https://www.curseforge.com/minecraft/mc-mods/vm-computers)
+- [Creator profile](https://github.com/Delta2Force)
+- [PCGamesN coverage (Doom on an in-game PC)](https://www.pcgamesn.com/minecraft/virtual-pc-mod-doom)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-just-doom-it"></a>
+
+### Just Doom It (Elin)
+
+**Guest:** DOOM (Managed Doom engine, Freedoom or user IWADs)  
+**Host:** Elin  
+**Creator:** chitsii  
+**Status:** Released · Code available  
+**Approach:** Elin mod vendoring Managed Doom (GPL-2.0-or-later) and rendering it as an overlay from a custom arcade cabinet  
+
+An Elin mod that adds a playable DOOM arcade cabinet, running the Managed Doom engine with Freedoom data or the player's own DOOM IWADs in an overlay. Frags pay out casino chips into Elin's economy.
+
+**Requirements:** Elin on Steam with the CWL mod loader; Freedoom data is bundled, and commercial DOOM IWADs can be supplied by the player.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/chitsii/Elin.Mods/tree/main/Elin_JustDoomIt)
+- [Release / download](https://steamcommunity.com/sharedfiles/filedetails/?id=3678772605)
+- [Creator profile](https://github.com/chitsii)
+- [Managed Doom upstream](https://github.com/sinshu/managed-doom)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-juni-emu"></a>
+
+### Juni Emu — GBA in Minecraft
+
+**Guest:** Game Boy Advance games  
+**Host:** Minecraft: Java Edition 1.20.1–1.20.6 (Forge)  
+**Creator:** JuniperBear  
+**Status:** Released · Experimental  
+**Approach:** Forge mod embedding a GBA emulator core  
+
+A Forge mod that uses Minecraft as a platform for emulators: GBA cartridges found in world-generated game stores are loaded into an in-game GBA item and played through an embedded gpSP core, with each cartridge mapped to a ROM the player supplies. The creator describes it as the first of a planned series of emulator mods.
+
+**Requirements:** Forge for Minecraft 1.20.1–1.20.6 on both client and server, and the player's own GBA ROMs in the mod's roms folder.
+
+**Platforms documented:** Minecraft Java Edition 1.20.1–1.20.6
+
+- [Release / download](https://modrinth.com/mod/juni-emu)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-doomtest-arma-reforger"></a>
+
+### DOOMTEST (Arma Reforger)
+
+**Guest:** DOOM-style FPS (original raycaster with Freedoom art)  
+**Host:** Arma Reforger  
+**Creator:** joshargh  
+**Status:** Released · Related  
+**Approach:** original Enforce Script raycaster rendered into a CanvasWidget on an in-game arcade cabinet  
+**Scope note:** kept related because it is an original Doom-style reimplementation, not id's engine or an emulator.  
+
+An Arma Reforger mod that adds an in-world arcade cabinet running an original software raycaster written in Enforce Script and drawn into a UI canvas, using Freedoom art, plus a map editor. It recreates Doom-style play rather than running Doom's engine.
+
+**Requirements:** Arma Reforger; subscribe via the Reforger Workshop.
+
+- [Release / download](https://reforger.armaplatform.com/workshop/444F4F4D54455354-DOOMTEST)
+- [Source (ARMA_RETROFORGER)](https://github.com/josharghhh/ARMA_RETROFORGER)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-waw-zombies-web-crossovers"></a>
+
+### World at War Zombies web crossovers (P.E. Cooper)
+
+**Guest:** Fortnite, Wii Sports, Mario Kart, Portal 2  
+**Host:** Call of Duty: World at War Zombies (Nacht der Untoten), ported to the web  
+**Creator:** P.E. Cooper  
+**Status:** Video only · Unconfirmed  
+
+A series of X videos (29 September to 2 October 2026) shows a web-browser port of Call of Duty: World at War's Nacht der Untoten Zombies map with crossover mechanics such as Fortnite building, Wii Sports and Mario Kart. Dexerto reports the builds are only available to the creator.
+
+**Platforms documented:** Browser
+
+- [Creator post](https://x.com/p_e_cooper/status/2104980433972703483)
+- [Supporting source](https://www.dexerto.com/call-of-duty/call-of-duty-fan-creates-insane-zombies-crossovers-with-wii-sports-portal-fortnite-3414983/)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-doom-in-balatro"></a>
+
+### Doom in Balatro
+
+**Guest:** DOOM  
+**Host:** Balatro  
+**Creator:** UwUDev  
+**Status:** Video only · Unconfirmed  
+
+A Reddit post by UwUDev (July 2024) shows Doom integrated into Balatro's Jokers collection menu. The creator called it super laggy and basically unplayable; no public mod release or repository for it was located.
+
+- [Creator post](https://www.reddit.com/r/balatro/comments/1eby5y7/literally_nobody_asked_for_it_but_here_it_is_doom/)
+- [Supporting source](https://rogueliker.com/doom-balatro/)
+- [Creator profile](https://github.com/UwUDev)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
 ## Creator clusters
 
 ### chasmlol
@@ -2708,13 +3033,17 @@ A large share of the 2026 wave reuses [SkyCraft](#project-skycraft)'s two-proces
 
 [libsm64](https://github.com/libsm64/libsm64) packages Super Mario 64's decompiled movement code as a library, so Mario can run with his original physics inside other engines. Every port asks for the player's own ROM.
 
-- [G64](#project-g64) (Garry's Mod), [Retro64](#project-retro64) (Minecraft), [sm64-san-andreas](#project-sm64-san-andreas), [SM64 Generations](#project-sm64-generations), [Supersonic Mario](#project-supersonic-mario) (Rocket League)
+- [G64](#project-g64) (Garry's Mod), [Retro64](#project-retro64) (Minecraft), [sm64-san-andreas](#project-sm64-san-andreas), [SM64 Generations](#project-sm64-generations), [Supersonic Mario](#project-supersonic-mario) (Rocket League), and Headshotnoby's ports: [Classic64](#project-classic64) (ClassiCube), [gzdoom-sm64](#project-gzdoom-sm64), [OpenLara SM64](#project-openlara-sm64) (Tomb Raider), [DDNet SM64](#project-ddnet-sm64)
 - 2026 wave: [ER Mario](#project-er-mario), [Mario Mode](#project-sm64-spiderman2) (Spider-Man 2), [NG64](#project-ng64-beamng) (BeamNG.drive), [SMC64](#project-smc64-halo) (Halo: CE), [Ultrakill64](#project-ultrakill64)
 
 ### Doom runs on everything
 
-- On in-game screens and consoles: [DOOMSona](#project-doomsona) (Persona 5 Royal), [Schedule I Doom TV](#project-schedule-i-doom-tv), [FreeDoom386i](#project-freedoom386i) (My Winter Car), [Doom-in-Doom](#project-doom-in-doom)
+- On in-game screens and consoles: [DOOMSona](#project-doomsona) (Persona 5 Royal), [Schedule I Doom TV](#project-schedule-i-doom-tv), [FreeDoom386i](#project-freedoom386i) (My Winter Car), [Doom-in-Doom](#project-doom-in-doom), [Just Doom It](#project-just-doom-it) (Elin), [VM Computers](#project-vm-computers) (Minecraft)
 - Inside other engines and script VMs: [DOOM in Hearts of Iron IV](#project-doom-hearts-of-iron-iv), [DOOM in Factorio](#project-factorio-doom), [Celeste Doom](#project-celeste-doom), [DOOM in Sonic Mania](#project-doom-sonic-mania), [gmDoom](#project-gmdoom), [UltraDoom](#project-ultradoom), [NucleDoom](#project-nucledoom)
+
+### Consoles inside games
+
+- Emulators running on in-game hardware: [MinecraftNES](#project-minecraftnes) (vanilla shaders), [Juni Emu](#project-juni-emu) (GBA in Minecraft), [Retromod / GNES / GEMU by ckosmic](#project-ckosmic-gmod-emulators) and [GEMU by Nighthawk42](#project-gemu-gmod) (Garry's Mod), [Freeplay](#project-arcade-paradise-freeplay) (Arcade Paradise), [Arcade Mod Reloaded](#project-arcade-mod-reloaded), [Retro Handheld Emulator](#project-retro-handheld-emulator)
 
 ## What belongs here?
 
