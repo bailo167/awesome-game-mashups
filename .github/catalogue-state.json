@@ -3,19 +3,59 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-03",
-    "head_sha": "346214997c571cbac7835923051c7847540c7d04",
-    "catalogue_commit": "fb03872837d6ec56c849debed2aac74dab2ac97c",
-    "project_count": 35,
+    "verified_at": "2026-10-08",
+    "head_sha": "d9be6bada617f669ebd1be10df25c5cf27424581",
+    "catalogue_commit": "38090dd0abfc0ce3c3c96f6274549262d906dce4",
+    "project_count": 97,
     "open_issues": 0,
-    "open_pull_requests": 0,
+    "open_pull_requests": 1,
+    "scope": "Full research cycle: primary-source re-review of all 71 prior entries (every record now has a dated review), contributions (#3 published as sm64-spiderman2, #2 incorporated as passthrough-mod-toolkit and closed), and discovery across GitHub, Nexus Mods, Steam Workshop, Modrinth, GameBanana, the Factorio mod portal, YouTube, X and gaming press (+26 entries including historical precursors). Gaps: Reddit could not be swept (403); CurseForge and ModDB discovery was partial. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
-      "run_id": 37084835298,
-      "conclusion": "success"
-    }
+      "run_id": 37852690910,
+      "conclusion": "failure",
+      "detail": "240 reachable, 1 unavailable (HellGate CurseForge listing, entry marked dead), 22 unresolved (Nexus/Patreon/BuiltByBit 403, Steam Workshop 429, doomwiki 403, Streamable 400); these pages were confirmed through site APIs during review."
+    },
+    "catalogue_integrity_run_id": 37852691021
   },
-  "deferred_candidates": [],
+  "deferred_candidates": [
+    {
+      "name": "Juni Emu (GBA emulator in Minecraft)",
+      "url": "https://modrinth.com/mod/juni-emu",
+      "why": "Lower-tier lead from 2026-10-08 web sweep; primary page not yet reviewed in detail",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "BNes Fork (NES on Minecraft servers)",
+      "url": "https://github.com/Aruvelut-123/BNes-Fork",
+      "why": "Lower-tier lead; GPL-3.0, Codex-assisted per creator; needs review",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "VM Computers (Doom on a VirtualBox PC inside Minecraft, 2020)",
+      "url": "https://heldgames.com/guides/games-rebuilt-inside-other-games",
+      "why": "Listed on Held Games' games-rebuilt list; the primary CurseForge page was not reached",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "GTA VC inside GTA III inside San Andreas (Dryxio)",
+      "url": "https://www.youtube.com/watch?v=X_w6fo4KVy0",
+      "why": "Creator video only; related to gta-trilogy-multiverse",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Classic64 / gzdoom-sm64 / OpenLara SM64 (headshot2017)",
+      "url": "https://github.com/headshot2017",
+      "why": "Linked from sm64-san-andreas; could be split into separate entries",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Portal Gun (iChun) and Animal Crossing NES emulator",
+      "url": "https://github.com/iChun/PortalGunClassic",
+      "why": "Historical borderline cases (mechanic reimplementation / official feature); likely adjacent",
+      "date": "2026-10-08"
+    }
+  ],
   "structural_upgrade": {
     "date": "2026-10-05",
     "scope": "Catalogue architecture, migration, generated README/site/feed/digest, contributor flow, workflow security, reachability audit and original promotional assets. Not a full new research cycle or game play-test.",
@@ -39,7 +79,11 @@
       "artifact_name": "browser-report"
     },
     "source_review_scope": {
-      "new_dated_documentation_reviews": ["killcraft", "skategm", "owcraft"],
+      "new_dated_documentation_reviews": [
+        "killcraft",
+        "skategm",
+        "owcraft"
+      ],
       "inherited_entries_without_a_new_dated_review": 53,
       "catalogue_playtests_recorded": 0
     },
