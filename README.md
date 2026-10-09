@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**109 entries:** 93 core projects, 6 unconfirmed sightings and 10 related projects. Not all entries are verified releases.
+**111 entries:** 94 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -38,7 +38,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) · [MinecraftNES](#project-minecraftnes) · [Just Doom It (Elin)](#project-just-doom-it) · [Juni Emu — GBA in Minecraft](#project-juni-emu) · [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64)
+[World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) · [MinecraftNES](#project-minecraftnes) · [MGBridge (Minecraft and Garry's Mod)](#project-mgbridge) · [Just Doom It (Elin)](#project-just-doom-it)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -105,6 +105,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [SMC64 — Mario in Halo: CE](#project-smc64-halo) | Puts a playable Super Mario 64 Mario into Halo: Combat Evolved. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=tj5fAk7KkHA) |
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
 | [talemonpokemon](#project-talemonpokemon) | Recreates Pokémon catching, battles, evolution and trainer progression inside Hytale. | Released | [Watch](https://www.youtube.com/watch?v=wJbgOMAv5-s) |
+| [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Code available | — |
 | [UltraDoom / UltrakillDoom](#project-ultradoom) | Lets you play DOOM on the shop terminals inside ULTRAKILL. | Released · Code available | [Watch](https://www.youtube.com/watch?v=Y7zpELS2QfQ) |
 | [Ultrakill in Ultrakill](#project-ultrakill-in-ultrakill) | Plays ULTRAKILL on in-game terminals inside ULTRAKILL, three instances deep. | Released · Code available · Demo | — |
 | [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Released · Code available · Demo | — |
@@ -171,6 +172,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 | [DOOMTEST (Arma Reforger)](#project-doomtest-arma-reforger) | A Doom-style shooter, with a map editor, on an arcade cabinet inside Arma Reforger. | Released · Related | — |
 | [GEMU — retro consoles in Garry's Mod](#project-gemu-gmod) | Puts playable retro consoles and handhelds into Garry's Mod. | Released · Code available · Experimental · Related | — |
 | [GeometryTale](#project-geometrytale) | Recreates Geometry Dash-style 2D levels as a playable Hytale world. | Released · Related | [Watch](https://www.youtube.com/watch?v=N13Usbcgn60) |
+| [MGBridge (Minecraft and Garry's Mod)](#project-mgbridge) | Historical bridge that lets friends play Minecraft and Garry's Mod at the same time in a linked room. | Code available · Related | — |
 | [Minecraft, but It's Crash Bandicoot (Remake)](#project-crash-bandicoot-remake) | Recreates two Crash Bandicoot levels with custom gameplay in Minecraft. | Released · Related | [Watch](https://www.youtube.com/watch?v=E4y9sj8vXJs) |
 | [passthrough-mod-toolkit](#project-passthrough-mod-toolkit) | Generates the shared-memory bridge skeleton for two-process "passthrough" game mashups from one schema. | Code available · Experimental · Related | — |
 | [Portal Zombies](#project-portal-zombies) | Adds Portal-themed scenery and teleporters to a Black Ops III Zombies map. | Released · Unavailable · Related | — |
@@ -2590,13 +2592,13 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/SocketByte/EldenCraft)
-- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.24.0)
+- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.1)
 - [Project page](https://www.nexusmods.com/eldenring/mods/11259)
 - [Creator profile](https://github.com/SocketByte)
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
 - [Inspired by minecraft-crossover-bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-09
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2987,6 +2989,58 @@ A Reddit post by UwUDev (July 2024) shows Doom integrated into Balatro's Jokers 
 - [Creator post](https://www.reddit.com/r/balatro/comments/1eby5y7/literally_nobody_asked_for_it_but_here_it_is_doom/)
 - [Supporting source](https://rogueliker.com/doom-balatro/)
 - [Creator profile](https://github.com/UwUDev)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-ultracraft"></a>
+
+### Ultracraft
+
+**Guest:** ULTRAKILL  
+**Host:** Minecraft: Java Edition  
+**Creator:** alfr0762  
+**Status:** Released · Code available  
+**Approach:** Fabric mod in Minecraft + BepInEx 5 plugin (UltraBridge) in ULTRAKILL; the ULTRAKILL render is shown in Minecraft's window while Minecraft supplies the world  
+
+A Fabric mod plus a BepInEx plugin (UltraBridge) that runs ULTRAKILL alongside Minecraft 1.21.11 and draws it into Minecraft's window. Minecraft's blocks and mobs become ULTRAKILL's world and enemies; the README documents bosses, layer-themed arenas, the shop and upgrades, Cyber Grind, fight music, cheats and LAN co-op.
+
+**Requirements:** Windows; owned copies of ULTRAKILL (Steam, running) and Minecraft: Java Edition 1.21.11 with Fabric Loader 0.19+ and Fabric API. Ultracraft sets up BepInEx 5 and the UltraBridge plugin in ULTRAKILL automatically; Modrinth (.mrpack) and CurseForge modpacks are provided in the releases.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/alfr0762/ultracraft)
+- [Release / download](https://github.com/alfr0762/ultracraft/releases)
+- [Creator profile](https://github.com/alfr0762)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mgbridge"></a>
+
+### MGBridge (Minecraft and Garry's Mod)
+
+**Guest:** Garry's Mod  
+**Host:** Minecraft: Java Edition  
+**Creator:** thecreeez  
+**Status:** Code available · Related  
+**Approach:** Node.js bridge between a Minecraft server plugin and Garry's Mod Lua scripts  
+
+A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry's Mod Lua side. Players in a Minecraft server and a Garry's Mod host join one bridge room and share state; the Minecraft side can generate and clear a matching GMod map. Last pushed June 2024. Only the repository README was reviewed, so the depth of synchronisation is not independently confirmed.
+
+**Requirements:** Minecraft 1.18.2 Bukkit-compatible server (tested on Purpur), Node.js for a self-hosted bridge, Garry's Mod files copied by the room host.
+
+- [Source code](https://github.com/thecreeez/MGBridge)
+- [Creator profile](https://github.com/thecreeez)
+- [Garry's Mod side by ScientificWays](https://github.com/ScientificWays/gmod-minecraft-bridge)
 
 **Dated source review:** 2026-10-09
 **Catalogue play-test:** Not recorded.

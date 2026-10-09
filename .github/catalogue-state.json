@@ -42,6 +42,12 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1457560331",
       "why": "Steam 429 blocked confirming whether the deprecated original Retromod is still listed; the entry points at Retromod 2.0",
       "date": "2026-10-09"
+    },
+    {
+      "name": "ScientificWays/gmod-minecraft-bridge",
+      "url": "https://github.com/ScientificWays/gmod-minecraft-bridge",
+      "why": "Garry's Mod side of MGBridge (now linked from that entry); no separate release",
+      "date": "2026-10-09"
     }
   ],
   "structural_upgrade": {
