@@ -20,21 +20,9 @@
   },
   "deferred_candidates": [
     {
-      "name": "Juni Emu (GBA emulator in Minecraft)",
-      "url": "https://modrinth.com/mod/juni-emu",
-      "why": "Lower-tier lead from 2026-10-08 web sweep; primary page not yet reviewed in detail",
-      "date": "2026-10-08"
-    },
-    {
       "name": "BNes Fork (NES on Minecraft servers)",
       "url": "https://github.com/Aruvelut-123/BNes-Fork",
       "why": "Lower-tier lead; GPL-3.0, Codex-assisted per creator; needs review",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "VM Computers (Doom on a VirtualBox PC inside Minecraft, 2020)",
-      "url": "https://heldgames.com/guides/games-rebuilt-inside-other-games",
-      "why": "Listed on Held Games' games-rebuilt list; the primary CurseForge page was not reached",
       "date": "2026-10-08"
     },
     {
@@ -44,16 +32,16 @@
       "date": "2026-10-08"
     },
     {
-      "name": "Classic64 / gzdoom-sm64 / OpenLara SM64 (headshot2017)",
-      "url": "https://github.com/headshot2017",
-      "why": "Linked from sm64-san-andreas; could be split into separate entries",
-      "date": "2026-10-08"
-    },
-    {
       "name": "Portal Gun (iChun) and Animal Crossing NES emulator",
       "url": "https://github.com/iChun/PortalGunClassic",
       "why": "Historical borderline cases (mechanic reimplementation / official feature); likely adjacent",
       "date": "2026-10-08"
+    },
+    {
+      "name": "Retromod 2.0 removal check",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1457560331",
+      "why": "Steam 429 blocked confirming whether the deprecated original Retromod is still listed; the entry points at Retromod 2.0",
+      "date": "2026-10-09"
     }
   ],
   "structural_upgrade": {
