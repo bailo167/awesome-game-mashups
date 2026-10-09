@@ -1614,7 +1614,7 @@ Mario's triple jumps, wall kicks, long jumps, ground pounds, attacks, health wed
 **Platforms documented:** Windows, macOS via CrossOver
 
 - [Source code](https://github.com/deltarooo/er-mario)
-- [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.1)
+- [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.2)
 - [Creator profile](https://github.com/deltarooo)
 
 **Dated source review:** 2026-10-08
@@ -2595,7 +2595,7 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/SocketByte/EldenCraft)
-- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.1)
+- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.3)
 - [Project page](https://www.nexusmods.com/eldenring/mods/11259)
 - [Creator profile](https://github.com/SocketByte)
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
