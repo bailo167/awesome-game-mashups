@@ -2,9 +2,11 @@
 
 > Games rebuilt **inside other games**.
 
-**111 entries:** 94 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
+**112 entries:** 95 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
+
+**See also:** [PRMdues](https://prmdues.motionviz.workers.dev/) — a searchable library of 4,700+ community game projects (decomps, unofficial ports, browser builds, mods, fan games and preservation), with a Game Mashups shelf built from this catalogue
 
 **Catalogue updated:** 2026-10-09. This is an editorial update date, not a blanket verification date.
 
@@ -125,6 +127,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [CS:GO systems inside Project Zomboid](#project-csgo-project-zomboid) | Adds CS:GO weapons, shooting and movement to Project Zomboid. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n2fEHpLJUNk) |
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
+| [FortressCraft (FortCraft)](#project-fortresscraft) | Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs. | Code available · Experimental | — |
 | [GTA Trilogy Multiverse Portals](#project-gta-trilogy-multiverse) | Runs GTA III, Vice City and San Andreas simultaneously with live portals between them. | In development · Video only | [Watch](https://www.youtube.com/watch?v=fpsq2MyWznc) |
 | [Halo / MW2 Director](#project-halo-mw2-director) | Runs Halo CE characters and map data inside a native MW2/IW4L prototype. | Code available · Experimental | — |
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
@@ -3041,6 +3044,33 @@ A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry'
 - [Source code](https://github.com/thecreeez/MGBridge)
 - [Creator profile](https://github.com/thecreeez)
 - [Garry's Mod side by ScientificWays](https://github.com/ScientificWays/gmod-minecraft-bridge)
+
+**Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-fortresscraft"></a>
+
+### FortressCraft (FortCraft)
+
+**Guest:** Team Fortress 2  
+**Host:** Minecraft: Java Edition 26.3  
+**Creator:** VVRLD  
+**Status:** Code available · Experimental  
+**Approach:** Minecraft Fabric mod + Source SDK 2013 TF2 bridge exchanging state over a shared-memory protocol  
+
+A two-process passthrough in which Minecraft draws the world and owns its blocks, mobs, dimensions and saves, while a locally built Team Fortress 2 bridge supplies the player, classes, weapons, projectiles, Engineer buildings, menus and HUD. The creator documents mob targeting, block breaking and explosions, and lists known gaps such as Medic healing against Minecraft mobs. It is a source preview built from the Source SDK, not a one-click installer.
+
+**Requirements:** Windows 11, Team Fortress 2 and Source SDK Base 2013 Multiplayer on Steam, Minecraft Java Edition, Git, JDK 25 and Visual Studio with C++/MSBuild. The user clones Valve's Source SDK 2013 and applies the repository's patch; the Fabric side targets Minecraft 26.3 with Fabric Loader 0.19.5. Single-player/LAN only; no game files are included.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/VVRLD/FortressCraft)
+- [Creator profile](https://github.com/VVRLD)
+- [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
 **Dated source review:** 2026-10-09
 **Catalogue play-test:** Not recorded.

@@ -74,6 +74,12 @@ class CatalogueTests(unittest.TestCase):
             self.assertEqual(len(list((out/'projects').glob('*/index.html'))),len(self.projects))
             self.assertEqual(json.loads((out/'data/projects.json').read_text()),self.projects)
             self.assertEqual((out/'index.html').read_text().count('class="project-card"'),len(self.projects))
+    def test_see_also_rendered(self):
+        cfg=copy.deepcopy(self.config);cfg['see_also']=[{'name':'Example','url':'https://example.org/','description':'A list.'}]
+        r=c.readme(self.projects,cfg);self.assertIn('**See also:** [Example](https://example.org/) — A list.',r);self.assertLess(r.index('**See also:**'),r.index('## Contents'))
+    def test_see_also_unsafe_url(self):
+        cfg=copy.deepcopy(self.config);cfg['see_also']=[{'name':'Bad','url':'javascript:alert(1)'}]
+        with self.assertRaises(ValueError): c.validate(self.projects,cfg)
     def test_unknown_featured(self):
         config=copy.deepcopy(self.config);config['featured'].append('not-in-catalogue')
         with self.assertRaises(ValueError): c.validate(self.projects,config)
