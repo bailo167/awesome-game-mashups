@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**112 entries:** 95 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
+**113 entries:** 96 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **See also:** [PRMdues](https://prmdues.motionviz.workers.dev/) — a searchable library of 4,700+ community game projects (decomps, unofficial ports, browser builds, mods, fan games and preservation), with a Game Mashups shelf built from this catalogue
 
-**Catalogue updated:** 2026-10-09. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-10. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -40,7 +40,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) · [MinecraftNES](#project-minecraftnes) · [MGBridge (Minecraft and Garry's Mod)](#project-mgbridge) · [Just Doom It (Elin)](#project-just-doom-it)
+[Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) · [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) · [MinecraftNES](#project-minecraftnes) · [MGBridge (Minecraft and Garry's Mod)](#project-mgbridge)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -85,6 +85,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Just Doom It (Elin)](#project-just-doom-it) | Adds a DOOM arcade cabinet to Elin that runs the real Managed Doom engine and pays out casino chips. | Released · Code available | — |
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
+| [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) | Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. | Released · Code available · Experimental | — |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
@@ -684,7 +685,7 @@ Primary creator footage exists, but no public repository/download was located; b
 - [Creator post](https://x.com/TobynJacobs/status/2104884843297599594)
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -733,7 +734,7 @@ No matching public source/release verified as of 2026-10-01.
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1384,10 +1385,10 @@ Runs Skate 3's board physics, tricks and scoring on Garry's Mod maps, with multi
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/the-schwilliam/SkateGM)
-- [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/7.01)
+- [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/8.01)
 - [Creator profile](https://github.com/the-schwilliam)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1829,10 +1830,10 @@ A native GTA V mod adds a Minecraft hotbar and creative inventory, hundreds of b
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/cyteon/GrandTheftMinecraft)
-- [Release / download](https://github.com/cyteon/GrandTheftMinecraft/releases/tag/v1.5.0)
+- [Release / download](https://github.com/cyteon/GrandTheftMinecraft/releases/tag/v1.5.1)
 - [Creator profile](https://github.com/cyteon)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2595,13 +2596,13 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/SocketByte/EldenCraft)
-- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.3)
+- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.4)
 - [Project page](https://www.nexusmods.com/eldenring/mods/11259)
 - [Creator profile](https://github.com/SocketByte)
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
 - [Inspired by minecraft-crossover-bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3073,6 +3074,35 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
 **Dated source review:** 2026-10-09
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mario64-in-minecraft"></a>
+
+### Mario 64 in Minecraft (Zckyy)
+
+**Guest:** Super Mario 64  
+**Host:** Minecraft: Java Edition 1.21.4  
+**Creator:** Zckyy  
+**Status:** Released · Code available · Experimental  
+**Approach:** Minecraft Fabric mod bridging to libsm64 (compiled SM64 decompilation) with Minecraft blocks converted to SM64 collision  
+
+A Fabric mod that runs Super Mario 64's decompiled movement code through libsm64 inside Minecraft Java Edition. Minecraft's blocks are turned into SM64 collision each tick (stairs as ramps, ice, lava and water surface types), and Mario's model, voice and music are loaded from the user's own ROM. The README lists the SM64 moveset, shader support and automated in-game tests, and states it is single-player only with no SM64 objects or enemies. sm64.dll is built locally by the user with a provided script.
+
+**Requirements:** Minecraft Java Edition 1.21.4, Fabric Loader 0.16.10+ and Fabric API, your own Super Mario 64 (USA) .z64 ROM, and a locally built sm64.dll (Git, Python 3 and MinGW/w64devkit). Windows 10/11 x64 is the tested platform; Linux and macOS are untested. Single-player only.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Zckyy/mario64-in-minecraft)
+- [Release / download](https://github.com/Zckyy/mario64-in-minecraft/releases/tag/v0.1.0)
+- [Creator profile](https://github.com/Zckyy)
+- [libsm64](https://github.com/libsm64/libsm64)
+- [n64decomp/sm64](https://github.com/n64decomp/sm64)
+
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

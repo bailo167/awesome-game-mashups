@@ -1,7 +1,8 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-09. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-10. These are additions to the index, not necessarily new releases.
 
+- **[Mario 64 in Minecraft (Zckyy)](https://github.com/bailo167/awesome-game-mashups#project-mario64-in-minecraft)** — Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. (Released · Code available · Experimental)
 - **[World at War Zombies web crossovers (P.E. Cooper)](https://github.com/bailo167/awesome-game-mashups#project-waw-zombies-web-crossovers)** — Viral videos of a browser port of WaW Zombies mashed up with Fortnite, Wii Sports, Mario Kart and more; not public. (Video only · Unconfirmed)
 - **[VM Computers](https://github.com/bailo167/awesome-game-mashups#project-vm-computers)** — Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. (Released · Code available · Archived)
 - **[Ultracraft](https://github.com/bailo167/awesome-game-mashups#project-ultracraft)** — Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. (Released · Code available)
@@ -68,25 +69,3 @@ Week ending 2026-10-09. These are additions to the index, not necessarily new re
 - **[BullySkate](https://github.com/bailo167/awesome-game-mashups#project-bullyskate)** — Lets Jimmy skate through Bullworth using Skate 3 physics. (Released · Code available)
 - **[Black Ops II Hijacked inside Minecraft](https://github.com/bailo167/awesome-game-mashups#project-black-ops-ii-hijacked-minecraft)** — Runs a Black Ops II Hijacked FPS port directly inside Minecraft's Java/Fabric runtime. (In development · Video only)
 - **[ArkWeb](https://github.com/bailo167/awesome-game-mashups#project-arkweb)** — Runs Spider-Man's native traversal through Batman: Arkham Knight's Gotham. (Code available · Experimental)
-- **[WowCraft — Minecraft inside World of Warcraft](https://github.com/bailo167/awesome-game-mashups#project-wowcraft)** — Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1. (Released · Experimental)
-- **[World of Skatecraft](https://github.com/bailo167/awesome-game-mashups#project-world-of-skatecraft)** — Runs Skate 3 physics and tricks inside World of Warcraft 1.12.1. (Code available · Experimental)
-- **[Wither Storm × GTA V Passthrough](https://github.com/bailo167/awesome-game-mashups#project-wither-storm-gta-v)** — Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos. (Released · Code available · Experimental)
-- **[ValCraft](https://github.com/bailo167/awesome-game-mashups#project-valcraft)** — Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. (Released · Code available · Experimental)
-- **[talemonpokemon](https://github.com/bailo167/awesome-game-mashups#project-talemonpokemon)** — Recreates Pokémon catching, battles, evolution and trainer progression inside Hytale. (Released)
-- **[Retro Handheld Emulator 1x1 scale](https://github.com/bailo167/awesome-game-mashups#project-retro-handheld-emulator)** — Runs playable Game Boy games on a giant in-world display inside Hytale. (Released)
-- **[Project Inception](https://github.com/bailo167/awesome-game-mashups#project-project-inception)** — Runs a playable second Minecraft game on a screen inside Minecraft. (Released · Code available)
-- **[PokeWorlds Online](https://github.com/bailo167/awesome-game-mashups#project-pokeworlds-online)** — Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. (In development · Video only)
-- **[PipeLink Launcher — GTA SA × Skate 3 × MW2](https://github.com/bailo167/awesome-game-mashups#project-pipelink-launcher)** — Runs Skate 3 and MW2 gameplay modes inside GTA San Andreas. (Released · Code available · Experimental)
-- **[Minecraft, but It's Crash Bandicoot (Remake)](https://github.com/bailo167/awesome-game-mashups#project-crash-bandicoot-remake)** — Recreates two Crash Bandicoot levels with custom gameplay in Minecraft. (Released · Related)
-- **[Minecraft ↔ Hytale crossplay (SSquadTeam)](https://github.com/bailo167/awesome-game-mashups#project-minecraft-hytale-crossplay-ssquadteam)** — Lets Minecraft and Hytale players share a synchronized Hytale-hosted world. (Code available · In development)
-- **[Minecraft X Half-Life](https://github.com/bailo167/awesome-game-mashups#project-minecraft-x-half-life)** — Ports SkyCraft's Minecraft passthrough model to Half-Life. (Code available · In development · Experimental)
-- **[Latte Doom](https://github.com/bailo167/awesome-game-mashups#project-latte-doom)** — Runs DOOM inside Minecraft using the Mocha Doom engine. (Released)
-- **[hytale2mc](https://github.com/bailo167/awesome-game-mashups#project-hytale2mc)** — Lets Minecraft and Hytale players join the same synchronized cross-game minigames. (Released · Code available · Experimental)
-- **[GTA Skate 3 Trilogy](https://github.com/bailo167/awesome-game-mashups#project-gta-skate-3-trilogy)** — Combines a Vice City rewrite with Skate 3's skating runtime. (Released · Code available · Experimental)
-- **[GTA San AnSkateas](https://github.com/bailo167/awesome-game-mashups#project-gta-san-anskateas)** — Runs Skate 3 skating, tricks and physics on GTA San Andreas streets and collision. (Released · Code available · Experimental)
-- **[GeometryTale](https://github.com/bailo167/awesome-game-mashups#project-geometrytale)** — Recreates Geometry Dash-style 2D levels as a playable Hytale world. (Released · Related)
-- **[FalloutCraft](https://github.com/bailo167/awesome-game-mashups#project-falloutcraft)** — Runs Minecraft movement, building, HUD and combat inside Fallout 4's Commonwealth. (Released · Code available · Experimental)
-- **[CS:GO systems inside Project Zomboid](https://github.com/bailo167/awesome-game-mashups#project-csgo-project-zomboid)** — Adds CS:GO weapons, shooting and movement to Project Zomboid. (In development · Video only)
-- **[CS-Craft](https://github.com/bailo167/awesome-game-mashups#project-cs-craft)** — Adds a Minecraft Overworld/progression mode to a CS:GO Rust/Bevy rewrite. (Released · Code available · Experimental)
-- **[CrossplayProject — Minecraft ↔ Roblox](https://github.com/bailo167/awesome-game-mashups#project-crossplayproject)** — Links Minecraft and Roblox so players, blocks and chat synchronize between both games. (Released · Code available · Archived)
-- **[ccboy — Game Boy in Minecraft](https://github.com/bailo167/awesome-game-mashups#project-ccboy)** — Streams Game Boy gameplay from an external emulator to ComputerCraft monitors in Minecraft. (Code available · Related)
