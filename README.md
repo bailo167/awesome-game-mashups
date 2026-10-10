@@ -85,6 +85,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Just Doom It (Elin)](#project-just-doom-it) | Adds a DOOM arcade cabinet to Elin that runs the real Managed Doom engine and pays out casino chips. | Released · Code available | — |
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
+| [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
 | [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) | Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. | Released · Code available · Experimental | — |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
@@ -134,7 +135,6 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
 | [HellGate: Doom Portal](#project-hellgate-doom-portal) | Opens a portal from Minecraft into a playable DOOM II experience. | Released · Unavailable | — |
 | [HytaleDoom](#project-hytale-doom) | Lets you control DOOM from inside Hytale. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=RxVj6_NKRDY) |
-| [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
 | [Minebonk](#project-minebonk) | Rebuilds Minecraft-style combat, inventory, mobs and bosses natively inside Megabonk. | Code available · In development | — |
 | [Minecraft Classic 0.30 inside Hytale](#project-minecraft-classic-hytale) | Shows Minecraft Classic running on Hytale’s in-game world-map screen. | In development · Video only | [Watch](https://x.com/iamcxv711/status/2012610249174536397) |
 | [Minecraft Crossover Bridge](#project-minecraft-crossover-bridge) | Brings Minecraft blocks, mobs and combat into Monster Hunter: World or Elden Ring on Apple Silicon Macs. | Code available · In development | — |
@@ -208,7 +208,7 @@ A from-scratch Rust rewrite of MW2 that combines MW2 multiplayer, Skate 3-style 
 - [Creator profile](https://github.com/chasmlol)
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -235,7 +235,7 @@ Minecraft remains running as the game-logic side while Skyrim renders the world.
 - [Release / download](https://github.com/chasmlol/SkyCraft/releases)
 - [Creator profile](https://github.com/chasmlol)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -261,7 +261,7 @@ Minecraft runs natively on macOS while the host game runs under CrossOver. The b
 - [Source code](https://github.com/justbustin/minecraft-crossover-bridge)
 - [Creator profile](https://github.com/justbustin)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -285,7 +285,7 @@ A deliberately rough proof-of-concept built in a few nights. DOOM is rendered as
 - [Creator profile](https://github.com/tr7zw)
 - [vanilla-mocha-doom dependency](https://github.com/gaborbata/vanilla-mocha-doom/)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -309,7 +309,7 @@ Runs DOOM through Hytale's in-game world-map display at a targeted 35 FPS, with 
 - [Source code](https://github.com/ssquadteam/DoomMaps)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -336,7 +336,7 @@ Minecraft clients can connect to a Hytale server without a client mod. HyCraft c
 - [Release / download](https://github.com/EdwardBelt/HyCraft/releases/tag/v1.1.4)
 - [Creator profile](https://github.com/EdwardBelt)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -361,7 +361,7 @@ Turns ULTRAKILL's diegetic shop terminals into playable DOOM instances. A legiti
 - [Watch demo](https://www.youtube.com/watch?v=Y7zpELS2QfQ)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -413,7 +413,7 @@ Runs classic DOOM inside Minecraft with controls and sound support. The project 
 - [Release / download](https://modrinth.com/mod/nucledoom)
 - [Creator profile](https://github.com/Patbox)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -440,7 +440,7 @@ A historically important technical precursor: Wasmcraft compiles WebAssembly pro
 - [Watch demo](https://www.youtube.com/watch?v=wCHB1UgwM9o)
 - [Creator profile](https://github.com/SuperTails)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -493,7 +493,7 @@ A modern port/continuation of the older Arcade Mod with six playable arcade recr
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/arcade-mod-reloaded)
 - [Project page](https://modrinth.com/mod/arcade-mod-reloaded)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1429,20 +1429,21 @@ Lets Jimmy skate through Bullworth using Skate 3 physics and controller input, w
 **Guest:** Minecraft: Java Edition 26.3  
 **Host:** Grand Theft Auto IV  
 **Creator:** mrborghini  
-**Status:** Code available · In development · Experimental  
+**Status:** Released · Code available · In development · Experimental  
 **Approach:** GTA IV ASI plugin + SkyCraft-derived Fabric mod over shared memory  
 
 Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty City, its camera, traffic and rendering. The creator describes the current source as early development but playable.
 
-**Requirements:** Linux with Steam + Proton (developed on Arch, Proton 11; Windows untested), GTA IV: The Complete Edition on Steam (the install script downgrades it to 1.0.8.0 and installs FusionFix + ZolikaPatch), owned Minecraft: Java Edition with Prism Launcher, plus bash/curl/unzip/python3; the documented xwin/clang/cmake/JDK 25 toolchain to build.
+**Requirements:** Linux with Steam + Proton (developed on Arch, Proton 11; Windows untested), GTA IV: The Complete Edition on Steam (the install script downgrades it to 1.0.8.0 and installs FusionFix + ZolikaPatch), owned Minecraft: Java Edition with Prism Launcher, plus bash/curl/unzip/python3; the documented xwin/clang/cmake/JDK 25 toolchain to build. Release notes (2026-10-10) also document a Windows install script.
 
-**Platforms documented:** Linux
+**Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/mrborghini/libertycraft)
+- [Release / download](https://github.com/mrborghini/libertycraft/releases)
 - [Watch demo](https://www.youtube.com/watch?v=C1oCbMNOUqg)
 - [Creator profile](https://github.com/mrborghini)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2596,7 +2597,7 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/SocketByte/EldenCraft)
-- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.4)
+- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.5)
 - [Project page](https://www.nexusmods.com/eldenring/mods/11259)
 - [Creator profile](https://github.com/SocketByte)
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
