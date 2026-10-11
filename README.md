@@ -883,7 +883,7 @@ Synchronizes blocks, players, mobs, time/weather, chat, skins and build/break in
 - [Source code](https://github.com/Atmerek/CrossplayProject)
 - [Release / download](https://github.com/Atmerek/CrossplayProject/releases/tag/v1.3)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1000,7 +1000,7 @@ Frames are streamed over WebSocket to ComputerCraft monitors and player inputs a
 
 - [Source code](https://github.com/amatheo/ccboy)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1233,7 +1233,7 @@ The public v0.1.0 build includes an Overworld mode that keeps CS:GO-style moveme
 - [Release / download](https://github.com/FrosttysBots/CS-Craft/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/FrosttysBots)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1420,7 +1420,7 @@ Lets Jimmy skate through Bullworth using Skate 3 physics and controller input, w
 - [Release / download](https://github.com/Faiqie/BullySkate/releases/tag/v0.1.2)
 - [Creator profile](https://github.com/Faiqie)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1651,7 +1651,7 @@ Spider-Man supplies swinging, wall running, crawling, point launches and its cha
 - [Watch demo](https://www.youtube.com/watch?v=O6Mkm_NGCX8)
 - [Creator profile](https://github.com/luki-1)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3071,12 +3071,12 @@ A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry'
 
 A two-process passthrough in which Minecraft draws the world and owns its blocks, mobs, dimensions and saves, while a locally built Team Fortress 2 bridge supplies the player, classes, weapons, projectiles, Engineer buildings, menus and HUD. The creator documents mob targeting, block breaking and explosions, and lists known gaps such as Medic healing against Minecraft mobs. It is a source preview built from the Source SDK, not a one-click installer.
 
-**Requirements:** Windows 11, Team Fortress 2 and Source SDK Base 2013 Multiplayer on Steam, Minecraft Java Edition, Git, JDK 25 and Visual Studio with C++/MSBuild. The user clones Valve's Source SDK 2013 and applies the repository's patch; the Fabric side targets Minecraft 26.3 with Fabric Loader 0.19.5. Single-player/LAN only; no game files are included.
+**Requirements:** Windows 10/11 or Linux (Linux is new and less tested), Team Fortress 2 and Source SDK Base 2013 Multiplayer on Steam, Minecraft Java Edition 26.3 with Fabric Loader 0.19.5. Setup scripts clone Valve's Source SDK 2013, apply the repository's patch and build locally (Git, JDK and a C++ toolchain); ready-made zips per OS are on the Releases page. Single-player/offline only; no game files are included.
 
-**Platforms documented:** Windows
+**Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/VVRLD/FortressCraft)
-- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.2.0)
+- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.1)
 - [Creator profile](https://github.com/VVRLD)
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
