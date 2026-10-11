@@ -6,7 +6,7 @@
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
-**Community:** [chasm (chasmlol)](https://github.com/chasmlol) — creator of SkyCraft and the 2010 Rust Rewrite Mashup, whose community is where many of these mashups are first shared
+**Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
 **See also:** [PRMdues](https://prmdues.motionviz.workers.dev/) — a searchable library of 4,700+ community game projects (decomps, unofficial ports, browser builds, mods, fan games and preservation), with a Game Mashups shelf built from this catalogue
 
@@ -212,6 +212,7 @@ A from-scratch Rust rewrite of MW2 that combines MW2 multiplayer, Skate 3-style 
 - [Release / download](https://github.com/chasmlol/2010-rust-rewrite-mashup/releases)
 - [Creator profile](https://github.com/chasmlol)
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
+- [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
 **Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
@@ -239,6 +240,7 @@ Minecraft remains running as the game-logic side while Skyrim renders the world.
 - [Source code](https://github.com/chasmlol/SkyCraft)
 - [Release / download](https://github.com/chasmlol/SkyCraft/releases)
 - [Creator profile](https://github.com/chasmlol)
+- [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
 **Dated source review:** 2026-10-10
 **Catalogue play-test:** Not recorded.
@@ -3152,6 +3154,7 @@ The creator behind the two projects much of the 2026 wave traces back to, and ho
 - [SkyCraft](#project-skycraft) — Minecraft inside Skyrim. Its two-process design is reused by the whole [passthrough family](#passthrough-family-skycraft-lineage) below
 - [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) — Modern Warfare 2, Skate 3 and a real Minecraft world in one Rust game
 - More from chasm: [Skate 3 preservation project](https://github.com/chasmlol/skate3clone), [Skate 3 recomp work](https://github.com/chasmlol/skate3-recomp), [IW4L fork](https://github.com/chasmlol/iw4L) and [chasm](https://github.com/chasmlol/chasm), a local-first AI backend for in-game NPCs
+- Join the [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts), where creators share new mashups in the project threads
 - [All of chasm's projects on GitHub](https://github.com/chasmlol)
 
 ### InfernoPlus
