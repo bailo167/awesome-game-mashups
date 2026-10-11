@@ -6,6 +6,8 @@
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
+**Community:** [chasm (chasmlol)](https://github.com/chasmlol) — creator of SkyCraft and the 2010 Rust Rewrite Mashup, whose community is where many of these mashups are first shared
+
 **See also:** [PRMdues](https://prmdues.motionviz.workers.dev/) — a searchable library of 4,700+ community game projects (decomps, unofficial ports, browser builds, mods, fan games and preservation), with a Game Mashups shelf built from this catalogue
 
 **Catalogue updated:** 2026-10-11. This is an editorial update date, not a blanket verification date.
@@ -28,6 +30,8 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 | Project | What it is | Status | Demo |
 |---|---|---|---|
+| [SkyCraft](#project-skycraft) | Brings Minecraft building, exploration and gameplay into Skyrim. | Released · Code available · Experimental | — |
+| [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) | Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world. | Released · Code available | — |
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
 | [SkateGM](#project-skategm) | Runs Skate 3 physics, tricks and scoring inside Garry's Mod, including multiplayer. | Released · Code available | — |
 | [OWCraft](#project-owcraft) | Runs real Minecraft movement, blocks and inventory on Outer Wilds planets. | Released · Code available · Experimental | — |
@@ -3141,14 +3145,14 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 
 ## Creator clusters
 
-### chasmlol
+### chasm (chasmlol)
 
-Currently one of the clearest sources for the 2026 wave of public, inspectable mashups.
+The creator behind the two projects much of the 2026 wave traces back to, and host of the community where many of the mashups in this list were first shared. At least eight projects in this catalogue are built on SkyCraft's design.
 
-- [2010 Rust Rewrite Mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup)
-- [SkyCraft](https://github.com/chasmlol/SkyCraft)
-- [IW4L fork](https://github.com/chasmlol/iw4L)
-- [Skate 3 preservation/recomp work](https://github.com/chasmlol/skate3-recomp)
+- [SkyCraft](#project-skycraft) — Minecraft inside Skyrim. Its two-process design is reused by the whole [passthrough family](#passthrough-family-skycraft-lineage) below
+- [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) — Modern Warfare 2, Skate 3 and a real Minecraft world in one Rust game
+- More from chasm: [Skate 3 preservation project](https://github.com/chasmlol/skate3clone), [Skate 3 recomp work](https://github.com/chasmlol/skate3-recomp), [IW4L fork](https://github.com/chasmlol/iw4L) and [chasm](https://github.com/chasmlol/chasm), a local-first AI backend for in-game NPCs
+- [All of chasm's projects on GitHub](https://github.com/chasmlol)
 
 ### InfernoPlus
 

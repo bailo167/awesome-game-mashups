@@ -77,6 +77,12 @@ class CatalogueTests(unittest.TestCase):
     def test_see_also_rendered(self):
         cfg=copy.deepcopy(self.config);cfg['see_also']=[{'name':'Example','url':'https://example.org/','description':'A list.'}]
         r=c.readme(self.projects,cfg);self.assertIn('**See also:** [Example](https://example.org/) — A list.',r);self.assertLess(r.index('**See also:**'),r.index('## Contents'))
+    def test_community_above_see_also(self):
+        cfg=copy.deepcopy(self.config);cfg['community']=[{'name':'Friends','url':'https://example.org/c','description':'A server.'}];cfg['see_also']=[{'name':'Example','url':'https://example.org/'}]
+        r=c.readme(self.projects,cfg);self.assertIn('**Community:** [Friends](https://example.org/c) — A server.',r);self.assertLess(r.index('**Community:**'),r.index('**See also:**'));self.assertLess(r.index('**See also:**'),r.index('## Contents'))
+    def test_community_unsafe_url(self):
+        cfg=copy.deepcopy(self.config);cfg['community']=[{'name':'Bad','url':'javascript:alert(1)'}]
+        with self.assertRaises(ValueError): c.validate(self.projects,cfg)
     def test_see_also_unsafe_url(self):
         cfg=copy.deepcopy(self.config);cfg['see_also']=[{'name':'Bad','url':'javascript:alert(1)'}]
         with self.assertRaises(ValueError): c.validate(self.projects,cfg)
