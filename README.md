@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**113 entries:** 96 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
+**114 entries:** 97 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **See also:** [PRMdues](https://prmdues.motionviz.workers.dev/) — a searchable library of 4,700+ community game projects (decomps, unofficial ports, browser builds, mods, fan games and preservation), with a Game Mashups shelf built from this catalogue
 
-**Catalogue updated:** 2026-10-10. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-11. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -40,7 +40,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) · [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) · [MinecraftNES](#project-minecraftnes) · [MGBridge (Minecraft and Garry's Mod)](#project-mgbridge)
+[BNes Fork (NES on Minecraft servers)](#project-bnes-fork) · [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) · [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) · [MinecraftNES](#project-minecraftnes)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -52,6 +52,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 |---|---|---|---|
 | [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) | Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world. | Released · Code available | — |
 | [Arcade Mod Reloaded](#project-arcade-mod-reloaded) | Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. | Released · Code available | — |
+| [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) | Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. | Released · Code available | — |
 | [BullySkate](#project-bullyskate) | Lets Jimmy skate through Bullworth using Skate 3 physics. | Released · Code available | — |
 | [Celeste Doom](#project-celeste-doom) | An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. | Released | — |
 | [Classic64 — Mario in ClassiCube](#project-classic64) | A ClassiCube plugin that adds a playable Super Mario 64 Mario to Minecraft Classic-style worlds. | Released · Code available | — |
@@ -69,6 +70,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [EldenCraft](#project-eldencraft) | Runs real Minecraft Java inside Elden Ring, composited into one frame with mining, building, the Nether and progression. | Released · Code available · Experimental | — |
 | [ER Mario](#project-er-mario) | Runs Super Mario 64's movement, health and combat inside Elden Ring. | Released · Code available · Experimental | — |
 | [FalloutCraft](#project-falloutcraft) | Runs Minecraft movement, building, HUD and combat inside Fallout 4's Commonwealth. | Released · Code available · Experimental | — |
+| [FortressCraft (FortCraft)](#project-fortresscraft) | Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs. | Released · Code available · Experimental | — |
 | [FreeDoom386i](#project-freedoom386i) | Runs playable Freedoom on My Winter Car's in-game 386 PC with sound and keyboard controls. | Released | — |
 | [Freeplay Mod (Arcade Paradise)](#project-arcade-paradise-freeplay) | Adds an arcade cabinet to Arcade Paradise that runs real arcade and GBA games through libretro. | Released · Experimental | — |
 | [G64](#project-g64) | Puts a fully playable Super Mario 64 Mario, with his original moveset, into Garry's Mod. | Released · Code available | [Watch](https://www.youtube.com/watch?v=JMLDKfCohl0) |
@@ -129,7 +131,6 @@ Public code can still require compilation. Video-only entries have no public bui
 | [CS:GO systems inside Project Zomboid](#project-csgo-project-zomboid) | Adds CS:GO weapons, shooting and movement to Project Zomboid. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n2fEHpLJUNk) |
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
-| [FortressCraft (FortCraft)](#project-fortresscraft) | Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs. | Code available · Experimental | — |
 | [GTA Trilogy Multiverse Portals](#project-gta-trilogy-multiverse) | Runs GTA III, Vice City and San Andreas simultaneously with live portals between them. | In development · Video only | [Watch](https://www.youtube.com/watch?v=fpsq2MyWznc) |
 | [Halo / MW2 Director](#project-halo-mw2-director) | Runs Halo CE characters and map data inside a native MW2/IW4L prototype. | Code available · Experimental | — |
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
@@ -1385,10 +1386,10 @@ Runs Skate 3's board physics, tricks and scoring on Garry's Mod maps, with multi
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/the-schwilliam/SkateGM)
-- [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/8.01)
+- [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/8.1)
 - [Creator profile](https://github.com/the-schwilliam)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1443,7 +1444,7 @@ Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty 
 - [Watch demo](https://www.youtube.com/watch?v=C1oCbMNOUqg)
 - [Creator profile](https://github.com/mrborghini)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3061,7 +3062,7 @@ A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry'
 **Guest:** Team Fortress 2  
 **Host:** Minecraft: Java Edition 26.3  
 **Creator:** VVRLD  
-**Status:** Code available · Experimental  
+**Status:** Released · Code available · Experimental  
 **Approach:** Minecraft Fabric mod + Source SDK 2013 TF2 bridge exchanging state over a shared-memory protocol  
 
 A two-process passthrough in which Minecraft draws the world and owns its blocks, mobs, dimensions and saves, while a locally built Team Fortress 2 bridge supplies the player, classes, weapons, projectiles, Engineer buildings, menus and HUD. The creator documents mob targeting, block breaking and explosions, and lists known gaps such as Medic healing against Minecraft mobs. It is a source preview built from the Source SDK, not a one-click installer.
@@ -3071,10 +3072,11 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/VVRLD/FortressCraft)
+- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.2.0)
 - [Creator profile](https://github.com/VVRLD)
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3104,6 +3106,33 @@ A Fabric mod that runs Super Mario 64's decompiled movement code through libsm64
 - [n64decomp/sm64](https://github.com/n64decomp/sm64)
 
 **Dated source review:** 2026-10-10
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-bnes-fork"></a>
+
+### BNes Fork (NES on Minecraft servers)
+
+**Guest:** NES games (via an embedded NES emulator)  
+**Host:** Minecraft: Java Edition (Paper 1.21.1 server)  
+**Creator:** Aruvelut-123  
+**Status:** Released · Code available  
+**Approach:** Paper plugin embedding the Nestalgia NES emulator and rendering frames onto Minecraft map items  
+
+A community-maintained Paper plugin that embeds the Nestalgia NES emulator inside a Minecraft server. Players create a console with /bnes create, hang the generated map on a wall, sit on a chair and right-click to join (up to two players); Minecraft movement and clicks map to NES buttons, game frames are sent as map data (PacketEvents, ProtocolLib or Paper fallbacks) and NES audio is streamed through Plasmo Voice. Users supply their own ROMs. It continues MoeWhite19/BNes, itself based on halfnes.
+
+**Requirements:** Java 21 and a Paper 1.21.1 (or compatible) server; Plasmo Voice server plugin plus client mod for sound; optional PacketEvents, ProtocolLib and Vault; your own NES ROMs.
+
+- [Source code](https://github.com/Aruvelut-123/BNes-Fork)
+- [Release / download](https://github.com/Aruvelut-123/BNes-Fork/releases/tag/1.2.0)
+- [Creator profile](https://github.com/Aruvelut-123)
+- [MoeWhite19/BNes (original)](https://github.com/MoeWhite19/BNes)
+- [Nestalgia](https://github.com/tiagohm/nestalgia)
+
+**Dated source review:** 2026-10-11
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

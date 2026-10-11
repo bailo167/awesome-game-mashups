@@ -1,7 +1,8 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-10. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-11. These are additions to the index, not necessarily new releases.
 
+- **[BNes Fork (NES on Minecraft servers)](https://github.com/bailo167/awesome-game-mashups#project-bnes-fork)** — Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. (Released · Code available)
 - **[Mario 64 in Minecraft (Zckyy)](https://github.com/bailo167/awesome-game-mashups#project-mario64-in-minecraft)** — Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. (Released · Code available · Experimental)
 - **[World at War Zombies web crossovers (P.E. Cooper)](https://github.com/bailo167/awesome-game-mashups#project-waw-zombies-web-crossovers)** — Viral videos of a browser port of WaW Zombies mashed up with Fortnite, Wii Sports, Mario Kart and more; not public. (Video only · Unconfirmed)
 - **[VM Computers](https://github.com/bailo167/awesome-game-mashups#project-vm-computers)** — Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. (Released · Code available · Archived)
@@ -13,7 +14,7 @@ Week ending 2026-10-10. These are additions to the index, not necessarily new re
 - **[Just Doom It (Elin)](https://github.com/bailo167/awesome-game-mashups#project-just-doom-it)** — Adds a DOOM arcade cabinet to Elin that runs the real Managed Doom engine and pays out casino chips. (Released · Code available)
 - **[Juni Emu — GBA in Minecraft](https://github.com/bailo167/awesome-game-mashups#project-juni-emu)** — A Forge mod that plays Game Boy Advance cartridges inside Minecraft, found in generated game stores. (Released · Experimental)
 - **[gzdoom-sm64 — Mario in Doom](https://github.com/bailo167/awesome-game-mashups#project-gzdoom-sm64)** — Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. (Released · Code available · Experimental)
-- **[FortressCraft (FortCraft)](https://github.com/bailo167/awesome-game-mashups#project-fortresscraft)** — Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs. (Code available · Experimental)
+- **[FortressCraft (FortCraft)](https://github.com/bailo167/awesome-game-mashups#project-fortresscraft)** — Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs. (Released · Code available · Experimental)
 - **[DOOMTEST (Arma Reforger)](https://github.com/bailo167/awesome-game-mashups#project-doomtest-arma-reforger)** — A Doom-style shooter, with a map editor, on an arcade cabinet inside Arma Reforger. (Released · Related)
 - **[Doom in Balatro](https://github.com/bailo167/awesome-game-mashups#project-doom-in-balatro)** — Creator footage of Doom running inside Balatro's Jokers collection menu; no public download found. (Video only · Unconfirmed)
 - **[DDNet SM64 — Mario in Teeworlds](https://github.com/bailo167/awesome-game-mashups#project-ddnet-sm64)** — Drops a 3D Super Mario 64 Mario into the 2D multiplayer game DDNet (Teeworlds). (Released · Code available · Experimental)

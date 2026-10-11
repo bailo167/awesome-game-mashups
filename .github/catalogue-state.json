@@ -20,12 +20,6 @@
   },
   "deferred_candidates": [
     {
-      "name": "BNes Fork (NES on Minecraft servers)",
-      "url": "https://github.com/Aruvelut-123/BNes-Fork",
-      "why": "Lower-tier lead; GPL-3.0, Codex-assisted per creator; needs review",
-      "date": "2026-10-08"
-    },
-    {
       "name": "GTA VC inside GTA III inside San Andreas (Dryxio)",
       "url": "https://www.youtube.com/watch?v=X_w6fo4KVy0",
       "why": "Creator video only; related to gta-trilogy-multiverse",
