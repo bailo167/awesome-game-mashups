@@ -8,8 +8,6 @@
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**See also:** [PRMdues](https://prmdues.motionviz.workers.dev/) — a searchable library of 4,700+ community game projects (decomps, unofficial ports, browser builds, mods, fan games and preservation), with a Game Mashups shelf built from this catalogue
-
 **Catalogue updated:** 2026-10-11. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
