@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**115 entries:** 97 core projects, 7 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
+**117 entries:** 99 core projects, 7 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) · [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) · [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) · [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64)
+[WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) · [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) · [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) · [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) · [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) · [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -93,6 +93,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
+| [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) | Plays Morrowind, run by OpenMW, live on Fallout 4's Pip-Boy screen via a holotape. | Released · Code available | — |
 | [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) | Adds a Risk of Rain 2 survivor that plays with Modern Warfare 2's own movement, weapons, HUD and killstreaks. | Released · Code available · Experimental | — |
 | [NG64 — Mario in BeamNG.drive](#project-ng64-beamng) | Lets you play as Super Mario 64's Mario in BeamNG.drive. | Released · Code available · Experimental | — |
 | [NucleDoom](#project-nucledoom) | Runs DOOM inside Minecraft with controls and sound. | Released · Code available | — |
@@ -119,6 +120,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Released · Code available · Demo | — |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
 | [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
+| [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) | Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. | Released · Code available | — |
 | [Wither Storm × GTA V Passthrough](#project-wither-storm-gta-v) | Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=spm-u_cZvl8) |
 | [WowCraft — Minecraft inside World of Warcraft](#project-wowcraft) | Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1. | Released · Experimental | [Watch](https://www.youtube.com/watch?v=sX3lsLiPS2s) |
 
@@ -623,7 +625,7 @@ Runs on emulator and, with reduced render distance, on original Nintendo 64 hard
 - [Creator post](https://x.com/arthurtilly413/status/1924566904498487662)
 - [Creator GitHub](https://github.com/arthurtilly)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -648,7 +650,7 @@ An ongoing recreation of Morrowind in Elden Ring. A May 2026 update showed major
 - [Creator second channel (AnotherPlus): Update Video #1 (2025-10-29)](https://www.youtube.com/watch?v=l7GP9jdKbVk)
 - [Creator second channel (AnotherPlus): Update Video #2 (2026-05-06)](https://www.youtube.com/watch?v=U57Px9REH98)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -670,7 +672,7 @@ Primary creator footage demonstrates Minecraft Classic rendered inside Hytale's 
 - [Creator post](https://x.com/iamcxv711/status/2012610249174536397)
 - [Supporting source](https://www.pcgamer.com/hardware/doom-windows-95-even-hytale-itself-it-seems-like-theres-nothing-that-modders-cant-make-hytale-run/)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -720,7 +722,7 @@ Minecraft Java runs beside GTA V rather than being reimplemented. GTA drives Min
 - [GTA V Enhanced derivative](https://github.com/GrantMatas/minecraft-in-gta-enhanced)
 - [Packaged GTA V Enhanced derivative](https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -760,7 +762,7 @@ Earlier viral Minecraft-in-Skyrim footage was not independently sourced. Do not 
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -809,7 +811,7 @@ Runs a fully featured second Minecraft instance on an in-world display and forwa
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/project-inception)
 - [Creator profile](https://github.com/Arc-blroth)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -862,7 +864,7 @@ A framework for writing one minigame that runs across Minecraft and Hytale with 
 - [Project page](https://hytale2mc.com/)
 - [Creator profile](https://github.com/alskea)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -908,7 +910,7 @@ Creator footage shows Minecraft and Hytale clients sharing one Hytale-hosted wor
 - [Supporting source](https://www.gamesradar.com/games/rpg/hytale-gets-crossplay-with-minecraft-thanks-to-15-year-old-modder-presumably-channeling-some-form-of-black-magic/)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1076,7 +1078,7 @@ Minecraft runs hidden and supplies movement, inventory, HUD, blocks and combat w
 - [Release / download](https://github.com/LoAlCo/ValCraft/releases/tag/v0.7.0)
 - [Creator profile](https://github.com/LoAlCo)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1103,7 +1105,7 @@ CJ can switch into Skate 3-style skating on San Andreas streets, using Skate 3 c
 - [Release / download](https://github.com/ryglizzy/GTA-San-AnSkateas/releases/tag/v1.1)
 - [Creator profile](https://github.com/ryglizzy)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1131,7 +1133,7 @@ Minecraft remains responsible for simulating the Wither Storm while the bridge d
 - [Watch demo](https://www.youtube.com/watch?v=spm-u_cZvl8)
 - [Creator profile](https://github.com/VortexisTV)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1158,7 +1160,7 @@ Minecraft supplies movement, blocks, hearts, inventory and combat while Fallout 
 - [Release / download](https://github.com/zeyvu/FalloutCraft/releases/tag/v0.1.3)
 - [Creator profile](https://github.com/zeyvu)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1181,7 +1183,7 @@ A playable Vice City / Skate 3 mashup built from the open reVC/re3 lineage and t
 - [Release / download](https://github.com/irregularnetwork/GTA-Skate-3-Trilogy/releases/tag/1.1)
 - [Creator profile](https://github.com/irregularnetwork)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1207,7 +1209,7 @@ Minecraft runs hidden and supplies player physics, blocks, items, mobs, inventor
 - [Source code](https://github.com/SawyerTheNerd/Minecraft-X-HalfLife)
 - [Creator profile](https://github.com/SawyerTheNerd)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1261,7 +1263,7 @@ Pressing J drops the WoW character onto a skateboard using Skate 3's physics, wi
 - [Watch demo](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4)
 - [Creator profile](https://github.com/Kimmo3223)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1289,7 +1291,7 @@ An installer/launcher for a three-game mashup. Inside GTA San Andreas, F6 switch
 - [Watch demo](https://streamable.com/19fo55)
 - [Creator profile](https://github.com/Sm1jjj)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1340,7 +1342,7 @@ Creator footage shows CS:GO-style weapons, shooting and movement inside Project 
 
 - [Watch demo](https://www.youtube.com/watch?v=n2fEHpLJUNk)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1571,7 +1573,7 @@ DryxioGTA's creator demo shows GTA III, Vice City and San Andreas running simult
 - [Creator profile](https://github.com/Dryxio)
 - [Creator project page](https://dryx.io/projects/)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1595,10 +1597,10 @@ A real Minecraft instance runs hidden and owns movement, health, hunger, invento
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/goonsn/Killcraft)
-- [Release / download](https://github.com/goonsn/Killcraft/releases/tag/v1.0.1)
+- [Release / download](https://github.com/goonsn/Killcraft/releases/tag/v1.0.2)
 - [Creator profile](https://github.com/goonsn)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3164,6 +3166,62 @@ A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement
 - [Thunderstore listing (listed by creator; not reachable from the review environment)](https://thunderstore.io/c/riskofrain2/p/buhhrad/MW2xRoR2/)
 - [Creator showcase video](https://github.com/buhhrad/MW2xRoR2/raw/main/docs/media/showcase.mp4)
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
+
+**Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-morrowind-pipboy-edition"></a>
+
+### Morrowind: PipBoy Edition (Holo-Wind)
+
+**Guest:** The Elder Scrolls III: Morrowind (via OpenMW)  
+**Host:** Fallout 4  
+**Creator:** RPGKing117  
+**Status:** Released · Code available  
+**Approach:** Hidden OpenMW process; proxy SDL2.dll framebuffer capture into shared memory; F4SE plugin injecting the image into Fallout 4's D3D11 Pip-Boy render  
+
+An F4SE mod that renders The Elder Scrolls III: Morrowind, running through OpenMW, inside the Fallout 4 Pip-Boy. OpenMW runs as a hidden process; a proxy SDL2.dll captures its framebuffer into shared memory and an F4SE plugin injects it into Fallout 4's D3D11 pipeline, showing it on the Pip-Boy when the Morrowind holotape is inserted, with keyboard input passed through. Includes a setup wizard and (from V1.23.0) an uninstaller. Since v1.22.3 it works with a standard OpenMW 0.50.0 install.
+
+**Requirements:** Windows; Fallout 4, F4SE, OpenMW 0.50.0 and your own legitimate copy of Morrowind; both games run at the same time. The README asks that reuse of the source credits the author; no licence file is published.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/rpgking117/Holo-Wind-Windows)
+- [Release / download](https://github.com/rpgking117/Holo-Wind-Windows/releases)
+- [Creator profile](https://github.com/rpgking117)
+- [Nexus Mods page (listed by the creator and press; not reachable from the review environment)](https://www.nexusmods.com/fallout4/mods/104456)
+
+**Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-shar-wadsupport"></a>
+
+### WadSupport (DOOM in The Simpsons: Hit & Run)
+
+**Guest:** DOOM / DOOM II (doomgeneric, Chocolate Doom)  
+**Host:** The Simpsons: Hit & Run  
+**Creator:** EnAppelsin  
+**Status:** Released · Code available  
+**Approach:** doomgeneric / Chocolate Doom linked into a Mod Launcher hack DLL, triggered by an FMV request ending in .wad  
+
+A Lucas' Simpsons Hit & Run Mod Launcher hack that embeds doomgeneric (Chocolate Doom) in SHAR: asking the game to play an FMV ending in .wad starts DOOM with the chosen IWAD, read from SHAR's virtual file system, and the included DoomInShar demo mod places a DOOM arcade machine in the Kwik-E-Mart. Mouse support is limited and playing DOOM stops SHAR until it quits. An early 2024 historical precursor to the 2026 doomgeneric-inside-games wave.
+
+**Requirements:** The Simpsons: Hit & Run with Lucas' Simpsons Hit & Run Mod Launcher; a DOOM IWAD (the demo mod ships the shareware WAD); about 16 MB extra RAM and disk space.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/EnAppelsin/WadSupport)
+- [Release / download](https://github.com/EnAppelsin/WadSupport/releases)
+- [Creator profile](https://github.com/EnAppelsin)
+- [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
 **Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.

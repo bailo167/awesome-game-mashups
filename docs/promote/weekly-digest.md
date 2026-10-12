@@ -2,7 +2,9 @@
 
 Week ending 2026-10-12. These are additions to the index, not necessarily new releases.
 
+- **[WadSupport (DOOM in The Simpsons: Hit & Run)](https://github.com/bailo167/awesome-game-mashups#project-shar-wadsupport)** — Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. (Released · Code available)
 - **[MW2 x Risk of Rain 2 (MW2xRoR2)](https://github.com/bailo167/awesome-game-mashups#project-mw2xror2)** — Adds a Risk of Rain 2 survivor that plays with Modern Warfare 2's own movement, weapons, HUD and killstreaks. (Released · Code available · Experimental)
+- **[Morrowind: PipBoy Edition (Holo-Wind)](https://github.com/bailo167/awesome-game-mashups#project-morrowind-pipboy-edition)** — Plays Morrowind, run by OpenMW, live on Fallout 4's Pip-Boy screen via a holotape. (Released · Code available)
 - **[BNes Fork (NES on Minecraft servers)](https://github.com/bailo167/awesome-game-mashups#project-bnes-fork)** — Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. (Released · Code available)
 - **[Mario 64 in Minecraft (Zckyy)](https://github.com/bailo167/awesome-game-mashups#project-mario64-in-minecraft)** — Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. (Released · Code available · Experimental · Unavailable)
 - **[World at War Zombies web crossovers (P.E. Cooper)](https://github.com/bailo167/awesome-game-mashups#project-waw-zombies-web-crossovers)** — Viral videos of a browser port of WaW Zombies mashed up with Fortnite, Wii Sports, Mario Kart and more; not public. (Video only · Unconfirmed)
