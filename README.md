@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**114 entries:** 97 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
+**115 entries:** 98 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-11. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-12. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[BNes Fork (NES on Minecraft servers)](#project-bnes-fork) · [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) · [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) · [MinecraftNES](#project-minecraftnes)
+[MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) · [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) · [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) · [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft) · [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) · [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -90,10 +90,10 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
-| [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) | Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. | Released · Code available · Experimental | — |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
+| [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) | Adds a Risk of Rain 2 survivor that plays with Modern Warfare 2's own movement, weapons, HUD and killstreaks. | Released · Code available · Experimental | — |
 | [NG64 — Mario in BeamNG.drive](#project-ng64-beamng) | Lets you play as Super Mario 64's Mario in BeamNG.drive. | Released · Code available · Experimental | — |
 | [NucleDoom](#project-nucledoom) | Runs DOOM inside Minecraft with controls and sound. | Released · Code available | — |
 | [Ocarina of Time in Minecraft](#project-ocarina-of-time) | Recreates Zelda: Ocarina of Time in Minecraft, with its story, bosses, quests and items. | Released | [Watch](https://www.youtube.com/watch?v=HSGioTZ_rf4) |
@@ -138,6 +138,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
 | [HellGate: Doom Portal](#project-hellgate-doom-portal) | Opens a portal from Minecraft into a playable DOOM II experience. | Released · Unavailable | — |
 | [HytaleDoom](#project-hytale-doom) | Lets you control DOOM from inside Hytale. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=RxVj6_NKRDY) |
+| [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) | Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. | Released · Code available · Experimental · Unavailable | — |
 | [Minebonk](#project-minebonk) | Rebuilds Minecraft-style combat, inventory, mobs and bosses natively inside Megabonk. | Code available · In development | — |
 | [Minecraft Classic 0.30 inside Hytale](#project-minecraft-classic-hytale) | Shows Minecraft Classic running on Hytale’s in-game world-map screen. | In development · Video only | [Watch](https://x.com/iamcxv711/status/2012610249174536397) |
 | [Minecraft Crossover Bridge](#project-minecraft-crossover-bridge) | Brings Minecraft blocks, mobs and combat into Monster Hunter: World or Elden Ring on Apple Silicon Macs. | Code available · In development | — |
@@ -3094,7 +3095,7 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 **Guest:** Super Mario 64  
 **Host:** Minecraft: Java Edition 1.21.4  
 **Creator:** Zckyy  
-**Status:** Released · Code available · Experimental  
+**Status:** Released · Code available · Experimental · Unavailable  
 **Approach:** Minecraft Fabric mod bridging to libsm64 (compiled SM64 decompilation) with Minecraft blocks converted to SM64 collision  
 
 A Fabric mod that runs Super Mario 64's decompiled movement code through libsm64 inside Minecraft Java Edition. Minecraft's blocks are turned into SM64 collision each tick (stairs as ramps, ice, lava and water surface types), and Mario's model, voice and music are loaded from the user's own ROM. The README lists the SM64 moveset, shader support and automated in-game tests, and states it is single-player only with no SM64 objects or enemies. sm64.dll is built locally by the user with a provided script.
@@ -3109,7 +3110,7 @@ A Fabric mod that runs Super Mario 64's decompiled movement code through libsm64
 - [libsm64](https://github.com/libsm64/libsm64)
 - [n64decomp/sm64](https://github.com/n64decomp/sm64)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3137,6 +3138,36 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 - [Nestalgia](https://github.com/tiagohm/nestalgia)
 
 **Dated source review:** 2026-10-11
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mw2xror2"></a>
+
+### MW2 x Risk of Rain 2 (MW2xRoR2)
+
+**Guest:** Call of Duty: Modern Warfare 2 (2009)  
+**Host:** Risk of Rain 2  
+**Creator:** buhhrad  
+**Status:** Released · Code available · Experimental  
+**Approach:** Rust MW2 simulation library (IW4L crates via chasmlol's 2010 Rust Rewrite Mashup) loaded in-process by a BepInEx plugin; MW2 assets read from the player's own install  
+
+A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement and weapon handling (fire timing, recoil, spread, ADS, reloads) run in a Rust library built on IW4L's crates, loaded in-process, while RoR2 keeps damage, items and enemies, so RoR2 items proc off MW2 guns. Guns, attachments, camos, viewmodel, animations, sounds, HUD, minimap and menus are read at runtime from the player's own MW2 install. Includes Create-a-Class, perks as RoR2 items, deathstreaks, all 15 killstreaks, MW2 XP/ranks/challenges and co-op through RoR2 lobbies. v0.4.4 (2026-10-11) targets RoR2's 8 Oct 2026 update and fixes a co-op desync between mod-manager and manual installs.
+
+**Requirements:** Windows 10/11 64-bit; Risk of Rain 2 and Call of Duty: Modern Warfare 2 (2009) on Steam with MW2 multiplayer content (no game files included); BepInEx 5 and RoR2BepInExPack (the manual zip includes the pack). Experimental: solo tested on the 8 Oct 2026 RoR2 update; co-op not fully re-tested there, 3-4 player lobbies and other mods untested; Linux/Steam Deck untested.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/buhhrad/MW2xRoR2)
+- [Release / download](https://github.com/buhhrad/MW2xRoR2/releases)
+- [Creator profile](https://github.com/buhhrad)
+- [Thunderstore listing (listed by creator; not reachable from the review environment)](https://thunderstore.io/c/riskofrain2/p/buhhrad/MW2xRoR2/)
+- [Creator showcase video](https://github.com/buhhrad/MW2xRoR2/raw/main/docs/media/showcase.mp4)
+- [IW4L upstream](https://github.com/vladtrc/iw4L)
+
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

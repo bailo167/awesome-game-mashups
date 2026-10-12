@@ -1,9 +1,10 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-11. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-12. These are additions to the index, not necessarily new releases.
 
+- **[MW2 x Risk of Rain 2 (MW2xRoR2)](https://github.com/bailo167/awesome-game-mashups#project-mw2xror2)** — Adds a Risk of Rain 2 survivor that plays with Modern Warfare 2's own movement, weapons, HUD and killstreaks. (Released · Code available · Experimental)
 - **[BNes Fork (NES on Minecraft servers)](https://github.com/bailo167/awesome-game-mashups#project-bnes-fork)** — Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. (Released · Code available)
-- **[Mario 64 in Minecraft (Zckyy)](https://github.com/bailo167/awesome-game-mashups#project-mario64-in-minecraft)** — Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. (Released · Code available · Experimental)
+- **[Mario 64 in Minecraft (Zckyy)](https://github.com/bailo167/awesome-game-mashups#project-mario64-in-minecraft)** — Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. (Released · Code available · Experimental · Unavailable)
 - **[World at War Zombies web crossovers (P.E. Cooper)](https://github.com/bailo167/awesome-game-mashups#project-waw-zombies-web-crossovers)** — Viral videos of a browser port of WaW Zombies mashed up with Fortnite, Wii Sports, Mario Kart and more; not public. (Video only · Unconfirmed)
 - **[VM Computers](https://github.com/bailo167/awesome-game-mashups#project-vm-computers)** — Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. (Released · Code available · Archived)
 - **[Ultracraft](https://github.com/bailo167/awesome-game-mashups#project-ultracraft)** — Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. (Released · Code available)
@@ -54,19 +55,3 @@ Week ending 2026-10-11. These are additions to the index, not necessarily new re
 - **[GrandTheftMinecraft](https://github.com/bailo167/awesome-game-mashups#project-grandtheftminecraft)** — Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode. (Released · Code available · Experimental)
 - **[Good Enough Game Integration (GEGI)](https://github.com/bailo167/awesome-game-mashups#project-good-enough-game-integration)** — Plays itch.io and Newgrounds web games interactively inside Minecraft through an embedded Chromium view. (Released · Code available)
 - **[Chanyoris](https://github.com/bailo167/awesome-game-mashups#project-chanyoris)** — Runs a full competitive falling-block puzzle game inside a Minecraft map item. (Released · Related)
-- **[SubCraft](https://github.com/bailo167/awesome-game-mashups#project-subcraft)** — Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. (Code available · In development · Experimental)
-- **[SkateGM](https://github.com/bailo167/awesome-game-mashups#project-skategm)** — Runs Skate 3 physics, tricks and scoring inside Garry's Mod, including multiplayer. (Released · Code available)
-- **[Skate 3 Board for Garry's Mod](https://github.com/bailo167/awesome-game-mashups#project-skate3-gmod)** — Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. (Code available · In development · Experimental)
-- **[OWCraft](https://github.com/bailo167/awesome-game-mashups#project-owcraft)** — Runs real Minecraft movement, blocks and inventory on Outer Wilds planets. (Released · Code available · Experimental)
-- **[New VegasCraft](https://github.com/bailo167/awesome-game-mashups#project-new-vegascraft)** — Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. (Code available · In development · Experimental)
-- **[Minebonk](https://github.com/bailo167/awesome-game-mashups#project-minebonk)** — Rebuilds Minecraft-style combat, inventory, mobs and bosses natively inside Megabonk. (Code available · In development)
-- **[LibertyCraft](https://github.com/bailo167/awesome-game-mashups#project-libertycraft)** — Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. (Released · Code available · In development · Experimental)
-- **[Killcraft](https://github.com/bailo167/awesome-game-mashups#project-killcraft)** — Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. (Released · Code available · Experimental)
-- **[Halo / MW2 Director](https://github.com/bailo167/awesome-game-mashups#project-halo-mw2-director)** — Runs Halo CE characters and map data inside a native MW2/IW4L prototype. (Code available · Experimental)
-- **[GTA Trilogy Multiverse Portals](https://github.com/bailo167/awesome-game-mashups#project-gta-trilogy-multiverse)** — Runs GTA III, Vice City and San Andreas simultaneously with live portals between them. (In development · Video only)
-- **[Garry's Redemption](https://github.com/bailo167/awesome-game-mashups#project-garrys-redemption)** — Runs Garry's Mod movement, physgun, toolgun, weapons and spawn menu inside RDR2. (Released · Code available · Experimental)
-- **[ER Mario](https://github.com/bailo167/awesome-game-mashups#project-er-mario)** — Runs Super Mario 64's movement, health and combat inside Elden Ring. (Released · Code available · Experimental)
-- **[DOOM on Hytale — PapiSpielt](https://github.com/bailo167/awesome-game-mashups#project-doom-hytale-papispielt)** — Reconstructs classic DOOM WAD levels as Hytale worlds with enemies and items mapped into Hytale. (Released · Code available · Experimental)
-- **[BullySkate](https://github.com/bailo167/awesome-game-mashups#project-bullyskate)** — Lets Jimmy skate through Bullworth using Skate 3 physics. (Released · Code available)
-- **[Black Ops II Hijacked inside Minecraft](https://github.com/bailo167/awesome-game-mashups#project-black-ops-ii-hijacked-minecraft)** — Runs a Black Ops II Hijacked FPS port directly inside Minecraft's Java/Fabric runtime. (In development · Video only)
-- **[ArkWeb](https://github.com/bailo167/awesome-game-mashups#project-arkweb)** — Runs Spider-Man's native traversal through Batman: Arkham Knight's Gotham. (Code available · Experimental)
