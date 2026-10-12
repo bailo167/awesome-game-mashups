@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**115 entries:** 98 core projects, 6 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
+**115 entries:** 97 core projects, 7 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -129,7 +129,6 @@ Public code can still require compilation. Video-only entries have no public bui
 | Project | What it is | Status | Demo |
 |---|---|---|---|
 | [ArkWeb](#project-arkweb) | Runs Spider-Man's native traversal through Batman: Arkham Knight's Gotham. | Code available · Experimental | [Watch](https://www.youtube.com/watch?v=O6Mkm_NGCX8) |
-| [Black Ops II Hijacked inside Minecraft](#project-black-ops-ii-hijacked-minecraft) | Runs a Black Ops II Hijacked FPS port directly inside Minecraft's Java/Fabric runtime. | In development · Video only | [Watch](https://x.com/luckeyfaraday/status/2100417441671110715) |
 | [CS:GO systems inside Project Zomboid](#project-csgo-project-zomboid) | Adds CS:GO weapons, shooting and movement to Project Zomboid. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n2fEHpLJUNk) |
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
@@ -164,6 +163,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 
 | Project | What it is | Status | Demo |
 |---|---|---|---|
+| [Black Ops II Hijacked inside Minecraft](#project-black-ops-ii-hijacked-minecraft) | Runs a Black Ops II Hijacked FPS port directly inside Minecraft's Java/Fabric runtime. | Video only · Unconfirmed | — |
 | [Doom in Balatro](#project-doom-in-balatro) | Creator footage of Doom running inside Balatro's Jokers collection menu; no public download found. | Video only · Unconfirmed | [Watch](https://www.reddit.com/r/balatro/comments/1eby5y7/literally_nobody_asked_for_it_but_here_it_is_doom/) |
 | [Earlier viral Minecraft in Skyrim footage](#project-minecraft-skyrim-earlier-footage) | Earlier Minecraft-in-Skyrim footage remains unsourced; it is not the verified SkyCraft project. | Unconfirmed | — |
 | [Escape from Skyrim (Tarkov in Skyrim)](#project-escape-from-skyrim) | Viral video of Escape from Tarkov gameplay systems in Skyrim, with no release. | Video only · Unconfirmed | [Watch](https://x.com/cydonix/status/2105177318968955044) |
@@ -1721,17 +1721,15 @@ The project patches IW4L for a native Mac crossover: Halo CE Spartans, sounds/ef
 **Guest:** Call of Duty: Black Ops II  
 **Host:** Minecraft: Java Edition  
 **Creator:** Luckey Faraday  
-**Status:** In development · Video only  
+**Status:** Video only · Unconfirmed  
 **Approach:** Java/Fabric port rendered through Minecraft's OpenGL context  
 
 The creator demo shows Hijacked geometry, collision, bots, navmesh, weapons and FPS rendering running directly in Minecraft rather than as a themed map alone. A public source/release for the Fabric port was not located, so it remains video-only in this catalogue.
 
-- [Creator post](https://x.com/luckeyfaraday/status/2100417441671110715)
 - [Supporting source](https://www.minecraft-france.fr/call-of-duty-black-ops-2-directement-dans-minecraft/)
 - [Creator profile](https://github.com/luckeyfaraday)
-- [Earlier browser reconstruction source](https://github.com/luckeyfaraday/claude-of-duty)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

@@ -68,6 +68,15 @@ class CatalogueTests(unittest.TestCase):
     def test_rate_limit_not_success(self): self.assertEqual(cl.classify(429),'unresolved')
     def test_bot_block_not_dead(self): self.assertEqual(cl.classify(403),'unresolved')
     def test_unavailable_status(self): self.assertEqual(cl.classify(404),'unavailable')
+    def test_dead_entry_links_are_known_dead(self):
+        rows=cl.settle([{'url':'https://example.org/gone','outcome':'unavailable','projects':['a']}],{'a':{'status':['released','dead']}})
+        self.assertEqual(rows[0]['outcome'],'known-dead')
+    def test_live_entry_dead_link_still_fails(self):
+        rows=cl.settle([{'url':'https://example.org/gone','outcome':'unavailable','projects':['a','b']}],{'a':{'status':['released','dead']},'b':{'status':['released']}})
+        self.assertEqual(rows[0]['outcome'],'unavailable')
+    def test_blocked_link_never_becomes_known_dead(self):
+        rows=cl.settle([{'url':'https://example.org/blocked','outcome':'unresolved','projects':['a']}],{'a':{'status':['dead']}})
+        self.assertEqual(rows[0]['outcome'],'unresolved')
     def test_export_contains_every_project(self):
         with tempfile.TemporaryDirectory() as tmp:
             out=Path(tmp);c.website(self.projects,self.config,out)
