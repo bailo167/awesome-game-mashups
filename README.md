@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**117 entries:** 99 core projects, 7 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
+**123 entries:** 105 core projects, 7 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) · [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) · [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) · [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) · [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) · [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) · [VM Computers](#project-vm-computers) · [Ultracraft](#project-ultracraft)
+[WitcherCraft](#project-witchercraft) · [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) · [UltraRing](#project-ultraring) · [Subnauticraft (Subnautica Link)](#project-subnauticraft) · [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) · [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) · [L4D2 x Minecraft](#project-l4d2-minecraft) · [Halfcraft (Minecraft in Half Sword)](#project-halfcraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -83,11 +83,13 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [GTA San AnSkateas](#project-gta-san-anskateas) | Runs Skate 3 skating, tricks and physics on GTA San Andreas streets and collision. | Released · Code available · Experimental | — |
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
 | [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64) | Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. | Released · Code available · Experimental | — |
+| [Halfcraft (Minecraft in Half Sword)](#project-halfcraft) | Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. | Released · Code available · Experimental | — |
 | [HyCraft](#project-hycraft) | Lets Minecraft players join Hytale servers and interact with their worlds. | Released · Code available · Experimental | — |
 | [hytale2mc](#project-hytale2mc) | Lets Minecraft and Hytale players join the same synchronized cross-game minigames. | Released · Code available · Experimental | [Watch](https://github.com/user-attachments/assets/0dd1647d-c700-4dca-94e7-312144ce7544) |
 | [Juni Emu — GBA in Minecraft](#project-juni-emu) | A Forge mod that plays Game Boy Advance cartridges inside Minecraft, found in generated game stores. | Released · Experimental | — |
 | [Just Doom It (Elin)](#project-just-doom-it) | Adds a DOOM arcade cabinet to Elin that runs the real Managed Doom engine and pays out casino chips. | Released · Code available | — |
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
+| [L4D2 x Minecraft](#project-l4d2-minecraft) | Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
@@ -112,6 +114,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [SM64 Generations](#project-sm64-generations) | Replaces Sonic with Super Mario 64's Mario, using his exact controls and moveset, in Sonic Generations. | Released | — |
 | [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](#project-sm64-san-andreas) | An ASI plugin that lets you swap CJ for a fully physical Super Mario 64 Mario in GTA San Andreas. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=AS86LTwcGcA) |
 | [SMC64 — Mario in Halo: CE](#project-smc64-halo) | Puts a playable Super Mario 64 Mario into Halo: Combat Evolved. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=tj5fAk7KkHA) |
+| [Subnauticraft (Subnautica Link)](#project-subnauticraft) | Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer. | Released · Code available | — |
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
 | [talemonpokemon](#project-talemonpokemon) | Recreates Pokémon catching, battles, evolution and trainer progression inside Hytale. | Released | [Watch](https://www.youtube.com/watch?v=wJbgOMAv5-s) |
 | [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Code available | — |
@@ -121,6 +124,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
 | [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
 | [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) | Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. | Released · Code available | — |
+| [WitcherCraft](#project-witchercraft) | Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside. | Released · Code available | — |
 | [Wither Storm × GTA V Passthrough](#project-wither-storm-gta-v) | Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=spm-u_cZvl8) |
 | [WowCraft — Minecraft inside World of Warcraft](#project-wowcraft) | Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1. | Released · Experimental | [Watch](https://www.youtube.com/watch?v=sX3lsLiPS2s) |
 
@@ -131,6 +135,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | Project | What it is | Status | Demo |
 |---|---|---|---|
 | [ArkWeb](#project-arkweb) | Runs Spider-Man's native traversal through Batman: Arkham Knight's Gotham. | Code available · Experimental | [Watch](https://www.youtube.com/watch?v=O6Mkm_NGCX8) |
+| [Attack on Elden Ring](#project-attack-on-elden-ring) | Brings Attack on Titan Tribute Game 2's ODM gear movement into Elden Ring using both games at once. | Code available · Experimental | — |
 | [CS:GO systems inside Project Zomboid](#project-csgo-project-zomboid) | Adds CS:GO weapons, shooting and movement to Project Zomboid. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n2fEHpLJUNk) |
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
@@ -156,6 +161,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Skate 3 Board for Garry's Mod](#project-skate3-gmod) | Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. | Code available · In development · Experimental | — |
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
+| [UltraRing](#project-ultraring) | Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. | Code available · Experimental | — |
 | [Wasmcraft game demos](#project-wasmcraft) | Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=wCHB1UgwM9o) |
 | [World of Skatecraft](#project-world-of-skatecraft) | Runs Skate 3 physics and tricks inside World of Warcraft 1.12.1. | Code available · Experimental | [Watch](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4) |
 
@@ -529,7 +535,7 @@ Four destructible Minecraft maps built inside Halo 3. This is more than a textur
 - [Project page](https://www.patreon.com/infernoplus/posts/halocraft-73930239)
 - [Official Halo spotlight](https://www.halowaypoint.com/news/halo-mcc-modtacular-2)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -553,7 +559,7 @@ A large multiplayer-focused Dark Souls overhaul that evolved into a Halo/Dark So
 - [Original release post](https://www.patreon.com/infernoplus/posts/dark-souls-46865100)
 - [Community tooling: DS Gadget for Remastest](https://github.com/Nordgaren/DS-Gadget-for-Remastest)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -577,7 +583,7 @@ A seven-year solo recreation designed to be playable from beginning to end, cove
 - [Release / download](https://rivero7462.itch.io/ocarina-of-time-in-minecraft)
 - [Watch demo](https://www.youtube.com/watch?v=HSGioTZ_rf4)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -602,7 +608,7 @@ A complete playable recreation of Pokémon Red built in vanilla Minecraft, repro
 
 - [Release / download](https://www.curseforge.com/minecraft/worlds/pokemon-red)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -836,7 +842,7 @@ A DOOM source port for Minecraft. Mocha Doom owns the game simulation while Mine
 
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/latte-doom)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -957,7 +963,7 @@ Recreates a substantial Pokémon adventure loop inside Hytale: starter selection
 - [Release / download](https://www.curseforge.com/hytale/mods/talemonpokemon)
 - [Watch demo](https://www.youtube.com/watch?v=wJbgOMAv5-s)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -980,7 +986,7 @@ A work-in-progress multiplayer Pokémon-style project inside Hytale. Creator foo
 - [Supporting source](https://www.dexerto.com/pokemon/hytale-modder-is-turning-classic-pokemon-into-an-mmo-you-can-play-with-friends-3409404/)
 - [Creator follow-up: field abilities preview (2026-09-18)](https://x.com/pokeworldonlin/status/2100900271962431670)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1025,7 +1031,7 @@ Recreates Geometry Dash-style 2D side-scrolling levels as a downloadable Hytale 
 - [Release / download](https://www.curseforge.com/hytale/worlds/geometrytale)
 - [Watch demo](https://www.youtube.com/watch?v=N13Usbcgn60)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1051,7 +1057,7 @@ Recreates two Crash Bandicoot levels in Minecraft with custom gameplay mechanics
 - [Release / download](https://www.curseforge.com/minecraft/worlds/minecraft-but-its-crash-bandicoot)
 - [Watch demo](https://www.youtube.com/watch?v=E4y9sj8vXJs)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1321,7 +1327,7 @@ Creator footage shows Minecraft movement, combat, building and items operating t
 - [benilla upstream](https://github.com/samwhosung/benilla)
 - [Creator video: release and multiplayer download (2026-10-05)](https://www.youtube.com/watch?v=dKZN2nKc4bc)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1369,7 +1375,7 @@ Minecraft supplies the player physics, blocks, inventory and interactions while 
 - [Release / download](https://github.com/Yaekai/OWCraft/releases/tag/v0.1.1)
 - [Creator profile](https://github.com/Yaekai)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2266,7 +2272,7 @@ An X video posted on 30 Sep 2026 ('I put Tarkov into Skyrim. Now with guns and e
 
 - [Creator post](https://x.com/cydonix/status/2105177318968955044)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3222,6 +3228,171 @@ A Lucas' Simpsons Hit & Run Mod Launcher hack that embeds doomgeneric (Chocolate
 - [Release / download](https://github.com/EnAppelsin/WadSupport/releases)
 - [Creator profile](https://github.com/EnAppelsin)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
+
+**Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-l4d2-minecraft"></a>
+
+### L4D2 x Minecraft
+
+**Guest:** Minecraft: Java Edition (Fabric)  
+**Host:** Left 4 Dead 2  
+**Creator:** Rizen1322  
+**Status:** Released · Code available · Experimental  
+**Approach:** Python bridge between a Source mod and a Fabric client, with an x86 ReShade add-on compositing both games  
+
+Windows alpha in which Source (Left 4 Dead 2) owns the map, movement and infected while a Minecraft Fabric client supplies blocks, inventory, items, mobs and player models. A Python bridge exchanges state and an x86 ReShade add-on composites the rendering. The README calls it a playable experiment/alpha; solo and a two-player run were tried by the author and a full two-PC regression is still outstanding.
+
+**Requirements:** Windows (README badge: D3D9), your own copies of Left 4 Dead 2 and Minecraft Java Edition with Fabric; exact versions not recorded.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Rizen1322/l4d2-minecraft)
+- [Release / download](https://github.com/Rizen1322/l4d2-minecraft/releases)
+- [Creator profile](https://github.com/Rizen1322)
+- [Universal Modder (template origin)](https://github.com/rehan-remade/universal-modder)
+
+**Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-witchercraft"></a>
+
+### WitcherCraft
+
+**Guest:** Minecraft: Java Edition  
+**Host:** The Witcher 3: Wild Hunt (Remastered)  
+**Creator:** Wanesia  
+**Status:** Released · Code available  
+**Approach:** Minecraft guest composited into Witcher 3 through a native plugin, derived from SkyCraft  
+
+A Windows mod based on chasmlol's SkyCraft framework: Minecraft Java runs in the background and supplies movement, block placing/breaking, weapons and mobs (iron golems, tamed wolves and hostiles fight Witcher enemies) in Geralt's world, and you can switch back to Geralt. The installer brings its own launcher; a Minecraft account is required.
+
+**Requirements:** Windows 10/11 64-bit, The Witcher 3 Wild Hunt Remastered (tested on Steam patches 5.0 and 5.01), a Minecraft Java Edition account, 16 GB RAM or more, keyboard and mouse.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Wanesia/WitcherCraft)
+- [Release / download](https://github.com/Wanesia/WitcherCraft/releases)
+- [Creator profile](https://github.com/Wanesia)
+- [SkyCraft (upstream framework)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-halfcraft"></a>
+
+### Halfcraft (Minecraft in Half Sword)
+
+**Guest:** Minecraft: Java Edition 26.3 (Fabric)  
+**Host:** Half Sword  
+**Creator:** Deez-coder  
+**Status:** Released · Code available · Experimental  
+**Approach:** Fabric mod plus a ReShade add-on (HSPassthrough) generating voxel collision for Half Sword  
+
+A passthrough mod: Minecraft 26.3 (Fabric) runs alongside Half Sword (Early Access 0.6.1.5) and its blocks, mobs, boats/minecarts and sword/axe/mace/bow/shield/potion combat affect the Half Sword fighters through generated voxel collision. The README lists a known F9 switch-back body glitch, says the author does not promise to maintain it and that Half Sword updates may break it.
+
+**Requirements:** Minecraft 26.3 with Fabric (dedicated instance) and Fabric API, Half Sword Early Access 0.6.1.5, ReShade with add-on support, and a PC able to run both games at once.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Deez-coder/halfcraft)
+- [Release / download](https://github.com/Deez-coder/halfcraft/releases)
+- [Creator profile](https://github.com/Deez-coder)
+- [Universal Modder](https://github.com/rehan-remade/universal-modder)
+
+**Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-subnauticraft"></a>
+
+### Subnauticraft (Subnautica Link)
+
+**Guest:** Minecraft: Java Edition (Fabric)  
+**Host:** Subnautica  
+**Creator:** JasonNinja15  
+**Status:** Released · Code available  
+**Approach:** BepInEx Subnautica plugin linked to a Fabric Minecraft mod  
+
+A BepInEx Subnautica plugin paired with a Fabric Minecraft mod: shared health, hunger and oxygen, Subnautica collision for Minecraft blocks, dropped items, TNT and projectiles, and a per-player link on a server. The README describes the multiplayer version as still being built in steps and untested with two players or Nitrox. Distinct from the catalogued SubCraft.
+
+**Requirements:** Subnautica with BepInEx (the README paths use an Xbox Game Pass install) and Minecraft Java Edition with Fabric; exact versions not recorded.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/JasonNinja15/Subnauticraft)
+- [Release / download](https://github.com/JasonNinja15/Subnauticraft/releases)
+- [Creator profile](https://github.com/JasonNinja15)
+- [SubCraft (separate project)](https://github.com/FumperForrest/SubCraft)
+
+**Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-ultraring"></a>
+
+### UltraRing
+
+**Guest:** ULTRAKILL (V1)  
+**Host:** Elden Ring (1.17.1)  
+**Creator:** Themetralla3000  
+**Status:** Code available · Experimental  
+**Approach:** Shared-memory bridge reusing Minecraft Ring's host DLLs plus the ULTRAKILL Crossover Bridge guest plugin  
+
+ULTRAKILL handles V1's movement, dashes, slides, weapons and HUD while Elden Ring keeps its world, enemies and saves, with V1's arm, gun and HUD composited into the final image. The Elden Ring side reuses Minecraft Ring's host DLLs; the ULTRAKILL guest plugin lives in the separate ULTRAKILL Crossover Bridge repo. The README marks it experimental (0.3.0).
+
+**Requirements:** Windows x64, Elden Ring 1.17.1 and ULTRAKILL (Steam), your own copies of both games.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Themetralla3000/UltraRing)
+- [Creator profile](https://github.com/Themetralla3000)
+- [ULTRAKILL Crossover Bridge](https://github.com/Themetralla3000/ultrakill-crossover-bridge)
+- [Minecraft Ring](https://github.com/siddoff/Minecraft-Ring)
+
+**Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-attack-on-elden-ring"></a>
+
+### Attack on Elden Ring
+
+**Guest:** Attack on Titan Tribute Game 2 (ODM gear)  
+**Host:** Elden Ring  
+**Creator:** mpere056  
+**Status:** Code available · Experimental  
+**Approach:** BepInEx plugin bridge with Elden Ring hooks, terrain copying and overlay windows  
+
+An experimental, work-in-progress, offline-only passthrough: AoTTG2 (BepInEx) runs movement, hooks and blades in the background while Elden Ring draws the world and runs its enemies. Elden Ring terrain is copied into AoTTG2 for swinging and the cables and crosshair are drawn as overlays. The README says blade hits on enemies are not working yet; its 'tested by playing' claim is the creator's own.
+
+**Requirements:** Your own copies of both games, with AoTTG2 running under BepInEx; Elden Ring offline only. The full list was not recorded.
+
+- [Source code](https://github.com/mpere056/attack-on-elden-ring)
+- [Creator profile](https://github.com/mpere056)
+- [AI Game Modding Guides](https://github.com/trevaintdead/ai-game-modding-guides)
 
 **Dated source review:** 2026-10-12
 **Catalogue play-test:** Not recorded.

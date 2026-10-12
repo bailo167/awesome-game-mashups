@@ -4,12 +4,12 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-12",
-    "head_sha": "6895139d9ebb34178a5a5467f0ba205f3c77f968",
+    "head_sha": "4a171ec68cd891c79696b5af865c2930584d49cf",
     "catalogue_commit": "38090dd0abfc0ce3c3c96f6274549262d906dce4",
-    "project_count": 117,
+    "project_count": 123,
     "open_issues": 0,
     "open_pull_requests": 0,
-    "scope": "Contributions (no open issues/PRs) + release sweep of 76 GitHub-sourced entries (Killcraft v1.0.2) + 18 deep rechecks (12 GitHub repos, 6 video-only/watchlist records; Pokeworlds and Escape from Skyrim not stamped, X timelines unverifiable) + discovery (14 searches plus two subagent sweeps; +2 entries: Morrowind PipBoy Edition, WadSupport). head_sha is the parent commit. Nexus/Steam/Reddit hosts unreachable from the sandbox; no play-tests.",
+    "scope": "Contributions (no open issues/PRs) + release sweep of 78 GitHub-sourced entries (no new releases; mario64-in-minecraft already dead) + 12 deep rechecks (7 CurseForge/GitHub, 5 X/Steam/itch/GitHub; portal-zombies, retro-handheld-emulator, hellgate-doom-portal, dead-by-daylight unreachable and not stamped) + discovery (25 searches incl. GitHub repo search; +6 entries; 5 new deferred leads). head_sha is the parent commit. Nexus/Steam/CurseForge/Patreon/BuiltByBit often blocked from the sandbox; no play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -47,6 +47,36 @@
       "name": "Fallout: Pip-Boy Edition (Fallout 1 in Fallout 4, RPGKing117)",
       "url": "https://www.nexusmods.com/fallout4/mods/105198",
       "why": "Nexus 403 from the sandbox; press says source 'coming soon'/pulled for a repository issue; no primary page readable",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Cyberblock (Minecraft in Cyberpunk 2077, rodthegod2)",
+      "url": "https://github.com/rodthegod2/cyberblock",
+      "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "SM64 x Minecraft Crossmod (eiersohn1-arch)",
+      "url": "https://github.com/eiersohn1-arch/sm64-minecraft-crossmod",
+      "why": "No LICENSE file, no verified release page",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "Skyrim: Pip-Boy Edition (RPGKing117)",
+      "url": "https://www.nexusmods.com/fallout4/mods/104945",
+      "why": "Nexus 403; press only, no primary page readable",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "AIjennings/OWCraft (multiplayer variant of SkyCraft framework)",
+      "url": "https://github.com/AIjennings/OWCraft",
+      "why": "Possible variant of owcraft; not reviewed in depth",
+      "date": "2026-10-12"
+    },
+    {
+      "name": "GTACraft (bishoponyt)",
+      "url": "https://github.com/bishoponyt/GTACraft",
+      "why": "Installer derivative of the GTA V x Minecraft passthrough; no LICENSE file",
       "date": "2026-10-12"
     }
   ],
@@ -111,5 +141,27 @@
     "deploy_run_id": 37885377282,
     "url": "https://bailo167.github.io/awesome-game-mashups/",
     "readback": "Home, assets (style.css, app.js, icon.svg), project pages, updates, feed.xml, sitemap.xml, robots.txt and build-info.json returned 200 after deployment (97 entries)."
-  }
+  },
+  "unreachable_from_routine": [
+    {
+      "id": "portal-zombies",
+      "host": "steamcommunity.com",
+      "date": "2026-10-12"
+    },
+    {
+      "id": "retro-handheld-emulator",
+      "host": "builtbybit.com",
+      "date": "2026-10-12"
+    },
+    {
+      "id": "hellgate-doom-portal",
+      "host": "curseforge.com",
+      "date": "2026-10-12"
+    },
+    {
+      "id": "dead-by-daylight",
+      "host": "curseforge.com",
+      "date": "2026-10-12"
+    }
+  ]
 }
