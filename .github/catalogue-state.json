@@ -4,12 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-13",
-    "head_sha": "1254fe360a6f016c180f81d2336c797f17f4fd19",
-    "catalogue_commit": "38090dd0abfc0ce3c3c96f6274549262d906dce4",
+    "head_sha": "a19488f5ecc6c2af0c08b5dac9b5772ade46b975",
     "project_count": 133,
     "open_issues": 0,
     "open_pull_requests": 0,
-    "scope": "Contributions (no open issues/PRs) + release sweep of 84 GitHub repos (2 updated: FortressCraft v0.5.4, l4d2-minecraft v2.0.11) + 12 deep rechecks (Nexus/Steam/Modrinth/GameBanana/GitLab/GitHub/X; doom-in-balatro unreachable and not stamped) + discovery (~45 searches incl. GitHub repo search; +10 entries; 9 new deferred leads). head_sha is the parent commit. Nexus/Steam/CurseForge pages often blocked from the sandbox (APIs used); no play-tests.",
+    "scope": "Contributions (no open issues/PRs) + release sweep of 94 GitHub-linked entries (3 updated: SkateGM 9.0, l4d2-minecraft v2.0.12, halfcraft 1.4) + 12 deep rechecks (GitHub README/LICENSE/tags/history) + discovery (8 searches, no new verified entries; Steve Passthrough repost and HoI4 Doom already covered). head_sha is the parent commit. mario64-in-minecraft repo remains gone (already marked dead). No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,

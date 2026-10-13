@@ -1409,10 +1409,10 @@ Runs Skate 3's board physics, tricks and scoring on Garry's Mod maps, with multi
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/the-schwilliam/SkateGM)
-- [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/8.1)
+- [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/9.0)
 - [Creator profile](https://github.com/the-schwilliam)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1517,7 +1517,7 @@ Minecraft's colour and depth are composited into Fallout: New Vegas while FNV ca
 - [Source code](https://github.com/Davozh/new-vegascraft)
 - [Creator profile](https://github.com/Davozh)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1541,7 +1541,7 @@ Unlike the passthrough projects, Minebonk uses one Megabonk process and rebuilds
 - [Source code](https://github.com/MGuibas/Minebonk)
 - [Creator profile](https://github.com/MGuibas)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1699,7 +1699,7 @@ Garry's Mod runs hidden beside Red Dead Redemption 2 and supplies the player, sa
 - [Release / download](https://github.com/codeByAlexff/garrys-redemption/releases/tag/v0.1.0-beta)
 - [Creator profile](https://github.com/codeByAlexff)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1727,7 +1727,7 @@ The project patches IW4L for a native Mac crossover: Halo CE Spartans, sounds/ef
 - [Halo map importer scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/HALO_MAPS.md)
 - [Autonomous bot-match scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/BOT_MATCHES.md)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1804,7 +1804,7 @@ GEGI adds an in-game browser catalogue and embeds playable itch.io and Newground
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/gegi)
 - [Creator profile](https://github.com/Pr1nted)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1886,7 +1886,7 @@ Minecraft Java runs alongside Elden Ring and owns the Minecraft player, blocks, 
 - [Creator profile](https://github.com/siddoff)
 - [Upstream Minecraft Crossover Bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2210,7 +2210,7 @@ Adds SNES, NES and Genesis console stations with CRT TVs, plus GB/GBC/GBA handhe
 - [Release / download](https://github.com/Nighthawk42/gemu/releases)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3801421244)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2236,7 +2236,7 @@ Spawning NG64's Mario from BeamNG.drive's vehicle selector gives Super Mario 64'
 - [Source code](https://github.com/zer0ducksgiven/NG64)
 - [Release / download](https://github.com/zer0ducksgiven/NG64/releases)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2312,7 +2312,7 @@ G64 is a Garry's Mod addon that uses ckosmic's fork of libsm64 to run Super Mari
 - [Watch demo](https://www.youtube.com/watch?v=JMLDKfCohl0)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=2814638140)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2550,7 +2550,7 @@ sammyuri's team wrote a tiny 3D Minecraft for the CHUNGUS 2 redstone CPU and ran
 - [Watch demo](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 - [CHUNGUS 2 assembler (MIT)](https://github.com/sammyuri/chungus-2-assembler)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2575,7 +2575,7 @@ This Factorio 2.1 mod runs Doom with its levels, menus, sounds, music, HUD and s
 - [Release / download](https://mods.factorio.com/mod/doom)
 - [Watch demo](https://www.youtube.com/watch?v=ZgFlZszci2Y)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2657,7 +2657,7 @@ Both games run at once: Saints Row owns the world, vehicles and camera, while on
 - [Creator profile](https://github.com/SawyerTheNerd)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3274,7 +3274,7 @@ Windows alpha in which Source (Left 4 Dead 2) owns the map, movement and infecte
 - [Creator profile](https://github.com/Rizen1322)
 - [Universal Modder (template origin)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3330,7 +3330,7 @@ A passthrough mod: Minecraft 26.3 (Fabric) runs alongside Half Sword (Early Acce
 - [Creator profile](https://github.com/Deez-coder)
 - [Universal Modder](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
