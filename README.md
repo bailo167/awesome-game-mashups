@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**123 entries:** 105 core projects, 7 unconfirmed sightings and 11 related projects. Not all entries are verified releases.
+**133 entries:** 114 core projects, 7 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-12. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-13. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[WitcherCraft](#project-witchercraft) · [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) · [UltraRing](#project-ultraring) · [Subnauticraft (Subnautica Link)](#project-subnauticraft) · [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) · [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) · [L4D2 x Minecraft](#project-l4d2-minecraft) · [Halfcraft (Minecraft in Half Sword)](#project-halfcraft)
+[TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v) · [PeakCraft](#project-peakcraft) · [MinePeak](#project-minepeak) · [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) · [Mario for Rec Room](#project-mario-for-rec-room) · [LethalCraft](#project-lethalcraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -91,10 +91,14 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
 | [L4D2 x Minecraft](#project-l4d2-minecraft) | Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
+| [LethalCraft](#project-lethalcraft) | Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. | Released · Code available · Experimental | — |
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
+| [Mario for Rec Room](#project-mario-for-rec-room) | Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. | Released · Code available · Experimental | [Watch](https://youtu.be/UF2uwklFTF0) |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
+| [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) | Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. | Released · Code available · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
+| [MinePeak](#project-minepeak) | Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install. | Released · Code available · Experimental | — |
 | [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) | Plays Morrowind, run by OpenMW, live on Fallout 4's Pip-Boy screen via a holotape. | Released · Code available | — |
 | [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) | Adds a Risk of Rain 2 survivor that plays with Modern Warfare 2's own movement, weapons, HUD and killstreaks. | Released · Code available · Experimental | — |
 | [NG64 — Mario in BeamNG.drive](#project-ng64-beamng) | Lets you play as Super Mario 64's Mario in BeamNG.drive. | Released · Code available · Experimental | — |
@@ -109,12 +113,14 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
 | [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) | A lineage of in-game console emulators for Garry's Mod, from GNES (2016) to the RetroArch-based Retromod 2.0. | Released | — |
 | [Schedule I Doom TV](#project-schedule-i-doom-tv) | Plays DOOM on the in-game televisions in Schedule I. | Released · Code available | — |
+| [SK8V](#project-sk8v) | Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. | Released · Code available · Experimental | — |
 | [SkateGM](#project-skategm) | Runs Skate 3 physics, tricks and scoring inside Garry's Mod, including multiplayer. | Released · Code available | — |
 | [SkyCraft](#project-skycraft) | Brings Minecraft building, exploration and gameplay into Skyrim. | Released · Code available · Experimental | — |
 | [SM64 Generations](#project-sm64-generations) | Replaces Sonic with Super Mario 64's Mario, using his exact controls and moveset, in Sonic Generations. | Released | — |
 | [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](#project-sm64-san-andreas) | An ASI plugin that lets you swap CJ for a fully physical Super Mario 64 Mario in GTA San Andreas. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=AS86LTwcGcA) |
 | [SMC64 — Mario in Halo: CE](#project-smc64-halo) | Puts a playable Super Mario 64 Mario into Halo: Combat Evolved. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=tj5fAk7KkHA) |
 | [Subnauticraft (Subnautica Link)](#project-subnauticraft) | Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer. | Released · Code available | — |
+| [Super Sekiro 64](#project-super-sekiro-64) | Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. | Released · Code available · Experimental | — |
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
 | [talemonpokemon](#project-talemonpokemon) | Recreates Pokémon catching, battles, evolution and trainer progression inside Hytale. | Released | [Watch](https://www.youtube.com/watch?v=wJbgOMAv5-s) |
 | [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Code available | — |
@@ -139,6 +145,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [CS:GO systems inside Project Zomboid](#project-csgo-project-zomboid) | Adds CS:GO weapons, shooting and movement to Project Zomboid. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n2fEHpLJUNk) |
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
+| [fnv-libsm64](#project-fnv-libsm64) | Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. | Code available · Experimental | — |
 | [GTA Trilogy Multiverse Portals](#project-gta-trilogy-multiverse) | Runs GTA III, Vice City and San Andreas simultaneously with live portals between them. | In development · Video only | [Watch](https://www.youtube.com/watch?v=fpsq2MyWznc) |
 | [Halo / MW2 Director](#project-halo-mw2-director) | Runs Halo CE characters and map data inside a native MW2/IW4L prototype. | Code available · Experimental | — |
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
@@ -157,10 +164,12 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Minecraft ↔ Hytale crossplay (SSquadTeam)](#project-minecraft-hytale-crossplay-ssquadteam) | Lets Minecraft and Hytale players share a synchronized Hytale-hosted world. | Code available · In development | — |
 | [Morrowind in Elden Ring](#project-morrowind-elden-ring) | Recreates Morrowind’s world and gameplay inside Elden Ring. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n89NFtIUWDI) |
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
+| [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
 | [Skate 3 Board for Garry's Mod](#project-skate3-gmod) | Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. | Code available · In development · Experimental | — |
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
+| [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
 | [UltraRing](#project-ultraring) | Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. | Code available · Experimental | — |
 | [Wasmcraft game demos](#project-wasmcraft) | Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=wCHB1UgwM9o) |
 | [World of Skatecraft](#project-world-of-skatecraft) | Runs Skate 3 physics and tricks inside World of Warcraft 1.12.1. | Code available · Experimental | [Watch](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4) |
@@ -185,6 +194,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 |---|---|---|---|
 | [ccboy — Game Boy in Minecraft](#project-ccboy) | Streams Game Boy gameplay from an external emulator to ComputerCraft monitors in Minecraft. | Code available · Related | — |
 | [Chanyoris](#project-chanyoris) | Runs a full competitive falling-block puzzle game inside a Minecraft map item. | Released · Related | — |
+| [DOOM RING](#project-doom-ring) | DOOM Eternal's guns, glory kills, HUD and combat music inside Elden Ring, built from your own DOOM Eternal install. | Released · Related | — |
 | [DOOMTEST (Arma Reforger)](#project-doomtest-arma-reforger) | A Doom-style shooter, with a map editor, on an arcade cabinet inside Arma Reforger. | Released · Related | — |
 | [GEMU — retro consoles in Garry's Mod](#project-gemu-gmod) | Puts playable retro consoles and handhelds into Garry's Mod. | Released · Code available · Experimental · Related | — |
 | [GeometryTale](#project-geometrytale) | Recreates Geometry Dash-style 2D levels as a playable Hytale world. | Released · Related | [Watch](https://www.youtube.com/watch?v=N13Usbcgn60) |
@@ -699,7 +709,7 @@ Primary creator footage exists, but no public repository/download was located; b
 - [Creator post](https://x.com/TobynJacobs/status/2104884843297599594)
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1550,12 +1560,14 @@ Unlike the passthrough projects, Minebonk uses one Megabonk process and rebuilds
 
 Reads DOOM WAD map data and creates the level block-by-block in Hytale, mapping enemies, weapons, armour and other items into Hytale equivalents. The creator explicitly presents it as a showcase rather than a balanced full-game port.
 
+**Requirements:** Hytale (game version 0.6 for the current file). Downloads the shareware DOOM1.WAD at startup (needs internet); Freedoom is bundled in the JAR (/doom new --mode freedoom).
+
 - [Source code](https://gitlab.com/papispielt/hytale-doom)
 - [Release / download](https://www.curseforge.com/hytale/mods/doom/files/8984905)
 - [Project page](https://www.curseforge.com/hytale/mods/doom)
 - [Creator profile](https://gitlab.com/papispielt)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1633,7 +1645,7 @@ Mario's triple jumps, wall kicks, long jumps, ground pounds, attacks, health wed
 - [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.2)
 - [Creator profile](https://github.com/deltarooo)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1902,7 +1914,7 @@ An original competitive block-puzzle game is rendered pixel-by-pixel into a 128�
 - [Project page](https://modrinth.com/plugin/chanyoris)
 - [Creator profile](https://modrinth.com/user/Hatune)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2064,7 +2076,7 @@ A Hearts of Iron IV Workshop mod that runs the whole DOOM engine, based on doomg
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3800765971)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2145,7 +2157,7 @@ An experimental passthrough that runs Minecraft 1.12.2 alongside My Summer Car a
 - [Release / download](https://www.nexusmods.com/mysummercar/mods/12619)
 - [universal-modder (upstream)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2170,7 +2182,7 @@ Adds a Freeplay cabinet that you buy from the in-game Arcademania shop and place
 
 - [Release / download](https://www.nexusmods.com/arcadeparadise/mods/7)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2329,7 +2341,7 @@ kgsws found a code-execution vulnerability in DOS DOOM2.EXE and used it to load 
 - [Project page](https://doomwiki.org/wiki/ACE_Engine)
 - [ACE Engine (follow-up, LGPL-2.1)](https://github.com/kgsws/doom_ace)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2382,8 +2394,9 @@ DOOMSona adds Doom cartridges to Persona 5 Royal's second-hand shop and runs the
 
 - [Source code](https://github.com/xan1242/DoomSona)
 - [Release / download](https://gamebanana.com/mods/511278)
+- [Demo video (embedded on the GameBanana page)](https://www.youtube.com/watch?v=3RgkXJbLBDw)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2512,7 +2525,7 @@ An entry in the Sonic Hacking Contest 2020 that embeds Chocolate Doom in Sonic M
 - [Source code](https://github.com/TheStoneBanana/mania-doom)
 - [Project page](https://old.sonicstadium.org/?p=61884)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2584,8 +2597,10 @@ Celeste Doom ports the C# Managed Doom engine onto Celeste's Monocle framework. 
 **Requirements:** Celeste with Everest; user-supplied Doom WAD (Kex/Unity rerelease UIs break)
 
 - [Release / download](https://gamebanana.com/mods/646780)
+- [Source mirror (grubbyplaya/DoomCeleste)](https://github.com/grubbyplaya/DoomCeleste)
+- [Creator demo video (grubbycoder, YouTube)](https://www.youtube.com/watch?v=AzSelUBEEYc)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2984,8 +2999,10 @@ A series of X videos (29 September to 2 October 2026) shows a web-browser port o
 
 - [Creator post](https://x.com/p_e_cooper/status/2104980433972703483)
 - [Supporting source](https://www.dexerto.com/call-of-duty/call-of-duty-fan-creates-insane-zombies-crossovers-with-wii-sports-portal-fortnite-3414983/)
+- [Creator clip: Fortnite building (X)](https://x.com/p_e_cooper/status/2105524743902208317)
+- [Creator clip: Wii Sports (X)](https://x.com/p_e_cooper/status/2105822578728436169)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3083,7 +3100,7 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/VVRLD/FortressCraft)
-- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.1)
+- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.4)
 - [Creator profile](https://github.com/VVRLD)
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
@@ -3395,6 +3412,270 @@ An experimental, work-in-progress, offline-only passthrough: AoTTG2 (BepInEx) ru
 - [AI Game Modding Guides](https://github.com/trevaintdead/ai-game-modding-guides)
 
 **Dated source review:** 2026-10-12
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-super-sekiro-64"></a>
+
+### Super Sekiro 64
+
+**Guest:** Super Mario 64 (Mario via libsm64)  
+**Host:** Sekiro: Shadows Die Twice (1.06)  
+**Creator:** BassGaming  
+**Status:** Released · Code available · Experimental  
+**Approach:** me3 DLL embedding libsm64, drawing Mario with Sekiro's debug renderer and feeding it Sekiro Havok collision  
+
+A fork of ER Mario re-done for Sekiro 1.06: libsm64 runs Mario in the game process, collides with Sekiro's live Havok geometry, and Mario's attacks go through Sekiro's damage pipeline, with deathblows and a grappling hook. Early work in progress.
+
+**Requirements:** Sekiro 1.06 on Steam, the me3 loader (Arxan disabled via sk-mario.me3), and a user-owned US Super Mario 64 ROM. Offline only.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/BassGaming/super-sekiro-64)
+- [Release / download](https://github.com/BassGaming/super-sekiro-64/releases/tag/v0.1.1)
+- [Creator profile](https://github.com/BassGaming)
+- [Upstream: ER Mario](https://github.com/deltarooo/er-mario)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mario-for-rec-room"></a>
+
+### Mario for Rec Room
+
+**Guest:** Super Mario 64 (Mario via libsm64)  
+**Host:** Rec Room (old IL2CPP builds, 2019 to 2020-04-08)  
+**Creator:** Shippy089  
+**Status:** Released · Code available · Experimental  
+**Approach:** BepInEx plugin embedding libsm64 in an old Unity IL2CPP Rec Room client  
+
+A BepInEx mod that puts SM64's Mario, running on libsm64's real physics, into old IL2CPP builds of Rec Room (2019 to 8 April 2020). It adds quests, combat, lava, a wing cap and route files; offline single player only. v2.00 adds Luigi.
+
+**Requirements:** Windows 10/11 x64, your own copy of an old IL2CPP Rec Room client (2019 to April 2020) and a US Super Mario 64 ROM; the release zip bundles the launcher, mod, native library and BepInEx. Offline, single player, no VR.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Shippy089/SM64-Mario_RecRoom)
+- [Release / download](https://github.com/Shippy089/SM64-Mario_RecRoom/releases/tag/v2.00)
+- [Watch demo](https://youtu.be/UF2uwklFTF0)
+- [Creator profile](https://github.com/Shippy089)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-minepeak"></a>
+
+### MinePeak
+
+**Guest:** PEAK (Landfall / Aggro Crab)  
+**Host:** Minecraft: Java Edition 26.2 (Fabric)  
+**Creator:** E1GAT0-dotcom  
+**Status:** Released · Code available · Experimental  
+**Approach:** BepInEx exporter of PEAK assets plus a Fabric mod reimplementing PEAK systems in Minecraft  
+
+A BepInEx-side exporter reads the player's own PEAK install and builds each day's island block by block; a Fabric mod then reimplements PEAK's stamina and climbing, status effects, items, backpack, fauna, fog and ending in Minecraft, with multiplayer.
+
+**Requirements:** Minecraft 26.2 with Fabric Loader and API, plus PEAK on Steam running during the first export (the exporter installer is Windows).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/E1GAT0-dotcom/MinePeak)
+- [Release / download](https://github.com/E1GAT0-dotcom/MinePeak/releases/tag/v0.1.0)
+- [Creator profile](https://github.com/E1GAT0-dotcom)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-doom-ring"></a>
+
+### DOOM RING
+
+**Guest:** DOOM Eternal (guns, HUD, sounds, combat music, movement)  
+**Host:** Elden Ring (2.7.1)  
+**Creator:** stanleymov  
+**Status:** Released · Related  
+**Approach:** Rust installer that builds assets from the local DOOM Eternal install and implements Doom-style first-person play in Elden Ring  
+
+A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weapons, dash and double jump, glory kills, Blood Punch, the Crucible and DOOM Eternal's combat music rules, with assets built at setup from the player's own DOOM Eternal files.
+
+**Requirements:** Elden Ring (app version 2.7.1) and DOOM Eternal installed through Steam, Windows 10/11 and about 3 GB free space during install. Offline.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/stanleymov/DOOM-RING)
+- [Release / download](https://github.com/stanleymov/DOOM-RING/releases/tag/v1.2)
+- [Creator profile](https://github.com/stanleymov)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-fnv-libsm64"></a>
+
+### fnv-libsm64
+
+**Guest:** Super Mario 64 (Mario via libsm64)  
+**Host:** Fallout: New Vegas (1.4.0.525)  
+**Creator:** larsoyd  
+**Status:** Code available · Experimental  
+**Approach:** xNVSE plugin embedding libsm64 with Havok collision  
+
+An xNVSE plugin that runs SM64's own movement code through libsm64, collides it with the game's Havok geometry and with NPCs and creatures, draws Mario with textures from the player's ROM, and lands his punches and kicks as hits by the Courier. Build from source.
+
+**Requirements:** Fallout: New Vegas 1.4.0.525 with xNVSE (tested with 6.4.9), a US Super Mario 64 .z64 ROM (SHA-256 checked) and, to build, CMake, Ninja and an i686 mingw-w64 toolchain. The README gives a Wine/Proton path example.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/larsoyd/fnv-libsm64)
+- [Creator profile](https://github.com/larsoyd)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-lethalcraft"></a>
+
+### LethalCraft
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Lethal Company  
+**Creator:** ThatGuyTHD  
+**Status:** Released · Code available · Experimental  
+**Approach:** Shared bridge between Lethal Company and a background Minecraft client, adapted from chasmlol's SkyCraft  
+
+Minecraft Java runs alongside Lethal Company and the two talk through a bridge adapted from SkyCraft, so players mine, build and fight with Minecraft gear in Lethal Company. A Windows installer, relay-based Steam/LAN multiplayer and isolated save slots are included.
+
+**Requirements:** Windows 10/11, Lethal Company on Steam and a Minecraft Java account that owns the game; the installer sets up Prism Launcher.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/ThatGuyTHD/LethalCraft)
+- [Release / download](https://github.com/ThatGuyTHD/LethalCraft/releases/tag/v0.2.4)
+- [Creator profile](https://github.com/ThatGuyTHD)
+- [Upstream: SkyCraft](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-peakcraft"></a>
+
+### PeakCraft
+
+**Guest:** Minecraft: Java Edition  
+**Host:** PEAK  
+**Creator:** aeironnsarmiento  
+**Status:** Code available · Experimental  
+**Approach:** Shared-memory bridge between a PEAK mod and a Minecraft mod, ported from chasmlol's SkyCraft  
+
+Two small mods linked through shared memory: PEAK draws blocks, lighting and fog while a hidden Minecraft supplies physics, HUD, inventory and screens. Solo only; the README describes a survival mode linking Minecraft hearts to PEAK hazards. Build from source.
+
+- [Source code](https://github.com/aeironnsarmiento/PeakCraft)
+- [Creator profile](https://github.com/aeironnsarmiento)
+- [Upstream: SkyCraft](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-sk8v"></a>
+
+### SK8V
+
+**Guest:** Skate 3  
+**Host:** Grand Theft Auto V Legacy (Story Mode, 1.0.3889.0)  
+**Creator:** becaring  
+**Status:** Released · Code available · Experimental  
+**Approach:** ScriptHookV ASI plus a Skate 3 engine port, with assets built from the player's Skate 3 disc  
+
+Brings Skate 3's Flick-It controls, board physics, grinds, manuals, tricks, bails, scoring and Hall of Meat into GTA V Legacy Story Mode via ScriptHookV, with assets prepared from the player's own Skate 3 ISO. A controller is required.
+
+**Requirements:** Windows x64, GTA V Legacy 1.0.3889.0, ScriptHookV with its ASI loader, a controller (keyboard skating is not supported) and your own Skate 3 ISO for setup; an SSD is recommended.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/becaring/SK8V)
+- [Release / download](https://github.com/becaring/SK8V/releases/tag/1.1.8)
+- [Creator profile](https://github.com/becaring)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-bo2-minecraft-zombies"></a>
+
+### Minecraft Zombies (bo2mc)
+
+**Guest:** Call of Duty: Black Ops II Zombies, Minecraft  
+**Host:** Call of Duty: Modern Warfare 2 via IW4L (Rust rewrite)  
+**Creator:** DaffyDabz  
+**Status:** Released · Code available · Experimental  
+**Approach:** Rust IW4L engine combining a Black Ops II Zombies rebuild with the 2010 Rust Rewrite Mashup's Minecraft world  
+
+Joins the creator's Black Ops II Zombies rebuild with chasmlol's 2010 Rust Rewrite Mashup: you play the Black Ops II character with its guns, perks, points and HUD in an endless Minecraft world, with a zombies round each night. Work in progress.
+
+**Requirements:** Windows, your own copy of Call of Duty: Black Ops II; Minecraft files are fetched from Mojang on first run.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/DaffyDabz/bo2-minecraft-zombies)
+- [Release / download](https://github.com/DaffyDabz/bo2-minecraft-zombies/releases/tag/v2026.10.08)
+- [Creator profile](https://github.com/DaffyDabz)
+- [Upstream: 2010 Rust Rewrite Mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup)
+
+**Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-templemaps-hytale"></a>
+
+### TempleMaps
+
+**Guest:** Windows 95, FreeDOS and other x86 operating systems (via JPC emulator)  
+**Host:** Hytale server  
+**Creator:** ssquadteam  
+**Status:** Code available · Experimental  
+**Approach:** Hytale plugin embedding the h0MER247 JPC emulator and rendering to the in-game map display  
+
+A Hytale server plugin that wraps the pure-Java JPC x86 emulator and renders 640x480 VGA output at about 30 FPS on the in-game world map, with disk and CD image support and keyboard/mouse input via chat commands or input modes.
+
+- [Source code](https://github.com/ssquadteam/TempleMaps)
+- [Creator profile](https://github.com/ssquadteam)
+
+**Dated source review:** 2026-10-13
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

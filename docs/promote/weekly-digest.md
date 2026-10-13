@@ -1,7 +1,17 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-12. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-13. These are additions to the index, not necessarily new releases.
 
+- **[TempleMaps](https://github.com/bailo167/awesome-game-mashups#project-templemaps-hytale)** — Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. (Code available · Experimental)
+- **[Super Sekiro 64](https://github.com/bailo167/awesome-game-mashups#project-super-sekiro-64)** — Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. (Released · Code available · Experimental)
+- **[SK8V](https://github.com/bailo167/awesome-game-mashups#project-sk8v)** — Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. (Released · Code available · Experimental)
+- **[PeakCraft](https://github.com/bailo167/awesome-game-mashups#project-peakcraft)** — Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. (Code available · Experimental)
+- **[MinePeak](https://github.com/bailo167/awesome-game-mashups#project-minepeak)** — Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install. (Released · Code available · Experimental)
+- **[Minecraft Zombies (bo2mc)](https://github.com/bailo167/awesome-game-mashups#project-bo2-minecraft-zombies)** — Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. (Released · Code available · Experimental)
+- **[Mario for Rec Room](https://github.com/bailo167/awesome-game-mashups#project-mario-for-rec-room)** — Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. (Released · Code available · Experimental)
+- **[LethalCraft](https://github.com/bailo167/awesome-game-mashups#project-lethalcraft)** — Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. (Released · Code available · Experimental)
+- **[fnv-libsm64](https://github.com/bailo167/awesome-game-mashups#project-fnv-libsm64)** — Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. (Code available · Experimental)
+- **[DOOM RING](https://github.com/bailo167/awesome-game-mashups#project-doom-ring)** — DOOM Eternal's guns, glory kills, HUD and combat music inside Elden Ring, built from your own DOOM Eternal install. (Released · Related)
 - **[WitcherCraft](https://github.com/bailo167/awesome-game-mashups#project-witchercraft)** — Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside. (Released · Code available)
 - **[WadSupport (DOOM in The Simpsons: Hit & Run)](https://github.com/bailo167/awesome-game-mashups#project-shar-wadsupport)** — Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. (Released · Code available)
 - **[UltraRing](https://github.com/bailo167/awesome-game-mashups#project-ultraring)** — Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. (Code available · Experimental)
@@ -56,10 +66,3 @@ Week ending 2026-10-12. These are additions to the index, not necessarily new re
 - **[CraftMSC](https://github.com/bailo167/awesome-game-mashups#project-craftmsc)** — Runs real Minecraft 1.12.2 inside My Summer Car. (Released · Experimental)
 - **[Celeste Doom](https://github.com/bailo167/awesome-game-mashups#project-celeste-doom)** — An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. (Released)
 - **[FreeDoom386i](https://github.com/bailo167/awesome-game-mashups#project-freedoom386i)** — Runs playable Freedoom on My Winter Car's in-game 386 PC with sound and keyboard controls. (Released)
-- **[Sonic the Hedgehog — Ultimate Speed & Combat Mod](https://github.com/bailo167/awesome-game-mashups#project-sonic-ultimate-speed-combat-gta-v)** — Recreates Sonic-style high-speed movement and combat systems inside GTA V Story Mode. (Released · Experimental · Related)
-- **[Skate Fortress 2](https://github.com/bailo167/awesome-game-mashups#project-skate-fortress-2)** — Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. (Code available · In development · Experimental)
-- **[Requiem x Minecraft — Building and Survival](https://github.com/bailo167/awesome-game-mashups#project-requiem-x-minecraft)** — Adds Minecraft-style building, hotbar and survival mechanics to Resident Evil Requiem. (Released · Unavailable · Experimental · Related)
-- **[Minecraft Ring](https://github.com/bailo167/awesome-game-mashups#project-minecraft-ring)** — Runs real Minecraft movement, building and combat inside Elden Ring through a Windows D3D12 bridge. (Code available · In development · Experimental)
-- **[GrandTheftMinecraft](https://github.com/bailo167/awesome-game-mashups#project-grandtheftminecraft)** — Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode. (Released · Code available · Experimental)
-- **[Good Enough Game Integration (GEGI)](https://github.com/bailo167/awesome-game-mashups#project-good-enough-game-integration)** — Plays itch.io and Newgrounds web games interactively inside Minecraft through an embedded Chromium view. (Released · Code available)
-- **[Chanyoris](https://github.com/bailo167/awesome-game-mashups#project-chanyoris)** — Runs a full competitive falling-block puzzle game inside a Minecraft map item. (Released · Related)

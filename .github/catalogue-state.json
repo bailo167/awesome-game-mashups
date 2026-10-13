@@ -3,13 +3,13 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-12",
-    "head_sha": "4a171ec68cd891c79696b5af865c2930584d49cf",
+    "verified_at": "2026-10-13",
+    "head_sha": "1254fe360a6f016c180f81d2336c797f17f4fd19",
     "catalogue_commit": "38090dd0abfc0ce3c3c96f6274549262d906dce4",
-    "project_count": 123,
+    "project_count": 133,
     "open_issues": 0,
     "open_pull_requests": 0,
-    "scope": "Contributions (no open issues/PRs) + release sweep of 78 GitHub-sourced entries (no new releases; mario64-in-minecraft already dead) + 12 deep rechecks (7 CurseForge/GitHub, 5 X/Steam/itch/GitHub; portal-zombies, retro-handheld-emulator, hellgate-doom-portal, dead-by-daylight unreachable and not stamped) + discovery (25 searches incl. GitHub repo search; +6 entries; 5 new deferred leads). head_sha is the parent commit. Nexus/Steam/CurseForge/Patreon/BuiltByBit often blocked from the sandbox; no play-tests.",
+    "scope": "Contributions (no open issues/PRs) + release sweep of 84 GitHub repos (2 updated: FortressCraft v0.5.4, l4d2-minecraft v2.0.11) + 12 deep rechecks (Nexus/Steam/Modrinth/GameBanana/GitLab/GitHub/X; doom-in-balatro unreachable and not stamped) + discovery (~45 searches incl. GitHub repo search; +10 entries; 9 new deferred leads). head_sha is the parent commit. Nexus/Steam/CurseForge pages often blocked from the sandbox (APIs used); no play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -53,13 +53,13 @@
       "name": "Cyberblock (Minecraft in Cyberpunk 2077, rodthegod2)",
       "url": "https://github.com/rodthegod2/cyberblock",
       "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk",
-      "date": "2026-10-12"
+      "date": "2026-10-13"
     },
     {
       "name": "SM64 x Minecraft Crossmod (eiersohn1-arch)",
       "url": "https://github.com/eiersohn1-arch/sm64-minecraft-crossmod",
-      "why": "No LICENSE file, no verified release page",
-      "date": "2026-10-12"
+      "why": "Rechecked 2026-10-13: still no LICENSE; Alphatest/Mario pre-releases 2026-10-03; commits are \"test\"",
+      "date": "2026-10-13"
     },
     {
       "name": "Skyrim: Pip-Boy Edition (RPGKing117)",
@@ -70,14 +70,68 @@
     {
       "name": "AIjennings/OWCraft (multiplayer variant of SkyCraft framework)",
       "url": "https://github.com/AIjennings/OWCraft",
-      "why": "Possible variant of owcraft; not reviewed in depth",
-      "date": "2026-10-12"
+      "why": "Fork of listed owcraft; v0.1.2-multiplayer (2026-10-11) adds co-op. Candidate for a note on owcraft, not a separate entry (rechecked 2026-10-13)",
+      "date": "2026-10-13"
     },
     {
       "name": "GTACraft (bishoponyt)",
       "url": "https://github.com/bishoponyt/GTACraft",
-      "why": "Installer derivative of the GTA V x Minecraft passthrough; no LICENSE file",
-      "date": "2026-10-12"
+      "why": "Re-checked 2026-10-13: still no LICENSE; v.0.1.2 pre-release; README states AI-assisted development; overlaps grandtheftminecraft",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "slargi/marionogi (libsm64 in Mabinogi)",
+      "url": "https://github.com/slargi/marionogi",
+      "why": "MIT, no releases/tags, small client-side plugin; source-only",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "slargi/mabicraft (Minecraft in Mabinogi)",
+      "url": "https://github.com/slargi/mabicraft",
+      "why": "MIT, no releases/tags; SkyCraft-style passthrough; not read in depth",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "headshot2017/sm64-wall-e",
+      "url": "https://github.com/headshot2017/sm64-wall-e",
+      "why": "WIP ASI mod, no licence, no release",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "nyaaarc/MetalGearSkate3",
+      "url": "https://github.com/nyaaarc/MetalGearSkate3",
+      "why": "GPL-3.0, no release found despite README; not independently read",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Cobalyst/Fortnite-Skate-3-Mod-for-V27.11",
+      "url": "https://github.com/Cobalyst/Fortnite-Skate-3-Mod-for-V27.11",
+      "why": "v1.0 2026-10-11 Apache-2.0, but needs an old offline Fortnite build (Project ATLAS) and bundles GPL-3.0 crates; editorial/rights call",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Stonqz27/SK8V-Enhanced",
+      "url": "https://github.com/Stonqz27/SK8V-Enhanced",
+      "why": "Enhanced-edition port of sk8v (pre-release 2026-10-12); could be noted on sk8v",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "NanoBunTV/Minecraft-CraftVM",
+      "url": "https://github.com/NanoBunTV/Minecraft-CraftVM",
+      "why": "VirtualBox VMs on in-world computers; no LICENSE text, Modrinth API unreachable",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Minecraft in Skyrim (Nexus 48439, historic)",
+      "url": "https://www.nexusmods.com/skyrim/mods/48439",
+      "why": "Nexus 403; snippet only",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "andrewnakas/haloskate3wasm",
+      "url": "https://github.com/andrewnakas/haloskate3wasm",
+      "why": "Browser Halo CE + skate core; no LICENSE, demo not verified",
+      "date": "2026-10-13"
     }
   ],
   "structural_upgrade": {
@@ -162,6 +216,11 @@
       "id": "dead-by-daylight",
       "host": "curseforge.com",
       "date": "2026-10-12"
+    },
+    {
+      "id": "doom-in-balatro",
+      "host": "reddit.com / github.com (creator UwUDev)",
+      "date": "2026-10-13"
     }
   ]
 }
