@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**134 entries:** 114 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**135 entries:** 115 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v) · [PeakCraft](#project-peakcraft) · [MinePeak](#project-minepeak) · [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) · [Mario for Rec Room](#project-mario-for-rec-room)
+[Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) · [TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v) · [PeakCraft](#project-peakcraft) · [MinePeak](#project-minepeak) · [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -93,6 +93,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
 | [LethalCraft](#project-lethalcraft) | Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. | Released · Code available · Experimental | — |
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
+| [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) | Link sits at a desk PC in Majora's Mask: Recompiled and plays DOOM on its screen. | Released · Code available · Demo | — |
 | [Mario for Rec Room](#project-mario-for-rec-room) | Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. | Released · Code available · Experimental | [Watch](https://youtu.be/UF2uwklFTF0) |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
@@ -123,7 +124,6 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Super Sekiro 64](#project-super-sekiro-64) | Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. | Released · Code available · Experimental | — |
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
 | [talemonpokemon](#project-talemonpokemon) | Recreates Pokémon catching, battles, evolution and trainer progression inside Hytale. | Released | [Watch](https://www.youtube.com/watch?v=wJbgOMAv5-s) |
-| [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Code available | — |
 | [UltraDoom / UltrakillDoom](#project-ultradoom) | Lets you play DOOM on the shop terminals inside ULTRAKILL. | Released · Code available | [Watch](https://www.youtube.com/watch?v=Y7zpELS2QfQ) |
 | [Ultrakill in Ultrakill](#project-ultrakill-in-ultrakill) | Plays ULTRAKILL on in-game terminals inside ULTRAKILL, three instances deep. | Released · Code available · Demo | — |
 | [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Released · Code available · Demo | — |
@@ -170,6 +170,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
 | [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
+| [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Unavailable | — |
 | [UltraRing](#project-ultraring) | Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. | Code available · Experimental | — |
 | [Wasmcraft game demos](#project-wasmcraft) | Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=wCHB1UgwM9o) |
 | [World of Skatecraft](#project-world-of-skatecraft) | Runs Skate 3 physics and tricks inside World of Warcraft 1.12.1. | Code available · Experimental | [Watch](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4) |
@@ -232,7 +233,7 @@ A from-scratch Rust rewrite of MW2 that combines MW2 multiplayer, Skate 3-style 
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -260,7 +261,7 @@ Minecraft remains running as the game-logic side while Skyrim renders the world.
 - [Creator profile](https://github.com/chasmlol)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -286,7 +287,7 @@ Minecraft runs natively on macOS while the host game runs under CrossOver. The b
 - [Source code](https://github.com/justbustin/minecraft-crossover-bridge)
 - [Creator profile](https://github.com/justbustin)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -310,7 +311,7 @@ A deliberately rough proof-of-concept built in a few nights. DOOM is rendered as
 - [Creator profile](https://github.com/tr7zw)
 - [vanilla-mocha-doom dependency](https://github.com/gaborbata/vanilla-mocha-doom/)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2735,7 +2736,7 @@ A fork of GZDoom 3.2.0 that swaps the Doom player for a playable Super Mario 64 
 - [Creator profile](https://github.com/headshot2017)
 - [libsm64 upstream](https://github.com/libsm64/libsm64)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2761,7 +2762,7 @@ A fork of XProger's open-source OpenLara engine that adds a libsm64 Mario to Tom
 - [Creator profile](https://github.com/headshot2017)
 - [OpenLara upstream](https://github.com/XProger/OpenLara)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2788,7 +2789,7 @@ A DDNet client fork that spawns a libsm64 Mario from the menu or a /mario server
 - [Release / download](https://github.com/headshot2017/ddnet-sm64/releases/tag/v1.0)
 - [Creator profile](https://github.com/headshot2017)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2816,7 +2817,7 @@ A plugin for ClassiCube, a C client compatible with Minecraft Classic, that uses
 - [Creator profile](https://github.com/headshot2017)
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2843,7 +2844,7 @@ Emulates the NES inside unmodified Minecraft Java 1.16 using only resource-pack 
 - [Release / download](https://github.com/5uso/MinecraftNES/releases/tag/1.0.0)
 - [Creator profile](https://github.com/5uso)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2900,7 +2901,7 @@ A Fabric mod in which players order computer parts from an in-game satellite and
 - [Creator profile](https://github.com/Delta2Force)
 - [PCGamesN coverage (Doom on an in-game PC)](https://www.pcgamesn.com/minecraft/virtual-pc-mod-doom)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2928,7 +2929,7 @@ An Elin mod that adds a playable DOOM arcade cabinet, running the Managed Doom e
 - [Creator profile](https://github.com/chitsii)
 - [Managed Doom upstream](https://github.com/sinshu/managed-doom)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3039,7 +3040,7 @@ A Reddit post by UwUDev (July 2024) shows Doom integrated into Balatro's Jokers 
 **Guest:** ULTRAKILL  
 **Host:** Minecraft: Java Edition  
 **Creator:** alfr0762  
-**Status:** Released · Code available  
+**Status:** Released · Unavailable  
 **Approach:** Fabric mod in Minecraft + BepInEx 5 plugin (UltraBridge) in ULTRAKILL; the ULTRAKILL render is shown in Minecraft's window while Minecraft supplies the world  
 
 A Fabric mod plus a BepInEx plugin (UltraBridge) that runs ULTRAKILL alongside Minecraft 1.21.11 and draws it into Minecraft's window. Minecraft's blocks and mobs become ULTRAKILL's world and enemies; the README documents bosses, layer-themed arenas, the shop and upgrades, Cyber Grind, fight music, cheats and LAN co-op. Release v1.0.5 (2026-10-13) added boss entrances and death animations, custom music support and an optional boss arena; v1.0.6 fixed boss-music timing.
@@ -3077,7 +3078,7 @@ A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry'
 - [Creator profile](https://github.com/thecreeez)
 - [Garry's Mod side by ScientificWays](https://github.com/ScientificWays/gmod-minecraft-bridge)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3101,7 +3102,7 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/VVRLD/FortressCraft)
-- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.4)
+- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.8)
 - [Creator profile](https://github.com/VVRLD)
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
@@ -3623,7 +3624,7 @@ Brings Skate 3's Flick-It controls, board physics, grinds, manuals, tricks, bail
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/becaring/SK8V)
-- [Release / download](https://github.com/becaring/SK8V/releases/tag/1.1.8)
+- [Release / download](https://github.com/becaring/SK8V/releases/tag/1.1.9)
 - [Creator profile](https://github.com/becaring)
 
 **Dated source review:** 2026-10-13
@@ -3699,6 +3700,33 @@ A submission (issue #5) and the creator video describe the open-source Rust fait
 
 - [Watch demo](https://www.youtube.com/watch?v=I2PfYtFe1bY)
 - [Upstream faith-runner (movement core)](https://github.com/tnrjns/faith-runner)
+
+**Dated source review:** 2026-10-14
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mm-recomp-doom"></a>
+
+### Majora's Mask Recompiled DOOM Mod
+
+**Guest:** DOOM (via doomgeneric)  
+**Host:** The Legend of Zelda: Majora's Mask (Zelda 64: Recompiled)  
+**Creator:** DarioSamo  
+**Status:** Released · Code available · Demo  
+**Approach:** Native library built from a modified doomgeneric exports each frame to a buffer; the recomp mod calls it and draws the frame on an in-world PC  
+
+A mod for Zelda 64: Recompiled that loads a native doomgeneric-based library which renders DOOM frames to a buffer; the mod displays them on a desktop PC placed in the game world. Pressing L + R makes Link spawn a desk and play DOOM. The README calls it a proof of concept made in jest, warns of bugs and softlocks, and requires a DOOM1.WAD (the shareware one works) beside the library.
+
+**Requirements:** Zelda 64: Recompiled with a Majora's Mask setup; a DOOM1.WAD (shareware is fine) next to the mod's native library. The README says no pre-made macOS binary is available.
+
+- [Source code](https://github.com/DarioSamo/MMRecompDoomMod)
+- [Release / download](https://github.com/DarioSamo/MMRecompDoomMod/releases/tag/1.0.0)
+- [Creator profile](https://github.com/DarioSamo)
+- [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
+- [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 
 **Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.

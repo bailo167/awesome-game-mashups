@@ -3,6 +3,7 @@
 Week ending 2026-10-14. These are additions to the index, not necessarily new releases.
 
 - **[Mirror's Edge Movement in GTA San Andreas (Faith Runner)](https://github.com/bailo167/awesome-game-mashups#project-faith-runner-gta-sa)** — SavegameNostalgia's video shows CJ moving with Mirror's Edge parkour physics via a Rust movement core; no bridge code is public. (Video only · Unconfirmed)
+- **[Majora's Mask Recompiled DOOM Mod](https://github.com/bailo167/awesome-game-mashups#project-mm-recomp-doom)** — Link sits at a desk PC in Majora's Mask: Recompiled and plays DOOM on its screen. (Released · Code available · Demo)
 - **[TempleMaps](https://github.com/bailo167/awesome-game-mashups#project-templemaps-hytale)** — Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. (Code available · Experimental)
 - **[Super Sekiro 64](https://github.com/bailo167/awesome-game-mashups#project-super-sekiro-64)** — Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. (Released · Code available · Experimental)
 - **[SK8V](https://github.com/bailo167/awesome-game-mashups#project-sk8v)** — Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. (Released · Code available · Experimental)
@@ -26,7 +27,7 @@ Week ending 2026-10-14. These are additions to the index, not necessarily new re
 - **[Mario 64 in Minecraft (Zckyy)](https://github.com/bailo167/awesome-game-mashups#project-mario64-in-minecraft)** — Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. (Released · Code available · Experimental · Unavailable)
 - **[World at War Zombies web crossovers (P.E. Cooper)](https://github.com/bailo167/awesome-game-mashups#project-waw-zombies-web-crossovers)** — Viral videos of a browser port of WaW Zombies mashed up with Fortnite, Wii Sports, Mario Kart and more; not public. (Video only · Unconfirmed)
 - **[VM Computers](https://github.com/bailo167/awesome-game-mashups#project-vm-computers)** — Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. (Released · Code available · Archived)
-- **[Ultracraft](https://github.com/bailo167/awesome-game-mashups#project-ultracraft)** — Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. (Released · Code available)
+- **[Ultracraft](https://github.com/bailo167/awesome-game-mashups#project-ultracraft)** — Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. (Released · Unavailable)
 - **[Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](https://github.com/bailo167/awesome-game-mashups#project-ckosmic-gmod-emulators)** — A lineage of in-game console emulators for Garry's Mod, from GNES (2016) to the RetroArch-based Retromod 2.0. (Released)
 - **[OpenLara SM64 — Mario in Tomb Raider](https://github.com/bailo167/awesome-game-mashups#project-openlara-sm64)** — Lets you play Tomb Raider 1 as Super Mario 64's Mario, switching between Mario and Lara. (Released · Code available)
 - **[MinecraftNES](https://github.com/bailo167/awesome-game-mashups#project-minecraftnes)** — A NES emulator built entirely from vanilla Minecraft resource-pack shaders. (Released · Code available · Demo)
