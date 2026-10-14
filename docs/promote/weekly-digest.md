@@ -1,7 +1,8 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-13. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-14. These are additions to the index, not necessarily new releases.
 
+- **[Mirror's Edge Movement in GTA San Andreas (Faith Runner)](https://github.com/bailo167/awesome-game-mashups#project-faith-runner-gta-sa)** — SavegameNostalgia's video shows CJ moving with Mirror's Edge parkour physics via a Rust movement core; no bridge code is public. (Video only · Unconfirmed)
 - **[TempleMaps](https://github.com/bailo167/awesome-game-mashups#project-templemaps-hytale)** — Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. (Code available · Experimental)
 - **[Super Sekiro 64](https://github.com/bailo167/awesome-game-mashups#project-super-sekiro-64)** — Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. (Released · Code available · Experimental)
 - **[SK8V](https://github.com/bailo167/awesome-game-mashups#project-sk8v)** — Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. (Released · Code available · Experimental)
@@ -65,4 +66,3 @@ Week ending 2026-10-13. These are additions to the index, not necessarily new re
 - **[DOOM in Factorio](https://github.com/bailo167/awesome-game-mashups#project-factorio-doom)** — Runs the original Doom in real time inside a dedicated Factorio world as a mod-portal mod. (Released · Code available · Experimental)
 - **[CraftMSC](https://github.com/bailo167/awesome-game-mashups#project-craftmsc)** — Runs real Minecraft 1.12.2 inside My Summer Car. (Released · Experimental)
 - **[Celeste Doom](https://github.com/bailo167/awesome-game-mashups#project-celeste-doom)** — An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. (Released)
-- **[FreeDoom386i](https://github.com/bailo167/awesome-game-mashups#project-freedoom386i)** — Runs playable Freedoom on My Winter Car's in-game 386 PC with sound and keyboard controls. (Released)

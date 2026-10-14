@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**133 entries:** 114 core projects, 7 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**134 entries:** 114 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-13. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-14. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v) · [PeakCraft](#project-peakcraft) · [MinePeak](#project-minepeak) · [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) · [Mario for Rec Room](#project-mario-for-rec-room) · [LethalCraft](#project-lethalcraft)
+[Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v) · [PeakCraft](#project-peakcraft) · [MinePeak](#project-minepeak) · [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) · [Mario for Rec Room](#project-mario-for-rec-room)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -186,6 +186,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 | [Escape from Skyrim (Tarkov in Skyrim)](#project-escape-from-skyrim) | Viral video of Escape from Tarkov gameplay systems in Skyrim, with no release. | Video only · Unconfirmed | [Watch](https://x.com/cydonix/status/2105177318968955044) |
 | [Minecraft in Cyberpunk 2077](#project-minecraft-cyberpunk) | A viral claim puts Minecraft gameplay inside Cyberpunk 2077. | Unconfirmed | — |
 | [Minecraft in Elden Ring](#project-minecraft-elden-ring-tobynjacobs) | TobynJacobs’ footage shows Minecraft-style gameplay in Elden Ring; wider claims remain unconfirmed. | Video only · Unconfirmed | [Watch](https://x.com/TobynJacobs/status/2104884843297599594) |
+| [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) | SavegameNostalgia's video shows CJ moving with Mirror's Edge parkour physics via a Rust movement core; no bridge code is public. | Video only · Unconfirmed | [Watch](https://www.youtube.com/watch?v=I2PfYtFe1bY) |
 | [World at War Zombies web crossovers (P.E. Cooper)](#project-waw-zombies-web-crossovers) | Viral videos of a browser port of WaW Zombies mashed up with Fortnite, Wii Sports, Mario Kart and more; not public. | Video only · Unconfirmed | [Watch](https://x.com/p_e_cooper/status/2104980433972703483) |
 
 ## Related projects
@@ -1491,7 +1492,7 @@ Minecraft owns player physics, inventory, combat, blocks and mobs while Subnauti
 - [Source code](https://github.com/FumperForrest/SubCraft)
 - [Creator profile](https://github.com/FumperForrest)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1776,7 +1777,7 @@ A Garry's Mod add-on and native Rust bridge run Skate 3's reconstructed board/sk
 - [Creator profile](https://github.com/DaffyDabz)
 - [Upstream Skate 3 rebuild](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1831,7 +1832,7 @@ A Source SDK 2013 / Team Fortress 2 mod links the recovered Skate 3 simulation i
 - [Creator profile](https://github.com/Naitrate)
 - [Upstream Skate 3 Rust Engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2024,7 +2025,7 @@ Pressing M replaces Spider-Man with Mario running the actual Super Mario 64 move
 - [Overstrike mod manager](https://github.com/Tkachov/Overstrike)
 - [Submission issue](https://github.com/bailo167/awesome-game-mashups/issues/3)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2051,7 +2052,7 @@ A builder's toolkit for passthrough mods, where a guest game (usually Minecraft)
 - [Honest limits](https://github.com/Orinkle/passthrough-mod-toolkit#honest-limits)
 - [30-second stub demo](https://github.com/Orinkle/passthrough-mod-toolkit#30-second-demo)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2131,7 +2132,7 @@ Adds DOOM as an app on Schedule I's in-game TVs. A native DOOM runtime renders o
 - [DOOM II TV edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2483)
 - [Ultimate Doom / TNT / Plutonia edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2484)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2263,7 +2264,7 @@ A libsm64-based mod that runs SM64's Mario movement inside Halo CE in the Master
 - [Release / download](https://github.com/KodyJKing/smc64/releases)
 - [Watch demo](https://www.youtube.com/watch?v=tj5fAk7KkHA)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2369,7 +2370,7 @@ Retro64 uses a libsm64 fork to simulate Super Mario 64's movement code in Minecr
 - [Watch demo](https://www.youtube.com/watch?v=2yWKqc2rmHI)
 - [Project page](https://retro64mod.github.io/)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2448,7 +2449,7 @@ Headshotnoby's plugin embeds libsm64 into GTA San Andreas so Mario moves with SM
 - [Release / download](https://github.com/headshot2017/sm64-san-andreas/releases)
 - [Watch demo](https://www.youtube.com/watch?v=AS86LTwcGcA)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2499,7 +2500,7 @@ Supersonic Mario uses libsm64 to drop a playable, networked SM64 Mario into Rock
 - [Source code](https://github.com/Serialbocks/SupersonicMarioPlugin)
 - [Release / download](https://github.com/Serialbocks/SupersonicMarioPlugin/releases/tag/v1.1.1)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2682,7 +2683,7 @@ A BepInEx plugin that uses the libsm64 Unity runtime to put Super Mario 64's Mar
 - [Creator profile](https://github.com/Squaresweets)
 - [libsm64-unity upstream](https://github.com/libsm64/libsm64-unity-dev)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2706,7 +2707,7 @@ Three ULTRAKILL instances run at once; each frame, screenshots are passed betwee
 - [Source code](https://github.com/Squaresweets/Ultrakill-in-Ultrakill)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3041,7 +3042,7 @@ A Reddit post by UwUDev (July 2024) shows Doom integrated into Balatro's Jokers 
 **Status:** Released · Code available  
 **Approach:** Fabric mod in Minecraft + BepInEx 5 plugin (UltraBridge) in ULTRAKILL; the ULTRAKILL render is shown in Minecraft's window while Minecraft supplies the world  
 
-A Fabric mod plus a BepInEx plugin (UltraBridge) that runs ULTRAKILL alongside Minecraft 1.21.11 and draws it into Minecraft's window. Minecraft's blocks and mobs become ULTRAKILL's world and enemies; the README documents bosses, layer-themed arenas, the shop and upgrades, Cyber Grind, fight music, cheats and LAN co-op.
+A Fabric mod plus a BepInEx plugin (UltraBridge) that runs ULTRAKILL alongside Minecraft 1.21.11 and draws it into Minecraft's window. Minecraft's blocks and mobs become ULTRAKILL's world and enemies; the README documents bosses, layer-themed arenas, the shop and upgrades, Cyber Grind, fight music, cheats and LAN co-op. Release v1.0.5 (2026-10-13) added boss entrances and death animations, custom music support and an optional boss arena; v1.0.6 fixed boss-music timing.
 
 **Requirements:** Windows; owned copies of ULTRAKILL (Steam, running) and Minecraft: Java Edition 1.21.11 with Fabric Loader 0.19+ and Fabric API. Ultracraft sets up BepInEx 5 and the UltraBridge plugin in ULTRAKILL automatically; Modrinth (.mrpack) and CurseForge modpacks are provided in the releases.
 
@@ -3051,7 +3052,7 @@ A Fabric mod plus a BepInEx plugin (UltraBridge) that runs ULTRAKILL alongside M
 - [Release / download](https://github.com/alfr0762/ultracraft/releases)
 - [Creator profile](https://github.com/alfr0762)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3676,6 +3677,30 @@ A Hytale server plugin that wraps the pure-Java JPC x86 emulator and renders 640
 - [Creator profile](https://github.com/ssquadteam)
 
 **Dated source review:** 2026-10-13
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-faith-runner-gta-sa"></a>
+
+### Mirror's Edge Movement in GTA San Andreas (Faith Runner)
+
+**Guest:** Mirror's Edge (movement, via the Rust faith-runner reimplementation)  
+**Host:** Grand Theft Auto: San Andreas  
+**Creator:** SavegameNostalgia (video); upstream movement core by tnrjns  
+**Status:** Video only · Unconfirmed  
+**Approach:** Rust movement crate compiled to a 32-bit C-interface DLL driven by a GTA SA .asi plugin (per submission; not verifiable in code)  
+
+A submission (issue #5) and the creator video describe the open-source Rust faith-runner movement core compiled to a 32-bit DLL and driven by a GTA San Andreas .asi plugin that overrides CJ's position and camera and bridges the game's line-of-sight collision. The upstream tnrjns/faith-runner repository documents the Mirror's Edge movement crate and mentions porting to IW4L, but it contains no GTA San Andreas plugin, so the GTA integration is documented only by the video and the submission.
+
+**Platforms documented:** Windows
+
+- [Watch demo](https://www.youtube.com/watch?v=I2PfYtFe1bY)
+- [Upstream faith-runner (movement core)](https://github.com/tnrjns/faith-runner)
+
+**Dated source review:** 2026-10-14
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

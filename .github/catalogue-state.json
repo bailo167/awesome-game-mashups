@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-13",
-    "head_sha": "a19488f5ecc6c2af0c08b5dac9b5772ade46b975",
-    "project_count": 133,
+    "verified_at": "2026-10-14",
+    "head_sha": "c3649d70de03367ec526e9ad3cd42cab5e15c61f",
+    "project_count": 134,
     "open_issues": 0,
     "open_pull_requests": 0,
-    "scope": "Contributions (no open issues/PRs) + release sweep of 94 GitHub-linked entries (3 updated: SkateGM 9.0, l4d2-minecraft v2.0.12, halfcraft 1.4) + 12 deep rechecks (GitHub README/LICENSE/tags/history) + discovery (8 searches, no new verified entries; Steve Passthrough repost and HoI4 Doom already covered). head_sha is the parent commit. mario64-in-minecraft repo remains gone (already marked dead). No play-tests.",
+    "scope": "Contributions (issue #5 faith-runner added as watchlist video-only) + release sweep of 94 GitHub-linked entries (ultracraft updated to v1.0.6) + 12 deep rechecks (GitHub README/LICENSE/tags/history) + discovery (8 searches, no new verified entries; 14 GitHub deferred leads rechecked, unchanged). head_sha is the parent commit. mario64-in-minecraft repo remains gone (already marked dead). No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
