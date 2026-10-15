@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-15",
-    "head_sha": "cd5aacb6872f90e0c1e9aaff031bea81d34ef355",
+    "head_sha": "f180b94e816c941083ae6a07dba78fd7576df14f",
     "project_count": 137,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Contributions (issues #7 and #8 added; Dependabot PR #6 left open) + release sweep of 95 GitHub-linked entries (no new releases; ultracraft and mario64-in-minecraft remain unreachable/dead) + 12 deep rechecks (8 GitHub, 4 Steam/GameBanana/Modrinth API; eldencraft last_activity updated) + discovery (8 searches, 0 new beyond issues; 1 lead deferred). head_sha is the parent commit. Nexus/CurseForge/BuiltByBit-hosted records not rechecked. No play-tests.",
+    "scope": "Contributions (no open issues; Dependabot PR #6 left open) + release sweep of 96 GitHub-linked entries (no new releases; ultraring has an unreleased v0.2.0 tag; ultracraft and mario64-in-minecraft still unreadable/dead) + 12 deep rechecks (7 GitHub, 3 Nexus via GraphQL API, 1 gta5-mods/YouTube, 1 Reforger source repo; no changes found) + discovery (8 searches, 0 new; steve passthrough repost lead resolved as already listed). head_sha is the parent commit. Nexus/CurseForge/BuiltByBit-hosted records not otherwise rechecked. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -125,12 +125,6 @@
       "url": "https://github.com/andrewnakas/haloskate3wasm",
       "why": "Browser Halo CE + skate core; no LICENSE, demo not verified",
       "date": "2026-10-13"
-    },
-    {
-      "name": "Minecraft Steve Passthrough [Enhanced] V1.3 (gta5mod.net repost, rimdov)",
-      "url": "https://gta5mod.net/?p=285941",
-      "why": "Third-party repost dated 2026-10-15; compare with existing minecraft-passthrough entries before treating as new",
-      "date": "2026-10-15"
     }
   ],
   "structural_upgrade": {

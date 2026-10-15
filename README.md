@@ -906,7 +906,7 @@ Synchronizes blocks, players, mobs, time/weather, chat, skins and build/break in
 - [Source code](https://github.com/Atmerek/CrossplayProject)
 - [Release / download](https://github.com/Atmerek/CrossplayProject/releases/tag/v1.3)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1023,7 +1023,7 @@ Frames are streamed over WebSocket to ComputerCraft monitors and player inputs a
 
 - [Source code](https://github.com/amatheo/ccboy)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1256,7 +1256,7 @@ The public v0.1.0 build includes an Overworld mode that keeps CS:GO-style moveme
 - [Release / download](https://github.com/FrosttysBots/CS-Craft/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/FrosttysBots)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1443,7 +1443,7 @@ Lets Jimmy skate through Bullworth using Skate 3 physics and controller input, w
 - [Release / download](https://github.com/Faiqie/BullySkate/releases/tag/v0.1.2)
 - [Creator profile](https://github.com/Faiqie)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1676,7 +1676,7 @@ Spider-Man supplies swinging, wall running, crawling, point launches and its cha
 - [Watch demo](https://www.youtube.com/watch?v=O6Mkm_NGCX8)
 - [Creator profile](https://github.com/luki-1)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1944,7 +1944,7 @@ A Resident Evil Requiem plugin, removed from Nexus Mods by staff as of 2026-10-0
 
 - [Release / download](https://www.nexusmods.com/residentevilrequiem/mods/3087)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1971,7 +1971,7 @@ A GTA V script mod adds Sonic-style acceleration and momentum, Spin Dash, homing
 - [Release / download](https://www.gta5-mods.com/scripts/sonic-the-hedgehog-ultimate-speed-combat-mod)
 - [Watch demo](https://www.youtube.com/watch?v=M_YSZfanFOE)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1998,7 +1998,7 @@ A downloadable My Winter Car mod that launches Freedoom on the game's programmab
 - [Freedoom](https://freedoom.github.io/)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2106,7 +2106,7 @@ An ASI plugin and Fabric mod pair that runs Minecraft Java next to GTA IV and re
 - [Release / download](https://www.nexusmods.com/gta4/mods/1498)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2981,7 +2981,7 @@ An Arma Reforger mod that adds an in-world arcade cabinet running an original so
 - [Release / download](https://reforger.armaplatform.com/workshop/444F4F4D54455354-DOOMTEST)
 - [Source (ARMA_RETROFORGER)](https://github.com/josharghhh/ARMA_RETROFORGER)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3108,7 +3108,7 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 - [Creator profile](https://github.com/VVRLD)
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3164,7 +3164,7 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 - [MoeWhite19/BNes (original)](https://github.com/MoeWhite19/BNes)
 - [Nestalgia](https://github.com/tiagohm/nestalgia)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
