@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**135 entries:** 115 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**137 entries:** 117 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-14. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-15. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) · [TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v) · [PeakCraft](#project-peakcraft) · [MinePeak](#project-minepeak) · [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies)
+[Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) · [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) · [TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v) · [PeakCraft](#project-peakcraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -151,6 +151,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
 | [HellGate: Doom Portal](#project-hellgate-doom-portal) | Opens a portal from Minecraft into a playable DOOM II experience. | Released · Unavailable | — |
 | [HytaleDoom](#project-hytale-doom) | Lets you control DOOM from inside Hytale. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=RxVj6_NKRDY) |
+| [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) | Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds. | Code available · Experimental | [Watch](https://github.com/pragyaangaur/Knee-Deep-In-The-Mines/blob/main/docs/gameplay.gif) |
 | [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) | Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. | Released · Code available · Experimental · Unavailable | — |
 | [Minebonk](#project-minebonk) | Rebuilds Minecraft-style combat, inventory, mobs and bosses natively inside Megabonk. | Code available · In development | — |
 | [Minecraft Classic 0.30 inside Hytale](#project-minecraft-classic-hytale) | Shows Minecraft Classic running on Hytale’s in-game world-map screen. | In development · Video only | [Watch](https://x.com/iamcxv711/status/2012610249174536397) |
@@ -168,6 +169,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
 | [Skate 3 Board for Garry's Mod](#project-skate3-gmod) | Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. | Code available · In development · Experimental | — |
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
+| [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) | Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. | In development · Video only | [Watch](https://www.youtube.com/watch?v=KZQqJivPKac) |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
 | [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
 | [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Unavailable | — |
@@ -335,7 +337,7 @@ Runs DOOM through Hytale's in-game world-map display at a targeted 35 FPS, with 
 - [Source code](https://github.com/ssquadteam/DoomMaps)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -362,7 +364,7 @@ Minecraft clients can connect to a Hytale server without a client mod. HyCraft c
 - [Release / download](https://github.com/EdwardBelt/HyCraft/releases/tag/v1.1.4)
 - [Creator profile](https://github.com/EdwardBelt)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -387,7 +389,7 @@ Turns ULTRAKILL's diegetic shop terminals into playable DOOM instances. A legiti
 - [Watch demo](https://www.youtube.com/watch?v=Y7zpELS2QfQ)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -439,7 +441,7 @@ Runs classic DOOM inside Minecraft with controls and sound support. The project 
 - [Release / download](https://modrinth.com/mod/nucledoom)
 - [Creator profile](https://github.com/Patbox)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -466,7 +468,7 @@ A historically important technical precursor: Wasmcraft compiles WebAssembly pro
 - [Watch demo](https://www.youtube.com/watch?v=wCHB1UgwM9o)
 - [Creator profile](https://github.com/SuperTails)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -519,7 +521,7 @@ A modern port/continuation of the older Arcade Mod with six playable arcade recr
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/arcade-mod-reloaded)
 - [Project page](https://modrinth.com/mod/arcade-mod-reloaded)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1860,7 +1862,7 @@ A native GTA V mod adds a Minecraft hotbar and creative inventory, hundreds of b
 - [Release / download](https://github.com/cyteon/GrandTheftMinecraft/releases/tag/v1.5.1)
 - [Creator profile](https://github.com/cyteon)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2423,7 +2425,7 @@ gmDoom is a partial source port of DOOM for Garry's Mod that reads a user's IWAD
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=145310679)
 - [gmDoom Maps source (Jcw87)](https://github.com/Jcw87/gmod-doom-maps)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2475,7 +2477,7 @@ Skyth's mod runs Super Mario 64's decompiled movement through libsm64 in Sonic G
 
 - [Release / download](https://gamebanana.com/mods/368411)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2632,7 +2634,7 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
 - [Inspired by minecraft-crossover-bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2873,7 +2875,7 @@ ckosmic built a series of Garry's Mod addons for playing retro console games on 
 - [GEMU by ckosmic (2017, historical)](https://steamcommunity.com/sharedfiles/filedetails/?id=945777403)
 - [Retromod 1.0 (2018, deprecated)](https://steamcommunity.com/sharedfiles/filedetails/?id=1457560331)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2954,7 +2956,7 @@ A Forge mod that uses Minecraft as a platform for emulators: GBA cartridges foun
 
 - [Release / download](https://modrinth.com/mod/juni-emu)
 
-**Dated source review:** 2026-10-09
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3729,6 +3731,58 @@ A mod for Zelda 64: Recompiled that loads a native doomgeneric-based library whi
 - [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 
 **Dated source review:** 2026-10-14
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-knee-deep-in-the-mines"></a>
+
+### Knee-Deep in the Mines
+
+**Guest:** DOOM (shareware episode 1; other IWADs supplied by the player)  
+**Host:** Minecraft: Java Edition (Fabric)  
+**Creator:** Pragyaan Gaur  
+**Status:** Code available · Experimental  
+**Approach:** Parses the WAD and BSP data to rebuild Doom maps as Minecraft blocks with invisible collision blocks, and reimplements Doom's sector logic, monster AI and weapons; an arcade block runs a doomgeneric engine  
+
+A Fabric mod for Minecraft Java Edition that reads DOOM's WAD and rebuilds its maps from the BSP data as Minecraft worlds, with Doom's textures, lighting, doors, lifts, teleporters and exits running at Doom's own speeds. Doom's monsters and weapons act inside Minecraft under Steve's health and hotbar, and a Doom Arcade block also runs the original game via a doomgeneric engine on its screen. The README says only E1M1 to E1M3 have been exercised by tests, the arcade engine is built for macOS only, and the jar must be built from source.
+
+**Requirements:** Minecraft 26.3 with Fabric Loader and Fabric API; build the jar from source with JDK 25. Shareware DOOM1.WAD is bundled; other episodes need your own doom.wad or doom2.wad. The Doom Arcade block's engine is built for macOS only.
+
+**Platforms documented:** Minecraft Java Edition 26.3 (Fabric)
+
+- [Source code](https://github.com/pragyaangaur/Knee-Deep-In-The-Mines)
+- [Watch demo](https://github.com/pragyaangaur/Knee-Deep-In-The-Mines/blob/main/docs/gameplay.gif)
+- [Creator profile](https://github.com/pragyaangaur)
+- [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
+
+**Dated source review:** 2026-10-15
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-skyrim-shouts-fallout-4-glenny"></a>
+
+### Skyrim Shouts and Dragons in Fallout 4 (Glenny)
+
+**Guest:** The Elder Scrolls V: Skyrim (shouts and dragons)  
+**Host:** Fallout 4  
+**Creator:** Glenny  
+**Status:** In development · Video only  
+
+Glenny's YouTube videos show Skyrim-style shouts (Unrelenting Force, Whirlwind Sprint, Ice Form, Aura Whisper) working in Fallout 4, a WIP dragon with flight, and a Durnehviir summoning shout. The videos are the only evidence: no repository, release or mod page was found, and the requirements are unknown. Submitted through issue #8 by a third party, not the creator.
+
+- [Watch demo](https://www.youtube.com/watch?v=KZQqJivPKac)
+- [Creator profile](https://www.youtube.com/@Glenny67z)
+- [WIP: Dragons in Fallout 4 (video)](https://www.youtube.com/watch?v=ilz_Sqx1Fbw)
+- [Aura Whisper shout (video)](https://www.youtube.com/watch?v=vhqNBWJz-pE)
+- [Summoning Durnehviir (video)](https://www.youtube.com/watch?v=8bA7ZEtCnbg)
+
+**Dated source review:** 2026-10-15
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

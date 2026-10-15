@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-14",
-    "head_sha": "980512e17a89400600dc358bb015615b57234921",
-    "project_count": 135,
+    "verified_at": "2026-10-15",
+    "head_sha": "cd5aacb6872f90e0c1e9aaff031bea81d34ef355",
+    "project_count": 137,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Contributions (no open issues; Dependabot PR #6 left open) + release sweep of 94 GitHub-linked entries (fortresscraft v0.5.8, sk8v 1.1.9; ultracraft repo now unreachable on two routes, marked dead) + 12 deep rechecks (GitHub README/LICENSE/tags/history) + discovery (8 searches, 1 new: mm-recomp-doom; deferred leads unchanged; Nexus/Steam-hosted records unreachable from the routine as before). head_sha is the parent commit. No play-tests.",
+    "scope": "Contributions (issues #7 and #8 added; Dependabot PR #6 left open) + release sweep of 95 GitHub-linked entries (no new releases; ultracraft and mario64-in-minecraft remain unreachable/dead) + 12 deep rechecks (8 GitHub, 4 Steam/GameBanana/Modrinth API; eldencraft last_activity updated) + discovery (8 searches, 0 new beyond issues; 1 lead deferred). head_sha is the parent commit. Nexus/CurseForge/BuiltByBit-hosted records not rechecked. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -29,12 +29,6 @@
       "url": "https://github.com/iChun/PortalGunClassic",
       "why": "Historical borderline cases (mechanic reimplementation / official feature); likely adjacent",
       "date": "2026-10-08"
-    },
-    {
-      "name": "Retromod 2.0 removal check",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1457560331",
-      "why": "Steam 429 blocked confirming whether the deprecated original Retromod is still listed; the entry points at Retromod 2.0",
-      "date": "2026-10-09"
     },
     {
       "name": "ScientificWays/gmod-minecraft-bridge",
@@ -131,6 +125,12 @@
       "url": "https://github.com/andrewnakas/haloskate3wasm",
       "why": "Browser Halo CE + skate core; no LICENSE, demo not verified",
       "date": "2026-10-13"
+    },
+    {
+      "name": "Minecraft Steve Passthrough [Enhanced] V1.3 (gta5mod.net repost, rimdov)",
+      "url": "https://gta5mod.net/?p=285941",
+      "why": "Third-party repost dated 2026-10-15; compare with existing minecraft-passthrough entries before treating as new",
+      "date": "2026-10-15"
     }
   ],
   "structural_upgrade": {
