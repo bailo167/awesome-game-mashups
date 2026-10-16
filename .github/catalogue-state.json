@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-15",
-    "head_sha": "f180b94e816c941083ae6a07dba78fd7576df14f",
-    "project_count": 137,
+    "verified_at": "2026-10-16",
+    "head_sha": "025021f2a79f5dd74fabc3046d667a830b8ee121",
+    "project_count": 138,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Contributions (no open issues; Dependabot PR #6 left open) + release sweep of 96 GitHub-linked entries (no new releases; ultraring has an unreleased v0.2.0 tag; ultracraft and mario64-in-minecraft still unreadable/dead) + 12 deep rechecks (7 GitHub, 3 Nexus via GraphQL API, 1 gta5-mods/YouTube, 1 Reforger source repo; no changes found) + discovery (8 searches, 0 new; steve passthrough repost lead resolved as already listed). head_sha is the parent commit. Nexus/CurseForge/BuiltByBit-hosted records not otherwise rechecked. No play-tests.",
+    "scope": "Contributions (no open issues; Dependabot PR #6 left open) + release sweep of 96 GitHub-linked entries (updates: mw2xror2 v0.4.5, gta-san-anskateas v1.2; ultracraft, mario64-in-minecraft, skate3-gmod, bo2-minecraft-zombies still unreadable from ls-remote) + 12 deep rechecks (6 GitHub, 6 video-only via oEmbed/fxtwitter/creator pages; YouTube channel feeds 404) + discovery (23 searches, 1 new: halfcraft-half-life). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -125,6 +125,12 @@
       "url": "https://github.com/andrewnakas/haloskate3wasm",
       "why": "Browser Halo CE + skate core; no LICENSE, demo not verified",
       "date": "2026-10-13"
+    },
+    {
+      "name": "Hytale in Hytale / Windows 95 in Hytale (iamcxv7)",
+      "url": "https://mein-mmo.de/en/in-hytale-koennt-ihr-jetzt-doom-und-windows-95-starten,1547342",
+      "why": "January 2026 press only; no primary repo or release found; creator already listed via hytale-doom",
+      "date": "2026-10-16"
     }
   ],
   "structural_upgrade": {
@@ -164,7 +170,7 @@
       "reachable": 115,
       "unavailable_404_410": 0,
       "unresolved": 8,
-      "outcome": "INCOMPLETE — unresolved HTTP responses retained, not treated as verified or dead",
+      "outcome": "INCOMPLETE \u2014 unresolved HTTP responses retained, not treated as verified or dead",
       "artifact_name": "link-reachability"
     },
     "pages": "Enabled by the owner on 2026-10-09; deployed by Catalogue integrity run 37885377282 and read back.",

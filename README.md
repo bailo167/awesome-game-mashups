@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**137 entries:** 117 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**138 entries:** 118 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-15. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-16. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) · [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) · [TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v) · [PeakCraft](#project-peakcraft)
+[HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) · [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) · [TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -147,6 +147,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
 | [fnv-libsm64](#project-fnv-libsm64) | Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. | Code available · Experimental | — |
 | [GTA Trilogy Multiverse Portals](#project-gta-trilogy-multiverse) | Runs GTA III, Vice City and San Andreas simultaneously with live portals between them. | In development · Video only | [Watch](https://www.youtube.com/watch?v=fpsq2MyWznc) |
+| [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) | Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release. | Code available · Experimental | — |
 | [Halo / MW2 Director](#project-halo-mw2-director) | Runs Halo CE characters and map data inside a native MW2/IW4L prototype. | Code available · Experimental | — |
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
 | [HellGate: Doom Portal](#project-hellgate-doom-portal) | Opens a portal from Minecraft into a playable DOOM II experience. | Released · Unavailable | — |
@@ -692,7 +693,7 @@ Primary creator footage demonstrates Minecraft Classic rendered inside Hytale's 
 - [Creator post](https://x.com/iamcxv711/status/2012610249174536397)
 - [Supporting source](https://www.pcgamer.com/hardware/doom-windows-95-even-hytale-itself-it-seems-like-theres-nothing-that-modders-cant-make-hytale-run/)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -762,7 +763,7 @@ No matching public source/release verified as of 2026-10-01.
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-10
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -884,7 +885,7 @@ A framework for writing one minigame that runs across Minecraft and Hytale with 
 - [Project page](https://hytale2mc.com/)
 - [Creator profile](https://github.com/alskea)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1115,14 +1116,14 @@ Minecraft runs hidden and supplies movement, inventory, HUD, blocks and combat w
 **Status:** Released · Code available · Experimental  
 **Approach:** C++ ASI plugin + Rust FFI bridge to the Skate 3 engine  
 
-CJ can switch into Skate 3-style skating on San Andreas streets, using Skate 3 controls, tricks, grinds, bails and camera behaviour against GTA's collision. Setup requires user-owned copies of GTA San Andreas and Skate 3.
+CJ can switch into Skate 3-style skating on San Andreas streets, using Skate 3 controls, tricks, grinds, bails and camera behaviour against GTA's collision. Setup requires user-owned copies of GTA San Andreas and Skate 3. v1.2 (2026-10-15) adds shooting with all weapons while riding, instant and slow-motion bail replays, an object placer and skitching behind cars; updating requires running Setup.cmd.
 
 **Requirements:** GTA San Andreas classic PC 1.0 US and the user's own Skate 3 Xbox 360 disc image are required; the release setup script builds the crossover from those user-owned game files.
 
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/ryglizzy/GTA-San-AnSkateas)
-- [Release / download](https://github.com/ryglizzy/GTA-San-AnSkateas/releases/tag/v1.1)
+- [Release / download](https://github.com/ryglizzy/GTA-San-AnSkateas/releases/tag/v1.2)
 - [Creator profile](https://github.com/ryglizzy)
 
 **Dated source review:** 2026-10-12
@@ -1180,7 +1181,7 @@ Minecraft supplies movement, blocks, hearts, inventory and combat while Fallout 
 - [Release / download](https://github.com/zeyvu/FalloutCraft/releases/tag/v0.1.3)
 - [Creator profile](https://github.com/zeyvu)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1203,7 +1204,7 @@ A playable Vice City / Skate 3 mashup built from the open reVC/re3 lineage and t
 - [Release / download](https://github.com/irregularnetwork/GTA-Skate-3-Trilogy/releases/tag/1.1)
 - [Creator profile](https://github.com/irregularnetwork)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1362,7 +1363,7 @@ Creator footage shows CS:GO-style weapons, shooting and movement inside Project 
 
 - [Watch demo](https://www.youtube.com/watch?v=n2fEHpLJUNk)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1462,7 +1463,7 @@ Lets Jimmy skate through Bullworth using Skate 3 physics and controller input, w
 
 Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty City, its camera, traffic and rendering. The creator describes the current source as early development but playable.
 
-**Requirements:** Linux with Steam + Proton (developed on Arch, Proton 11; Windows untested), GTA IV: The Complete Edition on Steam (the install script downgrades it to 1.0.8.0 and installs FusionFix + ZolikaPatch), owned Minecraft: Java Edition with Prism Launcher, plus bash/curl/unzip/python3; the documented xwin/clang/cmake/JDK 25 toolchain to build. Release notes (2026-10-10) also document a Windows install script.
+**Requirements:** GTA IV: The Complete Edition on Steam (the installer downgrades it to 1.0.8.0 and installs FusionFix and ZolikaPatch), owned Minecraft: Java Edition with Prism Launcher (Minecraft 26.3, Fabric, Java 25 fetched by Prism). Windows release installs use install-windows.bat (PowerShell 5.1). Linux installs use install-linux.sh and need bash, curl, unzip, python3, tar, sha256sum, with Proton (developed on Arch). Source builds need the documented toolchains.
 
 **Platforms documented:** Windows, Linux
 
@@ -1471,7 +1472,7 @@ Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty 
 - [Watch demo](https://www.youtube.com/watch?v=C1oCbMNOUqg)
 - [Creator profile](https://github.com/mrborghini)
 
-**Dated source review:** 2026-10-11
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1594,8 +1595,10 @@ DryxioGTA's creator demo shows GTA III, Vice City and San Andreas running simult
 - [Supporting source](https://www.tomshardware.com/video-games/pc-gaming/ambitious-modder-creates-grand-theft-auto-multiverse-with-real-time-portals-san-andreas-vice-city-and-gta-iii-all-run-simultaneously-with-cross-game-interactions)
 - [Creator profile](https://github.com/Dryxio)
 - [Creator project page](https://dryx.io/projects/)
+- [GTA Vice City running in a GTA III texture in a GTA SA texture (video)](https://www.youtube.com/watch?v=X_w6fo4KVy0)
+- [Play Vice City and GTA 3 inside San Andreas (video)](https://www.youtube.com/watch?v=bJhmdD5mFMw)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1622,7 +1625,7 @@ A real Minecraft instance runs hidden and owns movement, health, hunger, invento
 - [Release / download](https://github.com/goonsn/Killcraft/releases/tag/v1.0.2)
 - [Creator profile](https://github.com/goonsn)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1753,7 +1756,7 @@ The creator demo shows Hijacked geometry, collision, bots, navmesh, weapons and 
 - [Supporting source](https://www.minecraft-france.fr/call-of-duty-black-ops-2-directement-dans-minecraft/)
 - [Creator profile](https://github.com/luckeyfaraday)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2288,7 +2291,7 @@ An X video posted on 30 Sep 2026 ('I put Tarkov into Skyrim. Now with guns and e
 
 - [Creator post](https://x.com/cydonix/status/2105177318968955044)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3181,7 +3184,7 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 **Status:** Released · Code available · Experimental  
 **Approach:** Rust MW2 simulation library (IW4L crates via chasmlol's 2010 Rust Rewrite Mashup) loaded in-process by a BepInEx plugin; MW2 assets read from the player's own install  
 
-A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement and weapon handling (fire timing, recoil, spread, ADS, reloads) run in a Rust library built on IW4L's crates, loaded in-process, while RoR2 keeps damage, items and enemies, so RoR2 items proc off MW2 guns. Guns, attachments, camos, viewmodel, animations, sounds, HUD, minimap and menus are read at runtime from the player's own MW2 install. Includes Create-a-Class, perks as RoR2 items, deathstreaks, all 15 killstreaks, MW2 XP/ranks/challenges and co-op through RoR2 lobbies. v0.4.4 (2026-10-11) targets RoR2's 8 Oct 2026 update and fixes a co-op desync between mod-manager and manual installs.
+A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement and weapon handling (fire timing, recoil, spread, ADS, reloads) run in a Rust library built on IW4L's crates, loaded in-process, while RoR2 keeps damage, items and enemies, so RoR2 items proc off MW2 guns. Guns, attachments, camos, viewmodel, animations, sounds, HUD, minimap and menus are read at runtime from the player's own MW2 install. Includes Create-a-Class, perks as RoR2 items, deathstreaks, all 15 killstreaks, MW2 XP/ranks/challenges and co-op through RoR2 lobbies. v0.4.5 (2026-10-15) fixes random getting-stuck, restores MW2 kill-popup values, adds Copycat, a second Tactical Insertion plant and weapon bob; v0.4.4 (2026-10-11) targeted RoR2's 8 Oct 2026 update and fixed a co-op desync between mod-manager and manual installs.
 
 **Requirements:** Windows 10/11 64-bit; Risk of Rain 2 and Call of Duty: Modern Warfare 2 (2009) on Steam with MW2 multiplayer content (no game files included); BepInEx 5 and RoR2BepInExPack (the manual zip includes the pack). Experimental: solo tested on the 8 Oct 2026 RoR2 update; co-op not fully re-tested there, 3-4 player lobbies and other mods untested; Linux/Steam Deck untested.
 
@@ -3409,13 +3412,15 @@ ULTRAKILL handles V1's movement, dashes, slides, weapons and HUD while Elden Rin
 
 An experimental, work-in-progress, offline-only passthrough: AoTTG2 (BepInEx) runs movement, hooks and blades in the background while Elden Ring draws the world and runs its enemies. Elden Ring terrain is copied into AoTTG2 for swinging and the cables and crosshair are drawn as overlays. The README says blade hits on enemies are not working yet; its 'tested by playing' claim is the creator's own.
 
-**Requirements:** Your own copies of both games, with AoTTG2 running under BepInEx; Elden Ring offline only. The full list was not recorded.
+**Requirements:** Windows x64; own Steam Elden Ring App Ver. 1.17.1 (offline only, launched via me3 v0.13.0 without Easy Anti-Cheat); AoTTG2 1.2.3 run from Aottg2.exe with BepInEx 6.0.0-be.788 (IL2CPP x64). Building needs LLVM-MinGW, .NET SDK 8 and Python 3.12.
+
+**Platforms documented:** Windows
 
 - [Source code](https://github.com/mpere056/attack-on-elden-ring)
 - [Creator profile](https://github.com/mpere056)
 - [AI Game Modding Guides](https://github.com/trevaintdead/ai-game-modding-guides)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3783,6 +3788,33 @@ Glenny's YouTube videos show Skyrim-style shouts (Unrelenting Force, Whirlwind S
 - [Summoning Durnehviir (video)](https://www.youtube.com/watch?v=8bA7ZEtCnbg)
 
 **Dated source review:** 2026-10-15
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-halfcraft-half-life"></a>
+
+### HalfCraft (Minecraft in Half-Life)
+
+**Guest:** Minecraft: Java Edition (Fabric)  
+**Host:** Half-Life  
+**Creator:** sogutemir  
+**Status:** Code available · Experimental  
+**Approach:** Fork of chasmlol/SkyCraft: Windows shared-memory seqlock bridge between a GoldSrc host/client DLL and a Fabric Minecraft instance  
+
+A SkyCraft-derived bridge in which the real GoldSrc Half-Life keeps movement, BSP maps, NPCs and rendering while a separate authenticated Minecraft Java (Fabric) instance supplies inventory, crafting, chests, blocks, health, hunger, armour and combat rules, connected over Windows shared memory. Minecraft blocks stop native Half-Life NPCs, sight traces and bullets; confirmed kills grant Minecraft XP and loot. The README says an observation-only bridge milestone was verified on 2026-10-04, but full-campaign acceptance is incomplete and several damage, death and respawn paths still need live acceptance. There is no release or tag, the launcher scripts hard-code the developer's Half-Life path, and the README shows in-game screenshots but no video.
+
+**Requirements:** Owned Half-Life and Minecraft: Java Edition with Microsoft/Mojang authentication; Windows with VS2022 C++ v143 tools and Windows SDK, Python and Java 25 to build; Fabric for Minecraft 26.3 and a portable Prism launcher. No release is published and the launch scripts use the developer's Half-Life path.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/sogutemir/HalfCraft)
+- [Creator profile](https://github.com/sogutemir)
+- [Upstream SkyCraft](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
