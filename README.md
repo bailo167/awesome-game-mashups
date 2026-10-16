@@ -743,7 +743,7 @@ Minecraft Java runs beside GTA V rather than being reimplemented. GTA drives Min
 - [GTA V Enhanced derivative](https://github.com/GrantMatas/minecraft-in-gta-enhanced)
 - [Packaged GTA V Enhanced derivative](https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -832,7 +832,7 @@ Runs a fully featured second Minecraft instance on an in-world display and forwa
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/project-inception)
 - [Creator profile](https://github.com/Arc-blroth)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -931,7 +931,7 @@ Creator footage shows Minecraft and Hytale clients sharing one Hytale-hosted wor
 - [Supporting source](https://www.gamesradar.com/games/rpg/hytale-gets-crossplay-with-minecraft-thanks-to-15-year-old-modder-presumably-channeling-some-form-of-black-magic/)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1099,7 +1099,7 @@ Minecraft runs hidden and supplies movement, inventory, HUD, blocks and combat w
 - [Release / download](https://github.com/LoAlCo/ValCraft/releases/tag/v0.7.0)
 - [Creator profile](https://github.com/LoAlCo)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1126,7 +1126,7 @@ CJ can switch into Skate 3-style skating on San Andreas streets, using Skate 3 c
 - [Release / download](https://github.com/ryglizzy/GTA-San-AnSkateas/releases/tag/v1.2)
 - [Creator profile](https://github.com/ryglizzy)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1154,7 +1154,7 @@ Minecraft remains responsible for simulating the Wither Storm while the bridge d
 - [Watch demo](https://www.youtube.com/watch?v=spm-u_cZvl8)
 - [Creator profile](https://github.com/VortexisTV)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1230,7 +1230,7 @@ Minecraft runs hidden and supplies player physics, blocks, items, mobs, inventor
 - [Source code](https://github.com/SawyerTheNerd/Minecraft-X-HalfLife)
 - [Creator profile](https://github.com/SawyerTheNerd)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1284,7 +1284,7 @@ Pressing J drops the WoW character onto a skateboard using Skate 3's physics, wi
 - [Watch demo](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4)
 - [Creator profile](https://github.com/Kimmo3223)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1312,7 +1312,7 @@ An installer/launcher for a three-game mashup. Inside GTA San Andreas, F6 switch
 - [Watch demo](https://streamable.com/19fo55)
 - [Creator profile](https://github.com/Sm1jjj)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1342,7 +1342,7 @@ Creator footage shows Minecraft movement, combat, building and items operating t
 - [benilla upstream](https://github.com/samwhosung/benilla)
 - [Creator video: release and multiplayer download (2026-10-05)](https://www.youtube.com/watch?v=dKZN2nKc4bc)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1390,7 +1390,7 @@ Minecraft supplies the player physics, blocks, inventory and interactions while 
 - [Release / download](https://github.com/Yaekai/OWCraft/releases/tag/v0.1.1)
 - [Creator profile](https://github.com/Yaekai)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3197,7 +3197,7 @@ A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement
 - [Creator showcase video](https://github.com/buhhrad/MW2xRoR2/raw/main/docs/media/showcase.mp4)
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-16
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3631,7 +3631,7 @@ Brings Skate 3's Flick-It controls, board physics, grinds, manuals, tricks, bail
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/becaring/SK8V)
-- [Release / download](https://github.com/becaring/SK8V/releases/tag/1.1.9)
+- [Release / download](https://github.com/becaring/SK8V/releases/tag/1.1.10)
 - [Creator profile](https://github.com/becaring)
 
 **Dated source review:** 2026-10-13

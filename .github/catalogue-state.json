@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-16",
-    "head_sha": "025021f2a79f5dd74fabc3046d667a830b8ee121",
+    "head_sha": "c4be4b9163fff362005450ee5bba05cdd3d9a95c",
     "project_count": 138,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Contributions (no open issues; Dependabot PR #6 left open) + release sweep of 96 GitHub-linked entries (updates: mw2xror2 v0.4.5, gta-san-anskateas v1.2; ultracraft, mario64-in-minecraft, skate3-gmod, bo2-minecraft-zombies still unreadable from ls-remote) + 12 deep rechecks (6 GitHub, 6 video-only via oEmbed/fxtwitter/creator pages; YouTube channel feeds 404) + discovery (23 searches, 1 new: halfcraft-half-life). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
+    "scope": "Second run 2026-10-16: contributions (no open issues; Dependabot PR #6 left open) + release sweep of GitHub-linked entries (update: sk8v 1.1.10; skate3-gmod, ultracraft, mario64-in-minecraft, bo2-minecraft-zombies still unreadable from ls-remote) + 12 deep rechecks (all GitHub-sourced) + discovery (8 searches, no new verified projects; 17 deferred leads re-checked for tags/licences, unchanged). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -170,7 +170,7 @@
       "reachable": 115,
       "unavailable_404_410": 0,
       "unresolved": 8,
-      "outcome": "INCOMPLETE \u2014 unresolved HTTP responses retained, not treated as verified or dead",
+      "outcome": "INCOMPLETE — unresolved HTTP responses retained, not treated as verified or dead",
       "artifact_name": "link-reachability"
     },
     "pages": "Enabled by the owner on 2026-10-09; deployed by Catalogue integrity run 37885377282 and read back.",
