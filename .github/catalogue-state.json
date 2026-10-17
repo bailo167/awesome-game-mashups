@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-17",
-    "head_sha": "335c4068d786280a3e0bbf5064353433344d7150",
+    "head_sha": "0bf125364d0a95b2678821e7bf6e370af5896099",
     "project_count": 141,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-17: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 97 GitHub-linked entries (update: smc64-halo v0.0.5-alpha; skate3-gmod, ultracraft, mario64-in-minecraft, bo2-minecraft-zombies still return 404/auth prompt, left unchanged) + 12 deep rechecks + discovery (2 subagent searches covering ~16 queries, +3 new: sm64bs, retro-machines, lethalmario64; 4 leads deferred). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-17 PM: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 98 GitHub-linked entries (no release changes; 4 known repos still 404/auth prompt) + 16 deep rechecks (5 video-only/watchlist, 11 GitHub; doom-in-balatro not stamped, reddit 403) + discovery (~16 queries, 0 new; CraftVM, haloskate3wasm re-checked and kept deferred; 1 lead added). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -111,8 +111,8 @@
     {
       "name": "NanoBunTV/Minecraft-CraftVM",
       "url": "https://github.com/NanoBunTV/Minecraft-CraftVM",
-      "why": "VirtualBox VMs on in-world computers; no LICENSE text, Modrinth API unreachable",
-      "date": "2026-10-13"
+      "why": "Rechecked 2026-10-17: tag v1.0.0 (2026-10-09), GPL-3.0-only per README, VirtualBox 7.2 host (Windows/Linux x64), download on Modrinth (unreachable); likely adjacent to vm-computers; GitHub releases page empty",
+      "date": "2026-10-17"
     },
     {
       "name": "Minecraft in Skyrim (Nexus 48439, historic)",
@@ -123,8 +123,8 @@
     {
       "name": "andrewnakas/haloskate3wasm",
       "url": "https://github.com/andrewnakas/haloskate3wasm",
-      "why": "Browser Halo CE + skate core; no LICENSE, demo not verified",
-      "date": "2026-10-13"
+      "why": "Rechecked 2026-10-17: commits 2026-10-14, GitHub Pages demo returns 200 (not play-tested), still no LICENSE; Skate 3 movement logic in browser Halo CE; likely adjacent",
+      "date": "2026-10-17"
     },
     {
       "name": "Hytale in Hytale / Windows 95 in Hytale (iamcxv7)",
@@ -154,6 +154,12 @@
       "name": "RLXDOOM Testing (Doom in Roblox, RobeeSeth)",
       "url": "https://www.roblox.com/games/16397391735/rlxdoom-testing",
       "why": "Roblox page says far from complete; not yet verified; RooM (PoptartNoahh) unlocated",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Doom inside RollerCoaster Tycoon (Rick de Jager)",
+      "url": "https://www.tecnoandroid.it/",
+      "why": "Jan 2026 press only (Windows Central, tecnoandroid); save-file out-of-bounds exploit launches Doom; no repo URL/licence found",
       "date": "2026-10-17"
     }
   ],
@@ -243,7 +249,7 @@
     {
       "id": "doom-in-balatro",
       "host": "reddit.com / github.com (creator UwUDev)",
-      "date": "2026-10-13"
+      "date": "2026-10-17"
     }
   ]
 }

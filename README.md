@@ -649,7 +649,7 @@ Runs on emulator and, with reduced render distance, on original Nintendo 64 hard
 - [Creator post](https://x.com/arthurtilly413/status/1924566904498487662)
 - [Creator GitHub](https://github.com/arthurtilly)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -674,7 +674,7 @@ An ongoing recreation of Morrowind in Elden Ring. A May 2026 update showed major
 - [Creator second channel (AnotherPlus): Update Video #1 (2025-10-29)](https://www.youtube.com/watch?v=l7GP9jdKbVk)
 - [Creator second channel (AnotherPlus): Update Video #2 (2026-05-06)](https://www.youtube.com/watch?v=U57Px9REH98)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -717,7 +717,7 @@ Primary creator footage exists, but no public repository/download was located; b
 - [Creator post](https://x.com/TobynJacobs/status/2104884843297599594)
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -786,7 +786,7 @@ Earlier viral Minecraft-in-Skyrim footage was not independently sourced. Do not 
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1004,7 +1004,7 @@ A work-in-progress multiplayer Pokémon-style project inside Hytale. Creator foo
 - [Supporting source](https://www.dexerto.com/pokemon/hytale-modder-is-turning-classic-pokemon-into-an-mmo-you-can-play-with-friends-3409404/)
 - [Creator follow-up: field abilities preview (2026-09-18)](https://x.com/pokeworldonlin/status/2100900271962431670)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1420,7 +1420,7 @@ Runs Skate 3's board physics, tricks and scoring on Garry's Mod maps, with multi
 - [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/9.0)
 - [Creator profile](https://github.com/the-schwilliam)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1525,7 +1525,7 @@ Minecraft's colour and depth are composited into Fallout: New Vegas while FNV ca
 - [Source code](https://github.com/Davozh/new-vegascraft)
 - [Creator profile](https://github.com/Davozh)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1549,7 +1549,7 @@ Unlike the passthrough projects, Minebonk uses one Megabonk process and rebuilds
 - [Source code](https://github.com/MGuibas/Minebonk)
 - [Creator profile](https://github.com/MGuibas)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1655,7 +1655,7 @@ Mario's triple jumps, wall kicks, long jumps, ground pounds, attacks, health wed
 - [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.2)
 - [Creator profile](https://github.com/deltarooo)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1709,7 +1709,7 @@ Garry's Mod runs hidden beside Red Dead Redemption 2 and supplies the player, sa
 - [Release / download](https://github.com/codeByAlexff/garrys-redemption/releases/tag/v0.1.0-beta)
 - [Creator profile](https://github.com/codeByAlexff)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1737,7 +1737,7 @@ The project patches IW4L for a native Mac crossover: Halo CE Spartans, sounds/ef
 - [Halo map importer scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/HALO_MAPS.md)
 - [Autonomous bot-match scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/BOT_MATCHES.md)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1814,7 +1814,7 @@ GEGI adds an in-game browser catalogue and embeds playable itch.io and Newground
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/gegi)
 - [Creator profile](https://github.com/Pr1nted)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1896,7 +1896,7 @@ Minecraft Java runs alongside Elden Ring and owns the Minecraft player, blocks, 
 - [Creator profile](https://github.com/siddoff)
 - [Upstream Minecraft Crossover Bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2086,7 +2086,7 @@ A Hearts of Iron IV Workshop mod that runs the whole DOOM engine, based on doomg
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3800765971)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2220,7 +2220,7 @@ Adds SNES, NES and Genesis console stations with CRT TVs, plus GB/GBC/GBA handhe
 - [Release / download](https://github.com/Nighthawk42/gemu/releases)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3801421244)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2246,7 +2246,7 @@ Spawning NG64's Mario from BeamNG.drive's vehicle selector gives Super Mario 64'
 - [Source code](https://github.com/zer0ducksgiven/NG64)
 - [Release / download](https://github.com/zer0ducksgiven/NG64/releases)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3308,11 +3308,11 @@ A Windows mod based on chasmlol's SkyCraft framework: Minecraft Java runs in the
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/Wanesia/WitcherCraft)
-- [Release / download](https://github.com/Wanesia/WitcherCraft/releases)
+- [Release / download](https://github.com/Wanesia/WitcherCraft/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/Wanesia)
 - [SkyCraft (upstream framework)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
