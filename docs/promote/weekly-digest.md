@@ -1,7 +1,10 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-16. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-17. These are additions to the index, not necessarily new releases.
 
+- **[SM64BS (Mario 64 in Beat Saber)](https://github.com/bailo167/awesome-game-mashups#project-sm64bs)** — Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. (Released · Code available)
+- **[Retro Machines (Game Boy in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retro-machines)** — Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. (Released · Experimental)
+- **[LethalMario64 (Mario 64 in Lethal Company)](https://github.com/bailo167/awesome-game-mashups#project-lethalmario64)** — A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. (Released)
 - **[HalfCraft (Minecraft in Half-Life)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft-half-life)** — Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release. (Code available · Experimental)
 - **[Skyrim Shouts and Dragons in Fallout 4 (Glenny)](https://github.com/bailo167/awesome-game-mashups#project-skyrim-shouts-fallout-4-glenny)** — Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. (In development · Video only)
 - **[Knee-Deep in the Mines](https://github.com/bailo167/awesome-game-mashups#project-knee-deep-in-the-mines)** — Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds. (Code available · Experimental)
@@ -27,4 +30,3 @@ Week ending 2026-10-16. These are additions to the index, not necessarily new re
 - **[Halfcraft (Minecraft in Half Sword)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft)** — Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. (Released · Code available · Experimental)
 - **[Attack on Elden Ring](https://github.com/bailo167/awesome-game-mashups#project-attack-on-elden-ring)** — Brings Attack on Titan Tribute Game 2's ODM gear movement into Elden Ring using both games at once. (Code available · Experimental)
 - **[BNes Fork (NES on Minecraft servers)](https://github.com/bailo167/awesome-game-mashups#project-bnes-fork)** — Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. (Released · Code available)
-- **[Mario 64 in Minecraft (Zckyy)](https://github.com/bailo167/awesome-game-mashups#project-mario64-in-minecraft)** — Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. (Released · Code available · Experimental · Unavailable)

@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-16",
-    "head_sha": "c4be4b9163fff362005450ee5bba05cdd3d9a95c",
-    "project_count": 138,
+    "verified_at": "2026-10-17",
+    "head_sha": "335c4068d786280a3e0bbf5064353433344d7150",
+    "project_count": 141,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Second run 2026-10-16: contributions (no open issues; Dependabot PR #6 left open) + release sweep of GitHub-linked entries (update: sk8v 1.1.10; skate3-gmod, ultracraft, mario64-in-minecraft, bo2-minecraft-zombies still unreadable from ls-remote) + 12 deep rechecks (all GitHub-sourced) + discovery (8 searches, no new verified projects; 17 deferred leads re-checked for tags/licences, unchanged). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-17: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 97 GitHub-linked entries (update: smc64-halo v0.0.5-alpha; skate3-gmod, ultracraft, mario64-in-minecraft, bo2-minecraft-zombies still return 404/auth prompt, left unchanged) + 12 deep rechecks + discovery (2 subagent searches covering ~16 queries, +3 new: sm64bs, retro-machines, lethalmario64; 4 leads deferred). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -131,6 +131,30 @@
       "url": "https://mein-mmo.de/en/in-hytale-koennt-ihr-jetzt-doom-und-windows-95-starten,1547342",
       "why": "January 2026 press only; no primary repo or release found; creator already listed via hytale-doom",
       "date": "2026-10-16"
+    },
+    {
+      "name": "Doom E1M1 inside Fortnite UEFN (Jackson Clayton)",
+      "url": "https://x.com/JKClayton_FN/status/1810058180778398196",
+      "why": "2024 level recreation, press only (Destructoid); creator said unpublishable; likely adjacent/video-only",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Super Mario Maker in LittleBigPlanet 3 (ClapTrap9)",
+      "url": "https://gameinformer.com/2019/04/05/super-mario-maker-recreated-inside-little-big-planet-3",
+      "why": "Press only; no video or level link found",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Game Boy / GBA in vanilla Minecraft (Requag 2016, ScarlettTheHamster 2022)",
+      "url": "https://exputer.com/news/nintendo/game-boy-in-minecraft/",
+      "why": "Press snippets only; Reddit/YouTube primaries not read; no download found",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "RLXDOOM Testing (Doom in Roblox, RobeeSeth)",
+      "url": "https://www.roblox.com/games/16397391735/rlxdoom-testing",
+      "why": "Roblox page says far from complete; not yet verified; RooM (PoptartNoahh) unlocated",
+      "date": "2026-10-17"
     }
   ],
   "structural_upgrade": {

@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**138 entries:** 118 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**141 entries:** 121 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-16. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-17. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) · [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) · [TempleMaps](#project-templemaps-hytale) · [Super Sekiro 64](#project-super-sekiro-64) · [SK8V](#project-sk8v)
+[SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) · [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) · [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) · [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) · [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -92,6 +92,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [L4D2 x Minecraft](#project-l4d2-minecraft) | Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
 | [LethalCraft](#project-lethalcraft) | Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. | Released · Code available · Experimental | — |
+| [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) | A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. | Released | — |
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
 | [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) | Link sits at a desk PC in Majora's Mask: Recompiled and plays DOOM on its screen. | Released · Code available · Demo | — |
 | [Mario for Rec Room](#project-mario-for-rec-room) | Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. | Released · Code available · Experimental | [Watch](https://youtu.be/UF2uwklFTF0) |
@@ -111,6 +112,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Pokémon Red in Minecraft](#project-pokemon-red) | Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft. | Released | — |
 | [Project Inception](#project-project-inception) | Runs a playable second Minecraft game on a screen inside Minecraft. | Released · Code available | — |
 | [Retro Handheld Emulator 1x1 scale](#project-retro-handheld-emulator) | Runs playable Game Boy games on a giant in-world display inside Hytale. | Released | — |
+| [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Experimental | — |
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
 | [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) | A lineage of in-game console emulators for Garry's Mod, from GNES (2016) to the RetroArch-based Retromod 2.0. | Released | — |
 | [Schedule I Doom TV](#project-schedule-i-doom-tv) | Plays DOOM on the in-game televisions in Schedule I. | Released · Code available | — |
@@ -119,6 +121,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [SkyCraft](#project-skycraft) | Brings Minecraft building, exploration and gameplay into Skyrim. | Released · Code available · Experimental | — |
 | [SM64 Generations](#project-sm64-generations) | Replaces Sonic with Super Mario 64's Mario, using his exact controls and moveset, in Sonic Generations. | Released | — |
 | [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](#project-sm64-san-andreas) | An ASI plugin that lets you swap CJ for a fully physical Super Mario 64 Mario in GTA San Andreas. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=AS86LTwcGcA) |
+| [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) | Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. | Released · Code available | — |
 | [SMC64 — Mario in Halo: CE](#project-smc64-halo) | Puts a playable Super Mario 64 Mario into Halo: Combat Evolved. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=tj5fAk7KkHA) |
 | [Subnauticraft (Subnautica Link)](#project-subnauticraft) | Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer. | Released · Code available | — |
 | [Super Sekiro 64](#project-super-sekiro-64) | Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. | Released · Code available · Experimental | — |
@@ -550,7 +553,7 @@ Four destructible Minecraft maps built inside Halo 3. This is more than a textur
 - [Project page](https://www.patreon.com/infernoplus/posts/halocraft-73930239)
 - [Official Halo spotlight](https://www.halowaypoint.com/news/halo-mcc-modtacular-2)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -574,7 +577,7 @@ A large multiplayer-focused Dark Souls overhaul that evolved into a Halo/Dark So
 - [Original release post](https://www.patreon.com/infernoplus/posts/dark-souls-46865100)
 - [Community tooling: DS Gadget for Remastest](https://github.com/Nordgaren/DS-Gadget-for-Remastest)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -598,7 +601,7 @@ A seven-year solo recreation designed to be playable from beginning to end, cove
 - [Release / download](https://rivero7462.itch.io/ocarina-of-time-in-minecraft)
 - [Watch demo](https://www.youtube.com/watch?v=HSGioTZ_rf4)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -623,7 +626,7 @@ A complete playable recreation of Pokémon Red built in vanilla Minecraft, repro
 
 - [Release / download](https://www.curseforge.com/minecraft/worlds/pokemon-red)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -857,7 +860,7 @@ A DOOM source port for Minecraft. Mocha Doom owns the game simulation while Mine
 
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/latte-doom)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -978,7 +981,7 @@ Recreates a substantial Pokémon adventure loop inside Hytale: starter selection
 - [Release / download](https://www.curseforge.com/hytale/mods/talemonpokemon)
 - [Watch demo](https://www.youtube.com/watch?v=wJbgOMAv5-s)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1046,7 +1049,7 @@ Recreates Geometry Dash-style 2D side-scrolling levels as a downloadable Hytale 
 - [Release / download](https://www.curseforge.com/hytale/worlds/geometrytale)
 - [Watch demo](https://www.youtube.com/watch?v=N13Usbcgn60)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1072,7 +1075,7 @@ Recreates two Crash Bandicoot levels in Minecraft with custom gameplay mechanics
 - [Release / download](https://www.curseforge.com/minecraft/worlds/minecraft-but-its-crash-bandicoot)
 - [Watch demo](https://www.youtube.com/watch?v=E4y9sj8vXJs)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2260,7 +2263,7 @@ Spawning NG64's Mario from BeamNG.drive's vehicle selector gives Super Mario 64'
 **Status:** Released · Code available · Experimental  
 **Approach:** libsm64 mod for Halo CE in MCC  
 
-A libsm64-based mod that runs SM64's Mario movement inside Halo CE in the Master Chief Collection. The latest alpha came out on 1 Oct 2026.
+A libsm64-based mod that runs SM64's Mario movement inside Halo CE in the Master Chief Collection. The latest alpha, v0.0.5, came out on 17 Oct 2026 and adds a powder keg powerup, faster BSP conversion and a fix for invisible walls at steep ledges; new maps must be installed with the binaries.
 
 **Requirements:** Halo: MCC (Steam), SM64 ROM
 
@@ -2270,7 +2273,7 @@ A libsm64-based mod that runs SM64's Mario movement inside Halo CE in the Master
 - [Release / download](https://github.com/KodyJKing/smc64/releases)
 - [Watch demo](https://www.youtube.com/watch?v=tj5fAk7KkHA)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3225,7 +3228,7 @@ An F4SE mod that renders The Elder Scrolls III: Morrowind, running through OpenM
 - [Creator profile](https://github.com/rpgking117)
 - [Nexus Mods page (listed by the creator and press; not reachable from the review environment)](https://www.nexusmods.com/fallout4/mods/104456)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3253,7 +3256,7 @@ A Lucas' Simpsons Hit & Run Mod Launcher hack that embeds doomgeneric (Chocolate
 - [Creator profile](https://github.com/EnAppelsin)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3365,7 +3368,7 @@ A BepInEx Subnautica plugin paired with a Fabric Minecraft mod: shared health, h
 - [Creator profile](https://github.com/JasonNinja15)
 - [SubCraft (separate project)](https://github.com/FumperForrest/SubCraft)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3393,7 +3396,7 @@ ULTRAKILL handles V1's movement, dashes, slides, weapons and HUD while Elden Rin
 - [ULTRAKILL Crossover Bridge](https://github.com/Themetralla3000/ultrakill-crossover-bridge)
 - [Minecraft Ring](https://github.com/siddoff/Minecraft-Ring)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3815,6 +3818,82 @@ A SkyCraft-derived bridge in which the real GoldSrc Half-Life keeps movement, BS
 - [Upstream SkyCraft](https://github.com/chasmlol/SkyCraft)
 
 **Dated source review:** 2026-10-16
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-sm64bs"></a>
+
+### SM64BS (Mario 64 in Beat Saber)
+
+**Guest:** Super Mario 64  
+**Host:** Beat Saber  
+**Creator:** ckosmic  
+**Status:** Released · Code available  
+**Approach:** Beat Saber mod wrapping a fork of libsm64 and libsm64-unity (SM64 decompilation movement code) with VR controller input and a plugin system  
+
+A Beat Saber mod that uses ckosmic's modified libsm64 and libsm64-unity to put Mario in the game, controlled with the VR controllers. Mario can be picked up and used in the menu, has a settings menu for name tag, colours and game settings, and the scene supports Counters+-style plugins that change his behaviour. Assets come from a user-supplied US SM64 ROM placed as baserom.us.z64. The three GitHub pre-releases date from March 2022 and the repository has had no commits since.
+
+**Requirements:** Beat Saber (PC VR) with SiraUtil and BSML, and a user-supplied US Super Mario 64 ROM named baserom.us.z64 in the Beat Saber folder; SteamVR controller mapping may be needed.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/ckosmic/SM64BS)
+- [Release / download](https://github.com/ckosmic/SM64BS/releases)
+- [Creator profile](https://github.com/ckosmic)
+- [libsm64 fork](https://github.com/ckosmic/libsm64/tree/changes)
+
+**Dated source review:** 2026-10-17
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-retro-machines"></a>
+
+### Retro Machines (Game Boy in Minecraft)
+
+**Guest:** Game Boy (rboy emulator)  
+**Host:** Minecraft: Java Edition (Fabric 1.20.1)  
+**Creator:** modmuss50  
+**Status:** Released · Experimental  
+**Approach:** Fabric mod embedding a modified mvdnes/rboy Game Boy emulator, with ROM loading by button or drag-and-drop  
+
+A Fabric mod for Minecraft 1.20.1 that embeds a modified version of the open-source rboy Game Boy emulator, built to run inside a Minecraft mod. Players load their own ROMs with an Open ROM button or by dragging a file into the Minecraft window; the free 2048-gb homebrew game is bundled and no copyrighted ROMs are included. The creator calls it a prototype made in a couple of days, with better audio, link-cable play and other consoles listed only as future ideas. It overlaps in kind with the other emulator-in-Minecraft entries.
+
+**Requirements:** Minecraft Java Edition 1.20.1 with Fabric (client and server); the user supplies Game Boy ROMs.
+
+- [Release / download](https://www.curseforge.com/minecraft/mc-mods/retro-machines)
+- [rboy emulator](https://github.com/mvdnes/rboy)
+
+**Dated source review:** 2026-10-17
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-lethalmario64"></a>
+
+### LethalMario64 (Mario 64 in Lethal Company)
+
+**Guest:** Super Mario 64  
+**Host:** Lethal Company  
+**Creator:** Kosmikstars  
+**Status:** Released  
+**Approach:** BepInEx suit mod running libsm64 (SM64 decompilation movement code) for the local player  
+
+A BepInEx mod for Lethal Company that adds a Mario suit giving the player SM64 Mario's physics and moves, voice and a third-person camera through libsm64. It depends on BepInExPack and More_Suits and needs the user's own US SM64 ROM. The Thunderstore listing (version 0.6.2, created 2026-10-11) links no source repository and states no licence.
+
+**Requirements:** Lethal Company with BepInExPack 5.4.2305 and More_Suits 1.5.4, plus the user's own US Super Mario 64 ROM.
+
+- [Release / download](https://thunderstore.io/c/lethal-company/p/Kosmikstars/LethalMario64/)
+- [libsm64](https://github.com/libsm64/libsm64)
+
+**Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
