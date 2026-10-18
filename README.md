@@ -2669,7 +2669,7 @@ Both games run at once: Saints Row owns the world, vehicles and camera, while on
 - [Creator profile](https://github.com/SawyerTheNerd)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3286,7 +3286,7 @@ Windows alpha in which Source (Left 4 Dead 2) owns the map, movement and infecte
 - [Creator profile](https://github.com/Rizen1322)
 - [Universal Modder (template origin)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3342,7 +3342,7 @@ A passthrough mod: Minecraft 26.3 (Fabric) runs alongside Half Sword (Early Acce
 - [Creator profile](https://github.com/Deez-coder)
 - [Universal Modder](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3453,7 +3453,7 @@ A fork of ER Mario re-done for Sekiro 1.06: libsm64 runs Mario in the game proce
 - [Creator profile](https://github.com/BassGaming)
 - [Upstream: ER Mario](https://github.com/deltarooo/er-mario)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3480,8 +3480,9 @@ A BepInEx mod that puts SM64's Mario, running on libsm64's real physics, into ol
 - [Release / download](https://github.com/Shippy089/SM64-Mario_RecRoom/releases/tag/v2.00)
 - [Watch demo](https://youtu.be/UF2uwklFTF0)
 - [Creator profile](https://github.com/Shippy089)
+- [Wing Cap showcase (YouTube, linked from README)](https://youtu.be/82K-5s4_zy8)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3508,7 +3509,7 @@ A BepInEx-side exporter reads the player's own PEAK install and builds each day'
 - [Release / download](https://github.com/E1GAT0-dotcom/MinePeak/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/E1GAT0-dotcom)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3535,7 +3536,7 @@ A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weap
 - [Release / download](https://github.com/stanleymov/DOOM-RING/releases/tag/v1.2)
 - [Creator profile](https://github.com/stanleymov)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3561,7 +3562,7 @@ An xNVSE plugin that runs SM64's own movement code through libsm64, collides it 
 - [Source code](https://github.com/larsoyd/fnv-libsm64)
 - [Creator profile](https://github.com/larsoyd)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3589,7 +3590,7 @@ Minecraft Java runs alongside Lethal Company and the two talk through a bridge a
 - [Creator profile](https://github.com/ThatGuyTHD)
 - [Upstream: SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3608,11 +3609,15 @@ Minecraft Java runs alongside Lethal Company and the two talk through a bridge a
 
 Two small mods linked through shared memory: PEAK draws blocks, lighting and fog while a hidden Minecraft supplies physics, HUD, inventory and screens. Solo only; the README describes a survival mode linking Minecraft hearts to PEAK hazards. Build from source.
 
+**Requirements:** Build from source with the .NET SDK 10 and JDK 25 on Windows; no release is published.
+
+**Platforms documented:** Windows
+
 - [Source code](https://github.com/aeironnsarmiento/PeakCraft)
 - [Creator profile](https://github.com/aeironnsarmiento)
 - [Upstream: SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3639,7 +3644,7 @@ Brings Skate 3's Flick-It controls, board physics, grinds, manuals, tricks, bail
 - [Release / download](https://github.com/becaring/SK8V/releases/tag/1.1.10)
 - [Creator profile](https://github.com/becaring)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3689,7 +3694,7 @@ A Hytale server plugin that wraps the pure-Java JPC x86 emulator and renders 640
 - [Source code](https://github.com/ssquadteam/TempleMaps)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-18",
-    "head_sha": "d58c5fb9798fb1c6d56c1f96698901e8b946da9a",
+    "head_sha": "55a505ddae3914026db810d53bbfa0fdad0629d5",
     "project_count": 143,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-18: contributions (issue #9 Hollow Sols added and closed; Dependabot PR #6 left open) + release sweep of 98 GitHub-linked entries (skate3-gmod and bo2-minecraft-zombies marked dead: DaffyDabz account gone; no other release changes) + 12 deep rechecks (6 GitHub/GitLab, 6 via Nexus/Modrinth/GameBanana/Factorio/X APIs; none unreachable) + discovery (~26 queries; RetroConsole added, 3 leads deferred). head_sha is the parent commit (batch 1, d58c5fb). 5 records remain in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-18 batch 3: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 100 GitHub-linked entries by tag (no new releases; ultracraft, mario64-in-minecraft, skate3-gmod, bo2-minecraft-zombies remain dead) + 12 deep rechecks (doom-ring, fnv-libsm64, halfcraft, l4d2-minecraft, lethalcraft, mario-for-rec-room, minecraft-x-saints-row-3, minepeak, peakcraft, sk8v, super-sekiro-64, templemaps-hytale; AI-assistance disclosures added to 3, peakcraft platforms/requirements filled) + discovery (~13 queries; nothing new, all hits already catalogued). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
