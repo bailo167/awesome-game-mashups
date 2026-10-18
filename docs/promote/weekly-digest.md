@@ -1,7 +1,8 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-17. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-18. These are additions to the index, not necessarily new releases.
 
+- **[Hollow Sols (Nine Sols in Hollow Knight's Godhome)](https://github.com/bailo167/awesome-game-mashups#project-hollow-sols)** — A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. (Released · Code available · Experimental)
 - **[SM64BS (Mario 64 in Beat Saber)](https://github.com/bailo167/awesome-game-mashups#project-sm64bs)** — Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. (Released · Code available)
 - **[Retro Machines (Game Boy in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retro-machines)** — Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. (Released · Experimental)
 - **[LethalMario64 (Mario 64 in Lethal Company)](https://github.com/bailo167/awesome-game-mashups#project-lethalmario64)** — A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. (Released)
@@ -15,7 +16,7 @@ Week ending 2026-10-17. These are additions to the index, not necessarily new re
 - **[SK8V](https://github.com/bailo167/awesome-game-mashups#project-sk8v)** — Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. (Released · Code available · Experimental)
 - **[PeakCraft](https://github.com/bailo167/awesome-game-mashups#project-peakcraft)** — Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. (Code available · Experimental)
 - **[MinePeak](https://github.com/bailo167/awesome-game-mashups#project-minepeak)** — Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install. (Released · Code available · Experimental)
-- **[Minecraft Zombies (bo2mc)](https://github.com/bailo167/awesome-game-mashups#project-bo2-minecraft-zombies)** — Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. (Released · Code available · Experimental)
+- **[Minecraft Zombies (bo2mc)](https://github.com/bailo167/awesome-game-mashups#project-bo2-minecraft-zombies)** — Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. (Released · Code available · Experimental · Unavailable)
 - **[Mario for Rec Room](https://github.com/bailo167/awesome-game-mashups#project-mario-for-rec-room)** — Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. (Released · Code available · Experimental)
 - **[LethalCraft](https://github.com/bailo167/awesome-game-mashups#project-lethalcraft)** — Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. (Released · Code available · Experimental)
 - **[fnv-libsm64](https://github.com/bailo167/awesome-game-mashups#project-fnv-libsm64)** — Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. (Code available · Experimental)
@@ -29,4 +30,3 @@ Week ending 2026-10-17. These are additions to the index, not necessarily new re
 - **[L4D2 x Minecraft](https://github.com/bailo167/awesome-game-mashups#project-l4d2-minecraft)** — Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op. (Released · Code available · Experimental)
 - **[Halfcraft (Minecraft in Half Sword)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft)** — Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. (Released · Code available · Experimental)
 - **[Attack on Elden Ring](https://github.com/bailo167/awesome-game-mashups#project-attack-on-elden-ring)** — Brings Attack on Titan Tribute Game 2's ODM gear movement into Elden Ring using both games at once. (Code available · Experimental)
-- **[BNes Fork (NES on Minecraft servers)](https://github.com/bailo167/awesome-game-mashups#project-bnes-fork)** — Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. (Released · Code available)

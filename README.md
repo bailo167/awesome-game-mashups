@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**141 entries:** 121 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**142 entries:** 122 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-17. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-18. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) · [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) · [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) · [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) · [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa) · [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom)
+[Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) · [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) · [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) · [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) · [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) · [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -84,6 +84,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
 | [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64) | Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. | Released · Code available · Experimental | — |
 | [Halfcraft (Minecraft in Half Sword)](#project-halfcraft) | Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. | Released · Code available · Experimental | — |
+| [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) | A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. | Released · Code available · Experimental | — |
 | [HyCraft](#project-hycraft) | Lets Minecraft players join Hytale servers and interact with their worlds. | Released · Code available · Experimental | — |
 | [hytale2mc](#project-hytale2mc) | Lets Minecraft and Hytale players join the same synchronized cross-game minigames. | Released · Code available · Experimental | [Watch](https://github.com/user-attachments/assets/0dd1647d-c700-4dca-94e7-312144ce7544) |
 | [Juni Emu — GBA in Minecraft](#project-juni-emu) | A Forge mod that plays Game Boy Advance cartridges inside Minecraft, found in generated game stores. | Released · Experimental | — |
@@ -98,7 +99,6 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Mario for Rec Room](#project-mario-for-rec-room) | Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. | Released · Code available · Experimental | [Watch](https://youtu.be/UF2uwklFTF0) |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
-| [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) | Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. | Released · Code available · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
 | [MinePeak](#project-minepeak) | Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install. | Released · Code available · Experimental | — |
 | [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) | Plays Morrowind, run by OpenMW, live on Fallout 4's Pip-Boy screen via a holotape. | Released · Code available | — |
@@ -166,12 +166,13 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Minecraft voxel engine inside Super Mario 64](#project-minecraft-sm64) | Adds Minecraft-style terrain, blocks and lighting to Super Mario 64. | In development · Video only | [Watch](https://www.youtube.com/watch?v=Fo1_-UalrmY) |
 | [Minecraft X Half-Life](#project-minecraft-x-half-life) | Ports SkyCraft's Minecraft passthrough model to Half-Life. | Code available · In development · Experimental | — |
 | [Minecraft X Saints Row: The Third Remastered](#project-minecraft-x-saints-row-3) | Runs real Minecraft inside Saints Row: The Third Remastered, with building, TNT and combat in Stilwater. | Code available · In development · Experimental | — |
+| [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) | Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. | Released · Code available · Experimental · Unavailable | — |
 | [Minecraft ↔ Hytale crossplay (SSquadTeam)](#project-minecraft-hytale-crossplay-ssquadteam) | Lets Minecraft and Hytale players share a synchronized Hytale-hosted world. | Code available · In development | — |
 | [Morrowind in Elden Ring](#project-morrowind-elden-ring) | Recreates Morrowind’s world and gameplay inside Elden Ring. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n89NFtIUWDI) |
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
-| [Skate 3 Board for Garry's Mod](#project-skate3-gmod) | Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. | Code available · In development · Experimental | — |
+| [Skate 3 Board for Garry's Mod](#project-skate3-gmod) | Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. | Code available · In development · Experimental · Unavailable | — |
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
 | [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) | Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. | In development · Video only | [Watch](https://www.youtube.com/watch?v=KZQqJivPKac) |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
@@ -1773,7 +1774,7 @@ The creator demo shows Hijacked geometry, collision, bots, navmesh, weapons and 
 **Guest:** Skate 3  
 **Host:** Garry's Mod  
 **Creator:** DaffyDabz  
-**Status:** Code available · In development · Experimental  
+**Status:** Code available · In development · Experimental · Unavailable  
 **Approach:** Garry's Mod server/client add-on plus native Rust bridge into the SK8-ENGINE simulation  
 
 A Garry's Mod add-on and native Rust bridge run Skate 3's reconstructed board/skater simulation inside GMod. The project supplies the GMod-side controls, HUD, camera, bumps and bail handling while user-owned Skate 3 data feeds the simulation and generated presentation assets.
@@ -1786,7 +1787,7 @@ A Garry's Mod add-on and native Rust bridge run Skate 3's reconstructed board/sk
 - [Creator profile](https://github.com/DaffyDabz)
 - [Upstream Skate 3 rebuild](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3651,7 +3652,7 @@ Brings Skate 3's Flick-It controls, board physics, grinds, manuals, tricks, bail
 **Guest:** Call of Duty: Black Ops II Zombies, Minecraft  
 **Host:** Call of Duty: Modern Warfare 2 via IW4L (Rust rewrite)  
 **Creator:** DaffyDabz  
-**Status:** Released · Code available · Experimental  
+**Status:** Released · Code available · Experimental · Unavailable  
 **Approach:** Rust IW4L engine combining a Black Ops II Zombies rebuild with the 2010 Rust Rewrite Mashup's Minecraft world  
 
 Joins the creator's Black Ops II Zombies rebuild with chasmlol's 2010 Rust Rewrite Mashup: you play the Black Ops II character with its guns, perks, points and HUD in an endless Minecraft world, with a zombies round each night. Work in progress.
@@ -3665,7 +3666,7 @@ Joins the creator's Black Ops II Zombies rebuild with chasmlol's 2010 Rust Rewri
 - [Creator profile](https://github.com/DaffyDabz)
 - [Upstream: 2010 Rust Rewrite Mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3894,6 +3895,32 @@ A BepInEx mod for Lethal Company that adds a Mario suit giving the player SM64 M
 - [libsm64](https://github.com/libsm64/libsm64)
 
 **Dated source review:** 2026-10-17
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-hollow-sols"></a>
+
+### Hollow Sols (Nine Sols in Hollow Knight's Godhome)
+
+**Guest:** Nine Sols  
+**Host:** Hollow Knight  
+**Creator:** emmveepee  
+**Status:** Released · Code available · Experimental  
+**Approach:** BepInEx plugins in both games joined by a custom bridge (Nine Sols passthrough into Hollow Knight Godhome)  
+
+Both games run together on Windows and talk over a custom bridge: Nine Sols keeps executing Yi's movement, combat and abilities while Hollow Knight provides the world, bosses and encounters. v0.1.0 documents all 44 listed Godhome boss encounters as playable, four paired save slots, a Hollow Sols Bridge menu entry and removed passive contact damage; it is limited to Godhome, some jades may misbehave and full Pantheon/binding sequences are not certified.
+
+**Requirements:** Windows x64 with legitimate Steam copies of Hollow Knight and Nine Sols, both running at once, and BepInEx 5.4.23.5 (Windows x64) installed separately for each game.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/emmveepee/Hollow-Sols-Godhome)
+- [Release / download](https://github.com/emmveepee/Hollow-Sols-Godhome/releases/tag/v0.1.0)
+
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
