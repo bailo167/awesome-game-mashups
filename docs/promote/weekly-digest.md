@@ -2,6 +2,7 @@
 
 Week ending 2026-10-18. These are additions to the index, not necessarily new releases.
 
+- **[RetroConsole (libretro consoles in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retroconsole)** — A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. (Released · Code available · Experimental)
 - **[Hollow Sols (Nine Sols in Hollow Knight's Godhome)](https://github.com/bailo167/awesome-game-mashups#project-hollow-sols)** — A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. (Released · Code available · Experimental)
 - **[SM64BS (Mario 64 in Beat Saber)](https://github.com/bailo167/awesome-game-mashups#project-sm64bs)** — Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. (Released · Code available)
 - **[Retro Machines (Game Boy in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retro-machines)** — Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. (Released · Experimental)

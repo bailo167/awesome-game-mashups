@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-17",
-    "head_sha": "0bf125364d0a95b2678821e7bf6e370af5896099",
-    "project_count": 141,
+    "verified_at": "2026-10-18",
+    "head_sha": "d58c5fb9798fb1c6d56c1f96698901e8b946da9a",
+    "project_count": 143,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-17 PM: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 98 GitHub-linked entries (no release changes; 4 known repos still 404/auth prompt) + 16 deep rechecks (5 video-only/watchlist, 11 GitHub; doom-in-balatro not stamped, reddit 403) + discovery (~16 queries, 0 new; CraftVM, haloskate3wasm re-checked and kept deferred; 1 lead added). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-18: contributions (issue #9 Hollow Sols added and closed; Dependabot PR #6 left open) + release sweep of 98 GitHub-linked entries (skate3-gmod and bo2-minecraft-zombies marked dead: DaffyDabz account gone; no other release changes) + 12 deep rechecks (6 GitHub/GitLab, 6 via Nexus/Modrinth/GameBanana/Factorio/X APIs; none unreachable) + discovery (~26 queries; RetroConsole added, 3 leads deferred). head_sha is the parent commit (batch 1, d58c5fb). 5 records remain in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -161,6 +161,24 @@
       "url": "https://www.tecnoandroid.it/",
       "why": "Jan 2026 press only (Windows Central, tecnoandroid); save-file out-of-bounds exploit launches Doom; no repo URL/licence found",
       "date": "2026-10-17"
+    },
+    {
+      "name": "rehan-remade/universal-modder",
+      "url": "https://github.com/rehan-remade/universal-modder",
+      "why": "MIT, no tags; AI-agent modding toolkit (not a game mashup itself); its examples are catalogued (minecraft-gta-v); possible extra_links note",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Playable Minecraft Ender Dragon fight inside a YouTube video (Atlas Arcade)",
+      "url": "https://beebom.com/minecraft-creators-make-game-playable-on-youtube-with-smart-trick/",
+      "why": "Press only (July 2026); 360-degree video/subtitle trick, likely out of scope; YouTube primary not located",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Game Discs / BlockBoy Arcade / ConsoleCraft (Minecraft console mods)",
+      "url": "https://moddex.gg/mod/game-discs",
+      "why": "Aggregator listings only; unverified whether they embed real games; check on CurseForge/Modrinth next run",
+      "date": "2026-10-18"
     }
   ],
   "structural_upgrade": {

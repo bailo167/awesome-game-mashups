@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**142 entries:** 122 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**143 entries:** 123 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) · [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) · [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) · [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) · [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) · [Mirror's Edge Movement in GTA San Andreas (Faith Runner)](#project-faith-runner-gta-sa)
+[RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) · [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) · [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) · [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) · [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) · [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -114,6 +114,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Retro Handheld Emulator 1x1 scale](#project-retro-handheld-emulator) | Runs playable Game Boy games on a giant in-world display inside Hytale. | Released | — |
 | [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Experimental | — |
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
+| [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) | A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. | Released · Code available · Experimental | — |
 | [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) | A lineage of in-game console emulators for Garry's Mod, from GNES (2016) to the RetroArch-based Retromod 2.0. | Released | — |
 | [Schedule I Doom TV](#project-schedule-i-doom-tv) | Plays DOOM on the in-game televisions in Schedule I. | Released · Code available | — |
 | [SK8V](#project-sk8v) | Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. | Released · Code available · Experimental | — |
@@ -1576,7 +1577,7 @@ Reads DOOM WAD map data and creates the level block-by-block in Hytale, mapping 
 - [Project page](https://www.curseforge.com/hytale/mods/doom)
 - [Creator profile](https://gitlab.com/papispielt)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1925,7 +1926,7 @@ An original competitive block-puzzle game is rendered pixel-by-pixel into a 128�
 - [Project page](https://modrinth.com/plugin/chanyoris)
 - [Creator profile](https://modrinth.com/user/Hatune)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2168,7 +2169,7 @@ An experimental passthrough that runs Minecraft 1.12.2 alongside My Summer Car a
 - [Release / download](https://www.nexusmods.com/mysummercar/mods/12619)
 - [universal-modder (upstream)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2193,7 +2194,7 @@ Adds a Freeplay cabinet that you buy from the in-game Arcademania shop and place
 
 - [Release / download](https://www.nexusmods.com/arcadeparadise/mods/7)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2323,7 +2324,7 @@ G64 is a Garry's Mod addon that uses ckosmic's fork of libsm64 to run Super Mari
 - [Watch demo](https://www.youtube.com/watch?v=JMLDKfCohl0)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=2814638140)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2352,7 +2353,7 @@ kgsws found a code-execution vulnerability in DOS DOOM2.EXE and used it to load 
 - [Project page](https://doomwiki.org/wiki/ACE_Engine)
 - [ACE Engine (follow-up, LGPL-2.1)](https://github.com/kgsws/doom_ace)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2407,7 +2408,7 @@ DOOMSona adds Doom cartridges to Persona 5 Royal's second-hand shop and runs the
 - [Release / download](https://gamebanana.com/mods/511278)
 - [Demo video (embedded on the GameBanana page)](https://www.youtube.com/watch?v=3RgkXJbLBDw)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2536,7 +2537,7 @@ An entry in the Sonic Hacking Contest 2020 that embeds Chocolate Doom in Sonic M
 - [Source code](https://github.com/TheStoneBanana/mania-doom)
 - [Project page](https://old.sonicstadium.org/?p=61884)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2561,7 +2562,7 @@ sammyuri's team wrote a tiny 3D Minecraft for the CHUNGUS 2 redstone CPU and ran
 - [Watch demo](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 - [CHUNGUS 2 assembler (MIT)](https://github.com/sammyuri/chungus-2-assembler)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2586,7 +2587,7 @@ This Factorio 2.1 mod runs Doom with its levels, menus, sounds, music, HUD and s
 - [Release / download](https://mods.factorio.com/mod/doom)
 - [Watch demo](https://www.youtube.com/watch?v=ZgFlZszci2Y)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2611,7 +2612,7 @@ Celeste Doom ports the C# Managed Doom engine onto Celeste's Monocle framework. 
 - [Source mirror (grubbyplaya/DoomCeleste)](https://github.com/grubbyplaya/DoomCeleste)
 - [Creator demo video (grubbycoder, YouTube)](https://www.youtube.com/watch?v=AzSelUBEEYc)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3013,7 +3014,7 @@ A series of X videos (29 September to 2 October 2026) shows a web-browser port o
 - [Creator clip: Fortnite building (X)](https://x.com/p_e_cooper/status/2105524743902208317)
 - [Creator clip: Wii Sports (X)](https://x.com/p_e_cooper/status/2105822578728436169)
 
-**Dated source review:** 2026-10-13
+**Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3919,6 +3920,33 @@ Both games run together on Windows and talk over a custom bridge: Nine Sols keep
 
 - [Source code](https://github.com/emmveepee/Hollow-Sols-Godhome)
 - [Release / download](https://github.com/emmveepee/Hollow-Sols-Godhome/releases/tag/v0.1.0)
+
+**Dated source review:** 2026-10-18
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-retroconsole"></a>
+
+### RetroConsole (libretro consoles in Minecraft)
+
+**Guest:** libretro-emulated console games (NES, SNES, GBA, Genesis, PS1, PS2, PSP, Dreamcast)  
+**Host:** Minecraft  
+**Creator:** Gaigen  
+**Status:** Released · Code available · Experimental  
+**Approach:** NeoForge mod hosting libretro cores server-side and streaming video/audio to in-world screens  
+
+Players place a Retro Console block and a multiblock Screen wall, pick a game from a library UI and play on the in-world TV or a fullscreen viewer. Emulation runs server-side with video and audio streamed to nearby players, per-player saves and co-op (added in 0.2.0); the creator lists NES, SNES, GBA, Genesis, PS1, PS2, PSP and Dreamcast cores as tested or supported. The mod ships no libretro cores, BIOS files or ROMs; the user must supply them.
+
+**Requirements:** Minecraft Java 1.21.1 with NeoForge 21.1.x and Java 21 on 64-bit Windows or Linux (macOS unsupported); the user supplies libretro cores, BIOS files (PS2, Dreamcast) and legally obtained ROMs.
+
+**Platforms documented:** Windows, Linux
+
+- [Source code](https://github.com/Gaigen/retroconsole)
+- [Release / download](https://github.com/Gaigen/retroconsole/releases)
+- [Project page](https://www.curseforge.com/minecraft/mc-mods/retroconsole)
 
 **Dated source review:** 2026-10-18
 **Catalogue play-test:** Not recorded.
