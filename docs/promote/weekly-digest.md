@@ -2,6 +2,10 @@
 
 Week ending 2026-10-19. These are additions to the index, not necessarily new releases.
 
+- **[VEmu](https://github.com/bailo167/awesome-game-mashups#project-vemu)** — Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. (Released · Code available)
+- **[SBCraft](https://github.com/bailo167/awesome-game-mashups#project-sbcraft)** — Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game. (Released · Code available · Experimental)
+- **[Gorilla Passthrough (Gorilla Tag x Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-gorilla-passthrough)** — Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world. (Released · Code available · Experimental)
+- **[BlockBreach](https://github.com/bailo167/awesome-game-mashups#project-blockbreach)** — Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game. (Released · Code available · Experimental)
 - **[BlockBoy / BlockBoy Arcade](https://github.com/bailo167/awesome-game-mashups#project-blockboy)** — Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. (Released · Code available)
 - **[RetroConsole (libretro consoles in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retroconsole)** — A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. (Released · Code available · Experimental)
 - **[Hollow Sols (Nine Sols in Hollow Knight's Godhome)](https://github.com/bailo167/awesome-game-mashups#project-hollow-sols)** — A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. (Released · Code available · Experimental)

@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-19",
-    "head_sha": "e02e89e07659163d186b4d033c2b72ab8afb6fd8",
-    "project_count": 144,
+    "head_sha": "008425c379119c1f5672b454b4038a0726859741",
+    "project_count": 148,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-19: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 100 GitHub-linked entries by tag (no new releases; 4 dead repos unchanged) + 12 deep rechecks (mario64-in-minecraft, rust-rewrite-mashup, skycraft, minecraft-crossover-bridge, hytale-doom, subcraft, skate-fortress-2, sm64-spiderman2, passthrough-mod-toolkit, schedule-i-doom-tv, retro64, sm64-san-andreas; no changes found) + discovery (11 queries; +1 new: blockboy). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-19 (second): contributions (no open issues; Dependabot PR #6 left open) + release sweep of 101 GitHub-linked entries by tag (no new releases; 4 dead repos still gone; ultraring has an untracked v0.2.0 tag only) + 12 deep rechecks (supersonic-mario, ultrakill64, ultrakill-in-ultrakill, gzdoom-sm64, openlara-sm64, ddnet-sm64, classic64, minecraftnes, vm-computers, just-doom-it, mgbridge, mm-recomp-doom; supersonic-mario last_activity filled) + discovery (8 queries; +4 new: sbcraft, blockbreach, gorilla-passthrough, vemu). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -183,7 +183,25 @@
     {
       "name": "Game Discs (Tejty)",
       "url": "https://github.com/Tejty/GameDiscs",
-      "why": "MIT, Modrinth 'play game classics inside Minecraft'; unverified whether these are emulated or re-implemented mini-games; read README next run",
+      "why": "Rechecked 2026-10-19: MIT, last commit 2025-06-08; README/wiki describe a retro console with mini-games but do not say whether games are emulated or re-implemented; stays deferred (likely adjacent)",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "ranzevor/Blockwater (Minecraft in RDR2)",
+      "url": "https://github.com/ranzevor/Blockwater",
+      "why": "MIT; README says no playable release yet (bridge core and ScriptHookRDR2 read-only world acquisition only); recheck for a release",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "Ezmanw/universal-doomer",
+      "url": "https://github.com/Ezmanw/universal-doomer",
+      "why": "GPL-2.0; portable Doom engine library plus an AI-agent 'doomify' skill, no release or host-game port shown; toolkit rather than a mashup",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "claude-doom (Doom in a Claude Code terminal pane)",
+      "url": "https://claude-mods.com/claude-doom/",
+      "why": "Alpha plugin for Apple Silicon; host is a terminal tool, not a game; out of scope unless reinterpreted",
       "date": "2026-10-19"
     }
   ],

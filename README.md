@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**144 entries:** 124 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**148 entries:** 128 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[BlockBoy / BlockBoy Arcade](#project-blockboy) · [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) · [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) · [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) · [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) · [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) · [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny)
+[VEmu](#project-vemu) · [SBCraft](#project-sbcraft) · [Gorilla Passthrough (Gorilla Tag x Minecraft)](#project-gorilla-passthrough) · [BlockBreach](#project-blockbreach) · [BlockBoy / BlockBoy Arcade](#project-blockboy) · [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) · [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) · [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -55,6 +55,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) | Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world. | Released · Code available | — |
 | [Arcade Mod Reloaded](#project-arcade-mod-reloaded) | Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. | Released · Code available | — |
 | [BlockBoy / BlockBoy Arcade](#project-blockboy) | Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. | Released · Code available | — |
+| [BlockBreach](#project-blockbreach) | Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game. | Released · Code available · Experimental | — |
 | [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) | Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. | Released · Code available | — |
 | [BullySkate](#project-bullyskate) | Lets Jimmy skate through Bullworth using Skate 3 physics. | Released · Code available | — |
 | [Celeste Doom](#project-celeste-doom) | An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. | Released | — |
@@ -80,6 +81,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Garry's Redemption](#project-garrys-redemption) | Runs Garry's Mod movement, physgun, toolgun, weapons and spawn menu inside RDR2. | Released · Code available · Experimental | — |
 | [gmDoom (+ gmDoom Maps)](#project-gmdoom) | A Lua partial port of Doom that loads Doom weapons, monsters and WAD maps straight into Garry's Mod. | Released | — |
 | [Good Enough Game Integration (GEGI)](#project-good-enough-game-integration) | Plays itch.io and Newgrounds web games interactively inside Minecraft through an embedded Chromium view. | Released · Code available | — |
+| [Gorilla Passthrough (Gorilla Tag x Minecraft)](#project-gorilla-passthrough) | Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world. | Released · Code available · Experimental | — |
 | [GrandTheftMinecraft](#project-grandtheftminecraft) | Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode. | Released · Code available · Experimental | — |
 | [GTA San AnSkateas](#project-gta-san-anskateas) | Runs Skate 3 skating, tricks and physics on GTA San Andreas streets and collision. | Released · Code available · Experimental | — |
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
@@ -117,6 +119,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
 | [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) | A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. | Released · Code available · Experimental | — |
 | [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) | A lineage of in-game console emulators for Garry's Mod, from GNES (2016) to the RetroArch-based Retromod 2.0. | Released | — |
+| [SBCraft](#project-sbcraft) | Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game. | Released · Code available · Experimental | — |
 | [Schedule I Doom TV](#project-schedule-i-doom-tv) | Plays DOOM on the in-game televisions in Schedule I. | Released · Code available | — |
 | [SK8V](#project-sk8v) | Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. | Released · Code available · Experimental | — |
 | [SkateGM](#project-skategm) | Runs Skate 3 physics, tricks and scoring inside Garry's Mod, including multiplayer. | Released · Code available | — |
@@ -133,6 +136,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Ultrakill in Ultrakill](#project-ultrakill-in-ultrakill) | Plays ULTRAKILL on in-game terminals inside ULTRAKILL, three instances deep. | Released · Code available · Demo | — |
 | [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Released · Code available · Demo | — |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
+| [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
 | [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
 | [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) | Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. | Released · Code available | — |
 | [WitcherCraft](#project-witchercraft) | Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside. | Released · Code available | — |
@@ -2512,7 +2516,7 @@ Supersonic Mario uses libsm64 to drop a playable, networked SM64 Mario into Rock
 - [Source code](https://github.com/Serialbocks/SupersonicMarioPlugin)
 - [Release / download](https://github.com/Serialbocks/SupersonicMarioPlugin/releases/tag/v1.1.1)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2695,7 +2699,7 @@ A BepInEx plugin that uses the libsm64 Unity runtime to put Super Mario 64's Mar
 - [Creator profile](https://github.com/Squaresweets)
 - [libsm64-unity upstream](https://github.com/libsm64/libsm64-unity-dev)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2719,7 +2723,7 @@ Three ULTRAKILL instances run at once; each frame, screenshots are passed betwee
 - [Source code](https://github.com/Squaresweets/Ultrakill-in-Ultrakill)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2747,7 +2751,7 @@ A fork of GZDoom 3.2.0 that swaps the Doom player for a playable Super Mario 64 
 - [Creator profile](https://github.com/headshot2017)
 - [libsm64 upstream](https://github.com/libsm64/libsm64)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2773,7 +2777,7 @@ A fork of XProger's open-source OpenLara engine that adds a libsm64 Mario to Tom
 - [Creator profile](https://github.com/headshot2017)
 - [OpenLara upstream](https://github.com/XProger/OpenLara)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2800,7 +2804,7 @@ A DDNet client fork that spawns a libsm64 Mario from the menu or a /mario server
 - [Release / download](https://github.com/headshot2017/ddnet-sm64/releases/tag/v1.0)
 - [Creator profile](https://github.com/headshot2017)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2828,7 +2832,7 @@ A plugin for ClassiCube, a C client compatible with Minecraft Classic, that uses
 - [Creator profile](https://github.com/headshot2017)
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2855,7 +2859,7 @@ Emulates the NES inside unmodified Minecraft Java 1.16 using only resource-pack 
 - [Release / download](https://github.com/5uso/MinecraftNES/releases/tag/1.0.0)
 - [Creator profile](https://github.com/5uso)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2912,7 +2916,7 @@ A Fabric mod in which players order computer parts from an in-game satellite and
 - [Creator profile](https://github.com/Delta2Force)
 - [PCGamesN coverage (Doom on an in-game PC)](https://www.pcgamesn.com/minecraft/virtual-pc-mod-doom)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2940,7 +2944,7 @@ An Elin mod that adds a playable DOOM arcade cabinet, running the Managed Doom e
 - [Creator profile](https://github.com/chitsii)
 - [Managed Doom upstream](https://github.com/sinshu/managed-doom)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3089,7 +3093,7 @@ A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry'
 - [Creator profile](https://github.com/thecreeez)
 - [Garry's Mod side by ScientificWays](https://github.com/ScientificWays/gmod-minecraft-bridge)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3746,7 +3750,7 @@ A mod for Zelda 64: Recompiled that loads a native doomgeneric-based library whi
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 - [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3979,6 +3983,112 @@ A Fabric mod by tomalbrc that embeds a Java Game Boy emulator (based on coffee-g
 - [Release / download](https://modrinth.com/mod/blockboy-arcade)
 - [BlockBoy (original)](https://github.com/tomalbrc/BlockBoy)
 - [coffee-gb upstream](https://github.com/trekawek/coffee-gb)
+
+**Dated source review:** 2026-10-19
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-sbcraft"></a>
+
+### SBCraft
+
+**Guest:** Minecraft: Java Edition  
+**Host:** FNAF: Security Breach (Unreal 4.27, D3D11 mode)  
+**Creator:** pebbleford  
+**Status:** Released · Code available · Experimental  
+**Approach:** Two processes bridged over a WebSocket and shared memory, with a UE4SS Lua mod and a ReShade add-on compositing Minecraft into the host picture  
+
+A passthrough mod that runs Minecraft Java (Fabric) next to Five Nights at Freddy's: Security Breach in D3D11 mode. A ReShade add-on composites Minecraft's frame against Security Breach's depth buffer, a UE4SS Lua mod turns placed blocks into blocking boxes in Security Breach, and Minecraft items (diamond sword, TNT, creepers, ender pearls, bows) stun animatronics, destroy props or teleport the player. Single-player only.
+
+**Requirements:** Windows 10/11, FNAF: Security Breach (Steam, launched in D3D11 mode), Minecraft Java Edition with the official launcher (Minecraft 26.1.2 with Fabric); the release installer sets up UE4SS, ReShade and the Fabric profile, while building from source needs JDK 25 and Visual Studio 2022 Build Tools.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/pebbleford/sbcraft)
+- [Release / download](https://github.com/pebbleford/sbcraft/releases/latest)
+
+**Dated source review:** 2026-10-19
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-blockbreach"></a>
+
+### BlockBreach
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Ready or Not  
+**Creator:** ImmortalSouull  
+**Status:** Released · Code available · Experimental  
+**Approach:** Two processes with a ReShade add-on compositing Minecraft into Ready or Not and a local bridge for world, input and damage  
+
+A single-player passthrough mod: Ready or Not's camera drives Minecraft's, Minecraft's frame is composited into Ready or Not's picture by a ReShade add-on, Ready or Not's floors and walls become barriers for Minecraft's mobs, and placed blocks are solid in Ready or Not. Weapons, arrows, TNT and creepers damage characters in the other game. A launcher/installer sets up both sides.
+
+**Requirements:** Windows 10/11, Ready or Not (Steam, DirectX 11), Minecraft Java Edition with the official launcher (Minecraft 26.3 with Fabric, installed by the launcher profile); single-player only.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/ImmortalSouull/BlockBreach)
+- [Release / download](https://github.com/ImmortalSouull/BlockBreach/releases)
+- [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
+
+**Dated source review:** 2026-10-19
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-gorilla-passthrough"></a>
+
+### Gorilla Passthrough (Gorilla Tag x Minecraft)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Gorilla Tag (VR, Unity)  
+**Creator:** arvabarva  
+**Status:** Released · Code available · Experimental  
+**Approach:** Gorilla Tag BepInEx plugin and Minecraft Fabric mod linked over TCP plus Windows shared memory (colour and depth frames)  
+
+A BepInEx plugin for Gorilla Tag and a Fabric mod for Minecraft that run at the same time. Minecraft's camera follows the gorilla's head and its player stands at the gorilla's feet; Minecraft's colour and depth frames are streamed over shared memory and rebuilt as 3D geometry in VR, while Minecraft's blocks become invisible colliders in Gorilla Tag. Hand actions mine, place and attack.
+
+**Requirements:** Gorilla Tag on PC with SteamVR and BepInEx 5 installed, and Minecraft Java Edition 26.3 with Fabric (JDK 25 only for building from source).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough)
+- [Release / download](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough/releases)
+
+**Dated source review:** 2026-10-19
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-vemu"></a>
+
+### VEmu
+
+**Guest:** libretro-supported consoles (NES, SNES, Game Boy, N64, PlayStation and more), DOOM (libretro core)  
+**Host:** Voices of the Void (Unreal Engine 4)  
+**Creator:** modestimpala  
+**Status:** Released · Code available  
+**Approach:** UE4SS-injected libretro frontend rendering emulator video and audio onto in-game props  
+
+A UE4SS mod for Voices of the Void that adds in-world props (handheld, home console, PlayStation, cartridge dispenser) backed by libretro cores, so S/NES, Game Boy, N64, PlayStation and other cores run in-game with video and spatialised audio rendered by the mod, with no external window. Users supply their own cores, ROMs and BIOS files.
+
+**Requirements:** Voices of the Void with UE4SS, installed through r2modmanager; libretro core DLLs, your own ROMs and any required BIOS files placed in %LOCALAPPDATA%\VEmu; a gamepad is recommended.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/modestimpala/VEmu)
+- [Release / download](https://github.com/modestimpala/VEmu/releases)
+- [libretro](https://www.libretro.com/)
 
 **Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
