@@ -1,7 +1,8 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-18. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-19. These are additions to the index, not necessarily new releases.
 
+- **[BlockBoy / BlockBoy Arcade](https://github.com/bailo167/awesome-game-mashups#project-blockboy)** — Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. (Released · Code available)
 - **[RetroConsole (libretro consoles in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retroconsole)** — A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. (Released · Code available · Experimental)
 - **[Hollow Sols (Nine Sols in Hollow Knight's Godhome)](https://github.com/bailo167/awesome-game-mashups#project-hollow-sols)** — A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. (Released · Code available · Experimental)
 - **[SM64BS (Mario 64 in Beat Saber)](https://github.com/bailo167/awesome-game-mashups#project-sm64bs)** — Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. (Released · Code available)
@@ -22,12 +23,3 @@ Week ending 2026-10-18. These are additions to the index, not necessarily new re
 - **[LethalCraft](https://github.com/bailo167/awesome-game-mashups#project-lethalcraft)** — Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. (Released · Code available · Experimental)
 - **[fnv-libsm64](https://github.com/bailo167/awesome-game-mashups#project-fnv-libsm64)** — Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. (Code available · Experimental)
 - **[DOOM RING](https://github.com/bailo167/awesome-game-mashups#project-doom-ring)** — DOOM Eternal's guns, glory kills, HUD and combat music inside Elden Ring, built from your own DOOM Eternal install. (Released · Related)
-- **[WitcherCraft](https://github.com/bailo167/awesome-game-mashups#project-witchercraft)** — Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside. (Released · Code available)
-- **[WadSupport (DOOM in The Simpsons: Hit & Run)](https://github.com/bailo167/awesome-game-mashups#project-shar-wadsupport)** — Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. (Released · Code available)
-- **[UltraRing](https://github.com/bailo167/awesome-game-mashups#project-ultraring)** — Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. (Code available · Experimental)
-- **[Subnauticraft (Subnautica Link)](https://github.com/bailo167/awesome-game-mashups#project-subnauticraft)** — Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer. (Released · Code available)
-- **[MW2 x Risk of Rain 2 (MW2xRoR2)](https://github.com/bailo167/awesome-game-mashups#project-mw2xror2)** — Adds a Risk of Rain 2 survivor that plays with Modern Warfare 2's own movement, weapons, HUD and killstreaks. (Released · Code available · Experimental)
-- **[Morrowind: PipBoy Edition (Holo-Wind)](https://github.com/bailo167/awesome-game-mashups#project-morrowind-pipboy-edition)** — Plays Morrowind, run by OpenMW, live on Fallout 4's Pip-Boy screen via a holotape. (Released · Code available)
-- **[L4D2 x Minecraft](https://github.com/bailo167/awesome-game-mashups#project-l4d2-minecraft)** — Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op. (Released · Code available · Experimental)
-- **[Halfcraft (Minecraft in Half Sword)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft)** — Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. (Released · Code available · Experimental)
-- **[Attack on Elden Ring](https://github.com/bailo167/awesome-game-mashups#project-attack-on-elden-ring)** — Brings Attack on Titan Tribute Game 2's ODM gear movement into Elden Ring using both games at once. (Code available · Experimental)

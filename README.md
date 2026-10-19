@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**143 entries:** 123 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**144 entries:** 124 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-18. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-19. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) · [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) · [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) · [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) · [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) · [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) · [Knee-Deep in the Mines](#project-knee-deep-in-the-mines)
+[BlockBoy / BlockBoy Arcade](#project-blockboy) · [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) · [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) · [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) · [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) · [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) · [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) · [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -54,6 +54,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 |---|---|---|---|
 | [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) | Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world. | Released · Code available | — |
 | [Arcade Mod Reloaded](#project-arcade-mod-reloaded) | Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. | Released · Code available | — |
+| [BlockBoy / BlockBoy Arcade](#project-blockboy) | Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. | Released · Code available | — |
 | [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) | Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. | Released · Code available | — |
 | [BullySkate](#project-bullyskate) | Lets Jimmy skate through Bullworth using Skate 3 physics. | Released · Code available | — |
 | [Celeste Doom](#project-celeste-doom) | An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. | Released | — |
@@ -241,7 +242,7 @@ A from-scratch Rust rewrite of MW2 that combines MW2 multiplayer, Skate 3-style 
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -269,7 +270,7 @@ Minecraft remains running as the game-logic side while Skyrim renders the world.
 - [Creator profile](https://github.com/chasmlol)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -295,7 +296,7 @@ Minecraft runs natively on macOS while the host game runs under CrossOver. The b
 - [Source code](https://github.com/justbustin/minecraft-crossover-bridge)
 - [Creator profile](https://github.com/justbustin)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -319,7 +320,7 @@ A deliberately rough proof-of-concept built in a few nights. DOOM is rendered as
 - [Creator profile](https://github.com/tr7zw)
 - [vanilla-mocha-doom dependency](https://github.com/gaborbata/vanilla-mocha-doom/)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1501,7 +1502,7 @@ Minecraft owns player physics, inventory, combat, blocks and mobs while Subnauti
 - [Source code](https://github.com/FumperForrest/SubCraft)
 - [Creator profile](https://github.com/FumperForrest)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1843,7 +1844,7 @@ A Source SDK 2013 / Team Fortress 2 mod links the recovered Skate 3 simulation i
 - [Creator profile](https://github.com/Naitrate)
 - [Upstream Skate 3 Rust Engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2036,7 +2037,7 @@ Pressing M replaces Spider-Man with Mario running the actual Super Mario 64 move
 - [Overstrike mod manager](https://github.com/Tkachov/Overstrike)
 - [Submission issue](https://github.com/bailo167/awesome-game-mashups/issues/3)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2063,7 +2064,7 @@ A builder's toolkit for passthrough mods, where a guest game (usually Minecraft)
 - [Honest limits](https://github.com/Orinkle/passthrough-mod-toolkit#honest-limits)
 - [30-second stub demo](https://github.com/Orinkle/passthrough-mod-toolkit#30-second-demo)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2143,7 +2144,7 @@ Adds DOOM as an app on Schedule I's in-game TVs. A native DOOM runtime renders o
 - [DOOM II TV edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2483)
 - [Ultimate Doom / TNT / Plutonia edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2484)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2381,7 +2382,7 @@ Retro64 uses a libsm64 fork to simulate Super Mario 64's movement code in Minecr
 - [Watch demo](https://www.youtube.com/watch?v=2yWKqc2rmHI)
 - [Project page](https://retro64mod.github.io/)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2460,7 +2461,7 @@ Headshotnoby's plugin embeds libsm64 into GTA San Andreas so Mario moves with SM
 - [Release / download](https://github.com/headshot2017/sm64-san-andreas/releases)
 - [Watch demo](https://www.youtube.com/watch?v=AS86LTwcGcA)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3145,7 +3146,7 @@ A Fabric mod that runs Super Mario 64's decompiled movement code through libsm64
 - [libsm64](https://github.com/libsm64/libsm64)
 - [n64decomp/sm64](https://github.com/n64decomp/sm64)
 
-**Dated source review:** 2026-10-12
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3954,6 +3955,32 @@ Players place a Retro Console block and a multiblock Screen wall, pick a game fr
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/retroconsole)
 
 **Dated source review:** 2026-10-18
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-blockboy"></a>
+
+### BlockBoy / BlockBoy Arcade
+
+**Guest:** Game Boy / Game Boy Color software  
+**Host:** Minecraft: Java Edition (Fabric)  
+**Creator:** tomalbrc  
+**Status:** Released · Code available  
+**Approach:** Java Game Boy emulator (coffee-gb based) running inside the Minecraft server and rendered to map items or Polymer-based arcade machines  
+
+A Fabric mod by tomalbrc that embeds a Java Game Boy emulator (based on coffee-gb) in Minecraft. The original BlockBoy loads user-supplied .gb/.gbc ROMs onto a map screen with WASD/jump/sneak controls; BlockBoy Arcade adds arcade-machine items, cartridge items and a datapack bundling six open-source Game Boy games.
+
+**Requirements:** Minecraft Java Edition with Fabric (BlockBoy: 1.20.1-1.21.5; BlockBoy Arcade: 1.21.5 to 26.3) and the Polymer library for Arcade; your own Game Boy ROMs for BlockBoy.
+
+- [Source code](https://github.com/tomalbrc/BlockBoy-Arcade)
+- [Release / download](https://modrinth.com/mod/blockboy-arcade)
+- [BlockBoy (original)](https://github.com/tomalbrc/BlockBoy)
+- [coffee-gb upstream](https://github.com/trekawek/coffee-gb)
+
+**Dated source review:** 2026-10-19
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

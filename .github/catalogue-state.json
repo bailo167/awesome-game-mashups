@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-18",
-    "head_sha": "55a505ddae3914026db810d53bbfa0fdad0629d5",
-    "project_count": 143,
+    "verified_at": "2026-10-19",
+    "head_sha": "e02e89e07659163d186b4d033c2b72ab8afb6fd8",
+    "project_count": 144,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-18 batch 3: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 100 GitHub-linked entries by tag (no new releases; ultracraft, mario64-in-minecraft, skate3-gmod, bo2-minecraft-zombies remain dead) + 12 deep rechecks (doom-ring, fnv-libsm64, halfcraft, l4d2-minecraft, lethalcraft, mario-for-rec-room, minecraft-x-saints-row-3, minepeak, peakcraft, sk8v, super-sekiro-64, templemaps-hytale; AI-assistance disclosures added to 3, peakcraft platforms/requirements filled) + discovery (~13 queries; nothing new, all hits already catalogued). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-19: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 100 GitHub-linked entries by tag (no new releases; 4 dead repos unchanged) + 12 deep rechecks (mario64-in-minecraft, rust-rewrite-mashup, skycraft, minecraft-crossover-bridge, hytale-doom, subcraft, skate-fortress-2, sm64-spiderman2, passthrough-mod-toolkit, schedule-i-doom-tv, retro64, sm64-san-andreas; no changes found) + discovery (11 queries; +1 new: blockboy). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -175,10 +175,16 @@
       "date": "2026-10-18"
     },
     {
-      "name": "Game Discs / BlockBoy Arcade / ConsoleCraft (Minecraft console mods)",
-      "url": "https://moddex.gg/mod/game-discs",
-      "why": "Aggregator listings only; unverified whether they embed real games; check on CurseForge/Modrinth next run",
-      "date": "2026-10-18"
+      "name": "Minecraft inside GTA V on iPhone (0xProbability, on C22's Muguet port)",
+      "url": "https://www.dexerto.com/minecraft/modder-puts-minecraft-inside-gta-5-on-iphone-with-a-rideable-ender-dragon-3418587/",
+      "why": "Press only (Dexerto); no repo/release URL found; creator says Claude wrote it",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "Game Discs (Tejty)",
+      "url": "https://github.com/Tejty/GameDiscs",
+      "why": "MIT, Modrinth 'play game classics inside Minecraft'; unverified whether these are emulated or re-implemented mini-games; read README next run",
+      "date": "2026-10-19"
     }
   ],
   "structural_upgrade": {
