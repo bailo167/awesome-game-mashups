@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-19",
-    "head_sha": "008425c379119c1f5672b454b4038a0726859741",
-    "project_count": 148,
+    "verified_at": "2026-10-20",
+    "head_sha": "8f71fa5f54cf38f63ab64c416b4aa992adabd8bf",
+    "project_count": 153,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-19 (second): contributions (no open issues; Dependabot PR #6 left open) + release sweep of 101 GitHub-linked entries by tag (no new releases; 4 dead repos still gone; ultraring has an untracked v0.2.0 tag only) + 12 deep rechecks (supersonic-mario, ultrakill64, ultrakill-in-ultrakill, gzdoom-sm64, openlara-sm64, ddnet-sm64, classic64, minecraftnes, vm-computers, just-doom-it, mgbridge, mm-recomp-doom; supersonic-mario last_activity filled) + discovery (8 queries; +4 new: sbcraft, blockbreach, gorilla-passthrough, vemu). head_sha is the parent commit. 5 records remain in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-20: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 105 GitHub-linked entries by tag (no new releases; 4 dead repos still gone) + 12 deep rechecks (faith-runner-gta-sa, skyrim-shouts-fallout-4-glenny, doom-maps, hycraft, ultradoom, nucledoom, wasmcraft, arcade-mod-reloaded, crossplayproject, ccboy, cs-craft, bullyskate; ultracraft repo still unreachable so not stamped) + discovery (22 queries; +5 new: bethception, skyrim-pipboy-edition, granny-minecraft-passthrough, ultrakill-minecraft, sekirocraft-passthrough). head_sha is the parent commit. 6 records in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -21,7 +21,7 @@
     {
       "name": "GTA VC inside GTA III inside San Andreas (Dryxio)",
       "url": "https://www.youtube.com/watch?v=X_w6fo4KVy0",
-      "why": "Creator video only; related to gta-trilogy-multiverse",
+      "why": "Creator video only; related to gta-trilogy-multiverse; rechecked 2026-10-20: press only, no repo/download found on Dryxio's GitHub or dryx.io",
       "date": "2026-10-08"
     },
     {
@@ -37,12 +37,6 @@
       "date": "2026-10-09"
     },
     {
-      "name": "Fallout: Pip-Boy Edition (Fallout 1 in Fallout 4, RPGKing117)",
-      "url": "https://www.nexusmods.com/fallout4/mods/105198",
-      "why": "Nexus 403 from the sandbox; press says source 'coming soon'/pulled for a repository issue; no primary page readable",
-      "date": "2026-10-12"
-    },
-    {
       "name": "Cyberblock (Minecraft in Cyberpunk 2077, rodthegod2)",
       "url": "https://github.com/rodthegod2/cyberblock",
       "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk",
@@ -55,12 +49,6 @@
       "date": "2026-10-13"
     },
     {
-      "name": "Skyrim: Pip-Boy Edition (RPGKing117)",
-      "url": "https://www.nexusmods.com/fallout4/mods/104945",
-      "why": "Nexus 403; press only, no primary page readable",
-      "date": "2026-10-12"
-    },
-    {
       "name": "AIjennings/OWCraft (multiplayer variant of SkyCraft framework)",
       "url": "https://github.com/AIjennings/OWCraft",
       "why": "Fork of listed owcraft; v0.1.2-multiplayer (2026-10-11) adds co-op. Candidate for a note on owcraft, not a separate entry (rechecked 2026-10-13)",
@@ -70,12 +58,6 @@
       "name": "GTACraft (bishoponyt)",
       "url": "https://github.com/bishoponyt/GTACraft",
       "why": "Re-checked 2026-10-13: still no LICENSE; v.0.1.2 pre-release; README states AI-assisted development; overlaps grandtheftminecraft",
-      "date": "2026-10-13"
-    },
-    {
-      "name": "slargi/marionogi (libsm64 in Mabinogi)",
-      "url": "https://github.com/slargi/marionogi",
-      "why": "MIT, no releases/tags, small client-side plugin; source-only",
       "date": "2026-10-13"
     },
     {
@@ -203,6 +185,36 @@
       "url": "https://claude-mods.com/claude-doom/",
       "why": "Alpha plugin for Apple Silicon; host is a terminal tool, not a game; out of scope unless reinterpreted",
       "date": "2026-10-19"
+    },
+    {
+      "name": "slargi/marionogi (libsm64 in Mabinogi)",
+      "url": "https://github.com/slargi/marionogi",
+      "why": "Rechecked 2026-10-20: repo now returns 403 / credential prompt, raw README 404 (private, removed or restricted; not proven deleted)",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "BrawlXMinecraft (newasa2edsa)",
+      "url": "https://github.com/newasa2edsa/BrawlXMinecraft",
+      "why": "MIT code-only, no tags, 2026-10-14..16; Brawl Stars in an Android emulator host with ADB memory hooks aimed at a live-service game; editorial call needed",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "NWNForBG (abalabokhin)",
+      "url": "https://github.com/abalabokhin/NWNForBG",
+      "why": "WeiDU content port of Neverwinter Nights campaign into Baldur's Gate 2; no licence; story/area content not runtime, so at most adjacent",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "ladnojak-ship-it/minegta",
+      "url": "https://github.com/ladnojak-ship-it/minegta",
+      "why": "CC0, one day of commits (2026-10-12), no release; overlaps minecraft-gta-v",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "tuckerjase2-bot/titancraft",
+      "url": "https://github.com/tuckerjase2-bot/titancraft",
+      "why": "No licence, single day (2026-10-15); coordinate-sync relay between Titanfall 2 and Minecraft rather than a passthrough",
+      "date": "2026-10-20"
     }
   ],
   "structural_upgrade": {
@@ -292,6 +304,11 @@
       "id": "doom-in-balatro",
       "host": "reddit.com / github.com (creator UwUDev)",
       "date": "2026-10-17"
+    },
+    {
+      "id": "ultracraft",
+      "host": "github.com (alfr0762/ultracraft)",
+      "date": "2026-10-20"
     }
   ]
 }

@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**148 entries:** 128 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**153 entries:** 133 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-19. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-20. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[VEmu](#project-vemu) · [SBCraft](#project-sbcraft) · [Gorilla Passthrough (Gorilla Tag x Minecraft)](#project-gorilla-passthrough) · [BlockBreach](#project-blockbreach) · [BlockBoy / BlockBoy Arcade](#project-blockboy) · [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) · [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) · [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs)
+[ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) · [Skyrim: PipBoy Edition](#project-skyrim-pipboy-edition) · [SekiroCraft-Passthrough](#project-sekirocraft-passthrough) · [Granny Minecraft Passthrough](#project-granny-minecraft-passthrough) · [Bethception - Unified Gaming Framework](#project-bethception) · [VEmu](#project-vemu) · [SBCraft](#project-sbcraft) · [Gorilla Passthrough (Gorilla Tag x Minecraft)](#project-gorilla-passthrough)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -54,6 +54,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 |---|---|---|---|
 | [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) | Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world. | Released · Code available | — |
 | [Arcade Mod Reloaded](#project-arcade-mod-reloaded) | Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. | Released · Code available | — |
+| [Bethception - Unified Gaming Framework](#project-bethception) | Plays Fallout 1, 2 and 3 and several Elder Scrolls games on Fallout 4's Pip-Boy. | Released | — |
 | [BlockBoy / BlockBoy Arcade](#project-blockboy) | Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. | Released · Code available | — |
 | [BlockBreach](#project-blockbreach) | Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game. | Released · Code available · Experimental | — |
 | [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) | Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. | Released · Code available | — |
@@ -124,6 +125,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [SK8V](#project-sk8v) | Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. | Released · Code available · Experimental | — |
 | [SkateGM](#project-skategm) | Runs Skate 3 physics, tricks and scoring inside Garry's Mod, including multiplayer. | Released · Code available | — |
 | [SkyCraft](#project-skycraft) | Brings Minecraft building, exploration and gameplay into Skyrim. | Released · Code available · Experimental | — |
+| [Skyrim: PipBoy Edition](#project-skyrim-pipboy-edition) | Plays Skyrim inside Fallout 4's Pip-Boy and terminals. | Released | — |
 | [SM64 Generations](#project-sm64-generations) | Replaces Sonic with Super Mario 64's Mario, using his exact controls and moveset, in Sonic Generations. | Released | — |
 | [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](#project-sm64-san-andreas) | An ASI plugin that lets you swap CJ for a fully physical Super Mario 64 Mario in GTA San Andreas. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=AS86LTwcGcA) |
 | [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) | Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. | Released · Code available | — |
@@ -155,6 +157,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
 | [fnv-libsm64](#project-fnv-libsm64) | Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. | Code available · Experimental | — |
+| [Granny Minecraft Passthrough](#project-granny-minecraft-passthrough) | Runs real Minecraft Java alongside Granny Legacy and blends it into Granny's house. | Code available · Experimental | — |
 | [GTA Trilogy Multiverse Portals](#project-gta-trilogy-multiverse) | Runs GTA III, Vice City and San Andreas simultaneously with live portals between them. | In development · Video only | [Watch](https://www.youtube.com/watch?v=fpsq2MyWznc) |
 | [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) | Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release. | Code available · Experimental | — |
 | [Halo / MW2 Director](#project-halo-mw2-director) | Runs Halo CE characters and map data inside a native MW2/IW4L prototype. | Code available · Experimental | — |
@@ -178,12 +181,14 @@ Public code can still require compilation. Video-only entries have no public bui
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
+| [SekiroCraft-Passthrough](#project-sekirocraft-passthrough) | Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes. | Code available · Experimental | — |
 | [Skate 3 Board for Garry's Mod](#project-skate3-gmod) | Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. | Code available · In development · Experimental · Unavailable | — |
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
 | [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) | Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. | In development · Video only | [Watch](https://www.youtube.com/watch?v=KZQqJivPKac) |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
 | [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
 | [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Unavailable | — |
+| [ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) | Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD. | Code available · Experimental | — |
 | [UltraRing](#project-ultraring) | Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. | Code available · Experimental | — |
 | [Wasmcraft game demos](#project-wasmcraft) | Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=wCHB1UgwM9o) |
 | [World of Skatecraft](#project-world-of-skatecraft) | Runs Skate 3 physics and tricks inside World of Warcraft 1.12.1. | Code available · Experimental | [Watch](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4) |
@@ -348,7 +353,7 @@ Runs DOOM through Hytale's in-game world-map display at a targeted 35 FPS, with 
 - [Source code](https://github.com/ssquadteam/DoomMaps)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -375,7 +380,7 @@ Minecraft clients can connect to a Hytale server without a client mod. HyCraft c
 - [Release / download](https://github.com/EdwardBelt/HyCraft/releases/tag/v1.1.4)
 - [Creator profile](https://github.com/EdwardBelt)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -400,7 +405,7 @@ Turns ULTRAKILL's diegetic shop terminals into playable DOOM instances. A legiti
 - [Watch demo](https://www.youtube.com/watch?v=Y7zpELS2QfQ)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -452,7 +457,7 @@ Runs classic DOOM inside Minecraft with controls and sound support. The project 
 - [Release / download](https://modrinth.com/mod/nucledoom)
 - [Creator profile](https://github.com/Patbox)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -479,7 +484,7 @@ A historically important technical precursor: Wasmcraft compiles WebAssembly pro
 - [Watch demo](https://www.youtube.com/watch?v=wCHB1UgwM9o)
 - [Creator profile](https://github.com/SuperTails)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -532,7 +537,7 @@ A modern port/continuation of the older Arcade Mod with six playable arcade recr
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/arcade-mod-reloaded)
 - [Project page](https://modrinth.com/mod/arcade-mod-reloaded)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -917,7 +922,7 @@ Synchronizes blocks, players, mobs, time/weather, chat, skins and build/break in
 - [Source code](https://github.com/Atmerek/CrossplayProject)
 - [Release / download](https://github.com/Atmerek/CrossplayProject/releases/tag/v1.3)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1034,7 +1039,7 @@ Frames are streamed over WebSocket to ComputerCraft monitors and player inputs a
 
 - [Source code](https://github.com/amatheo/ccboy)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1267,7 +1272,7 @@ The public v0.1.0 build includes an Overworld mode that keeps CS:GO-style moveme
 - [Release / download](https://github.com/FrosttysBots/CS-Craft/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/FrosttysBots)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1454,7 +1459,7 @@ Lets Jimmy skate through Bullworth using Skate 3 physics and controller input, w
 - [Release / download](https://github.com/Faiqie/BullySkate/releases/tag/v0.1.2)
 - [Creator profile](https://github.com/Faiqie)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3233,7 +3238,7 @@ An F4SE mod that renders The Elder Scrolls III: Morrowind, running through OpenM
 - [Source code](https://github.com/rpgking117/Holo-Wind-Windows)
 - [Release / download](https://github.com/rpgking117/Holo-Wind-Windows/releases)
 - [Creator profile](https://github.com/rpgking117)
-- [Nexus Mods page (listed by the creator and press; not reachable from the review environment)](https://www.nexusmods.com/fallout4/mods/104456)
+- [Nexus Mods page (version 1.23.1 updated 2026-05-16 per the Nexus API)](https://www.nexusmods.com/fallout4/mods/104456)
 
 **Dated source review:** 2026-10-17
 **Catalogue play-test:** Not recorded.
@@ -3723,7 +3728,7 @@ A submission (issue #5) and the creator video describe the open-source Rust fait
 - [Watch demo](https://www.youtube.com/watch?v=I2PfYtFe1bY)
 - [Upstream faith-runner (movement core)](https://github.com/tnrjns/faith-runner)
 
-**Dated source review:** 2026-10-14
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3802,7 +3807,7 @@ Glenny's YouTube videos show Skyrim-style shouts (Unrelenting Force, Whirlwind S
 - [Aura Whisper shout (video)](https://www.youtube.com/watch?v=vhqNBWJz-pE)
 - [Summoning Durnehviir (video)](https://www.youtube.com/watch?v=8bA7ZEtCnbg)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4091,6 +4096,140 @@ A UE4SS mod for Voices of the Void that adds in-world props (handheld, home cons
 - [libretro](https://www.libretro.com/)
 
 **Dated source review:** 2026-10-19
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-bethception"></a>
+
+### Bethception - Unified Gaming Framework
+
+**Guest:** Fallout, Fallout 2, Fallout 3, The Elder Scrolls: Arena, The Elder Scrolls II: Daggerfall, The Elder Scrolls Adventures: Redguard, The Elder Scrolls III: Morrowind, The Elder Scrolls V: Skyrim  
+**Host:** Fallout 4  
+**Creator:** RPGKing117  
+**Status:** Released  
+**Approach:** F4SE plugin framework routing external game processes onto the Pip-Boy; mechanism per the creator's earlier Morrowind PipBoy Edition entry, not independently documented for this mod  
+
+RPGKing117's Nexus mod page describes a single installer and framework that lets Fallout 4's Pip-Boy and terminals run other Bethesda games: Fallout 1, 2 and 3, The Elder Scrolls Arena, Daggerfall, Redguard, Morrowind and Skyrim, with more promised. It supersedes the creator's separate Morrowind, Skyrim and Fallout "Pip-Boy Edition" mods; the Fallout PipBoy Edition page now says it is outdated and points here. No source is published.
+
+**Requirements:** Fallout 4 with F4SE and your own copies of the games you want to run; the Nexus page is the authority for per-game extras (it was read only through the Nexus API summary).
+
+**Platforms documented:** Windows
+
+- [Release / download](https://www.nexusmods.com/fallout4/mods/105294)
+- [Creator profile](https://github.com/rpgking117)
+- [Fallout PipBoy Edition (superseded)](https://www.nexusmods.com/fallout4/mods/105198)
+
+**Dated source review:** 2026-10-20
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-skyrim-pipboy-edition"></a>
+
+### Skyrim: PipBoy Edition
+
+**Guest:** The Elder Scrolls V: Skyrim Legendary Edition  
+**Host:** Fallout 4  
+**Creator:** RPGKing117  
+**Status:** Released  
+
+A Nexus mod by RPGKing117 that, per its summary, lets you play Skyrim inside the Fallout 4 Pip-Boy and terminals. It requires Skyrim LE with SKSE and Fallout 4 with F4SE, via Steam. It is a precursor of Bethception.
+
+**Requirements:** Fallout 4 with F4SE and Skyrim Legendary Edition with SKSE, both through Steam (per the Nexus summary).
+
+**Platforms documented:** Windows
+
+- [Release / download](https://www.nexusmods.com/fallout4/mods/104945)
+- [Creator profile](https://github.com/rpgking117)
+- [Successor: Bethception](https://www.nexusmods.com/fallout4/mods/105294)
+
+**Dated source review:** 2026-10-20
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-granny-minecraft-passthrough"></a>
+
+### Granny Minecraft Passthrough
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Granny Legacy  
+**Creator:** cabcrab  
+**Status:** Code available · Experimental  
+**Approach:** Shared-memory passthrough with D3D compositing; Minecraft simulates the player and blocks against the host's collision. The README says it is adapted from the universal-modder minecraft-gta5-passthrough.  
+
+Real Granny Legacy and Minecraft Java Edition run at the same time and Minecraft's frame (world, hand, held item, HUD) is composited into Granny's frame. Granny's house acts as collision in Minecraft, placed blocks block Granny, and swords, arrows, crossbows, TNT and spawned mobs fight Granny and Grandpa. Marked experimental by the author.
+
+**Requirements:** Windows 10/11 64-bit, Granny Legacy on Steam and Minecraft Java Edition 26.3 (the README says Setup.bat installs Fabric).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/cabcrab/Granny-Minecraft-Passthrough)
+- [Release / download](https://github.com/cabcrab/Granny-Minecraft-Passthrough/releases)
+- [Creator profile](https://github.com/cabcrab)
+
+**Dated source review:** 2026-10-20
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-ultrakill-minecraft"></a>
+
+### ULTRAKILL inside Minecraft
+
+**Guest:** ULTRAKILL  
+**Host:** Minecraft: Java Edition  
+**Creator:** xandermodsstuff-dot  
+**Status:** Code available · Experimental  
+**Approach:** Fabric mod plus a BepInEx plugin talking over localhost; derived from the universal-modder passthrough example per the README.  
+
+A reverse-direction passthrough: Minecraft is the host world while ULTRAKILL runs hidden beside it and supplies V1's movement, weapons, arms and HUD. ULTRAKILL weapons damage Minecraft mobs, mobs hurt V1, and explosions break blocks. The README calls 0.1.3 an early release.
+
+**Requirements:** Windows, Minecraft Java 26.3 with Fabric Loader 0.19.3 or newer and Fabric API, plus ULTRAKILL on Steam with BepInEx 5; single-player only.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/xandermodsstuff-dot/ultrakill-minecraft)
+- [Release / download](https://github.com/xandermodsstuff-dot/ultrakill-minecraft/releases)
+- [Creator profile](https://github.com/xandermodsstuff-dot)
+
+**Dated source review:** 2026-10-20
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-sekirocraft-passthrough"></a>
+
+### SekiroCraft-Passthrough
+
+**Guest:** Minecraft: Java Edition 1.20.1  
+**Host:** Sekiro: Shadows Die Twice  
+**Creator:** Xu060113  
+**Status:** Code available · Experimental  
+**Approach:** Shared memory, JNI and D3D11 compositing between Minecraft and Sekiro processes; the README credits universal-modder and chasmlol/SkyCraft as architectural references.  
+
+A Windows experimental mod where Minecraft 1.20.1 (Fabric or standalone Forge) handles character control and game logic while Sekiro: Shadows Die Twice supplies scenes, native enemies and the grappling hook, synced through shared memory, JNI and D3D11 compositing. The README (Chinese) lists known issues such as hit flicker and incomplete boss hitboxes.
+
+**Requirements:** Windows x64, Sekiro on Steam, Minecraft 1.20.1 with Fabric Loader 0.19.5 and Fabric API or Forge 47.4.26; the installer modifies the Sekiro folder (with backups).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Xu060113/SekiroCraft-Passthrough)
+- [Release / download](https://github.com/Xu060113/SekiroCraft-Passthrough/releases)
+- [Creator profile](https://github.com/Xu060113)
+
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

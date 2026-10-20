@@ -1,7 +1,12 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-19. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-20. These are additions to the index, not necessarily new releases.
 
+- **[ULTRAKILL inside Minecraft](https://github.com/bailo167/awesome-game-mashups#project-ultrakill-minecraft)** — Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD. (Code available · Experimental)
+- **[Skyrim: PipBoy Edition](https://github.com/bailo167/awesome-game-mashups#project-skyrim-pipboy-edition)** — Plays Skyrim inside Fallout 4's Pip-Boy and terminals. (Released)
+- **[SekiroCraft-Passthrough](https://github.com/bailo167/awesome-game-mashups#project-sekirocraft-passthrough)** — Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes. (Code available · Experimental)
+- **[Granny Minecraft Passthrough](https://github.com/bailo167/awesome-game-mashups#project-granny-minecraft-passthrough)** — Runs real Minecraft Java alongside Granny Legacy and blends it into Granny's house. (Code available · Experimental)
+- **[Bethception - Unified Gaming Framework](https://github.com/bailo167/awesome-game-mashups#project-bethception)** — Plays Fallout 1, 2 and 3 and several Elder Scrolls games on Fallout 4's Pip-Boy. (Released)
 - **[VEmu](https://github.com/bailo167/awesome-game-mashups#project-vemu)** — Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. (Released · Code available)
 - **[SBCraft](https://github.com/bailo167/awesome-game-mashups#project-sbcraft)** — Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game. (Released · Code available · Experimental)
 - **[Gorilla Passthrough (Gorilla Tag x Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-gorilla-passthrough)** — Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world. (Released · Code available · Experimental)
@@ -17,13 +22,3 @@ Week ending 2026-10-19. These are additions to the index, not necessarily new re
 - **[Knee-Deep in the Mines](https://github.com/bailo167/awesome-game-mashups#project-knee-deep-in-the-mines)** — Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds. (Code available · Experimental)
 - **[Mirror's Edge Movement in GTA San Andreas (Faith Runner)](https://github.com/bailo167/awesome-game-mashups#project-faith-runner-gta-sa)** — SavegameNostalgia's video shows CJ moving with Mirror's Edge parkour physics via a Rust movement core; no bridge code is public. (Video only · Unconfirmed)
 - **[Majora's Mask Recompiled DOOM Mod](https://github.com/bailo167/awesome-game-mashups#project-mm-recomp-doom)** — Link sits at a desk PC in Majora's Mask: Recompiled and plays DOOM on its screen. (Released · Code available · Demo)
-- **[TempleMaps](https://github.com/bailo167/awesome-game-mashups#project-templemaps-hytale)** — Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. (Code available · Experimental)
-- **[Super Sekiro 64](https://github.com/bailo167/awesome-game-mashups#project-super-sekiro-64)** — Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. (Released · Code available · Experimental)
-- **[SK8V](https://github.com/bailo167/awesome-game-mashups#project-sk8v)** — Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. (Released · Code available · Experimental)
-- **[PeakCraft](https://github.com/bailo167/awesome-game-mashups#project-peakcraft)** — Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. (Code available · Experimental)
-- **[MinePeak](https://github.com/bailo167/awesome-game-mashups#project-minepeak)** — Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install. (Released · Code available · Experimental)
-- **[Minecraft Zombies (bo2mc)](https://github.com/bailo167/awesome-game-mashups#project-bo2-minecraft-zombies)** — Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. (Released · Code available · Experimental · Unavailable)
-- **[Mario for Rec Room](https://github.com/bailo167/awesome-game-mashups#project-mario-for-rec-room)** — Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. (Released · Code available · Experimental)
-- **[LethalCraft](https://github.com/bailo167/awesome-game-mashups#project-lethalcraft)** — Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. (Released · Code available · Experimental)
-- **[fnv-libsm64](https://github.com/bailo167/awesome-game-mashups#project-fnv-libsm64)** — Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. (Code available · Experimental)
-- **[DOOM RING](https://github.com/bailo167/awesome-game-mashups#project-doom-ring)** — DOOM Eternal's guns, glory kills, HUD and combat music inside Elden Ring, built from your own DOOM Eternal install. (Released · Related)
