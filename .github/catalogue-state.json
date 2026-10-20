@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-20",
-    "head_sha": "8f71fa5f54cf38f63ab64c416b4aa992adabd8bf",
-    "project_count": 153,
+    "head_sha": "3a2a66b768a96d125e43b0432d080e5f3595def0",
+    "project_count": 154,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-20: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 105 GitHub-linked entries by tag (no new releases; 4 dead repos still gone) + 12 deep rechecks (faith-runner-gta-sa, skyrim-shouts-fallout-4-glenny, doom-maps, hycraft, ultradoom, nucledoom, wasmcraft, arcade-mod-reloaded, crossplayproject, ccboy, cs-craft, bullyskate; ultracraft repo still unreachable so not stamped) + discovery (22 queries; +5 new: bethception, skyrim-pipboy-edition, granny-minecraft-passthrough, ultrakill-minecraft, sekirocraft-passthrough). head_sha is the parent commit. 6 records in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-20 PM: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 108 GitHub-linked repos by tag (FortressCraft v0.5.9 updated; no other real changes; 3 repos still private/gone) + 12 deep rechecks (dead-by-daylight V2, hellgate-doom-portal found alive under a renamed slug, portal-zombies, arkweb, bnes-fork, eldencraft, fortresscraft, grandtheftminecraft, knee-deep-in-the-mines, attack-on-elden-ring, falloutcraft, gta-san-anskateas) + discovery (13 queries/checks; +1 new: fallout-pipboy-edition). head_sha is the parent commit. 3 records in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -51,19 +51,13 @@
     {
       "name": "AIjennings/OWCraft (multiplayer variant of SkyCraft framework)",
       "url": "https://github.com/AIjennings/OWCraft",
-      "why": "Fork of listed owcraft; v0.1.2-multiplayer (2026-10-11) adds co-op. Candidate for a note on owcraft, not a separate entry (rechecked 2026-10-13)",
+      "why": "Fork of listed owcraft; v0.1.2-multiplayer (2026-10-11) adds co-op. Candidate for a note on owcraft, not a separate entry (rechecked 2026-10-13); rechecked 2026-10-20: still v0.1.2-multiplayer",
       "date": "2026-10-13"
     },
     {
       "name": "GTACraft (bishoponyt)",
       "url": "https://github.com/bishoponyt/GTACraft",
       "why": "Re-checked 2026-10-13: still no LICENSE; v.0.1.2 pre-release; README states AI-assisted development; overlaps grandtheftminecraft",
-      "date": "2026-10-13"
-    },
-    {
-      "name": "slargi/mabicraft (Minecraft in Mabinogi)",
-      "url": "https://github.com/slargi/mabicraft",
-      "why": "MIT, no releases/tags; SkyCraft-style passthrough; not read in depth",
       "date": "2026-10-13"
     },
     {
@@ -93,7 +87,7 @@
     {
       "name": "NanoBunTV/Minecraft-CraftVM",
       "url": "https://github.com/NanoBunTV/Minecraft-CraftVM",
-      "why": "Rechecked 2026-10-17: tag v1.0.0 (2026-10-09), GPL-3.0-only per README, VirtualBox 7.2 host (Windows/Linux x64), download on Modrinth (unreachable); likely adjacent to vm-computers; GitHub releases page empty",
+      "why": "Rechecked 2026-10-17: tag v1.0.0 (2026-10-09), GPL-3.0-only per README, VirtualBox 7.2 host (Windows/Linux x64), download on Modrinth (unreachable); likely adjacent to vm-computers; GitHub releases page empty; rechecked 2026-10-20: README says download from Modrinth, tag v1.0.0 unchanged",
       "date": "2026-10-17"
     },
     {
@@ -101,12 +95,6 @@
       "url": "https://www.nexusmods.com/skyrim/mods/48439",
       "why": "Nexus 403; snippet only",
       "date": "2026-10-13"
-    },
-    {
-      "name": "andrewnakas/haloskate3wasm",
-      "url": "https://github.com/andrewnakas/haloskate3wasm",
-      "why": "Rechecked 2026-10-17: commits 2026-10-14, GitHub Pages demo returns 200 (not play-tested), still no LICENSE; Skate 3 movement logic in browser Halo CE; likely adjacent",
-      "date": "2026-10-17"
     },
     {
       "name": "Hytale in Hytale / Windows 95 in Hytale (iamcxv7)",
@@ -171,7 +159,7 @@
     {
       "name": "ranzevor/Blockwater (Minecraft in RDR2)",
       "url": "https://github.com/ranzevor/Blockwater",
-      "why": "MIT; README says no playable release yet (bridge core and ScriptHookRDR2 read-only world acquisition only); recheck for a release",
+      "why": "MIT; README says no playable release yet (bridge core and ScriptHookRDR2 read-only world acquisition only); recheck for a release; rechecked 2026-10-20: still adapter development, no release",
       "date": "2026-10-19"
     },
     {
@@ -214,6 +202,12 @@
       "name": "tuckerjase2-bot/titancraft",
       "url": "https://github.com/tuckerjase2-bot/titancraft",
       "why": "No licence, single day (2026-10-15); coordinate-sync relay between Titanfall 2 and Minecraft rather than a passthrough",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "andrewnakas/haloskate3wasm and slargi/mabicraft",
+      "url": "https://github.com/andrewnakas/haloskate3wasm",
+      "why": "Rechecked 2026-10-20: both repos now return a credential prompt (private, removed or restricted; not proven deleted); marionogi likewise",
       "date": "2026-10-20"
     }
   ],
@@ -281,24 +275,9 @@
   },
   "unreachable_from_routine": [
     {
-      "id": "portal-zombies",
-      "host": "steamcommunity.com",
-      "date": "2026-10-12"
-    },
-    {
       "id": "retro-handheld-emulator",
       "host": "builtbybit.com",
-      "date": "2026-10-12"
-    },
-    {
-      "id": "hellgate-doom-portal",
-      "host": "curseforge.com",
-      "date": "2026-10-12"
-    },
-    {
-      "id": "dead-by-daylight",
-      "host": "curseforge.com",
-      "date": "2026-10-12"
+      "date": "2026-10-20"
     },
     {
       "id": "doom-in-balatro",

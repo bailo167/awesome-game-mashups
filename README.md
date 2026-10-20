@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**153 entries:** 133 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**154 entries:** 134 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) · [Skyrim: PipBoy Edition](#project-skyrim-pipboy-edition) · [SekiroCraft-Passthrough](#project-sekirocraft-passthrough) · [Granny Minecraft Passthrough](#project-granny-minecraft-passthrough) · [Bethception - Unified Gaming Framework](#project-bethception) · [VEmu](#project-vemu) · [SBCraft](#project-sbcraft) · [Gorilla Passthrough (Gorilla Tag x Minecraft)](#project-gorilla-passthrough)
+[ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) · [Skyrim: PipBoy Edition](#project-skyrim-pipboy-edition) · [SekiroCraft-Passthrough](#project-sekirocraft-passthrough) · [Granny Minecraft Passthrough](#project-granny-minecraft-passthrough) · [Fallout: PipBoy Edition](#project-fallout-pipboy-edition) · [Bethception - Unified Gaming Framework](#project-bethception) · [VEmu](#project-vemu) · [SBCraft](#project-sbcraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -74,6 +74,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [DOOMSona (DOOM in Persona 5 Royal)](#project-doomsona) | Makes full Doom playable on the retro console in Persona 5 Royal, complete with in-game rewards. | Released · Code available | — |
 | [EldenCraft](#project-eldencraft) | Runs real Minecraft Java inside Elden Ring, composited into one frame with mining, building, the Nether and progression. | Released · Code available · Experimental | — |
 | [ER Mario](#project-er-mario) | Runs Super Mario 64's movement, health and combat inside Elden Ring. | Released · Code available · Experimental | — |
+| [Fallout: PipBoy Edition](#project-fallout-pipboy-edition) | Plays Fallout 1 inside Fallout 4's Pip-Boy and terminals. | Released | — |
 | [FalloutCraft](#project-falloutcraft) | Runs Minecraft movement, building, HUD and combat inside Fallout 4's Commonwealth. | Released · Code available · Experimental | — |
 | [FortressCraft (FortCraft)](#project-fortresscraft) | Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs. | Released · Code available · Experimental | — |
 | [FreeDoom386i](#project-freedoom386i) | Runs playable Freedoom on My Winter Car's in-game 386 PC with sound and keyboard controls. | Released | — |
@@ -88,6 +89,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
 | [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64) | Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. | Released · Code available · Experimental | — |
 | [Halfcraft (Minecraft in Half Sword)](#project-halfcraft) | Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. | Released · Code available · Experimental | — |
+| [HellGate: Doom Portal](#project-hellgate-doom-portal) | Opens a portal from Minecraft into a playable DOOM II experience. | Released | — |
 | [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) | A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. | Released · Code available · Experimental | — |
 | [HyCraft](#project-hycraft) | Lets Minecraft players join Hytale servers and interact with their worlds. | Released · Code available · Experimental | — |
 | [hytale2mc](#project-hytale2mc) | Lets Minecraft and Hytale players join the same synchronized cross-game minigames. | Released · Code available · Experimental | [Watch](https://github.com/user-attachments/assets/0dd1647d-c700-4dca-94e7-312144ce7544) |
@@ -162,7 +164,6 @@ Public code can still require compilation. Video-only entries have no public bui
 | [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) | Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release. | Code available · Experimental | — |
 | [Halo / MW2 Director](#project-halo-mw2-director) | Runs Halo CE characters and map data inside a native MW2/IW4L prototype. | Code available · Experimental | — |
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
-| [HellGate: Doom Portal](#project-hellgate-doom-portal) | Opens a portal from Minecraft into a playable DOOM II experience. | Released · Unavailable | — |
 | [HytaleDoom](#project-hytale-doom) | Lets you control DOOM from inside Hytale. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=RxVj6_NKRDY) |
 | [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) | Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds. | Code available · Experimental | [Watch](https://github.com/pragyaangaur/Knee-Deep-In-The-Mines/blob/main/docs/gameplay.gif) |
 | [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) | Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. | Released · Code available · Experimental · Unavailable | — |
@@ -419,7 +420,7 @@ Turns ULTRAKILL's diegetic shop terminals into playable DOOM instances. A legiti
 **Guest:** DOOM II  
 **Host:** Minecraft: Java Edition 1.20.4  
 **Creator:** fate_worshipper  
-**Status:** Released · Unavailable  
+**Status:** Released  
 **Approach:** Fabric mod / OpenGL integration  
 
 An in-world portal and altar launch a playable DOOM II experience from Minecraft; DOOM saves and progress persist between sessions.
@@ -428,9 +429,9 @@ An in-world portal and altar launch a playable DOOM II experience from Minecraft
 
 **Platforms documented:** Minecraft Java Edition 1.20.4
 
-- [Release / download](https://www.curseforge.com/minecraft/mc-mods/hellgate-doom-portal)
+- [Release / download](https://www.curseforge.com/minecraft/mc-mods/project-1428983)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -510,7 +511,7 @@ Recreates generator objectives and skill checks, pallets/vaulting, health states
 - [Release / download](https://www.curseforge.com/minecraft-bedrock/addons/dead-by-daylight)
 - [Watch demo](https://www.youtube.com/watch?v=plcN45eaRwg)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -819,7 +820,7 @@ Portal-themed Zombies map using Portal textures, models and teleporters; not a f
 
 - [Release / download](https://steamcommunity.com/sharedfiles/filedetails/?id=856630622)
 
-**Dated source review:** 2026-10-08
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1141,7 +1142,7 @@ CJ can switch into Skate 3-style skating on San Andreas streets, using Skate 3 c
 - [Release / download](https://github.com/ryglizzy/GTA-San-AnSkateas/releases/tag/v1.2)
 - [Creator profile](https://github.com/ryglizzy)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1196,7 +1197,7 @@ Minecraft supplies movement, blocks, hearts, inventory and combat while Fallout 
 - [Release / download](https://github.com/zeyvu/FalloutCraft/releases/tag/v0.1.3)
 - [Creator profile](https://github.com/zeyvu)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1694,7 +1695,7 @@ Spider-Man supplies swinging, wall running, crawling, point launches and its cha
 - [Watch demo](https://www.youtube.com/watch?v=O6Mkm_NGCX8)
 - [Creator profile](https://github.com/luki-1)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1880,7 +1881,7 @@ A native GTA V mod adds a Minecraft hotbar and creative inventory, hundreds of b
 - [Release / download](https://github.com/cyteon/GrandTheftMinecraft/releases/tag/v1.5.1)
 - [Creator profile](https://github.com/cyteon)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2652,7 +2653,7 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
 - [Inspired by minecraft-crossover-bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3122,11 +3123,11 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/VVRLD/FortressCraft)
-- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.8)
+- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.9)
 - [Creator profile](https://github.com/VVRLD)
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3182,7 +3183,7 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 - [MoeWhite19/BNes (original)](https://github.com/MoeWhite19/BNes)
 - [Nestalgia](https://github.com/tiagohm/nestalgia)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3435,7 +3436,7 @@ An experimental, work-in-progress, offline-only passthrough: AoTTG2 (BepInEx) ru
 - [Creator profile](https://github.com/mpere056)
 - [AI Game Modding Guides](https://github.com/trevaintdead/ai-game-modding-guides)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3783,7 +3784,7 @@ A Fabric mod for Minecraft Java Edition that reads DOOM's WAD and rebuilds its m
 - [Creator profile](https://github.com/pragyaangaur)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4228,6 +4229,33 @@ A Windows experimental mod where Minecraft 1.20.1 (Fabric or standalone Forge) h
 - [Source code](https://github.com/Xu060113/SekiroCraft-Passthrough)
 - [Release / download](https://github.com/Xu060113/SekiroCraft-Passthrough/releases)
 - [Creator profile](https://github.com/Xu060113)
+
+**Dated source review:** 2026-10-20
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-fallout-pipboy-edition"></a>
+
+### Fallout: PipBoy Edition
+
+**Guest:** Fallout  
+**Host:** Fallout 4  
+**Creator:** RPGKing117  
+**Status:** Released  
+**Approach:** F4SE plugin hooking D3D11 and a patched Fallout 1 Community Edition writing frames to named shared memory  
+
+A Nexus mod by RPGKing117 that streams a patched Fallout 1 Community Edition into the Fallout 4 Pip-Boy screen: Fallout 1 runs as a hidden process, writes frames to shared memory, and an F4SE plugin copies them into the Pip-Boy render target while forwarding keyboard and mouse. It is launched from a holotape and is marked outdated in favour of Bethception.
+
+**Requirements:** Fallout 4 (Steam) with F4SE, Fallout 1 game data (Steam or GOG) and Windows 10/11 x64, per the Nexus description; the installer patches Fallout 4 INI settings.
+
+**Platforms documented:** Windows
+
+- [Release / download](https://www.nexusmods.com/fallout4/mods/105198)
+- [Creator profile](https://github.com/rpgking117)
+- [Successor: Bethception](https://www.nexusmods.com/fallout4/mods/105294)
 
 **Dated source review:** 2026-10-20
 **Catalogue play-test:** Not recorded.

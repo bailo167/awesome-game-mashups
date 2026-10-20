@@ -6,6 +6,7 @@ Week ending 2026-10-20. These are additions to the index, not necessarily new re
 - **[Skyrim: PipBoy Edition](https://github.com/bailo167/awesome-game-mashups#project-skyrim-pipboy-edition)** — Plays Skyrim inside Fallout 4's Pip-Boy and terminals. (Released)
 - **[SekiroCraft-Passthrough](https://github.com/bailo167/awesome-game-mashups#project-sekirocraft-passthrough)** — Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes. (Code available · Experimental)
 - **[Granny Minecraft Passthrough](https://github.com/bailo167/awesome-game-mashups#project-granny-minecraft-passthrough)** — Runs real Minecraft Java alongside Granny Legacy and blends it into Granny's house. (Code available · Experimental)
+- **[Fallout: PipBoy Edition](https://github.com/bailo167/awesome-game-mashups#project-fallout-pipboy-edition)** — Plays Fallout 1 inside Fallout 4's Pip-Boy and terminals. (Released)
 - **[Bethception - Unified Gaming Framework](https://github.com/bailo167/awesome-game-mashups#project-bethception)** — Plays Fallout 1, 2 and 3 and several Elder Scrolls games on Fallout 4's Pip-Boy. (Released)
 - **[VEmu](https://github.com/bailo167/awesome-game-mashups#project-vemu)** — Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. (Released · Code available)
 - **[SBCraft](https://github.com/bailo167/awesome-game-mashups#project-sbcraft)** — Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game. (Released · Code available · Experimental)
