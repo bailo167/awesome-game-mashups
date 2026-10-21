@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-21",
-    "head_sha": "a08334d6feea31366223d0dc05d0e635c854aedd",
-    "project_count": 161,
+    "head_sha": "c1e11db8a17140113873b677a4c8ed2564f42860",
+    "project_count": 164,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-21: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 108 GitHub-linked repos by tag (no new releases among catalogued repos; 4 already-dead repos still private/gone) + 12 deep rechecks (requiem-x-minecraft, sonic-ultimate-speed-combat-gta-v, freedoom386i, minecraft-passthrough-iv, gmdoom, sm64-generations, ckosmic-gmod-emulators, juni-emu, doomtest-arma-reforger, minecraft-classic-hytale, minecraft-gta-v, minecraft-cyberpunk) + discovery (about 30 searches/checks; +7 new: warcraft-cs, minekill, skydoom, garrys-modcraft, gmodlight, hl2minecraft, skate-64). head_sha is the parent commit. 3 records in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-21 PM: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 115 GitHub-linked repos by tag (no new releases; 4 already-dead repos still private/gone) + 16 deep rechecks (csgo-project-zomboid, gta-trilogy-multiverse, black-ops-ii-hijacked-minecraft, escape-from-skyrim, project-inception, hytale2mc, minecraft-hytale-crossplay-ssquadteam, valcraft, wither-storm-gta-v, gta-skate-3-trilogy, minecraft-x-half-life, world-of-skatecraft, pipelink-launcher, wowcraft, owcraft, libertycraft) + discovery (about 30 searches/checks; +3 new: factorio-to-satisfactory, empress-gameboy-repo, cabinboy-long-dark). head_sha is the parent commit. 3 records in unreachable_from_routine (not yet due for retry). No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -250,6 +250,30 @@
       "name": "@chasmmmmmmmmmmm DS-games mashup (Kotaku 2026-10-02)",
       "url": "https://x.com/chasmmmmmmmmmmm/status/2104888657593110730",
       "why": "X post and press only, no repo found",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Valheim Game Boy emulator (Mixone, 2021)",
+      "url": "https://www.pcgamesn.com/valheim/mod-gameboy-emulator",
+      "why": "Press only; no Nexus/Thunderstore file page found, 2021 report said loader not public; check Mixone's Nexus profile",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Swirly: Minecraft-style building in SM64 CoopDX",
+      "url": "https://www.gamesradar.com/games/super-mario/super-mario-64-can-now-play-minecraft-thanks-to-a-mod-that-recreates-the-2011-sandbox-games-building-and-world-generation-systems-inside-the-1996-nintendo-64-classic/",
+      "why": "Press/video only, unreleased; recheck for a repo",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "ElMoi47/libsm64-custom",
+      "url": "https://github.com/ElMoi47/libsm64-custom",
+      "why": "libsm64 fork for a Minecraft mod, created 2026-10-15; no mod repo or readable README yet",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Cyberpunk 2077 arcade machine games mod",
+      "url": "https://www.thegamer.com/cyberpunk-2077-mod-arcade-machine-games/",
+      "why": "Press page 404; mod name/creator unknown; probably reimplemented minigames",
       "date": "2026-10-21"
     }
   ],

@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**161 entries:** 141 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**164 entries:** 144 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom) · [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) · [MINEKILL](#project-minekill) · [HL2Minecraft](#project-hl2minecraft) · [GModLight](#project-gmodlight) · [Garry's Modcraft](#project-garrys-modcraft) · [ULTRAKILL inside Minecraft](#project-ultrakill-minecraft)
+[Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom) · [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) · [MINEKILL](#project-minekill) · [HL2Minecraft](#project-hl2minecraft) · [GModLight](#project-gmodlight) · [Garry's Modcraft](#project-garrys-modcraft) · [FactorioToSatisfactory Challenge](#project-factorio-to-satisfactory)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -59,6 +59,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [BlockBreach](#project-blockbreach) | Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game. | Released · Code available · Experimental | — |
 | [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) | Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. | Released · Code available | — |
 | [BullySkate](#project-bullyskate) | Lets Jimmy skate through Bullworth using Skate 3 physics. | Released · Code available | — |
+| [CabinBoy](#project-cabinboy-long-dark) | Puts a working Game Boy emulator in The Long Dark as a handheld item that plays your own ROMs. | Released · Code available | — |
 | [Celeste Doom](#project-celeste-doom) | An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. | Released | — |
 | [Classic64 — Mario in ClassiCube](#project-classic64) | A ClassiCube plugin that adds a playable Super Mario 64 Mario to Minecraft Classic-style worlds. | Released · Code available | — |
 | [CraftMSC](#project-craftmsc) | Runs real Minecraft 1.12.2 inside My Summer Car. | Released · Experimental | — |
@@ -73,7 +74,9 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Doom-in-Doom](#project-doom-in-doom) | Runs a second copy of Doom on a wall inside unmodified DOS Doom II using a code-execution exploit. | Released · Code available | [Watch](https://www.youtube.com/watch?v=c6hnQ1RKhbo) |
 | [DOOMSona (DOOM in Persona 5 Royal)](#project-doomsona) | Makes full Doom playable on the retro console in Persona 5 Royal, complete with in-game rewards. | Released · Code available | — |
 | [EldenCraft](#project-eldencraft) | Runs real Minecraft Java inside Elden Ring, composited into one frame with mining, building, the Nether and progression. | Released · Code available · Experimental | — |
+| [Empress Gameboy Emulator](#project-empress-gameboy-repo) | Adds a Game Boy cabinet to R.E.P.O. that runs your own ROMs inside the game, including multiplayer. | Released · Code available | — |
 | [ER Mario](#project-er-mario) | Runs Super Mario 64's movement, health and combat inside Elden Ring. | Released · Code available · Experimental | — |
+| [FactorioToSatisfactory Challenge](#project-factorio-to-satisfactory) | Transfers items live from a running Factorio game into a running Satisfactory game. | Released · Experimental | — |
 | [Fallout: PipBoy Edition](#project-fallout-pipboy-edition) | Plays Fallout 1 inside Fallout 4's Pip-Boy and terminals. | Released | — |
 | [FalloutCraft](#project-falloutcraft) | Runs Minecraft movement, building, HUD and combat inside Fallout 4's Commonwealth. | Released · Code available · Experimental | — |
 | [FortressCraft (FortCraft)](#project-fortresscraft) | Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs. | Released · Code available · Experimental | — |
@@ -855,7 +858,7 @@ Runs a fully featured second Minecraft instance on an in-world display and forwa
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/project-inception)
 - [Creator profile](https://github.com/Arc-blroth)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -908,7 +911,7 @@ A framework for writing one minigame that runs across Minecraft and Hytale with 
 - [Project page](https://hytale2mc.com/)
 - [Creator profile](https://github.com/alskea)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -954,7 +957,7 @@ Creator footage shows Minecraft and Hytale clients sharing one Hytale-hosted wor
 - [Supporting source](https://www.gamesradar.com/games/rpg/hytale-gets-crossplay-with-minecraft-thanks-to-15-year-old-modder-presumably-channeling-some-form-of-black-magic/)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1122,7 +1125,7 @@ Minecraft runs hidden and supplies movement, inventory, HUD, blocks and combat w
 - [Release / download](https://github.com/LoAlCo/ValCraft/releases/tag/v0.7.0)
 - [Creator profile](https://github.com/LoAlCo)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1177,7 +1180,7 @@ Minecraft remains responsible for simulating the Wither Storm while the bridge d
 - [Watch demo](https://www.youtube.com/watch?v=spm-u_cZvl8)
 - [Creator profile](https://github.com/VortexisTV)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1227,7 +1230,7 @@ A playable Vice City / Skate 3 mashup built from the open reVC/re3 lineage and t
 - [Release / download](https://github.com/irregularnetwork/GTA-Skate-3-Trilogy/releases/tag/1.1)
 - [Creator profile](https://github.com/irregularnetwork)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1253,7 +1256,7 @@ Minecraft runs hidden and supplies player physics, blocks, items, mobs, inventor
 - [Source code](https://github.com/SawyerTheNerd/Minecraft-X-HalfLife)
 - [Creator profile](https://github.com/SawyerTheNerd)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1307,7 +1310,7 @@ Pressing J drops the WoW character onto a skateboard using Skate 3's physics, wi
 - [Watch demo](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4)
 - [Creator profile](https://github.com/Kimmo3223)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1335,7 +1338,7 @@ An installer/launcher for a three-game mashup. Inside GTA San Andreas, F6 switch
 - [Watch demo](https://streamable.com/19fo55)
 - [Creator profile](https://github.com/Sm1jjj)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1365,7 +1368,7 @@ Creator footage shows Minecraft movement, combat, building and items operating t
 - [benilla upstream](https://github.com/samwhosung/benilla)
 - [Creator video: release and multiplayer download (2026-10-05)](https://www.youtube.com/watch?v=dKZN2nKc4bc)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1386,7 +1389,7 @@ Creator footage shows CS:GO-style weapons, shooting and movement inside Project 
 
 - [Watch demo](https://www.youtube.com/watch?v=n2fEHpLJUNk)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1413,7 +1416,7 @@ Minecraft supplies the player physics, blocks, inventory and interactions while 
 - [Release / download](https://github.com/Yaekai/OWCraft/releases/tag/v0.1.1)
 - [Creator profile](https://github.com/Yaekai)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1495,7 +1498,7 @@ Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty 
 - [Watch demo](https://www.youtube.com/watch?v=C1oCbMNOUqg)
 - [Creator profile](https://github.com/mrborghini)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1621,7 +1624,7 @@ DryxioGTA's creator demo shows GTA III, Vice City and San Andreas running simult
 - [GTA Vice City running in a GTA III texture in a GTA SA texture (video)](https://www.youtube.com/watch?v=X_w6fo4KVy0)
 - [Play Vice City and GTA 3 inside San Andreas (video)](https://www.youtube.com/watch?v=bJhmdD5mFMw)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1779,7 +1782,7 @@ The creator demo shows Hijacked geometry, collision, bots, navmesh, weapons and 
 - [Supporting source](https://www.minecraft-france.fr/call-of-duty-black-ops-2-directement-dans-minecraft/)
 - [Creator profile](https://github.com/luckeyfaraday)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2314,7 +2317,7 @@ An X video posted on 30 Sep 2026 ('I put Tarkov into Skyrim. Now with guns and e
 
 - [Creator post](https://x.com/cydonix/status/2105177318968955044)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4453,6 +4456,87 @@ A sm64coopdx mod that drives Super Mario 64 with the Rust Skate 3 engine re-impl
 - [Source code](https://github.com/SAitken91/Skating-with-a-Plumber-in-a-magical-land)
 - [Creator profile](https://github.com/SAitken91)
 - [Skate 3 Rust engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-factorio-to-satisfactory"></a>
+
+### FactorioToSatisfactory Challenge
+
+**Guest:** Factorio  
+**Host:** Satisfactory  
+**Creator:** Crisenpuer (Factorio mod); Andre Aquila and TheSillyEllie listed on the ficsit.app mod  
+**Status:** Released · Experimental  
+**Approach:** Two-process bridge: the Satisfactory building is pointed at the Factorio install path and moves items between the two games, converting them through conversions.json  
+
+A pair of mods that bridge two games running at the same time: a "Satisfactory Transfer" block in Factorio hands items to a "Factorio Transfer" building in Satisfactory, which spawns the converted items through an editable conversions table. Transfer is one-way (Factorio to Satisfactory) and the author calls it a work in progress.
+
+**Requirements:** Satisfactory with the ficsit.app mod (BetweenFactorio) and Factorio 2.0 with the Transfer To Satisfactory mod (depends on mfulib); both games running at once, with the Factorio install path entered in the Satisfactory building.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Crisenpuer/FactorioToSatisfactoryChallenge)
+- [Release / download](https://ficsit.app/mod/8gpHkuUFLWcoYY)
+- [Project page](https://mods.factorio.com/mod/TransferToSatisfactory)
+- [Demo video](https://www.youtube.com/watch?v=CzhwXyWXVRw)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-empress-gameboy-repo"></a>
+
+### Empress Gameboy Emulator
+
+**Guest:** Game Boy (user-supplied ROMs)  
+**Host:** R.E.P.O.  
+**Creator:** Omniscye / Empress  
+**Status:** Released · Code available  
+**Approach:** Game Boy emulator core (with an original APU and audio) running inside the game; in multiplayer the host simulates and streams frames, audio and input state to clients  
+
+A BepInEx mod that places an in-world Game Boy console in R.E.P.O. The player supplies a legally dumped .gb ROM and plays it on the cabinet with in-game 3D audio. In multiplayer the host runs the ROM and streams frames, audio and input to the lobby; the ROM itself is not shared.
+
+**Requirements:** R.E.P.O. with BepInEx 5.4.2305 and your own legally dumped Game Boy ROMs; no ROMs or BIOS are bundled.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Omniscye/Empress_Gameboy_Emulator)
+- [Release / download](https://thunderstore.io/c/repo/p/Omniscye/Empress_Gameboy_Emulator/)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-cabinboy-long-dark"></a>
+
+### CabinBoy
+
+**Guest:** Game Boy / Game Boy Color (user-supplied ROMs)  
+**Host:** The Long Dark  
+**Creator:** Lzc4 (Luca) and Marcy  
+**Status:** Released · Code available  
+**Approach:** Embedded UnityGB-based Game Boy core (CPU, PPU, APU) rendered on an in-game handheld item  
+
+A MelonLoader mod that adds a Game Boy to The Long Dark's inventory. Equipping it shows a 3D handheld running user-supplied .gb/.gbc ROMs with picture and sound, SRAM saves and fast-forward. Playing relieves Cabin Fever while hunger, cold and fatigue keep ticking.
+
+**Requirements:** The Long Dark 2.55 (Unity 6000.0.60f1, IL2CPP), MelonLoader 0.7.2, ModComponent 7.0.0 and your own ROMs; audio uses the Windows winmm API.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Lzc4/CabinBoy)
+- [Release / download](https://github.com/Lzc4/CabinBoy/releases)
+- [UnityGB (core upstream)](https://github.com/Inkdrop/UnityGB)
 
 **Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
