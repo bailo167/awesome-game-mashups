@@ -1,7 +1,14 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-20. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-21. These are additions to the index, not necessarily new releases.
 
+- **[Warcraft CS](https://github.com/bailo167/awesome-game-mashups#project-warcraft-cs)** — Brings Counter-Strike 1.6 weapons, movement and buy menu into Warcraft III as a first-person mode. (Released · Code available · Experimental)
+- **[SkyDoom](https://github.com/bailo167/awesome-game-mashups#project-skydoom)** — Runs a modified Chocolate Doom inside Skyrim, bridging weapons, damage and HUD through SKSE. (Released · Code available · Experimental)
+- **[Skate 64 (Skating with a Plumber in a Magical Land)](https://github.com/bailo167/awesome-game-mashups#project-skate-64)** — Retargets Skate 3's skating engine onto Mario inside sm64coopdx. (Code available · Experimental)
+- **[MINEKILL](https://github.com/bailo167/awesome-game-mashups#project-minekill)** — Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels. (Code available · Experimental)
+- **[HL2Minecraft](https://github.com/bailo167/awesome-game-mashups#project-hl2minecraft)** — Streams Minecraft chunks and entities into Half-Life 2's Direct3D 9 scene. (Released · Code available · Experimental)
+- **[GModLight](https://github.com/bailo167/awesome-game-mashups#project-gmodlight)** — Brings Garry's Mod hands, physgun, weapons and spawn menu into Dying Light. (Released · Code available · Experimental)
+- **[Garry's Modcraft](https://github.com/bailo167/awesome-game-mashups#project-garrys-modcraft)** — Runs Minecraft alongside Garry's Mod in one shared world with props, NPCs and redstone-to-Wiremod links. (Released · Code available · Experimental)
 - **[ULTRAKILL inside Minecraft](https://github.com/bailo167/awesome-game-mashups#project-ultrakill-minecraft)** — Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD. (Code available · Experimental)
 - **[Skyrim: PipBoy Edition](https://github.com/bailo167/awesome-game-mashups#project-skyrim-pipboy-edition)** — Plays Skyrim inside Fallout 4's Pip-Boy and terminals. (Released)
 - **[SekiroCraft-Passthrough](https://github.com/bailo167/awesome-game-mashups#project-sekirocraft-passthrough)** — Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes. (Code available · Experimental)
@@ -21,5 +28,3 @@ Week ending 2026-10-20. These are additions to the index, not necessarily new re
 - **[HalfCraft (Minecraft in Half-Life)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft-half-life)** — Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release. (Code available · Experimental)
 - **[Skyrim Shouts and Dragons in Fallout 4 (Glenny)](https://github.com/bailo167/awesome-game-mashups#project-skyrim-shouts-fallout-4-glenny)** — Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. (In development · Video only)
 - **[Knee-Deep in the Mines](https://github.com/bailo167/awesome-game-mashups#project-knee-deep-in-the-mines)** — Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds. (Code available · Experimental)
-- **[Mirror's Edge Movement in GTA San Andreas (Faith Runner)](https://github.com/bailo167/awesome-game-mashups#project-faith-runner-gta-sa)** — SavegameNostalgia's video shows CJ moving with Mirror's Edge parkour physics via a Rust movement core; no bridge code is public. (Video only · Unconfirmed)
-- **[Majora's Mask Recompiled DOOM Mod](https://github.com/bailo167/awesome-game-mashups#project-mm-recomp-doom)** — Link sits at a desk PC in Majora's Mask: Recompiled and plays DOOM on its screen. (Released · Code available · Demo)

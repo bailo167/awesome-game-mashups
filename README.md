@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**154 entries:** 134 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**161 entries:** 141 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-20. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-21. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) · [Skyrim: PipBoy Edition](#project-skyrim-pipboy-edition) · [SekiroCraft-Passthrough](#project-sekirocraft-passthrough) · [Granny Minecraft Passthrough](#project-granny-minecraft-passthrough) · [Fallout: PipBoy Edition](#project-fallout-pipboy-edition) · [Bethception - Unified Gaming Framework](#project-bethception) · [VEmu](#project-vemu) · [SBCraft](#project-sbcraft)
+[Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom) · [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) · [MINEKILL](#project-minekill) · [HL2Minecraft](#project-hl2minecraft) · [GModLight](#project-gmodlight) · [Garry's Modcraft](#project-garrys-modcraft) · [ULTRAKILL inside Minecraft](#project-ultrakill-minecraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -80,8 +80,10 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [FreeDoom386i](#project-freedoom386i) | Runs playable Freedoom on My Winter Car's in-game 386 PC with sound and keyboard controls. | Released | — |
 | [Freeplay Mod (Arcade Paradise)](#project-arcade-paradise-freeplay) | Adds an arcade cabinet to Arcade Paradise that runs real arcade and GBA games through libretro. | Released · Experimental | — |
 | [G64](#project-g64) | Puts a fully playable Super Mario 64 Mario, with his original moveset, into Garry's Mod. | Released · Code available | [Watch](https://www.youtube.com/watch?v=JMLDKfCohl0) |
+| [Garry's Modcraft](#project-garrys-modcraft) | Runs Minecraft alongside Garry's Mod in one shared world with props, NPCs and redstone-to-Wiremod links. | Released · Code available · Experimental | — |
 | [Garry's Redemption](#project-garrys-redemption) | Runs Garry's Mod movement, physgun, toolgun, weapons and spawn menu inside RDR2. | Released · Code available · Experimental | — |
 | [gmDoom (+ gmDoom Maps)](#project-gmdoom) | A Lua partial port of Doom that loads Doom weapons, monsters and WAD maps straight into Garry's Mod. | Released | — |
+| [GModLight](#project-gmodlight) | Brings Garry's Mod hands, physgun, weapons and spawn menu into Dying Light. | Released · Code available · Experimental | — |
 | [Good Enough Game Integration (GEGI)](#project-good-enough-game-integration) | Plays itch.io and Newgrounds web games interactively inside Minecraft through an embedded Chromium view. | Released · Code available | — |
 | [Gorilla Passthrough (Gorilla Tag x Minecraft)](#project-gorilla-passthrough) | Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world. | Released · Code available · Experimental | — |
 | [GrandTheftMinecraft](#project-grandtheftminecraft) | Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode. | Released · Code available · Experimental | — |
@@ -90,6 +92,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64) | Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. | Released · Code available · Experimental | — |
 | [Halfcraft (Minecraft in Half Sword)](#project-halfcraft) | Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. | Released · Code available · Experimental | — |
 | [HellGate: Doom Portal](#project-hellgate-doom-portal) | Opens a portal from Minecraft into a playable DOOM II experience. | Released | — |
+| [HL2Minecraft](#project-hl2minecraft) | Streams Minecraft chunks and entities into Half-Life 2's Direct3D 9 scene. | Released · Code available · Experimental | — |
 | [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) | A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. | Released · Code available · Experimental | — |
 | [HyCraft](#project-hycraft) | Lets Minecraft players join Hytale servers and interact with their worlds. | Released · Code available · Experimental | — |
 | [hytale2mc](#project-hytale2mc) | Lets Minecraft and Hytale players join the same synchronized cross-game minigames. | Released · Code available · Experimental | [Watch](https://github.com/user-attachments/assets/0dd1647d-c700-4dca-94e7-312144ce7544) |
@@ -127,6 +130,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [SK8V](#project-sk8v) | Skate 3 Flick-It skating, grinds and scoring inside GTA V Legacy Story Mode. | Released · Code available · Experimental | — |
 | [SkateGM](#project-skategm) | Runs Skate 3 physics, tricks and scoring inside Garry's Mod, including multiplayer. | Released · Code available | — |
 | [SkyCraft](#project-skycraft) | Brings Minecraft building, exploration and gameplay into Skyrim. | Released · Code available · Experimental | — |
+| [SkyDoom](#project-skydoom) | Runs a modified Chocolate Doom inside Skyrim, bridging weapons, damage and HUD through SKSE. | Released · Code available · Experimental | — |
 | [Skyrim: PipBoy Edition](#project-skyrim-pipboy-edition) | Plays Skyrim inside Fallout 4's Pip-Boy and terminals. | Released | — |
 | [SM64 Generations](#project-sm64-generations) | Replaces Sonic with Super Mario 64's Mario, using his exact controls and moveset, in Sonic Generations. | Released | — |
 | [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](#project-sm64-san-andreas) | An ASI plugin that lets you swap CJ for a fully physical Super Mario 64 Mario in GTA San Andreas. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=AS86LTwcGcA) |
@@ -143,6 +147,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
 | [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
 | [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) | Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. | Released · Code available | — |
+| [Warcraft CS](#project-warcraft-cs) | Brings Counter-Strike 1.6 weapons, movement and buy menu into Warcraft III as a first-person mode. | Released · Code available · Experimental | — |
 | [WitcherCraft](#project-witchercraft) | Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside. | Released · Code available | — |
 | [Wither Storm × GTA V Passthrough](#project-wither-storm-gta-v) | Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=spm-u_cZvl8) |
 | [WowCraft — Minecraft inside World of Warcraft](#project-wowcraft) | Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1. | Released · Experimental | [Watch](https://www.youtube.com/watch?v=sX3lsLiPS2s) |
@@ -178,12 +183,14 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Minecraft X Saints Row: The Third Remastered](#project-minecraft-x-saints-row-3) | Runs real Minecraft inside Saints Row: The Third Remastered, with building, TNT and combat in Stilwater. | Code available · In development · Experimental | — |
 | [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) | Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. | Released · Code available · Experimental · Unavailable | — |
 | [Minecraft ↔ Hytale crossplay (SSquadTeam)](#project-minecraft-hytale-crossplay-ssquadteam) | Lets Minecraft and Hytale players share a synchronized Hytale-hosted world. | Code available · In development | — |
+| [MINEKILL](#project-minekill) | Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels. | Code available · Experimental | — |
 | [Morrowind in Elden Ring](#project-morrowind-elden-ring) | Recreates Morrowind’s world and gameplay inside Elden Ring. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n89NFtIUWDI) |
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
 | [SekiroCraft-Passthrough](#project-sekirocraft-passthrough) | Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes. | Code available · Experimental | — |
 | [Skate 3 Board for Garry's Mod](#project-skate3-gmod) | Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. | Code available · In development · Experimental · Unavailable | — |
+| [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) | Retargets Skate 3's skating engine onto Mario inside sm64coopdx. | Code available · Experimental | — |
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
 | [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) | Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. | In development · Video only | [Watch](https://www.youtube.com/watch?v=KZQqJivPKac) |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
@@ -709,7 +716,7 @@ Primary creator footage demonstrates Minecraft Classic rendered inside Hytale's 
 - [Creator post](https://x.com/iamcxv711/status/2012610249174536397)
 - [Supporting source](https://www.pcgamer.com/hardware/doom-windows-95-even-hytale-itself-it-seems-like-theres-nothing-that-modders-cant-make-hytale-run/)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -759,7 +766,7 @@ Minecraft Java runs beside GTA V rather than being reimplemented. GTA drives Min
 - [GTA V Enhanced derivative](https://github.com/GrantMatas/minecraft-in-gta-enhanced)
 - [Packaged GTA V Enhanced derivative](https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -779,7 +786,7 @@ No matching public source/release verified as of 2026-10-01.
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1963,7 +1970,7 @@ A Resident Evil Requiem plugin, removed from Nexus Mods by staff as of 2026-10-0
 
 - [Release / download](https://www.nexusmods.com/residentevilrequiem/mods/3087)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1990,7 +1997,7 @@ A GTA V script mod adds Sonic-style acceleration and momentum, Spin Dash, homing
 - [Release / download](https://www.gta5-mods.com/scripts/sonic-the-hedgehog-ultimate-speed-combat-mod)
 - [Watch demo](https://www.youtube.com/watch?v=M_YSZfanFOE)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2017,7 +2024,7 @@ A downloadable My Winter Car mod that launches Freedoom on the game's programmab
 - [Freedoom](https://freedoom.github.io/)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2125,7 +2132,7 @@ An ASI plugin and Fabric mod pair that runs Minecraft Java next to GTA IV and re
 - [Release / download](https://www.nexusmods.com/gta4/mods/1498)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2444,7 +2451,7 @@ gmDoom is a partial source port of DOOM for Garry's Mod that reads a user's IWAD
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=145310679)
 - [gmDoom Maps source (Jcw87)](https://github.com/Jcw87/gmod-doom-maps)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2496,7 +2503,7 @@ Skyth's mod runs Super Mario 64's decompiled movement through libsm64 in Sonic G
 
 - [Release / download](https://gamebanana.com/mods/368411)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2894,7 +2901,7 @@ ckosmic built a series of Garry's Mod addons for playing retro console games on 
 - [GEMU by ckosmic (2017, historical)](https://steamcommunity.com/sharedfiles/filedetails/?id=945777403)
 - [Retromod 1.0 (2018, deprecated)](https://steamcommunity.com/sharedfiles/filedetails/?id=1457560331)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2975,7 +2982,7 @@ A Forge mod that uses Minecraft as a platform for emulators: GBA cartridges foun
 
 - [Release / download](https://modrinth.com/mod/juni-emu)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3000,7 +3007,7 @@ An Arma Reforger mod that adds an in-world arcade cabinet running an original so
 - [Release / download](https://reforger.armaplatform.com/workshop/444F4F4D54455354-DOOMTEST)
 - [Source (ARMA_RETROFORGER)](https://github.com/josharghhh/ARMA_RETROFORGER)
 
-**Dated source review:** 2026-10-15
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4258,6 +4265,196 @@ A Nexus mod by RPGKing117 that streams a patched Fallout 1 Community Edition int
 - [Successor: Bethception](https://www.nexusmods.com/fallout4/mods/105294)
 
 **Dated source review:** 2026-10-20
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-warcraft-cs"></a>
+
+### Warcraft CS
+
+**Guest:** Counter-Strike 1.6  
+**Host:** Warcraft III (1.26a)  
+**Creator:** Yazgul  
+**Status:** Released · Code available · Experimental  
+**Approach:** Native modules injected into Warcraft III add a first-person camera, CS-style weapon and movement logic and a HUD, with adapted ReGameDLL_CS/ReHLDS code  
+
+An offline single-player fan project that lets the player control a Warcraft III hero or unit in first person with Counter-Strike 1.6 style recoil, bunnyhop and air-strafe movement, weapons, a gold-based buy menu and C4, while Warcraft keeps the world, enemies, quests and health. F6 toggles between first person and RTS. The README calls it an early prototype with known limitations.
+
+**Requirements:** Windows x64, your own Warcraft III 1.26a x86 install (Game.dll 1.26.0.6401; Reforged unsupported) and OpenGL; Counter-Strike 1.6 loose files are needed only for the full weapon mode. The standard launcher builds the mod locally (MSVC, Windows SDK, Python 3.10-3.14); a separate DLL-included EXE is offered. No game assets are bundled.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/YazgulDev/warcraft-cs)
+- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.11.0)
+- [Creator profile](https://github.com/YazgulDev)
+- [Press: cybersport.ru](https://www.cybersport.ru/tags/cs2/modder-skrestil-warcraft-iii-i-cs-1-6-teper-mozhno-poigrat-v-shuter-na-karte-rts)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-minekill"></a>
+
+### MINEKILL
+
+**Guest:** Minecraft  
+**Host:** ULTRAKILL  
+**Creator:** niliota  
+**Status:** Code available · Experimental  
+**Approach:** BepInEx plugin and Fabric mod sharing state over memory-mapped files (minekill.bridge, minekill.stream)  
+
+A BepInEx plugin for ULTRAKILL and a Fabric mod for Minecraft that exchange data through memory-mapped files. Minecraft runs the player, physics, inventory, mining and building, mobs and GUI while ULTRAKILL draws the world natively and feeds its level collision into Minecraft. The README lists combat balance and burning-mob effects as not done and says it takes architecture ideas, but no code, from SkyCraft.
+
+**Requirements:** ULTRAKILL (Unity 2022.3 Mono) with BepInEx 5.4.23.2 win_x64, Minecraft 26.3 with Fabric, your own copies of both games and a build from source; the README says the author develops on Linux with ULTRAKILL under Wine and native Windows is supported in code but untested.
+
+**Platforms documented:** Linux (Wine)
+
+- [Source code](https://github.com/niliota/MINEKILL)
+- [Creator profile](https://github.com/niliota)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-skydoom"></a>
+
+### SkyDoom
+
+**Guest:** DOOM  
+**Host:** Skyrim Special Edition  
+**Creator:** Caffs  
+**Status:** Released · Code available · Experimental  
+**Approach:** SKSE plugin built on CommonLibSSE-NG bridging a modified Chocolate Doom runtime  
+
+A Skyrim SE/AE SKSE plugin bridging a modified Chocolate Doom runtime: seven DOOM weapon slots damage Skyrim actors, rocket knockback uses Skyrim physics, Skyrim enemies drop DOOM-style pickups, and the HUD, weapon overlay, sound and music are carried over. It does not place DOOM levels in Skyrim. The README credits SkyCraft as inspiration; the release is marked pre-release.
+
+**Requirements:** Skyrim runtime 1.7.104.0 (Steam), SKSE 2.3.1, Address Library and your own Steam DOOM and DOOM II (the mod finds DOOM.WAD and ships no WADs).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Caffs/SkyDoom)
+- [Release / download](https://github.com/Caffs/SkyDoom/releases/tag/v0.1.0-beta)
+- [Creator profile](https://github.com/Caffs)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-garrys-modcraft"></a>
+
+### Garry's Modcraft
+
+**Guest:** Minecraft  
+**Host:** Garry's Mod  
+**Creator:** cheetahdotcat  
+**Status:** Released · Code available · Experimental  
+**Approach:** Garry's Mod addon and module plus a Minecraft Fabric mod communicating over a protocol layer, derived from SkyCraft  
+
+A SkyCraft-derived bridge in which Garry's Mod and Minecraft Java run at once and share a world: Minecraft blocks, stairs and redstone are drawn in Garry's Mod and are solid to props, vehicles and NPCs, GMod maps are solid and diggable in Minecraft, mobs and NPCs fight and redstone talks to Wiremod. It ships a Python/EXE launcher and optional multiplayer server setup.
+
+**Requirements:** Garry's Mod on the x86-64 beta branch, Minecraft Java with an account, Prism Launcher and the bundled launcher; optional dedicated GMod and Minecraft servers for multiplayer. Linux x86-64 is primary per the README.
+
+**Platforms documented:** Linux, Windows (experimental, untested), macOS (experimental, untested)
+
+- [Source code](https://github.com/cheetahdotcat/garrys-modcraft)
+- [Release / download](https://github.com/cheetahdotcat/garrys-modcraft/releases/tag/v0.7.0)
+- [Creator profile](https://github.com/cheetahdotcat)
+- [Derived from SkyCraft fork (hawktuahs)](https://github.com/hawktuahs/SkycraftFork)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-gmodlight"></a>
+
+### GModLight
+
+**Guest:** Garry's Mod  
+**Host:** Dying Light  
+**Creator:** GooseMcGee  
+**Status:** Released · Code available · Experimental  
+**Approach:** Dying Light native plugin (dl_plugin) with a Garry's Mod module hooking position writers  
+
+A Dying Light plugin that launches Garry's Mod hidden at the menu and hooks Dying Light's position writers so the real zombie moves; F2 swaps in Garry's Mod hands with the physgun and weapons, and the spawn and context menus are available with stand-in boxes for physics. Single player only; prop spawning is listed as coming soon.
+
+**Requirements:** Dying Light and Garry's Mod (64-bit branch) on Steam, single player only; installed with Install.bat. Workshop weapon packs are optional.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/GooseMcGee/DyingLight-GMod)
+- [Release / download](https://github.com/GooseMcGee/DyingLight-GMod/releases/tag/v0.1.0)
+- [Creator profile](https://github.com/GooseMcGee)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-hl2minecraft"></a>
+
+### HL2Minecraft
+
+**Guest:** Minecraft  
+**Host:** Half-Life 2  
+**Creator:** ShadowBlade83  
+**Status:** Released · Code available · Experimental  
+**Approach:** Fabric mod streaming meshes over shared memory to a ReShade add-on rendering inside HL2's D3D9 scene, with IEngineTrace geometry scanning  
+
+Minecraft chunk meshes, entity models, particles, sky and held items stream over shared memory (Local\HL2CraftShm) into Half-Life 2's D3D9 scene through a ReShade add-on; HL2 walls and props occlude Minecraft, HL2 geometry is scanned for Minecraft projectiles, explosions and pathfinding, and blocks placed in Minecraft spawn collision in HL2. The licence is CC BY-NC 4.0, which is not an open-source licence.
+
+**Requirements:** Half-Life 2 (D3D9, 32-bit), ReShade 6.x with add-on support, Minecraft 26.3 with Fabric Loader 0.19.5+ and Fabric API, plus the hl2craft jar and HL2Minecraft.addon32 (auto-installed).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/ShadowBlade83/HalfLife2Minecraft)
+- [Release / download](https://github.com/ShadowBlade83/HalfLife2Minecraft/releases/tag/v1.7.5)
+- [Creator profile](https://github.com/ShadowBlade83)
+
+**Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-skate-64"></a>
+
+### Skate 64 (Skating with a Plumber in a Magical Land)
+
+**Guest:** Skate 3  
+**Host:** Super Mario 64 (sm64coopdx)  
+**Creator:** SAitken91  
+**Status:** Code available · Experimental  
+**Approach:** sm64coopdx Lua/native mod embedding the Rust SK8-ENGINE Skate 3 re-implementation  
+
+A sm64coopdx mod that drives Super Mario 64 with the Rust Skate 3 engine re-implementation: the engine's 36-bone skeleton is retargeted onto Mario, level collision is fed to the engine and ledges become grind rails, with a replay editor, trainer menu and object dropper. It is experimental, tested on one PC and built locally.
+
+**Requirements:** Windows 10/11 x64, sm64coopdx 1.5.1, a US SM64 ROM from your own cartridge, Skate 3 (PS3) assets converted from your own disc, and a local build (Rust, Visual Studio 2022, Python 3) via Play Skate 64.cmd.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/SAitken91/Skating-with-a-Plumber-in-a-magical-land)
+- [Creator profile](https://github.com/SAitken91)
+- [Skate 3 Rust engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
+
+**Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

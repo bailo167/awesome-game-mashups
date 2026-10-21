@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-20",
-    "head_sha": "3a2a66b768a96d125e43b0432d080e5f3595def0",
-    "project_count": 154,
+    "verified_at": "2026-10-21",
+    "head_sha": "a08334d6feea31366223d0dc05d0e635c854aedd",
+    "project_count": 161,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-20 PM: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 108 GitHub-linked repos by tag (FortressCraft v0.5.9 updated; no other real changes; 3 repos still private/gone) + 12 deep rechecks (dead-by-daylight V2, hellgate-doom-portal found alive under a renamed slug, portal-zombies, arkweb, bnes-fork, eldencraft, fortresscraft, grandtheftminecraft, knee-deep-in-the-mines, attack-on-elden-ring, falloutcraft, gta-san-anskateas) + discovery (13 queries/checks; +1 new: fallout-pipboy-edition). head_sha is the parent commit. 3 records in unreachable_from_routine. No play-tests.",
+    "scope": "Run 2026-10-21: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 108 GitHub-linked repos by tag (no new releases among catalogued repos; 4 already-dead repos still private/gone) + 12 deep rechecks (requiem-x-minecraft, sonic-ultimate-speed-combat-gta-v, freedoom386i, minecraft-passthrough-iv, gmdoom, sm64-generations, ckosmic-gmod-emulators, juni-emu, doomtest-arma-reforger, minecraft-classic-hytale, minecraft-gta-v, minecraft-cyberpunk) + discovery (about 30 searches/checks; +7 new: warcraft-cs, minekill, skydoom, garrys-modcraft, gmodlight, hl2minecraft, skate-64). head_sha is the parent commit. 3 records in unreachable_from_routine. No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -209,6 +209,48 @@
       "url": "https://github.com/andrewnakas/haloskate3wasm",
       "why": "Rechecked 2026-10-20: both repos now return a credential prompt (private, removed or restricted; not proven deleted); marionogi likewise",
       "date": "2026-10-20"
+    },
+    {
+      "name": "Amazing Frog Legacy x Skate 3 (SLUSCH)",
+      "url": "https://github.com/Henk56797/Amazing-Frog-Legacy-x-Skate-3",
+      "why": "README-only repo, no LICENSE, tags v1.0-v1.2 (2026-10-12); no source to judge the bridge; likely adjacent",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "A Hat in Minecraft (chazbrooksy)",
+      "url": "https://github.com/chazbrooksy/A-Hat-in-Time-X-Minecraft",
+      "why": "Single commit with only a zip, no README/LICENSE/source (2026-10-12); watchlist at most",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Link in Just Cause 2 (PeasantVon)",
+      "url": "https://www.youtube.com/watch?v=mDvoUtPN5rs",
+      "why": "YouTube clip only (2026-10-12), no repo or download found (via aggregator)",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "iw4Strike (Gh4zi)",
+      "url": "https://github.com/Gh4zi/iw4Strike",
+      "why": "Apache-2.0 IW4L fork with Counter-Strike gameplay, v0.3.3 (2026-10-12); engine fork rather than a two-game bridge, likely adjacent; AI only via commit/agent files, not stated",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "TamrielMerge (Murray2k6)",
+      "url": "https://github.com/Murray2k6/TamrielMerge",
+      "why": "GPL-3.0, v0.2.0 (2026-10-18); asset/content conversion into Skyrim SE, at most adjacent; README says AI was used",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "hawktuahs/SkycraftFork",
+      "url": "https://github.com/hawktuahs/SkycraftFork",
+      "why": "MIT fork of SkyCraft, single commit 2026-10-03, no tags; upstream of garrys-modcraft; possible note on skycraft",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "@chasmmmmmmmmmmm DS-games mashup (Kotaku 2026-10-02)",
+      "url": "https://x.com/chasmmmmmmmmmmm/status/2104888657593110730",
+      "why": "X post and press only, no repo found",
+      "date": "2026-10-21"
     }
   ],
   "structural_upgrade": {
