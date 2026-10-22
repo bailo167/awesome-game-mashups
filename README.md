@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**167 entries:** 147 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**169 entries:** 149 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) · [DoomCraft](#project-doomcraft-roryekay) · [CK3 x Bannerlord Bridge](#project-ck3-bannerlord-bridge) · [Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom) · [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) · [MINEKILL](#project-minekill) · [HL2Minecraft](#project-hl2minecraft)
+[SubnautiCraft (Minecraft inside Subnautica)](#project-subnauticraft-dacotin2) · [Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) · [FNAFSBCraft (Minecraft inside FNAF: Security Breach)](#project-fnafsbcraft) · [DoomCraft](#project-doomcraft-roryekay) · [CK3 x Bannerlord Bridge](#project-ck3-bannerlord-bridge) · [Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom) · [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -81,6 +81,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [FactorioToSatisfactory Challenge](#project-factorio-to-satisfactory) | Transfers items live from a running Factorio game into a running Satisfactory game. | Released · Experimental | — |
 | [Fallout: PipBoy Edition](#project-fallout-pipboy-edition) | Plays Fallout 1 inside Fallout 4's Pip-Boy and terminals. | Released | — |
 | [FalloutCraft](#project-falloutcraft) | Runs Minecraft movement, building, HUD and combat inside Fallout 4's Commonwealth. | Released · Code available · Experimental | — |
+| [FNAFSBCraft (Minecraft inside FNAF: Security Breach)](#project-fnafsbcraft) | Plays Five Nights at Freddy's: Security Breach as Steve, with a Minecraft client running beside the game. | Released · Code available · Experimental | — |
 | [FortressCraft (FortCraft)](#project-fortresscraft) | Plays Minecraft as a Team Fortress 2 mercenary, with TF2's classes, weapons and buildings running against Minecraft's world and mobs. | Released · Code available · Experimental | — |
 | [FreeDoom386i](#project-freedoom386i) | Runs playable Freedoom on My Winter Car's in-game 386 PC with sound and keyboard controls. | Released | — |
 | [Freeplay Mod (Arcade Paradise)](#project-arcade-paradise-freeplay) | Adds an arcade cabinet to Arcade Paradise that runs real arcade and GBA games through libretro. | Released · Experimental | — |
@@ -142,6 +143,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) | Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. | Released · Code available | — |
 | [SMC64 — Mario in Halo: CE](#project-smc64-halo) | Puts a playable Super Mario 64 Mario into Halo: Combat Evolved. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=tj5fAk7KkHA) |
 | [Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) | Plays Stellar Blade's EVE inside Minecraft Java by streaming her simulated pose into a Fabric mod. | Released · Code available · Experimental | — |
+| [SubnautiCraft (Minecraft inside Subnautica)](#project-subnauticraft-dacotin2) | Lets you play Subnautica as Steve, with Minecraft physics, blocks and crafting blended into Subnautica's seafloor. | Released · Code available · Experimental | — |
 | [Subnauticraft (Subnautica Link)](#project-subnauticraft) | Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer. | Released · Code available | — |
 | [Super Sekiro 64](#project-super-sekiro-64) | Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. | Released · Code available · Experimental | — |
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
@@ -603,7 +605,7 @@ A large multiplayer-focused Dark Souls overhaul that evolved into a Halo/Dark So
 - [Original release post](https://www.patreon.com/infernoplus/posts/dark-souls-46865100)
 - [Community tooling: DS Gadget for Remastest](https://github.com/Nordgaren/DS-Gadget-for-Remastest)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -627,7 +629,7 @@ A seven-year solo recreation designed to be playable from beginning to end, cove
 - [Release / download](https://rivero7462.itch.io/ocarina-of-time-in-minecraft)
 - [Watch demo](https://www.youtube.com/watch?v=HSGioTZ_rf4)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -652,7 +654,7 @@ A complete playable recreation of Pokémon Red built in vanilla Minecraft, repro
 
 - [Release / download](https://www.curseforge.com/minecraft/worlds/pokemon-red)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -675,7 +677,7 @@ Runs on emulator and, with reduced render distance, on original Nintendo 64 hard
 - [Creator post](https://x.com/arthurtilly413/status/1924566904498487662)
 - [Creator GitHub](https://github.com/arthurtilly)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -700,7 +702,7 @@ An ongoing recreation of Morrowind in Elden Ring. A May 2026 update showed major
 - [Creator second channel (AnotherPlus): Update Video #1 (2025-10-29)](https://www.youtube.com/watch?v=l7GP9jdKbVk)
 - [Creator second channel (AnotherPlus): Update Video #2 (2026-05-06)](https://www.youtube.com/watch?v=U57Px9REH98)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -743,7 +745,7 @@ Primary creator footage exists, but no public repository/download was located; b
 - [Creator post](https://x.com/TobynJacobs/status/2104884843297599594)
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -771,6 +773,7 @@ Minecraft Java runs beside GTA V rather than being reimplemented. GTA drives Min
 - [Primary field note](https://github.com/rehan-remade/universal-modder/blob/main/knowledge/games/gta-v/minecraft-passthrough.md)
 - [GTA V Enhanced derivative](https://github.com/GrantMatas/minecraft-in-gta-enhanced)
 - [Packaged GTA V Enhanced derivative](https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough)
+- [LowBacon GTA V passthrough variant (MIT, source only)](https://github.com/LowBacon/minecraft-gta5-passthrough)
 
 **Dated source review:** 2026-10-21
 **Catalogue play-test:** Not recorded.
@@ -812,7 +815,7 @@ Earlier viral Minecraft-in-Skyrim footage was not independently sourced. Do not 
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1007,7 +1010,7 @@ Recreates a substantial Pokémon adventure loop inside Hytale: starter selection
 - [Release / download](https://www.curseforge.com/hytale/mods/talemonpokemon)
 - [Watch demo](https://www.youtube.com/watch?v=wJbgOMAv5-s)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1030,7 +1033,7 @@ A work-in-progress multiplayer Pokémon-style project inside Hytale. Creator foo
 - [Supporting source](https://www.dexerto.com/pokemon/hytale-modder-is-turning-classic-pokemon-into-an-mmo-you-can-play-with-friends-3409404/)
 - [Creator follow-up: field abilities preview (2026-09-18)](https://x.com/pokeworldonlin/status/2100900271962431670)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1446,7 +1449,7 @@ Runs Skate 3's board physics, tricks and scoring on Garry's Mod maps, with multi
 - [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/9.0)
 - [Creator profile](https://github.com/the-schwilliam)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1551,7 +1554,7 @@ Minecraft's colour and depth are composited into Fallout: New Vegas while FNV ca
 - [Source code](https://github.com/Davozh/new-vegascraft)
 - [Creator profile](https://github.com/Davozh)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1575,7 +1578,7 @@ Unlike the passthrough projects, Minebonk uses one Megabonk process and rebuilds
 - [Source code](https://github.com/MGuibas/Minebonk)
 - [Creator profile](https://github.com/MGuibas)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1922,7 +1925,7 @@ Minecraft Java runs alongside Elden Ring and owns the Minecraft player, blocks, 
 - [Creator profile](https://github.com/siddoff)
 - [Upstream Minecraft Crossover Bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2272,7 +2275,7 @@ Spawning NG64's Mario from BeamNG.drive's vehicle selector gives Super Mario 64'
 - [Source code](https://github.com/zer0ducksgiven/NG64)
 - [Release / download](https://github.com/zer0ducksgiven/NG64/releases)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2299,7 +2302,7 @@ A libsm64-based mod that runs SM64's Mario movement inside Halo CE in the Master
 - [Release / download](https://github.com/KodyJKing/smc64/releases)
 - [Watch demo](https://www.youtube.com/watch?v=tj5fAk7KkHA)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3254,7 +3257,7 @@ An F4SE mod that renders The Elder Scrolls III: Morrowind, running through OpenM
 - [Creator profile](https://github.com/rpgking117)
 - [Nexus Mods page (version 1.23.1 updated 2026-05-16 per the Nexus API)](https://www.nexusmods.com/fallout4/mods/104456)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4619,6 +4622,61 @@ Stellar Blade runs alongside Minecraft Java (Fabric) and simulates EVE's control
 - [Source code](https://github.com/MotherSphere/stellarblade-minecraft)
 - [Release / download](https://github.com/MotherSphere/stellarblade-minecraft/releases)
 - [SkyCraft (transport upstream)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-22
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-subnauticraft-dacotin2"></a>
+
+### SubnautiCraft (Minecraft inside Subnautica)
+
+**Guest:** Minecraft: Java Edition 26.3 (Fabric)  
+**Host:** Subnautica  
+**Creator:** dacotin2  
+**Status:** Released · Code available · Experimental  
+**Approach:** BepInEx Subnautica plugin linked to a Fabric Minecraft mod; Minecraft's world is drawn inside Subnautica and fed its terrain, sea and events  
+
+A BepInEx plugin for Subnautica paired with a Fabric Minecraft mod: Steve moves, builds and fights with Minecraft's rules while Subnautica lights his blocks, treats them as terrain for creatures and the Seamoth, and shares items, fabricator recipes, tools, batteries, digging and TNT with Minecraft. Distinct from the catalogued Subnauticraft (Subnautica Link) by JasonNinja15; the README credits SkyCraft and universal-modder as upstreams.
+
+**Requirements:** Subnautica with BepInEx 5, Minecraft Java 26.3 with Fabric Loader 0.19.5 and Fabric API 0.161.0+26.3 (for example a Prism Launcher instance); JDK 25 and the .NET SDK only to build. The README does not state an operating system.
+
+- [Source code](https://github.com/dacotin2/SubnautiCraft)
+- [Release / download](https://github.com/dacotin2/SubnautiCraft/releases)
+- [Creator profile](https://github.com/dacotin2)
+- [SkyCraft (upstream credit)](https://github.com/chasmlol/SkyCraft)
+- [universal-modder (upstream credit)](https://github.com/rehan-remade/universal-modder)
+
+**Dated source review:** 2026-10-22
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-fnafsbcraft"></a>
+
+### FNAFSBCraft (Minecraft inside FNAF: Security Breach)
+
+**Guest:** Minecraft: Java Edition 26.3 (Fabric)  
+**Host:** Five Nights at Freddy's: Security Breach  
+**Creator:** Mielesgames  
+**Status:** Released · Code available · Experimental  
+**Approach:** SkyCraft-derived design: UE4SS mod in the Unreal game linked to a Fabric Minecraft mod through shared memory  
+
+A SkyCraft fork with the Skyrim half replaced by a UE4SS mod for Security Breach: Minecraft's physics, controls, HUD, blocks and mobs run inside the Pizzaplex through shared memory, with the building scanned for collision, the game's subtitles shown in Minecraft chat, Steam achievements as advancements and one Minecraft world per save. The README labels the 1.0.0-beta only lightly tested; the Minecraft mod is still internally named skycraft.
+
+**Requirements:** FNAF: Security Breach on Steam (Windows) and Minecraft Java Edition on a Microsoft account; the release zip bundles UE4SS and the mod, and Prism Launcher is set up on first start. Building needs Visual Studio 2026, CMake, Rust and JDK 25.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Mielesgames/securitybreach-minecraft-passthrough)
+- [Release / download](https://github.com/Mielesgames/securitybreach-minecraft-passthrough/releases)
+- [Creator profile](https://github.com/Mielesgames)
+- [SkyCraft (upstream fork source)](https://github.com/chasmlol/SkyCraft)
 
 **Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
