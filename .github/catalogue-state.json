@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-22",
-    "head_sha": "d81b3280abb1a4e8657693c747b209ae9ecfee93",
-    "project_count": 167,
+    "head_sha": "fefe61fc9b5a9e234480045f323049eb321fb04d",
+    "project_count": 169,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-22: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 118 GitHub-linked repos by tag (no new releases; 4 already-dead repos still private/gone; ultraring has tag v0.2.0 only) + 14 deep rechecks (halfcraft-half-life, killcraft, mw2xror2, doom-hearts-of-iron-iv, er-mario, garrys-redemption, gemu-gmod, geometrytale, good-enough-game-integration, halo-mw2-director, halocraft, ultraring, latte-doom, lethalmario64) + discovery (about 30 searches/checks; +3 new: doomcraft-roryekay, ck3-bannerlord-bridge, stellar-blade-minecraft). head_sha is the parent commit. 4 records in unreachable_from_routine (crash-bandicoot-remake added). No play-tests.",
+    "scope": "Run 2026-10-22 PM: contributions (no open issues; Dependabot PR #6 left open) + release sweep of GitHub-linked repos by tag (eldencraft 0.26.0 and doom-ring v1.3 updated; 4 already-dead repos still private/gone) + 18 deep rechecks (16 primary-source re-reads plus eldencraft/doom-ring release pages) + discovery (about 40 searches/checks; +2 new: subnauticraft-dacotin2, fnafsbcraft; 6 new deferred leads). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -286,6 +286,42 @@
       "name": "DanieleSimula/OWCraft and SIGFAI/um-gta5-passthrough",
       "url": "https://github.com/DanieleSimula/OWCraft",
       "why": "Fork of owcraft (tag v0.2.0, 2026-10-14) and a repackage of minecraft-gta-v; possible notes only",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "LowBacon/minecraft-gta5-passthrough",
+      "url": "https://github.com/LowBacon/minecraft-gta5-passthrough",
+      "why": "MIT, no tags, README says written with Claude Code; GTA V Enhanced variant of minecraft-gta-v (now an extra_link there)",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Utimaa/ResidentCraft4 (Minecraft in Resident Evil 4)",
+      "url": "https://github.com/Utimaa/ResidentCraft4",
+      "why": "MIT; tags ALPHA/Fixes but releases page empty; README states vibe-coded with OpenAI Codex; unresolved JVM crashes; add if a release with assets appears",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Duake (Magic Nipples)",
+      "url": "https://magic-nipples.itch.io/duake",
+      "why": "Doom character/weapons in Quake on Xash3D, itch release 2024-10-05, no licence; closer to a total-conversion pack, adjacent at most",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Doom inside Roblox (juaninsanote7773)",
+      "url": "https://github.com/juaninsanote7773/roblox-sc-server",
+      "why": "Screen-streaming bridge via render.com, no licence, no playable place; watchlist at most (2025)",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "DOOMtide (Doom in Darktide, Nexus 1041)",
+      "url": "https://www.nexusmods.com/warhammer40kdarktide/mods/1041",
+      "why": "Nexus unreadable from routine, snippet only; creator unknown",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "PC Gamer: GTA 5 mod that imports most of Doom 2",
+      "url": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
+      "why": "Press headline only; primary not located",
       "date": "2026-10-22"
     }
   ],
