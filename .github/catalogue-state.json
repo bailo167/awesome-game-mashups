@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-21",
-    "head_sha": "c1e11db8a17140113873b677a4c8ed2564f42860",
-    "project_count": 164,
+    "verified_at": "2026-10-22",
+    "head_sha": "d81b3280abb1a4e8657693c747b209ae9ecfee93",
+    "project_count": 167,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-21 PM: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 115 GitHub-linked repos by tag (no new releases; 4 already-dead repos still private/gone) + 16 deep rechecks (csgo-project-zomboid, gta-trilogy-multiverse, black-ops-ii-hijacked-minecraft, escape-from-skyrim, project-inception, hytale2mc, minecraft-hytale-crossplay-ssquadteam, valcraft, wither-storm-gta-v, gta-skate-3-trilogy, minecraft-x-half-life, world-of-skatecraft, pipelink-launcher, wowcraft, owcraft, libertycraft) + discovery (about 30 searches/checks; +3 new: factorio-to-satisfactory, empress-gameboy-repo, cabinboy-long-dark). head_sha is the parent commit. 3 records in unreachable_from_routine (not yet due for retry). No play-tests.",
+    "scope": "Run 2026-10-22: contributions (no open issues; Dependabot PR #6 left open) + release sweep of 118 GitHub-linked repos by tag (no new releases; 4 already-dead repos still private/gone; ultraring has tag v0.2.0 only) + 14 deep rechecks (halfcraft-half-life, killcraft, mw2xror2, doom-hearts-of-iron-iv, er-mario, garrys-redemption, gemu-gmod, geometrytale, good-enough-game-integration, halo-mw2-director, halocraft, ultraring, latte-doom, lethalmario64) + discovery (about 30 searches/checks; +3 new: doomcraft-roryekay, ck3-bannerlord-bridge, stellar-blade-minecraft). head_sha is the parent commit. 4 records in unreachable_from_routine (crash-bandicoot-remake added). No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -275,6 +275,18 @@
       "url": "https://www.thegamer.com/cyberpunk-2077-mod-arcade-machine-games/",
       "why": "Press page 404; mod name/creator unknown; probably reimplemented minigames",
       "date": "2026-10-21"
+    },
+    {
+      "name": "Henvag/WitchCraft (Minecraft avatar in The Witcher 3)",
+      "url": "https://github.com/Henvag/WitchCraft",
+      "why": "MIT, no tags, source only, prototype (2026-10-11..18); overlaps witchercraft (Wanesia); no AI statement in README",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "DanieleSimula/OWCraft and SIGFAI/um-gta5-passthrough",
+      "url": "https://github.com/DanieleSimula/OWCraft",
+      "why": "Fork of owcraft (tag v0.2.0, 2026-10-14) and a repackage of minecraft-gta-v; possible notes only",
+      "date": "2026-10-22"
     }
   ],
   "structural_upgrade": {
@@ -354,6 +366,11 @@
       "id": "ultracraft",
       "host": "github.com (alfr0762/ultracraft)",
       "date": "2026-10-20"
+    },
+    {
+      "id": "crash-bandicoot-remake",
+      "host": "curseforge.com (cfwidget returned HTML)",
+      "date": "2026-10-22"
     }
   ]
 }

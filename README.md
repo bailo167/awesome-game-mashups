@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**164 entries:** 144 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**167 entries:** 147 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-21. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-22. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom) · [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) · [MINEKILL](#project-minekill) · [HL2Minecraft](#project-hl2minecraft) · [GModLight](#project-gmodlight) · [Garry's Modcraft](#project-garrys-modcraft) · [FactorioToSatisfactory Challenge](#project-factorio-to-satisfactory)
+[Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) · [DoomCraft](#project-doomcraft-roryekay) · [CK3 x Bannerlord Bridge](#project-ck3-bannerlord-bridge) · [Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom) · [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) · [MINEKILL](#project-minekill) · [HL2Minecraft](#project-hl2minecraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -61,6 +61,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [BullySkate](#project-bullyskate) | Lets Jimmy skate through Bullworth using Skate 3 physics. | Released · Code available | — |
 | [CabinBoy](#project-cabinboy-long-dark) | Puts a working Game Boy emulator in The Long Dark as a handheld item that plays your own ROMs. | Released · Code available | — |
 | [Celeste Doom](#project-celeste-doom) | An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. | Released | — |
+| [CK3 x Bannerlord Bridge](#project-ck3-bannerlord-bridge) | Fights Crusader Kings III battles in Mount & Blade II: Bannerlord and returns the results to CK3. | Released · Code available · Experimental | — |
 | [Classic64 — Mario in ClassiCube](#project-classic64) | A ClassiCube plugin that adds a playable Super Mario 64 Mario to Minecraft Classic-style worlds. | Released · Code available | — |
 | [CraftMSC](#project-craftmsc) | Runs real Minecraft 1.12.2 inside My Summer Car. | Released · Experimental | — |
 | [CrossplayProject — Minecraft ↔ Roblox](#project-crossplayproject) | Links Minecraft and Roblox so players, blocks and chat synchronize between both games. | Released · Code available · Archived | — |
@@ -72,6 +73,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [DOOM in Hearts of Iron IV](#project-doom-hearts-of-iron-iv) | Plays DOOM's shareware first episode inside Hearts of Iron IV as a Workshop mod. | Released · Code available | — |
 | [DOOM on Hytale — PapiSpielt](#project-doom-hytale-papispielt) | Reconstructs classic DOOM WAD levels as Hytale worlds with enemies and items mapped into Hytale. | Released · Code available · Experimental | — |
 | [Doom-in-Doom](#project-doom-in-doom) | Runs a second copy of Doom on a wall inside unmodified DOS Doom II using a code-execution exploit. | Released · Code available | [Watch](https://www.youtube.com/watch?v=c6hnQ1RKhbo) |
+| [DoomCraft](#project-doomcraft-roryekay) | Runs Minecraft Java gameplay inside classic Doom and Doom II through a patched GZDoom engine. | Released · Code available · Experimental | — |
 | [DOOMSona (DOOM in Persona 5 Royal)](#project-doomsona) | Makes full Doom playable on the retro console in Persona 5 Royal, complete with in-game rewards. | Released · Code available | — |
 | [EldenCraft](#project-eldencraft) | Runs real Minecraft Java inside Elden Ring, composited into one frame with mining, building, the Nether and progression. | Released · Code available · Experimental | — |
 | [Empress Gameboy Emulator](#project-empress-gameboy-repo) | Adds a Game Boy cabinet to R.E.P.O. that runs your own ROMs inside the game, including multiplayer. | Released · Code available | — |
@@ -139,6 +141,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](#project-sm64-san-andreas) | An ASI plugin that lets you swap CJ for a fully physical Super Mario 64 Mario in GTA San Andreas. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=AS86LTwcGcA) |
 | [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) | Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. | Released · Code available | — |
 | [SMC64 — Mario in Halo: CE](#project-smc64-halo) | Puts a playable Super Mario 64 Mario into Halo: Combat Evolved. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=tj5fAk7KkHA) |
+| [Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) | Plays Stellar Blade's EVE inside Minecraft Java by streaming her simulated pose into a Fabric mod. | Released · Code available · Experimental | — |
 | [Subnauticraft (Subnautica Link)](#project-subnauticraft) | Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer. | Released · Code available | — |
 | [Super Sekiro 64](#project-super-sekiro-64) | Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. | Released · Code available · Experimental | — |
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
@@ -576,7 +579,7 @@ Four destructible Minecraft maps built inside Halo 3. This is more than a textur
 - [Project page](https://www.patreon.com/infernoplus/posts/halocraft-73930239)
 - [Official Halo spotlight](https://www.halowaypoint.com/news/halo-mcc-modtacular-2)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -883,7 +886,7 @@ A DOOM source port for Minecraft. Mocha Doom owns the game simulation while Mine
 
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/latte-doom)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1072,7 +1075,7 @@ Recreates Geometry Dash-style 2D side-scrolling levels as a downloadable Hytale 
 - [Release / download](https://www.curseforge.com/hytale/worlds/geometrytale)
 - [Watch demo](https://www.youtube.com/watch?v=N13Usbcgn60)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1651,7 +1654,7 @@ A real Minecraft instance runs hidden and owns movement, health, hunger, invento
 - [Release / download](https://github.com/goonsn/Killcraft/releases/tag/v1.0.2)
 - [Creator profile](https://github.com/goonsn)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1678,7 +1681,7 @@ Mario's triple jumps, wall kicks, long jumps, ground pounds, attacks, health wed
 - [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.2)
 - [Creator profile](https://github.com/deltarooo)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1732,7 +1735,7 @@ Garry's Mod runs hidden beside Red Dead Redemption 2 and supplies the player, sa
 - [Release / download](https://github.com/codeByAlexff/garrys-redemption/releases/tag/v0.1.0-beta)
 - [Creator profile](https://github.com/codeByAlexff)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1760,7 +1763,7 @@ The project patches IW4L for a native Mac crossover: Halo CE Spartans, sounds/ef
 - [Halo map importer scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/HALO_MAPS.md)
 - [Autonomous bot-match scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/BOT_MATCHES.md)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1837,7 +1840,7 @@ GEGI adds an in-game browser catalogue and embeds playable itch.io and Newground
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/gegi)
 - [Creator profile](https://github.com/Pr1nted)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2109,7 +2112,7 @@ A Hearts of Iron IV Workshop mod that runs the whole DOOM engine, based on doomg
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3800765971)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2243,7 +2246,7 @@ Adds SNES, NES and Genesis console stations with CRT TVs, plus GB/GBC/GBA handhe
 - [Release / download](https://github.com/Nighthawk42/gemu/releases)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3801421244)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3223,7 +3226,7 @@ A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement
 - [Creator showcase video](https://github.com/buhhrad/MW2xRoR2/raw/main/docs/media/showcase.mp4)
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3419,7 +3422,7 @@ ULTRAKILL handles V1's movement, dashes, slides, weapons and HUD while Elden Rin
 - [ULTRAKILL Crossover Bridge](https://github.com/Themetralla3000/ultrakill-crossover-bridge)
 - [Minecraft Ring](https://github.com/siddoff/Minecraft-Ring)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3845,7 +3848,7 @@ A SkyCraft-derived bridge in which the real GoldSrc Half-Life keeps movement, BS
 - [Creator profile](https://github.com/sogutemir)
 - [Upstream SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-16
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3921,7 +3924,7 @@ A BepInEx mod for Lethal Company that adds a Mario suit giving the player SM64 M
 - [Release / download](https://thunderstore.io/c/lethal-company/p/Kosmikstars/LethalMario64/)
 - [libsm64](https://github.com/libsm64/libsm64)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4539,6 +4542,85 @@ A MelonLoader mod that adds a Game Boy to The Long Dark's inventory. Equipping i
 - [UnityGB (core upstream)](https://github.com/Inkdrop/UnityGB)
 
 **Dated source review:** 2026-10-21
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-doomcraft-roryekay"></a>
+
+### DoomCraft
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Doom / Doom II (patched GZDoom 4.14.2)  
+**Creator:** roryekay  
+**Status:** Released · Code available · Experimental  
+**Approach:** Patched GZDoom engine bridged to a Fabric Minecraft mod running alongside it  
+
+A Windows prototype that bridges a Fabric Minecraft mod with a patched GZDoom 4.14.2: Minecraft renders the hands, inventory, blocks and HUD while Doom supplies maps, enemies and combat. The README lists movement, building and mining, projectiles, armor and totem integration, and boss travel. Known limits include input latency, approximate wall collision, unstable Doom II rendering and untested multiplayer.
+
+**Requirements:** Windows 10/11 x64, about 8 GB RAM, internet for first setup, your own Minecraft Java (26.3 with Fabric Loader 0.19.5 and Fabric API) and your own Doom/Doom II IWADs. The installer is unsigned and was not tested on a fresh Windows install.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/roryekay/doomcraft)
+- [Release / download](https://github.com/roryekay/doomcraft/releases/tag/v0.1.0)
+
+**Dated source review:** 2026-10-22
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-ck3-bannerlord-bridge"></a>
+
+### CK3 x Bannerlord Bridge
+
+**Guest:** Mount & Blade II: Bannerlord  
+**Host:** Crusader Kings III  
+**Creator:** graff0n  
+**Status:** Released · Code available · Experimental  
+**Approach:** CK3 mod plus tray app that carries battle data to and from a Bannerlord module  
+
+A CK3 mod, a tray app and a Bannerlord module that run both games at once: armies, commanders and your character carry into a Bannerlord battle, and losses, wounds, deaths, captives, prestige and war score return to CK3. The first public release is a beta.
+
+**Requirements:** Windows 10/11 64-bit, Crusader Kings III 1.20.x and Bannerlord v1.4.8 owned and run at the same time. Steam is the tested store; GOG and Epic are detected but untested. The installer is unsigned.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/graff0n/ck3-bannerlord-bridge)
+- [Release / download](https://github.com/graff0n/ck3-bannerlord-bridge/releases)
+
+**Dated source review:** 2026-10-22
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-stellar-blade-minecraft"></a>
+
+### Stellar Bridge (Stellar Blade x Minecraft)
+
+**Guest:** Stellar Blade  
+**Host:** Minecraft: Java Edition 1.21.1 (Fabric)  
+**Creator:** MotherSphere  
+**Status:** Released · Code available · Experimental  
+**Approach:** Stellar Blade runs alongside Minecraft and streams EVE's pose through a SkyCraft-style shared-memory transport  
+
+Stellar Blade runs alongside Minecraft Java (Fabric) and simulates EVE's controls, animations, combat and skills, streaming her pose each frame while Minecraft draws her and keeps the world, inventory and damage. The README adapts SkyCraft's three-buffer transport design and credits it. Linux (Proton) is the documented working path; the Windows bridge has not been played on a real Windows PC. The creator labels it experimental.
+
+**Requirements:** A Steam copy of Stellar Blade pinned to one build, Minecraft Java 1.21.1 with Fabric, and a private avatar pack that the installer builds from your own game files (no assets are shipped). Linux via Proton is the documented path; Windows is untested in play. Back up saves.
+
+**Platforms documented:** Linux, Windows
+
+- [Source code](https://github.com/MotherSphere/stellarblade-minecraft)
+- [Release / download](https://github.com/MotherSphere/stellarblade-minecraft/releases)
+- [SkyCraft (transport upstream)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

@@ -1,7 +1,10 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-21. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-22. These are additions to the index, not necessarily new releases.
 
+- **[Stellar Bridge (Stellar Blade x Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-stellar-blade-minecraft)** — Plays Stellar Blade's EVE inside Minecraft Java by streaming her simulated pose into a Fabric mod. (Released · Code available · Experimental)
+- **[DoomCraft](https://github.com/bailo167/awesome-game-mashups#project-doomcraft-roryekay)** — Runs Minecraft Java gameplay inside classic Doom and Doom II through a patched GZDoom engine. (Released · Code available · Experimental)
+- **[CK3 x Bannerlord Bridge](https://github.com/bailo167/awesome-game-mashups#project-ck3-bannerlord-bridge)** — Fights Crusader Kings III battles in Mount & Blade II: Bannerlord and returns the results to CK3. (Released · Code available · Experimental)
 - **[Warcraft CS](https://github.com/bailo167/awesome-game-mashups#project-warcraft-cs)** — Brings Counter-Strike 1.6 weapons, movement and buy menu into Warcraft III as a first-person mode. (Released · Code available · Experimental)
 - **[SkyDoom](https://github.com/bailo167/awesome-game-mashups#project-skydoom)** — Runs a modified Chocolate Doom inside Skyrim, bridging weapons, damage and HUD through SKSE. (Released · Code available · Experimental)
 - **[Skate 64 (Skating with a Plumber in a Magical Land)](https://github.com/bailo167/awesome-game-mashups#project-skate-64)** — Retargets Skate 3's skating engine onto Mario inside sm64coopdx. (Code available · Experimental)
@@ -29,5 +32,3 @@ Week ending 2026-10-21. These are additions to the index, not necessarily new re
 - **[Retro Machines (Game Boy in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retro-machines)** — Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. (Released · Experimental)
 - **[LethalMario64 (Mario 64 in Lethal Company)](https://github.com/bailo167/awesome-game-mashups#project-lethalmario64)** — A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. (Released)
 - **[HalfCraft (Minecraft in Half-Life)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft-half-life)** — Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release. (Code available · Experimental)
-- **[Skyrim Shouts and Dragons in Fallout 4 (Glenny)](https://github.com/bailo167/awesome-game-mashups#project-skyrim-shouts-fallout-4-glenny)** — Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. (In development · Video only)
-- **[Knee-Deep in the Mines](https://github.com/bailo167/awesome-game-mashups#project-knee-deep-in-the-mines)** — Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds. (Code available · Experimental)
