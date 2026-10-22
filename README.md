@@ -2653,20 +2653,20 @@ Celeste Doom ports the C# Managed Doom engine onto Celeste's Monocle framework. 
 **Status:** Released · Code available · Experimental  
 **Approach:** two-process passthrough: Elden Ring via me3/fromsoftware-rs and a Minecraft Fabric mod, composited with ReShade  
 
-Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world, enemies, bosses, collision and the player's HP, while Minecraft's integrated server owns items, inventory, blocks, mobs and the HUD, and the two renderers are composited into a single frame. The creator documents minable Elden Ring terrain, building, a lightable Nether portal that transforms the Lands Between, Torrent as a Minecraft horse, stamina-based combat and a progression system. The README labels it early alpha.
+Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world, enemies, bosses, collision and the player's HP, while Minecraft's integrated server owns items, inventory, blocks, mobs and the HUD, and the two renderers are composited into a single frame. The creator documents minable Elden Ring terrain, building, a lightable Nether portal that transforms the Lands Between, Torrent as a Minecraft horse, stamina-based combat and a progression system. The README labels it early alpha. Release 0.26.0 (2026-10-21) adds a Flask of Wondrous Physick, an enchanting/affinity system, enemy stance and poise breaks, rebindable controls and a combat rebalance.
 
-**Requirements:** Windows 10/11 x64 (build 19041+), an owned Steam copy of Elden Ring at executable version 2.7.1.0 and an owned Minecraft Java Edition account. The launcher script downloads checksum-verified portable Java, Prism Launcher, me3 and ReShade, installs Minecraft 26.3 and runs both games; Elden Ring uses a separate EldenCraft.sl2 save and saves are backed up before every launch.
+**Requirements:** Windows 10/11 x64 (build 19041+), an owned Steam copy of Elden Ring at app version 1.17.2 (0.26.0 drops older game versions) and an owned Minecraft Java Edition account. The launcher script downloads checksum-verified portable Java, Prism Launcher, me3 and ReShade, installs Minecraft 26.3 and runs both games; Elden Ring uses a separate EldenCraft.sl2 save and saves are backed up before every launch.
 
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/SocketByte/EldenCraft)
-- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.25.5)
+- [Release / download](https://github.com/SocketByte/EldenCraft/releases/tag/v0.26.0)
 - [Project page](https://www.nexusmods.com/eldenring/mods/11259)
 - [Creator profile](https://github.com/SocketByte)
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
 - [Inspired by minecraft-crossover-bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3550,17 +3550,17 @@ A BepInEx-side exporter reads the player's own PEAK install and builds each day'
 **Status:** Released · Related  
 **Approach:** Rust installer that builds assets from the local DOOM Eternal install and implements Doom-style first-person play in Elden Ring  
 
-A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weapons, dash and double jump, glory kills, Blood Punch, the Crucible and DOOM Eternal's combat music rules, with assets built at setup from the player's own DOOM Eternal files.
+A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weapons, dash and double jump, glory kills, Blood Punch, the Crucible and DOOM Eternal's combat music rules, with assets built at setup from the player's own DOOM Eternal files. Release v1.3 (2026-10-22) adds support for Elden Ring 1.17.2 and fixes boss fights, glory-kill and cutscene-door bugs and weapon damage timing.
 
-**Requirements:** Elden Ring (app version 2.7.1) and DOOM Eternal installed through Steam, Windows 10/11 and about 3 GB free space during install. Offline.
+**Requirements:** Elden Ring (app version 1.17.2 for v1.3; v1.2 required 2.7.1) and DOOM Eternal installed through Steam, Windows 10/11 and about 3 GB free space during install. Offline.
 
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/stanleymov/DOOM-RING)
-- [Release / download](https://github.com/stanleymov/DOOM-RING/releases/tag/v1.2)
+- [Release / download](https://github.com/stanleymov/DOOM-RING/releases/tag/v1.3)
 - [Creator profile](https://github.com/stanleymov)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-22
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
