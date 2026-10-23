@@ -1,6 +1,6 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-22. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-23. These are additions to the index, not necessarily new releases.
 
 - **[SubnautiCraft (Minecraft inside Subnautica)](https://github.com/bailo167/awesome-game-mashups#project-subnauticraft-dacotin2)** — Lets you play Subnautica as Steve, with Minecraft physics, blocks and crafting blended into Subnautica's seafloor. (Released · Code available · Experimental)
 - **[Stellar Bridge (Stellar Blade x Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-stellar-blade-minecraft)** — Plays Stellar Blade's EVE inside Minecraft Java by streaming her simulated pose into a Fabric mod. (Released · Code available · Experimental)
@@ -33,4 +33,3 @@ Week ending 2026-10-22. These are additions to the index, not necessarily new re
 - **[SM64BS (Mario 64 in Beat Saber)](https://github.com/bailo167/awesome-game-mashups#project-sm64bs)** — Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. (Released · Code available)
 - **[Retro Machines (Game Boy in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retro-machines)** — Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. (Released · Experimental)
 - **[LethalMario64 (Mario 64 in Lethal Company)](https://github.com/bailo167/awesome-game-mashups#project-lethalmario64)** — A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. (Released)
-- **[HalfCraft (Minecraft in Half-Life)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft-half-life)** — Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release. (Code available · Experimental)

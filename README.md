@@ -8,7 +8,7 @@
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-22. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-23. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -1815,7 +1815,7 @@ A Garry's Mod add-on and native Rust bridge run Skate 3's reconstructed board/sk
 - [Creator profile](https://github.com/DaffyDabz)
 - [Upstream Skate 3 rebuild](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2351,7 +2351,7 @@ G64 is a Garry's Mod addon that uses ckosmic's fork of libsm64 to run Super Mari
 - [Watch demo](https://www.youtube.com/watch?v=JMLDKfCohl0)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=2814638140)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2380,7 +2380,7 @@ kgsws found a code-execution vulnerability in DOS DOOM2.EXE and used it to load 
 - [Project page](https://doomwiki.org/wiki/ACE_Engine)
 - [ACE Engine (follow-up, LGPL-2.1)](https://github.com/kgsws/doom_ace)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2435,7 +2435,7 @@ DOOMSona adds Doom cartridges to Persona 5 Royal's second-hand shop and runs the
 - [Release / download](https://gamebanana.com/mods/511278)
 - [Demo video (embedded on the GameBanana page)](https://www.youtube.com/watch?v=3RgkXJbLBDw)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2564,7 +2564,7 @@ An entry in the Sonic Hacking Contest 2020 that embeds Chocolate Doom in Sonic M
 - [Source code](https://github.com/TheStoneBanana/mania-doom)
 - [Project page](https://old.sonicstadium.org/?p=61884)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2589,7 +2589,7 @@ sammyuri's team wrote a tiny 3D Minecraft for the CHUNGUS 2 redstone CPU and ran
 - [Watch demo](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 - [CHUNGUS 2 assembler (MIT)](https://github.com/sammyuri/chungus-2-assembler)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2614,7 +2614,7 @@ This Factorio 2.1 mod runs Doom with its levels, menus, sounds, music, HUD and s
 - [Release / download](https://mods.factorio.com/mod/doom)
 - [Watch demo](https://www.youtube.com/watch?v=ZgFlZszci2Y)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2696,7 +2696,7 @@ Both games run at once: Saints Row owns the world, vehicles and camera, while on
 - [Creator profile](https://github.com/SawyerTheNerd)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3285,7 +3285,7 @@ A Lucas' Simpsons Hit & Run Mod Launcher hack that embeds doomgeneric (Chocolate
 - [Creator profile](https://github.com/EnAppelsin)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3341,7 +3341,7 @@ A Windows mod based on chasmlol's SkyCraft framework: Minecraft Java runs in the
 - [Creator profile](https://github.com/Wanesia)
 - [SkyCraft (upstream framework)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3397,7 +3397,7 @@ A BepInEx Subnautica plugin paired with a Fabric Minecraft mod: shared health, h
 - [Creator profile](https://github.com/JasonNinja15)
 - [SubCraft (separate project)](https://github.com/FumperForrest/SubCraft)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3879,7 +3879,7 @@ A Beat Saber mod that uses ckosmic's modified libsm64 and libsm64-unity to put M
 - [Creator profile](https://github.com/ckosmic)
 - [libsm64 fork](https://github.com/ckosmic/libsm64/tree/changes)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
