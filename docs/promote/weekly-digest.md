@@ -2,6 +2,7 @@
 
 Week ending 2026-10-23. These are additions to the index, not necessarily new releases.
 
+- **[DoomValley (Doom in Stardew Valley)](https://github.com/bailo167/awesome-game-mashups#project-doomvalley)** — Playable Doom running inside Stardew Valley as a SMAPI mod, built on doomgeneric. (Released · Code available · Demo)
 - **[SubnautiCraft (Minecraft inside Subnautica)](https://github.com/bailo167/awesome-game-mashups#project-subnauticraft-dacotin2)** — Lets you play Subnautica as Steve, with Minecraft physics, blocks and crafting blended into Subnautica's seafloor. (Released · Code available · Experimental)
 - **[Stellar Bridge (Stellar Blade x Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-stellar-blade-minecraft)** — Plays Stellar Blade's EVE inside Minecraft Java by streaming her simulated pose into a Fabric mod. (Released · Code available · Experimental)
 - **[FNAFSBCraft (Minecraft inside FNAF: Security Breach)](https://github.com/bailo167/awesome-game-mashups#project-fnafsbcraft)** — Plays Five Nights at Freddy's: Security Breach as Steve, with a Minecraft client running beside the game. (Released · Code available · Experimental)

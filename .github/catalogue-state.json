@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-23",
-    "head_sha": "d65253b66f99e6cb13f607a60aadaa2bede35de2",
-    "project_count": 169,
+    "head_sha": "81b6f480b533c480b9f03ac62fa6ae6dc4e6679c",
+    "project_count": 170,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-23: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 123 GitHub-linked entries (no new releases; only non-version tags differ) + 12 deep rechecks (11 primary-source re-reads plus skate3-gmod repo still gone) + discovery (11 searches, deferred leads re-checked: no changes; +0 new). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged, all within 7 days). No play-tests.",
+    "scope": "Run 2026-10-23 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 123 GitHub-linked entries (no new releases; gone repos already marked dead) + 12 deep rechecks (all primary sources read; retro-machines licence cleared to null, doom-hytale-papispielt source activity 2026-10-23) + discovery (~36 searches across two agents; +1 new: doomvalley; 3 new deferred leads). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests.",
     "link_check": {
       "workflow": ".github/workflows/links.yml",
       "run_id": 37852690910,
@@ -323,6 +323,24 @@
       "url": "https://www.pcgamer.com/games/grand-theft-auto/i-might-finally-have-gone-too-far-with-a-gta-5-mod-that-imports-most-of-doom-2/",
       "why": "Press headline only; primary not located",
       "date": "2026-10-22"
+    },
+    {
+      "name": "Teddy563/mc-modder",
+      "url": "https://github.com/Teddy563/mc-modder",
+      "why": "MIT, no tags; fork of rehan-remade/universal-modder (Claude Code skills/CLI toolkit, not a mashup itself); at most an extra_link note on minecraft-gta-v",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "SethBling Atari 2600 emulator in vanilla Minecraft (2016)",
+      "url": "https://www.youtube.com/watch?v=5nViIUfDMJg",
+      "why": "Historical precursor confirmed by Guinness World Records; YouTube descriptions/world download unread (rate-limited); add as video-only/watchlist once the world download is read",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "Unity-in-Unreal 'Fantasy Kingdom' (PolySpatial demo)",
+      "url": "https://www.pcgamer.com/",
+      "why": "Vendor demo (Unite Seoul 2026), no public code; likely out of scope",
+      "date": "2026-10-23"
     }
   ],
   "structural_upgrade": {

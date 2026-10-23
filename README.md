@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**169 entries:** 149 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**170 entries:** 150 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[SubnautiCraft (Minecraft inside Subnautica)](#project-subnauticraft-dacotin2) · [Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) · [FNAFSBCraft (Minecraft inside FNAF: Security Breach)](#project-fnafsbcraft) · [DoomCraft](#project-doomcraft-roryekay) · [CK3 x Bannerlord Bridge](#project-ck3-bannerlord-bridge) · [Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom) · [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64)
+[DoomValley (Doom in Stardew Valley)](#project-doomvalley) · [SubnautiCraft (Minecraft inside Subnautica)](#project-subnauticraft-dacotin2) · [Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) · [FNAFSBCraft (Minecraft inside FNAF: Security Breach)](#project-fnafsbcraft) · [DoomCraft](#project-doomcraft-roryekay) · [CK3 x Bannerlord Bridge](#project-ck3-bannerlord-bridge) · [Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -75,6 +75,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Doom-in-Doom](#project-doom-in-doom) | Runs a second copy of Doom on a wall inside unmodified DOS Doom II using a code-execution exploit. | Released · Code available | [Watch](https://www.youtube.com/watch?v=c6hnQ1RKhbo) |
 | [DoomCraft](#project-doomcraft-roryekay) | Runs Minecraft Java gameplay inside classic Doom and Doom II through a patched GZDoom engine. | Released · Code available · Experimental | — |
 | [DOOMSona (DOOM in Persona 5 Royal)](#project-doomsona) | Makes full Doom playable on the retro console in Persona 5 Royal, complete with in-game rewards. | Released · Code available | — |
+| [DoomValley (Doom in Stardew Valley)](#project-doomvalley) | Playable Doom running inside Stardew Valley as a SMAPI mod, built on doomgeneric. | Released · Code available · Demo | [Watch](https://youtu.be/cm0XKAgUfPw) |
 | [EldenCraft](#project-eldencraft) | Runs real Minecraft Java inside Elden Ring, composited into one frame with mining, building, the Nether and progression. | Released · Code available · Experimental | — |
 | [Empress Gameboy Emulator](#project-empress-gameboy-repo) | Adds a Game Boy cabinet to R.E.P.O. that runs your own ROMs inside the game, including multiplayer. | Released · Code available | — |
 | [ER Mario](#project-er-mario) | Runs Super Mario 64's movement, health and combat inside Elden Ring. | Released · Code available · Experimental | — |
@@ -1604,7 +1605,7 @@ Reads DOOM WAD map data and creates the level block-by-block in Hytale, mapping 
 - [Project page](https://www.curseforge.com/hytale/mods/doom)
 - [Creator profile](https://gitlab.com/papispielt)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1953,7 +1954,7 @@ An original competitive block-puzzle game is rendered pixel-by-pixel into a 128�
 - [Project page](https://modrinth.com/plugin/chanyoris)
 - [Creator profile](https://modrinth.com/user/Hatune)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2196,7 +2197,7 @@ An experimental passthrough that runs Minecraft 1.12.2 alongside My Summer Car a
 - [Release / download](https://www.nexusmods.com/mysummercar/mods/12619)
 - [universal-modder (upstream)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2221,7 +2222,7 @@ Adds a Freeplay cabinet that you buy from the in-game Arcademania shop and place
 
 - [Release / download](https://www.nexusmods.com/arcadeparadise/mods/7)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2639,7 +2640,7 @@ Celeste Doom ports the C# Managed Doom engine onto Celeste's Monocle framework. 
 - [Source mirror (grubbyplaya/DoomCeleste)](https://github.com/grubbyplaya/DoomCeleste)
 - [Creator demo video (grubbycoder, YouTube)](https://www.youtube.com/watch?v=AzSelUBEEYc)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3041,7 +3042,7 @@ A series of X videos (29 September to 2 October 2026) shows a web-browser port o
 - [Creator clip: Fortnite building (X)](https://x.com/p_e_cooper/status/2105524743902208317)
 - [Creator clip: Wii Sports (X)](https://x.com/p_e_cooper/status/2105822578728436169)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3313,7 +3314,7 @@ Windows alpha in which Source (Left 4 Dead 2) owns the map, movement and infecte
 - [Creator profile](https://github.com/Rizen1322)
 - [Universal Modder (template origin)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3369,7 +3370,7 @@ A passthrough mod: Minecraft 26.3 (Fabric) runs alongside Half Sword (Early Acce
 - [Creator profile](https://github.com/Deez-coder)
 - [Universal Modder](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3480,7 +3481,7 @@ A fork of ER Mario re-done for Sekiro 1.06: libsm64 runs Mario in the game proce
 - [Creator profile](https://github.com/BassGaming)
 - [Upstream: ER Mario](https://github.com/deltarooo/er-mario)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3509,7 +3510,7 @@ A BepInEx mod that puts SM64's Mario, running on libsm64's real physics, into ol
 - [Creator profile](https://github.com/Shippy089)
 - [Wing Cap showcase (YouTube, linked from README)](https://youtu.be/82K-5s4_zy8)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3536,7 +3537,7 @@ A BepInEx-side exporter reads the player's own PEAK install and builds each day'
 - [Release / download](https://github.com/E1GAT0-dotcom/MinePeak/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/E1GAT0-dotcom)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3903,7 +3904,7 @@ A Fabric mod for Minecraft 1.20.1 that embeds a modified version of the open-sou
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/retro-machines)
 - [rboy emulator](https://github.com/mvdnes/rboy)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4679,6 +4680,34 @@ A SkyCraft fork with the Skyrim half replaced by a UE4SS mod for Security Breach
 - [SkyCraft (upstream fork source)](https://github.com/chasmlol/SkyCraft)
 
 **Dated source review:** 2026-10-22
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-doomvalley"></a>
+
+### DoomValley (Doom in Stardew Valley)
+
+**Guest:** DOOM (doomgeneric source port)  
+**Host:** Stardew Valley  
+**Creator:** wojciech-graj  
+**Status:** Released · Code available · Demo  
+**Approach:** doomgeneric source port loaded as a native library by a SMAPI mod  
+
+A SMAPI mod that source-ports doomgeneric into Stardew Valley's process so Doom can be played in the game, with Windows and Linux builds. It needs a user-supplied WAD (the shareware one works), has no sound, and its key bindings cannot be remapped without recompiling. The README links a demo video.
+
+**Requirements:** Stardew Valley with SMAPI and a Doom WAD (the shareware WAD works). On Linux the WAD file name must be lowercase and libdoomgeneric_stardew.so must be on LD_LIBRARY_PATH or in /usr/local/lib.
+
+**Platforms documented:** Windows, Linux
+
+- [Source code](https://github.com/wojciech-graj/DoomValley)
+- [Release / download](https://github.com/wojciech-graj/DoomValley/releases/tag/v0.1.0)
+- [Watch demo](https://youtu.be/cm0XKAgUfPw)
+- [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
+
+**Dated source review:** 2026-10-23
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
