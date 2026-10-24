@@ -3,6 +3,7 @@
 Week ending 2026-10-24. These are additions to the index, not necessarily new releases.
 
 - **[SoHCraft (Minecraft in Ocarina of Time)](https://github.com/bailo167/awesome-game-mashups#project-sohcraft)** — Plays Minecraft as Steve inside Ship of Harkinian Ocarina of Time, with online co-op; experimental Windows release. (Released · Code available · Experimental)
+- **[sm64-roblox](https://github.com/bailo167/awesome-game-mashups#project-sm64-roblox)** — Luau port of Super Mario 64's movement and physics code running inside Roblox. (Code available · Related)
 - **[SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)](https://github.com/bailo167/awesome-game-mashups#project-sm64-in-smbz)** — A MelonLoader/CharLoader mod that replaces Mario in SMBZ-G with Super Mario 64 Mario. (Released · Code available · Experimental)
 - **[Skyring (Elden Ring combat in Skyrim)](https://github.com/bailo167/awesome-game-mashups#project-skyring)** — Pre-alpha SKSE plugin that runs Elden Ring hidden and streams its rolls, stamina and swings onto the Skyrim character. (Code available · In development · Experimental)
 - **[RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](https://github.com/bailo167/awesome-game-mashups#project-residentcraft4)** — Runs Minecraft Java in the background of Resident Evil 4 UHD and draws its player, HUD and blocks inside RE4; alpha. (Released · Code available · Experimental)

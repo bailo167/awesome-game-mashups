@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-24",
-    "head_sha": "50bc06a801439a68ce50e5ed10a2706e6e36169b",
-    "project_count": 176,
+    "head_sha": "a01e0f20b0bd587b7131e7d6e5fe8ab0113a0e1f",
+    "project_count": 177,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-24: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 124 GitHub-linked entries (MINEKILL v0.1.0 pre-release; gone repos already marked dead) + 12 deep rechecks (retroconsole licence set to GPL-3.0-or-later) + discovery (~50 searches across two agents; +6 new: residentcraft4, perkelerim, sohcraft, halfcraft-whiskydumb, sm64-in-smbz, skyring; 11 new deferred leads). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests."
+    "scope": "Run 2026-10-24 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of GitHub-linked entries (no new releases) + 12 deep rechecks (ultrakill64 and ultrakill-in-ultrakill dropped 'released': no releases, only committed binaries) + discovery (~17 searches; +1 adjacent: sm64-roblox). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests."
   },
   "deferred_candidates": [
     {
@@ -393,6 +393,18 @@
       "name": "headshot2017/sm64-adventure and sm64-project-06",
       "url": "https://github.com/headshot2017/sm64-project-06",
       "why": "No LICENSE, no releases (sm64-adventure archived); libsm64 mods",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "doom.wasm (Roblox experience by EditableImage)",
+      "url": "https://www.roblox.com/games/103616633155118",
+      "why": "Roblox listing only claims actual Doom in the client; no repo, licence or corroboration",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Super Mario 64 natively in Roblox (Johannes_11)",
+      "url": "https://devforum.roblox.com/t/super-mario-64-running-natively-inside-of-roblox-20-30-fps/4754431",
+      "why": "Creator DevForum post 2026-07-24 (SM64 decomp via WASM->Luau); project private, no release; watchlist candidate",
       "date": "2026-10-24"
     }
   ],

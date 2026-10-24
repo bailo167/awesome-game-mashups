@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**176 entries:** 156 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**177 entries:** 156 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[SoHCraft (Minecraft in Ocarina of Time)](#project-sohcraft) · [SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)](#project-sm64-in-smbz) · [Skyring (Elden Ring combat in Skyrim)](#project-skyring) · [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) · [PerkeleRim (My Summer Car in Skyrim)](#project-perkelerim) · [HalfCraft (Minecraft in Half-Life 2, whiskydumb)](#project-halfcraft-whiskydumb) · [DoomValley (Doom in Stardew Valley)](#project-doomvalley) · [SubnautiCraft (Minecraft inside Subnautica)](#project-subnauticraft-dacotin2)
+[SoHCraft (Minecraft in Ocarina of Time)](#project-sohcraft) · [sm64-roblox](#project-sm64-roblox) · [SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)](#project-sm64-in-smbz) · [Skyring (Elden Ring combat in Skyrim)](#project-skyring) · [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) · [PerkeleRim (My Summer Car in Skyrim)](#project-perkelerim) · [HalfCraft (Minecraft in Half-Life 2, whiskydumb)](#project-halfcraft-whiskydumb) · [DoomValley (Doom in Stardew Valley)](#project-doomvalley)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -156,8 +156,6 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
 | [talemonpokemon](#project-talemonpokemon) | Recreates Pokémon catching, battles, evolution and trainer progression inside Hytale. | Released | [Watch](https://www.youtube.com/watch?v=wJbgOMAv5-s) |
 | [UltraDoom / UltrakillDoom](#project-ultradoom) | Lets you play DOOM on the shop terminals inside ULTRAKILL. | Released · Code available | [Watch](https://www.youtube.com/watch?v=Y7zpELS2QfQ) |
-| [Ultrakill in Ultrakill](#project-ultrakill-in-ultrakill) | Plays ULTRAKILL on in-game terminals inside ULTRAKILL, three instances deep. | Released · Code available · Demo | — |
-| [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Released · Code available · Demo | — |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
 | [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
@@ -211,7 +209,9 @@ Public code can still require compilation. Video-only entries have no public bui
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
 | [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
 | [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Unavailable | — |
+| [Ultrakill in Ultrakill](#project-ultrakill-in-ultrakill) | Plays ULTRAKILL on in-game terminals inside ULTRAKILL, three instances deep. | Code available · Demo | — |
 | [ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) | Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD. | Code available · Experimental | — |
+| [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Code available · Demo | — |
 | [UltraRing](#project-ultraring) | Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. | Code available · Experimental | — |
 | [Wasmcraft game demos](#project-wasmcraft) | Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=wCHB1UgwM9o) |
 | [World of Skatecraft](#project-world-of-skatecraft) | Runs Skate 3 physics and tricks inside World of Warcraft 1.12.1. | Code available · Experimental | [Watch](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4) |
@@ -246,6 +246,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 | [passthrough-mod-toolkit](#project-passthrough-mod-toolkit) | Generates the shared-memory bridge skeleton for two-process "passthrough" game mashups from one schema. | Code available · Experimental · Related | — |
 | [Portal Zombies](#project-portal-zombies) | Adds Portal-themed scenery and teleporters to a Black Ops III Zombies map. | Released · Unavailable · Related | — |
 | [Requiem x Minecraft — Building and Survival](#project-requiem-x-minecraft) | Adds Minecraft-style building, hotbar and survival mechanics to Resident Evil Requiem. | Released · Unavailable · Experimental · Related | — |
+| [sm64-roblox](#project-sm64-roblox) | Luau port of Super Mario 64's movement and physics code running inside Roblox. | Code available · Related | — |
 | [Sonic the Hedgehog — Ultimate Speed & Combat Mod](#project-sonic-ultimate-speed-combat-gta-v) | Recreates Sonic-style high-speed movement and combat systems inside GTA V Story Mode. | Released · Experimental · Related | [Watch](https://www.youtube.com/watch?v=M_YSZfanFOE) |
 
 ## Project details
@@ -1877,7 +1878,7 @@ A Source SDK 2013 / Team Fortress 2 mod links the recovered Skate 3 simulation i
 - [Creator profile](https://github.com/Naitrate)
 - [Upstream Skate 3 Rust Engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2070,7 +2071,7 @@ Pressing M replaces Spider-Man with Mario running the actual Super Mario 64 move
 - [Overstrike mod manager](https://github.com/Tkachov/Overstrike)
 - [Submission issue](https://github.com/bailo167/awesome-game-mashups/issues/3)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2097,7 +2098,7 @@ A builder's toolkit for passthrough mods, where a guest game (usually Minecraft)
 - [Honest limits](https://github.com/Orinkle/passthrough-mod-toolkit#honest-limits)
 - [30-second stub demo](https://github.com/Orinkle/passthrough-mod-toolkit#30-second-demo)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2177,7 +2178,7 @@ Adds DOOM as an app on Schedule I's in-game TVs. A native DOOM runtime renders o
 - [DOOM II TV edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2483)
 - [Ultimate Doom / TNT / Plutonia edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2484)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2415,7 +2416,7 @@ Retro64 uses a libsm64 fork to simulate Super Mario 64's movement code in Minecr
 - [Watch demo](https://www.youtube.com/watch?v=2yWKqc2rmHI)
 - [Project page](https://retro64mod.github.io/)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2494,7 +2495,7 @@ Headshotnoby's plugin embeds libsm64 into GTA San Andreas so Mario moves with SM
 - [Release / download](https://github.com/headshot2017/sm64-san-andreas/releases)
 - [Watch demo](https://www.youtube.com/watch?v=AS86LTwcGcA)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2545,7 +2546,7 @@ Supersonic Mario uses libsm64 to drop a playable, networked SM64 Mario into Rock
 - [Source code](https://github.com/Serialbocks/SupersonicMarioPlugin)
 - [Release / download](https://github.com/Serialbocks/SupersonicMarioPlugin/releases/tag/v1.1.1)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2717,7 +2718,7 @@ Both games run at once: Saints Row owns the world, vehicles and camera, while on
 **Guest:** Super Mario 64  
 **Host:** ULTRAKILL  
 **Creator:** Squaresweets  
-**Status:** Released · Code available · Demo  
+**Status:** Code available · Demo  
 **Approach:** BepInEx plugin using libsm64-unity  
 
 A BepInEx plugin that uses the libsm64 Unity runtime to put Super Mario 64's Mario, with his original movement code, into ULTRAKILL. The creator describes it as a few hours' proof of concept that barely works outside the sandbox and has issues far from the origin or with heavy geometry.
@@ -2728,7 +2729,7 @@ A BepInEx plugin that uses the libsm64 Unity runtime to put Super Mario 64's Mar
 - [Creator profile](https://github.com/Squaresweets)
 - [libsm64-unity upstream](https://github.com/libsm64/libsm64-unity-dev)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2742,7 +2743,7 @@ A BepInEx plugin that uses the libsm64 Unity runtime to put Super Mario 64's Mar
 **Guest:** ULTRAKILL  
 **Host:** ULTRAKILL  
 **Creator:** Squaresweets  
-**Status:** Released · Code available · Demo  
+**Status:** Code available · Demo  
 **Approach:** BepInEx plugin; three game instances exchange frames through memory-mapped files  
 
 Three ULTRAKILL instances run at once; each frame, screenshots are passed between them through memory-mapped files and drawn on in-game terminals, and dedicated keys switch which instance the player controls, giving a game-inside-a-game-inside-a-game.
@@ -2752,7 +2753,7 @@ Three ULTRAKILL instances run at once; each frame, screenshots are passed betwee
 - [Source code](https://github.com/Squaresweets/Ultrakill-in-Ultrakill)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2780,7 +2781,7 @@ A fork of GZDoom 3.2.0 that swaps the Doom player for a playable Super Mario 64 
 - [Creator profile](https://github.com/headshot2017)
 - [libsm64 upstream](https://github.com/libsm64/libsm64)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2806,7 +2807,7 @@ A fork of XProger's open-source OpenLara engine that adds a libsm64 Mario to Tom
 - [Creator profile](https://github.com/headshot2017)
 - [OpenLara upstream](https://github.com/XProger/OpenLara)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3706,7 +3707,7 @@ Joins the creator's Black Ops II Zombies rebuild with chasmlol's 2010 Rust Rewri
 - [Creator profile](https://github.com/DaffyDabz)
 - [Upstream: 2010 Rust Rewrite Mashup](https://github.com/chasmlol/2010-rust-rewrite-mashup)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4879,6 +4880,31 @@ Skyrim is the visible host and Elden Ring (offline, loaded with me3) runs hidden
 - [Source code](https://github.com/BennettCode/Skyring)
 - [Creator profile](https://github.com/BennettCode)
 - [SkyCraft (named pattern)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-sm64-roblox"></a>
+
+### sm64-roblox
+
+**Guest:** Super Mario 64 (movement and physics code)  
+**Host:** Roblox  
+**Creator:** MaximumADHD  
+**Status:** Code available · Related  
+**Approach:** Luau port of the SM64 decompilation's movement code as a Rojo project  
+
+A --!strict Luau port of Super Mario 64's movement code, based on the n64decomp decompilation and hosted as a Rojo project for Roblox Studio. The author published it as a curiosity: it ships no Nintendo animations, sounds or assets and is not meant as a foundation for new games. It reimplements SM64 mechanics rather than running the game, so it is adjacent.
+
+**Requirements:** Rojo, VS Code and Roblox Studio; the repo includes no Nintendo animations, sounds or assets.
+
+- [Source code](https://github.com/MaximumADHD/sm64-roblox)
+- [Original Roblox game](https://www.roblox.com/games/10238956318/funny-64-bit-platformer)
+- [SM64 decompilation](https://github.com/n64decomp/sm64)
 
 **Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
