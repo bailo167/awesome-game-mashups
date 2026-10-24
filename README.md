@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**177 entries:** 156 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**182 entries:** 161 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[SoHCraft (Minecraft in Ocarina of Time)](#project-sohcraft) · [sm64-roblox](#project-sm64-roblox) · [SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)](#project-sm64-in-smbz) · [Skyring (Elden Ring combat in Skyrim)](#project-skyring) · [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) · [PerkeleRim (My Summer Car in Skyrim)](#project-perkelerim) · [HalfCraft (Minecraft in Half-Life 2, whiskydumb)](#project-halfcraft-whiskydumb) · [DoomValley (Doom in Stardew Valley)](#project-doomvalley)
+[TES64 (Super Mario 64 in Skyrim)](#project-tes64) · [SoHCraft (Minecraft in Ocarina of Time)](#project-sohcraft) · [sm64-roblox](#project-sm64-roblox) · [SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)](#project-sm64-in-smbz) · [Skyring (Elden Ring combat in Skyrim)](#project-skyring) · [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) · [QuakeCraft (Quake III Arena in Minecraft)](#project-quakecraft) · [PerkeleRim (My Summer Car in Skyrim)](#project-perkelerim)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -113,6 +113,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) | A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. | Released | — |
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
 | [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) | Link sits at a desk PC in Majora's Mask: Recompiled and plays DOOM on its screen. | Released · Code available · Demo | — |
+| [Mario 64 Survivor (Super Mario 64 in Risk of Rain 2)](#project-mario-64-survivor) | BepInEx mod that adds Super Mario 64's Mario as a Risk of Rain 2 survivor with libsm64 movement. | Released · Code available | — |
 | [Mario for Rec Room](#project-mario-for-rec-room) | Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. | Released · Code available · Experimental | [Watch](https://youtu.be/UF2uwklFTF0) |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
@@ -130,6 +131,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [PipeLink Launcher — GTA SA × Skate 3 × MW2](#project-pipelink-launcher) | Runs Skate 3 and MW2 gameplay modes inside GTA San Andreas. | Released · Code available · Experimental | [Watch](https://streamable.com/19fo55) |
 | [Pokémon Red in Minecraft](#project-pokemon-red) | Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft. | Released | — |
 | [Project Inception](#project-project-inception) | Runs a playable second Minecraft game on a screen inside Minecraft. | Released · Code available | — |
+| [QuakeCraft (Quake III Arena in Minecraft)](#project-quakecraft) | Two-process bridge running Quake III Arena's movement and weapons alongside Minecraft Java. | Released · Code available | — |
 | [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) | Runs Minecraft Java in the background of Resident Evil 4 UHD and draws its player, HUD and blocks inside RE4; alpha. | Released · Code available · Experimental | — |
 | [Retro Handheld Emulator 1x1 scale](#project-retro-handheld-emulator) | Runs playable Game Boy games on a giant in-world display inside Hytale. | Released | — |
 | [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Experimental | — |
@@ -155,6 +157,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Super Sekiro 64](#project-super-sekiro-64) | Plays Sekiro as Super Mario 64's Mario with real SM64 movement and combat through Sekiro's damage pipeline. | Released · Code available · Experimental | — |
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
 | [talemonpokemon](#project-talemonpokemon) | Recreates Pokémon catching, battles, evolution and trainer progression inside Hytale. | Released | [Watch](https://www.youtube.com/watch?v=wJbgOMAv5-s) |
+| [TES64 (Super Mario 64 in Skyrim)](#project-tes64) | SKSE plugin that turns the Skyrim player into Super Mario 64's Mario, using libsm64 movement on Skyrim's collision. | Released · Code available | — |
 | [UltraDoom / UltrakillDoom](#project-ultradoom) | Lets you play DOOM on the shop terminals inside ULTRAKILL. | Released · Code available | [Watch](https://www.youtube.com/watch?v=Y7zpELS2QfQ) |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
@@ -173,6 +176,7 @@ Public code can still require compilation. Video-only entries have no public bui
 |---|---|---|---|
 | [ArkWeb](#project-arkweb) | Runs Spider-Man's native traversal through Batman: Arkham Knight's Gotham. | Code available · Experimental | [Watch](https://www.youtube.com/watch?v=O6Mkm_NGCX8) |
 | [Attack on Elden Ring](#project-attack-on-elden-ring) | Brings Attack on Titan Tribute Game 2's ODM gear movement into Elden Ring using both games at once. | Code available · Experimental | — |
+| [BOTWCraft (Minecraft in Breath of the Wild)](#project-botwcraft) | Work-in-progress passthrough that lets a Minecraft Java client play Breath of the Wild running in Cemu. | Code available · Experimental | — |
 | [CS:GO systems inside Project Zomboid](#project-csgo-project-zomboid) | Adds CS:GO weapons, shooting and movement to Project Zomboid. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n2fEHpLJUNk) |
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
@@ -188,6 +192,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Minebonk](#project-minebonk) | Rebuilds Minecraft-style combat, inventory, mobs and bosses natively inside Megabonk. | Code available · In development | — |
 | [Minecraft Classic 0.30 inside Hytale](#project-minecraft-classic-hytale) | Shows Minecraft Classic running on Hytale’s in-game world-map screen. | In development · Video only | [Watch](https://x.com/iamcxv711/status/2012610249174536397) |
 | [Minecraft Crossover Bridge](#project-minecraft-crossover-bridge) | Brings Minecraft blocks, mobs and combat into Monster Hunter: World or Elden Ring on Apple Silicon Macs. | Code available · In development | — |
+| [Minecraft in Death Stranding](#project-minecraft-death-stranding) | Source-only passthrough mod drawing real Minecraft into Death Stranding Director's Cut with shared collision. | Code available · Experimental | — |
 | [Minecraft in GTA V](#project-minecraft-gta-v) | Runs real Minecraft movement, building, mobs and combat inside GTA V Story Mode. | Code available · Experimental | — |
 | [Minecraft in Minecraft (CHUNGUS 2 redstone computer)](#project-minecraft-in-minecraft-chungus-2) | A playable miniature Minecraft running on a redstone computer built inside Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=-BP7DhHTU-I) |
 | [Minecraft Ring](#project-minecraft-ring) | Runs real Minecraft movement, building and combat inside Elden Ring through a Windows D3D12 bridge. | Code available · In development · Experimental | — |
@@ -4905,6 +4910,139 @@ A --!strict Luau port of Super Mario 64's movement code, based on the n64decomp 
 - [Source code](https://github.com/MaximumADHD/sm64-roblox)
 - [Original Roblox game](https://www.roblox.com/games/10238956318/funny-64-bit-platformer)
 - [SM64 decompilation](https://github.com/n64decomp/sm64)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-tes64"></a>
+
+### TES64 (Super Mario 64 in Skyrim)
+
+**Guest:** Super Mario 64 (via libsm64)  
+**Host:** The Elder Scrolls V: Skyrim  
+**Creator:** zer0ducksgiven  
+**Status:** Released · Code available  
+**Approach:** SKSE plugin driving libsm64 with Skyrim collision every frame  
+
+Press F10 to become Mario: libsm64 movement runs on Skyrim's real world collision while Skyrim's weapons, spells, shouts, menus and quests keep working. It adds an SM64-style HUD, Power Stars for completed quests and SM64 music, all read from the player's own SM64 US ROM. The repository and releases contain no Nintendo assets.
+
+**Requirements:** Skyrim Special/Anniversary Edition with SKSE64 and Address Library for SKSE Plugins, and the player's own Super Mario 64 (US) ROM; SkyUI optional for the MCM page. The installer asks for the ROM.
+
+- [Source code](https://github.com/zer0ducksgiven/TES64)
+- [Release / download](https://github.com/zer0ducksgiven/TES64/releases)
+- [libsm64](https://github.com/libsm64/libsm64)
+- [NG64 (same creator)](https://github.com/zer0ducksgiven/NG64)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mario-64-survivor"></a>
+
+### Mario 64 Survivor (Super Mario 64 in Risk of Rain 2)
+
+**Guest:** Super Mario 64 (via libsm64)  
+**Host:** Risk of Rain 2  
+**Creator:** Not established  
+**Status:** Released · Code available  
+**Approach:** BepInEx plugin using libsm64 for Mario's movement  
+
+Adds Mario as a character-select survivor with his full SM64 moveset, voice and model read from the player's own ROM. Risk of Rain 2 items power up his punches, kicks and stomps, and libsm64 runs on converted RoR2 stage geometry.
+
+**Requirements:** Risk of Rain 2 with BepInEx 5, the player's own Super Mario 64 (US) ROM and a libsm64 sm64.dll (built by the user or via the third-party Melty installer).
+
+- [Source code](https://github.com/missingtextures-sudo/mario-64-survivor)
+- [Release / download](https://github.com/missingtextures-sudo/mario-64-survivor/releases)
+- [Creator profile](https://github.com/missingtextures-sudo)
+- [libsm64](https://github.com/libsm64/libsm64)
+- [Melty installer (third party)](https://melty.gg/m/mario-64-survivor)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-botwcraft"></a>
+
+### BOTWCraft (Minecraft in Breath of the Wild)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** The Legend of Zelda: Breath of the Wild (Cemu)  
+**Creator:** arskyandre  
+**Status:** Code available · Experimental  
+**Approach:** Two-process shared-memory passthrough with a native Vulkan layer, in the SkyCraft pattern  
+
+A Minecraft Java client runs beside Breath of the Wild in Cemu and a native Vulkan layer joins the two every frame: Minecraft owns the player's movement, camera, inventory and block placing while BOTW supplies the world, creatures and picture. The README says it is a work in progress, playable on the Great Plateau only. The Minecraft side adapts SkyCraft.
+
+**Requirements:** Windows 10/11 x64 with a Vulkan GPU, Cemu 2.6, the user's own BOTW Wii U dump with update v208, Minecraft Java with Fabric and a JDK; building needs further toolchain per the README.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/arskyandre/botwcraft-fabric)
+- [Release / download](https://github.com/arskyandre/botwcraft-fabric/releases)
+- [SkyCraft (adapted)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-minecraft-death-stranding"></a>
+
+### Minecraft in Death Stranding
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Death Stranding Director's Cut  
+**Creator:** mihailinl  
+**Status:** Code available · Experimental  
+**Approach:** Passthrough in the universal-modder pattern: ReShade depth compositing plus collision and damage exchange  
+
+Minecraft Java runs next to Death Stranding Director's Cut and is composited into its world with depth testing through a ReShade add-on, so blocks sit on DS's ground and are solid for Sam. DS collision becomes barrier blocks in Minecraft, and damage and explosions cross between the games. The README says it was developed on Linux (Proton) and the Windows path is untested; no release is published.
+
+**Requirements:** Death Stranding Director's Cut on Steam (build 13300582), Minecraft Java with Fabric, ReShade with add-on support and a JDK; built from source per the README.
+
+**Platforms documented:** Linux (Proton)
+
+- [Source code](https://github.com/mihailinl/minecraft-in-death-stranding)
+- [universal-modder (model)](https://github.com/rehan-remade/universal-modder)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-quakecraft"></a>
+
+### QuakeCraft (Quake III Arena in Minecraft)
+
+**Guest:** Quake III Arena  
+**Host:** Minecraft: Java Edition  
+**Creator:** kilobyt1  
+**Status:** Released · Code available  
+**Approach:** Two-process bridge over Win32 shared memory  
+
+A Quake III Arena engine runs beside Minecraft Java (Fabric) over Win32 shared memory, with Quake's pmove strafe-jumping and weapons composited into the Minecraft window and Quake weapons damaging Minecraft mobs and blocks. The README (in Russian) links the creator's YouTube demo and requires the player's own pak0.pk3. No licence file is published.
+
+**Requirements:** Windows 10/11 x64, Minecraft Java with Fabric and Fabric API, a JDK with the Foreign Function and Memory API, and the user's own Quake III pak0.pk3.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/kilobyt1/QuakeCraft)
+- [Release / download](https://github.com/kilobyt1/QuakeCraft/releases)
+- [Creator demo (YouTube)](https://www.youtube.com/watch?v=l7rIfBAF9Cc)
 
 **Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.

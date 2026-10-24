@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-24",
-    "head_sha": "a01e0f20b0bd587b7131e7d6e5fe8ab0113a0e1f",
-    "project_count": 177,
+    "head_sha": "fd88343c4c89920dcfdb0fd5119d1968b0c92283",
+    "project_count": 182,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-24 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of GitHub-linked entries (no new releases) + 12 deep rechecks (ultrakill64 and ultrakill-in-ultrakill dropped 'released': no releases, only committed binaries) + discovery (~17 searches; +1 adjacent: sm64-roblox). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests."
+    "scope": "Run 2026-10-24 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of GitHub-linked entries (no new releases) + 12 deep rechecks (ultrakill64 and ultrakill-in-ultrakill dropped 'released': no releases, only committed binaries) + discovery (~17 searches; +6 new: sm64-roblox (adjacent), tes64, mario-64-survivor, botwcraft, minecraft-death-stranding, quakecraft). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests."
   },
   "deferred_candidates": [
     {
@@ -405,6 +405,12 @@
       "name": "Super Mario 64 natively in Roblox (Johannes_11)",
       "url": "https://devforum.roblox.com/t/super-mario-64-running-natively-inside-of-roblox-20-30-fps/4754431",
       "why": "Creator DevForum post 2026-07-24 (SM64 decomp via WASM->Luau); project private, no release; watchlist candidate",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "patodois/minecraft-link (Rewrite Link protocol client mods)",
+      "url": "https://github.com/patodois/minecraft-link",
+      "why": "Protocol client mod with releases from 2026-10-24 but no documented game pair; adjacent at most",
       "date": "2026-10-24"
     }
   ],
