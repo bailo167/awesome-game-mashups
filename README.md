@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**170 entries:** 150 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
+**176 entries:** 156 core projects, 8 unconfirmed sightings and 12 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-23. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-24. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[DoomValley (Doom in Stardew Valley)](#project-doomvalley) · [SubnautiCraft (Minecraft inside Subnautica)](#project-subnauticraft-dacotin2) · [Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) · [FNAFSBCraft (Minecraft inside FNAF: Security Breach)](#project-fnafsbcraft) · [DoomCraft](#project-doomcraft-roryekay) · [CK3 x Bannerlord Bridge](#project-ck3-bannerlord-bridge) · [Warcraft CS](#project-warcraft-cs) · [SkyDoom](#project-skydoom)
+[SoHCraft (Minecraft in Ocarina of Time)](#project-sohcraft) · [SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)](#project-sm64-in-smbz) · [Skyring (Elden Ring combat in Skyrim)](#project-skyring) · [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) · [PerkeleRim (My Summer Car in Skyrim)](#project-perkelerim) · [HalfCraft (Minecraft in Half-Life 2, whiskydumb)](#project-halfcraft-whiskydumb) · [DoomValley (Doom in Stardew Valley)](#project-doomvalley) · [SubnautiCraft (Minecraft inside Subnautica)](#project-subnauticraft-dacotin2)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -98,6 +98,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
 | [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64) | Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. | Released · Code available · Experimental | — |
 | [Halfcraft (Minecraft in Half Sword)](#project-halfcraft) | Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. | Released · Code available · Experimental | — |
+| [HalfCraft (Minecraft in Half-Life 2, whiskydumb)](#project-halfcraft-whiskydumb) | Runs real Minecraft hidden over shared memory inside Half-Life 2 / Episodes via a Source SDK 2013 mod. | Released · Code available · Experimental | — |
 | [HellGate: Doom Portal](#project-hellgate-doom-portal) | Opens a portal from Minecraft into a playable DOOM II experience. | Released | — |
 | [HL2Minecraft](#project-hl2minecraft) | Streams Minecraft chunks and entities into Half-Life 2's Direct3D 9 scene. | Released · Code available · Experimental | — |
 | [Hollow Sols (Nine Sols in Hollow Knight's Godhome)](#project-hollow-sols) | A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. | Released · Code available · Experimental | — |
@@ -116,6 +117,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
+| [MINEKILL](#project-minekill) | Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels. | Released · Code available · Experimental | — |
 | [MinePeak](#project-minepeak) | Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install. | Released · Code available · Experimental | — |
 | [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) | Plays Morrowind, run by OpenMW, live on Fallout 4's Pip-Boy screen via a holotape. | Released · Code available | — |
 | [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) | Adds a Risk of Rain 2 survivor that plays with Modern Warfare 2's own movement, weapons, HUD and killstreaks. | Released · Code available · Experimental | — |
@@ -124,9 +126,11 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Ocarina of Time in Minecraft](#project-ocarina-of-time) | Recreates Zelda: Ocarina of Time in Minecraft, with its story, bosses, quests and items. | Released | [Watch](https://www.youtube.com/watch?v=HSGioTZ_rf4) |
 | [OpenLara SM64 — Mario in Tomb Raider](#project-openlara-sm64) | Lets you play Tomb Raider 1 as Super Mario 64's Mario, switching between Mario and Lara. | Released · Code available | — |
 | [OWCraft](#project-owcraft) | Runs real Minecraft movement, blocks and inventory on Outer Wilds planets. | Released · Code available · Experimental | — |
+| [PerkeleRim (My Summer Car in Skyrim)](#project-perkelerim) | Runs My Summer Car hidden while Skyrim draws the world, so you can drive the van and drink in Whiterun. | Released · Code available · Experimental | [Watch](https://youtu.be/IJzDb4E7bYA) |
 | [PipeLink Launcher — GTA SA × Skate 3 × MW2](#project-pipelink-launcher) | Runs Skate 3 and MW2 gameplay modes inside GTA San Andreas. | Released · Code available · Experimental | [Watch](https://streamable.com/19fo55) |
 | [Pokémon Red in Minecraft](#project-pokemon-red) | Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft. | Released | — |
 | [Project Inception](#project-project-inception) | Runs a playable second Minecraft game on a screen inside Minecraft. | Released · Code available | — |
+| [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) | Runs Minecraft Java in the background of Resident Evil 4 UHD and draws its player, HUD and blocks inside RE4; alpha. | Released · Code available · Experimental | — |
 | [Retro Handheld Emulator 1x1 scale](#project-retro-handheld-emulator) | Runs playable Game Boy games on a giant in-world display inside Hytale. | Released | — |
 | [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Experimental | — |
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
@@ -140,9 +144,11 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [SkyDoom](#project-skydoom) | Runs a modified Chocolate Doom inside Skyrim, bridging weapons, damage and HUD through SKSE. | Released · Code available · Experimental | — |
 | [Skyrim: PipBoy Edition](#project-skyrim-pipboy-edition) | Plays Skyrim inside Fallout 4's Pip-Boy and terminals. | Released | — |
 | [SM64 Generations](#project-sm64-generations) | Replaces Sonic with Super Mario 64's Mario, using his exact controls and moveset, in Sonic Generations. | Released | — |
+| [SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)](#project-sm64-in-smbz) | A MelonLoader/CharLoader mod that replaces Mario in SMBZ-G with Super Mario 64 Mario. | Released · Code available · Experimental | — |
 | [sm64-san-andreas (Super Mario 64 in GTA San Andreas)](#project-sm64-san-andreas) | An ASI plugin that lets you swap CJ for a fully physical Super Mario 64 Mario in GTA San Andreas. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=AS86LTwcGcA) |
 | [SM64BS (Mario 64 in Beat Saber)](#project-sm64bs) | Puts a playable Super Mario 64 Mario into Beat Saber's VR menu and game scene; pre-release builds, no licence file. | Released · Code available | — |
 | [SMC64 — Mario in Halo: CE](#project-smc64-halo) | Puts a playable Super Mario 64 Mario into Halo: Combat Evolved. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=tj5fAk7KkHA) |
+| [SoHCraft (Minecraft in Ocarina of Time)](#project-sohcraft) | Plays Minecraft as Steve inside Ship of Harkinian Ocarina of Time, with online co-op; experimental Windows release. | Released · Code available · Experimental | — |
 | [Stellar Bridge (Stellar Blade x Minecraft)](#project-stellar-blade-minecraft) | Plays Stellar Blade's EVE inside Minecraft Java by streaming her simulated pose into a Fabric mod. | Released · Code available · Experimental | — |
 | [SubnautiCraft (Minecraft inside Subnautica)](#project-subnauticraft-dacotin2) | Lets you play Subnautica as Steve, with Minecraft physics, blocks and crafting blended into Subnautica's seafloor. | Released · Code available · Experimental | — |
 | [Subnauticraft (Subnautica Link)](#project-subnauticraft) | Bridges Subnautica and Minecraft so Minecraft movement, health and building drive Subnautica, with multiplayer. | Released · Code available | — |
@@ -192,7 +198,6 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Minecraft X Saints Row: The Third Remastered](#project-minecraft-x-saints-row-3) | Runs real Minecraft inside Saints Row: The Third Remastered, with building, TNT and combat in Stilwater. | Code available · In development · Experimental | — |
 | [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) | Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. | Released · Code available · Experimental · Unavailable | — |
 | [Minecraft ↔ Hytale crossplay (SSquadTeam)](#project-minecraft-hytale-crossplay-ssquadteam) | Lets Minecraft and Hytale players share a synchronized Hytale-hosted world. | Code available · In development | — |
-| [MINEKILL](#project-minekill) | Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels. | Code available · Experimental | — |
 | [Morrowind in Elden Ring](#project-morrowind-elden-ring) | Recreates Morrowind’s world and gameplay inside Elden Ring. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n89NFtIUWDI) |
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
@@ -202,6 +207,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) | Retargets Skate 3's skating engine onto Mario inside sm64coopdx. | Code available · Experimental | — |
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
 | [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) | Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. | In development · Video only | [Watch](https://www.youtube.com/watch?v=KZQqJivPKac) |
+| [Skyring (Elden Ring combat in Skyrim)](#project-skyring) | Pre-alpha SKSE plugin that runs Elden Ring hidden and streams its rolls, stamina and swings onto the Skyrim character. | Code available · In development · Experimental | — |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
 | [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
 | [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Unavailable | — |
@@ -268,7 +274,7 @@ A from-scratch Rust rewrite of MW2 that combines MW2 multiplayer, Skate 3-style 
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -296,7 +302,7 @@ Minecraft remains running as the game-logic side while Skyrim renders the world.
 - [Creator profile](https://github.com/chasmlol)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -322,7 +328,7 @@ Minecraft runs natively on macOS while the host game runs under CrossOver. The b
 - [Source code](https://github.com/justbustin/minecraft-crossover-bridge)
 - [Creator profile](https://github.com/justbustin)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -346,7 +352,7 @@ A deliberately rough proof-of-concept built in a few nights. DOOM is rendered as
 - [Creator profile](https://github.com/tr7zw)
 - [vanilla-mocha-doom dependency](https://github.com/gaborbata/vanilla-mocha-doom/)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1529,7 +1535,7 @@ Minecraft owns player physics, inventory, combat, blocks and mobs while Subnauti
 - [Source code](https://github.com/FumperForrest/SubCraft)
 - [Creator profile](https://github.com/FumperForrest)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3590,7 +3596,7 @@ An xNVSE plugin that runs SM64's own movement code through libsm64, collides it 
 - [Source code](https://github.com/larsoyd/fnv-libsm64)
 - [Creator profile](https://github.com/larsoyd)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3618,7 +3624,7 @@ Minecraft Java runs alongside Lethal Company and the two talk through a bridge a
 - [Creator profile](https://github.com/ThatGuyTHD)
 - [Upstream: SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3645,7 +3651,7 @@ Two small mods linked through shared memory: PEAK draws blocks, lighting and fog
 - [Creator profile](https://github.com/aeironnsarmiento)
 - [Upstream: SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3672,7 +3678,7 @@ Brings Skate 3's Flick-It controls, board physics, grinds, manuals, tricks, bail
 - [Release / download](https://github.com/becaring/SK8V/releases/tag/1.1.10)
 - [Creator profile](https://github.com/becaring)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3722,7 +3728,7 @@ A Hytale server plugin that wraps the pure-Java JPC x86 emulator and renders 640
 - [Source code](https://github.com/ssquadteam/TempleMaps)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3954,7 +3960,7 @@ Both games run together on Windows and talk over a custom bridge: Nine Sols keep
 - [Source code](https://github.com/emmveepee/Hollow-Sols-Godhome)
 - [Release / download](https://github.com/emmveepee/Hollow-Sols-Godhome/releases/tag/v0.1.0)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3981,7 +3987,7 @@ Players place a Retro Console block and a multiblock Screen wall, pick a game fr
 - [Release / download](https://github.com/Gaigen/retroconsole/releases)
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/retroconsole)
 
-**Dated source review:** 2026-10-18
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4316,7 +4322,7 @@ An offline single-player fan project that lets the player control a Warcraft III
 **Guest:** Minecraft  
 **Host:** ULTRAKILL  
 **Creator:** niliota  
-**Status:** Code available · Experimental  
+**Status:** Released · Code available · Experimental  
 **Approach:** BepInEx plugin and Fabric mod sharing state over memory-mapped files (minekill.bridge, minekill.stream)  
 
 A BepInEx plugin for ULTRAKILL and a Fabric mod for Minecraft that exchange data through memory-mapped files. Minecraft runs the player, physics, inventory, mining and building, mobs and GUI while ULTRAKILL draws the world natively and feeds its level collision into Minecraft. The README lists combat balance and burning-mob effects as not done and says it takes architecture ideas, but no code, from SkyCraft.
@@ -4326,9 +4332,10 @@ A BepInEx plugin for ULTRAKILL and a Fabric mod for Minecraft that exchange data
 **Platforms documented:** Linux (Wine)
 
 - [Source code](https://github.com/niliota/MINEKILL)
+- [Release / download](https://github.com/niliota/MINEKILL/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/niliota)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4708,6 +4715,172 @@ A SMAPI mod that source-ports doomgeneric into Stardew Valley's process so Doom 
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
 **Dated source review:** 2026-10-23
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-residentcraft4"></a>
+
+### RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)
+
+**Guest:** Minecraft: Java Edition 26.3 (Fabric)  
+**Host:** Resident Evil 4 (UHD)  
+**Creator:** Utimaa  
+**Status:** Released · Code available · Experimental  
+**Approach:** Fabric Minecraft instance hidden in the background, bridged into the RE4 process  
+
+A SkyCraft-lineage passthrough in which Minecraft Java 26.3 runs hidden while Resident Evil 4 UHD (Steam, 32-bit 1.1.0) supplies terrain, native enemies and campaign scripts and Minecraft supplies movement, physics, blocks and combat. The README calls it experimental and very early: intermittent native JVM crashes remain unresolved and the combined campaign behaviour still needs verification. A Windows release ZIP with Setup.cmd and Play.cmd is published.
+
+**Requirements:** Windows, Resident Evil 4 UHD on Steam (32-bit build tested as 1.1.0) and Minecraft Java 26.3 (official launcher or Prism); extract the release ZIP, run Setup.cmd, then Play.cmd and press F8. Setup downloads a portable Java runtime if yours is older than 25.0.4.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Utimaa/ResidentCraft4)
+- [Release / download](https://github.com/Utimaa/ResidentCraft4/releases)
+- [Creator profile](https://github.com/Utimaa)
+- [SkyCraft (credited upstream)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-perkelerim"></a>
+
+### PerkeleRim (My Summer Car in Skyrim)
+
+**Guest:** My Summer Car (via MSCLoader)  
+**Host:** The Elder Scrolls V: Skyrim (Special/Anniversary Edition)  
+**Creator:** rackmarten  
+**Status:** Released · Code available · Experimental  
+**Approach:** SKSE plugin plus MSCLoader mod linking two simultaneously running games  
+
+An SKSE plugin for Skyrim Special/Anniversary Edition and an MSCLoader mod for My Summer Car run at the same time: Skyrim owns the world and draws everything while My Summer Car simulates the character, vehicles and drinking. A launcher batch file finds both games, installs the mods and starts them; the README calls v0.1.1 playable start to finish but young and links a trailer.
+
+**Requirements:** Windows 10/11 able to run both games; Skyrim SE/AE (latest Steam version, or SE 1.5.97) with SKSE64 and Address Library; My Summer Car with MSCLoader. Run Start PerkeleRim.bat from the release zip and press F10 in Skyrim to hand over.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/rackmarten/PerkeleRim)
+- [Release / download](https://github.com/rackmarten/PerkeleRim/releases/latest)
+- [Watch demo](https://youtu.be/IJzDb4E7bYA)
+- [Creator profile](https://github.com/rackmarten)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-sohcraft"></a>
+
+### SoHCraft (Minecraft in Ocarina of Time)
+
+**Guest:** Minecraft: Java Edition (Fabric)  
+**Host:** The Legend of Zelda: Ocarina of Time (Ship of Harkinian)  
+**Creator:** Shqn3  
+**Status:** Released · Code available · Experimental  
+**Approach:** Ship of Harkinian fork with co-op server linked to a Fabric Minecraft mod  
+
+A Windows package that runs Ship of Harkinian (Ocarina of Time, with ShipwrightOnline/ocarina-coop co-op) alongside a Minecraft Java Fabric mod, so Steve moves through Link's world with Minecraft mechanics. The release zip contains the game, co-op server, Minecraft mod and setup; players need their own SoH 9.2.3 install with their own ROM, Prism Launcher and a Minecraft account. The README labels it experimental. It is the reverse of the catalogued ocarina-of-time, where Minecraft is the host.
+
+**Requirements:** Windows; your own Ship of Harkinian 9.2.3 installation with your own Ocarina of Time ROM, Prism Launcher and a Minecraft Java account; follow START-HERE.txt in SoHCraft-Windows.zip.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Shqn3/SoHCraft)
+- [Release / download](https://github.com/Shqn3/SoHCraft/releases/latest)
+- [Creator profile](https://github.com/Shqn3)
+- [ocarina-coop sohcraft branch](https://github.com/Shqn3/ocarina-coop/tree/sohcraft)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-halfcraft-whiskydumb"></a>
+
+### HalfCraft (Minecraft in Half-Life 2, whiskydumb)
+
+**Guest:** Minecraft: Java Edition 26.3 (Fabric)  
+**Host:** Half-Life 2 (with Episode One and Two)  
+**Creator:** whiskydumb  
+**Status:** Released · Code available · Experimental  
+**Approach:** Source SDK 2013 mod and Fabric mod linked by a shared-memory protocol  
+
+A Source SDK 2013 mod for Half-Life 2, Episode One and Episode Two (or the HL2:DM engine) linked by shared memory to a hidden Minecraft 26.3 Fabric instance that handles player physics, inventory, blocks and combat while Half-Life renders its world and NPCs. Releases v0.1.0 to v0.5.0 ship a HalfCraft.exe one-click launcher, and a 0.6.0 dev pre-release exists. It is a separate project from the catalogued Half-Life (GoldSrc) bridge by sogutemir.
+
+**Requirements:** Windows with Half-Life 2 on Steam and a Minecraft Java account; the release HalfCraft.exe finds Steam and starts Minecraft then the mod. Building from source needs make, JDK 25 and Visual Studio.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/whiskydumb/halfcraft)
+- [Release / download](https://github.com/whiskydumb/halfcraft/releases)
+- [Creator profile](https://github.com/whiskydumb)
+- [hl2dm-sp (HL2:DM engine base)](https://github.com/hardlightbridge/hl2dm-sp)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-sm64-in-smbz"></a>
+
+### SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)
+
+**Guest:** Super Mario 64 (Mario, from your own ROM)  
+**Host:** SMBZ-G (Super Mario Bros. Z)  
+**Creator:** headshot2017  
+**Status:** Released · Code available · Experimental  
+**Approach:** MelonLoader mod loaded through CharLoader that swaps Mario for an SM64 Mario  
+
+A mod for the fan fighting game SMBZ-G that replaces Mario with SM64 Mario; it needs MelonLoader, CharLoader and the player's own SM64 US ROM named sm64.z64. Beta releases have been published since 2025, the latest (v1.0-beta.8, flagged pre-release) updating for SMBZ-G v1.181. The README is brief and does not document how the SM64 side is hosted beyond the ROM requirement.
+
+**Requirements:** SMBZ-G with MelonLoader and CharLoader, plus your own Super Mario 64 US ROM named sm64.z64.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/headshot2017/sm64-in-smbz)
+- [Release / download](https://github.com/headshot2017/sm64-in-smbz/releases)
+- [Creator profile](https://github.com/headshot2017)
+
+**Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-skyring"></a>
+
+### Skyring (Elden Ring combat in Skyrim)
+
+**Guest:** Elden Ring (hidden, via me3)  
+**Host:** The Elder Scrolls V: Skyrim  
+**Creator:** BennettCode  
+**Status:** Code available · In development · Experimental  
+**Approach:** SKSE plugin (C++) and a Rust plugin for Elden Ring linked by shared memory (protocol v13)  
+
+Skyrim is the visible host and Elden Ring (offline, loaded with me3) runs hidden as a combat engine, exchanging state through shared memory every frame in the SkyCraft pattern. The README says it is pre-alpha (phase P4 of 8) and not playable yet: rolls, locomotion, the health/stamina link, melee damage and bows work partially, while spells, shields and Elden Ring armour are not done. No release or media exists yet.
+
+**Requirements:** Windows x64, Skyrim with SKSE, Elden Ring on Steam run offline through me3; a DualSense, Xbox pad or keyboard and mouse. Build from source; no release is published.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/BennettCode/Skyring)
+- [Creator profile](https://github.com/BennettCode)
+- [SkyCraft (named pattern)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-24
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

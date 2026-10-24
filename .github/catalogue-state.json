@@ -3,19 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-23",
-    "head_sha": "81b6f480b533c480b9f03ac62fa6ae6dc4e6679c",
-    "project_count": 170,
+    "verified_at": "2026-10-24",
+    "head_sha": "50bc06a801439a68ce50e5ed10a2706e6e36169b",
+    "project_count": 176,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-23 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 123 GitHub-linked entries (no new releases; gone repos already marked dead) + 12 deep rechecks (all primary sources read; retro-machines licence cleared to null, doom-hytale-papispielt source activity 2026-10-23) + discovery (~36 searches across two agents; +1 new: doomvalley; 3 new deferred leads). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests.",
-    "link_check": {
-      "workflow": ".github/workflows/links.yml",
-      "run_id": 37852690910,
-      "conclusion": "failure",
-      "detail": "240 reachable, 1 unavailable (HellGate CurseForge listing, entry marked dead), 22 unresolved (Nexus/Patreon/BuiltByBit 403, Steam Workshop 429, doomwiki 403, Streamable 400); these pages were confirmed through site APIs during review."
-    },
-    "catalogue_integrity_run_id": 37852691021
+    "scope": "Run 2026-10-24: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 124 GitHub-linked entries (MINEKILL v0.1.0 pre-release; gone repos already marked dead) + 12 deep rechecks (retroconsole licence set to GPL-3.0-or-later) + discovery (~50 searches across two agents; +6 new: residentcraft4, perkelerim, sohcraft, halfcraft-whiskydumb, sm64-in-smbz, skyring; 11 new deferred leads). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests."
   },
   "deferred_candidates": [
     {
@@ -159,7 +152,7 @@
     {
       "name": "ranzevor/Blockwater (Minecraft in RDR2)",
       "url": "https://github.com/ranzevor/Blockwater",
-      "why": "MIT; README says no playable release yet (bridge core and ScriptHookRDR2 read-only world acquisition only); recheck for a release; rechecked 2026-10-20: still adapter development, no release",
+      "why": "MIT; README says no playable release yet (bridge core and ScriptHookRDR2 read-only world acquisition only); recheck for a release; rechecked 2026-10-20: still adapter development, no release; rechecked 2026-10-24: repo now 404 / credential prompt (private, removed or restricted; not proven deleted)",
       "date": "2026-10-19"
     },
     {
@@ -295,12 +288,6 @@
       "date": "2026-10-22"
     },
     {
-      "name": "Utimaa/ResidentCraft4 (Minecraft in Resident Evil 4)",
-      "url": "https://github.com/Utimaa/ResidentCraft4",
-      "why": "MIT; tags ALPHA/Fixes but releases page empty; README states vibe-coded with OpenAI Codex; unresolved JVM crashes; add if a release with assets appears",
-      "date": "2026-10-22"
-    },
-    {
       "name": "Duake (Magic Nipples)",
       "url": "https://magic-nipples.itch.io/duake",
       "why": "Doom character/weapons in Quake on Xash3D, itch release 2024-10-05, no licence; closer to a total-conversion pack, adjacent at most",
@@ -341,6 +328,72 @@
       "url": "https://www.pcgamer.com/",
       "why": "Vendor demo (Unite Seoul 2026), no public code; likely out of scope",
       "date": "2026-10-23"
+    },
+    {
+      "name": "2160039878-cyber/HollowCraft (Minecraft in Hollow Knight)",
+      "url": "https://github.com/2160039878-cyber/HollowCraft",
+      "why": "MIT, source only, no tags (created 2026-10-19); README states AI use; add if a release appears",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "BingBu1/GoldCraft (Minecraft in Counter-Strike 1.6)",
+      "url": "https://github.com/BingBu1/GoldCraft",
+      "why": "No LICENSE, no release, still in development (2026-10-22)",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "nathanphoffman/ValOutcast (Jedi Outcast in Valheim) and LinuxSkyCraft",
+      "url": "https://github.com/nathanphoffman/ValOutcast",
+      "why": "No LICENSE, no release (created 2026-10-21)",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "gabrielpery/minecraft-kcd2 (Minecraft in Kingdom Come Deliverance 2)",
+      "url": "https://github.com/gabrielpery/minecraft-kcd2",
+      "why": "GPL-3.0, no tags or releases, prototype (2026-10-11)",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "lightcarrot/UECraft (Minecraft linked into UE4 games)",
+      "url": "https://github.com/lightcarrot/UECraft",
+      "why": "MIT, no tags; static library toolkit, Sea of Thieves demo video https://youtu.be/1cW4k2xgCTU; adjacent at most",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "easyax2/gorillacraft (Gorilla Tag locomotion in VR Minecraft)",
+      "url": "https://github.com/easyax2/gorillacraft",
+      "why": "MIT, pre-releases only (v0.10.18, 2026-10-17); reverse of gorilla-passthrough, VR-specific; Gorilla Tag features not in yet",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "ShadowBlade83/Left4Craft2 (Minecraft in Left 4 Dead 2)",
+      "url": "https://github.com/ShadowBlade83/Left4Craft2",
+      "why": "CC BY-NC 4.0, v1.7.5-l4d2.1 (2026-10-19); overlaps l4d2-minecraft; editorial call (second entry or extra link)",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "ecogamezz/WOWCraft-mac-intel-Edition",
+      "url": "https://github.com/ecogamezz/WOWCraft-mac-intel-Edition",
+      "why": "MIT macOS Intel port of wowcraft (v1.0, 2026-10-17); candidate extra_link on wowcraft",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "SilentDOOM (Silent Hill 1 x DOOM, CleoAdler)",
+      "url": "https://www.moddb.com/mods/silent-hill-1-x-doom-mashup",
+      "why": "ModDB 403; secondary listing only; decompilation-based, adjacent at most",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Funny-Bones Elden Ring combat in Skyrim",
+      "url": "https://games.gg/news/skyrim-elden-ring-combat-mod/",
+      "why": "Press only, not public, creator says not a passthrough; no repo",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "headshot2017/sm64-adventure and sm64-project-06",
+      "url": "https://github.com/headshot2017/sm64-project-06",
+      "why": "No LICENSE, no releases (sm64-adventure archived); libsm64 mods",
+      "date": "2026-10-24"
     }
   ],
   "structural_upgrade": {
