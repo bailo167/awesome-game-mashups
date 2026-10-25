@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**190 entries:** 169 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**196 entries:** 175 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native) · [Muck 64](#project-muck64) · [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) · [Minecraft × BeamNG.drive](#project-minecraft-beamng) · [MarioSouls](#project-mariosouls) · [libratchet (Ratchet & Clank: Rift Apart movement in Skyrim)](#project-libratchet-skyrim) · [GTA SA Minecraft (muki01)](#project-gta-sa-minecraft-muki01)
+[Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native) · [PalCraft (Minecraft in Palworld)](#project-palcraft) · [Muck 64](#project-muck64) · [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) · [MineSkate 3 (Skate 3 in Minecraft)](#project-mineskate3) · [Minepunk (Minecraft in Cyberpunk 2077)](#project-minepunk) · [Minecraft × BeamNG.drive](#project-minecraft-beamng)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -66,6 +66,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [CraftMSC](#project-craftmsc) | Runs real Minecraft 1.12.2 inside My Summer Car. | Released · Experimental | — |
 | [CrossplayProject — Minecraft ↔ Roblox](#project-crossplayproject) | Links Minecraft and Roblox so players, blocks and chat synchronize between both games. | Released · Code available · Archived | — |
 | [CS-Craft](#project-cs-craft) | Adds a Minecraft Overworld/progression mode to a CS:GO Rust/Bevy rewrite. | Released · Code available · Experimental | — |
+| [CyberCraft (Minecraft in Cyberpunk 2077)](#project-cybercraft-itzbloxy) | SkyCraft-based port that lets you play Night City as a Minecraft player with block building, Minecraft physics and combat. | Released · Code available · Experimental | — |
 | [Dark Souls: Remastest / Remastester](#project-remastest) | Mixes Halo maps and weapons with a major Dark Souls multiplayer and combat overhaul. | Released | [Watch](https://www.youtube.com/watch?v=qRBTMhG2_00) |
 | [DDNet SM64 — Mario in Teeworlds](#project-ddnet-sm64) | Drops a 3D Super Mario 64 Mario into the 2D multiplayer game DDNet (Teeworlds). | Released · Code available · Experimental | — |
 | [Dead by Daylight Add-On (Zero Squad)](#project-dead-by-daylight) | Recreates Dead by Daylight’s generators, chases, traps and survivor systems in Minecraft Bedrock. | Released | [Watch](https://www.youtube.com/watch?v=plcN45eaRwg) |
@@ -94,6 +95,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Good Enough Game Integration (GEGI)](#project-good-enough-game-integration) | Plays itch.io and Newgrounds web games interactively inside Minecraft through an embedded Chromium view. | Released · Code available | — |
 | [Gorilla Passthrough (Gorilla Tag x Minecraft)](#project-gorilla-passthrough) | Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world. | Released · Code available · Experimental | — |
 | [GrandTheftMinecraft](#project-grandtheftminecraft) | Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode. | Released · Code available · Experimental | — |
+| [GroveCraft (Minecraft in GTA: San Andreas)](#project-grovecraft) | Windows alpha that runs Minecraft Java beside GTA: San Andreas and draws its blocks, creatures and interface inside the city. | Released · Code available · Experimental | — |
 | [GTA SA Minecraft (muki01)](#project-gta-sa-minecraft-muki01) | C++ ASI plugin that adds Minecraft block building, crafting and mobs to GTA: San Andreas. | Released · Code available · Experimental | — |
 | [GTA San AnSkateas](#project-gta-san-anskateas) | Runs Skate 3 skating, tricks and physics on GTA San Andreas streets and collision. | Released · Code available · Experimental | — |
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
@@ -198,6 +200,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Minecraft Classic 0.30 inside Hytale](#project-minecraft-classic-hytale) | Shows Minecraft Classic running on Hytale’s in-game world-map screen. | In development · Video only | [Watch](https://x.com/iamcxv711/status/2012610249174536397) |
 | [Minecraft Crossover Bridge](#project-minecraft-crossover-bridge) | Brings Minecraft blocks, mobs and combat into Monster Hunter: World or Elden Ring on Apple Silicon Macs. | Code available · In development | — |
 | [Minecraft in Death Stranding](#project-minecraft-death-stranding) | Source-only passthrough mod drawing real Minecraft into Death Stranding Director's Cut with shared collision. | Code available · Experimental | — |
+| [Minecraft in GTA III (re3)](#project-minecraft-in-gta3) | Fabric mod and re3 patch that link Minecraft to the re3 GTA III source port over shared memory so Steve walks on Liberty City. | Code available · Experimental | — |
 | [Minecraft in GTA V](#project-minecraft-gta-v) | Runs real Minecraft movement, building, mobs and combat inside GTA V Story Mode. | Code available · Experimental | — |
 | [Minecraft in Minecraft (CHUNGUS 2 redstone computer)](#project-minecraft-in-minecraft-chungus-2) | A playable miniature Minecraft running on a redstone computer built inside Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=-BP7DhHTU-I) |
 | [Minecraft Ring](#project-minecraft-ring) | Runs real Minecraft movement, building and combat inside Elden Ring through a Windows D3D12 bridge. | Code available · In development · Experimental | — |
@@ -207,9 +210,12 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) | Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. | Released · Code available · Experimental · Unavailable | — |
 | [Minecraft × BeamNG.drive](#project-minecraft-beamng) | Two-way bridge: BeamNG.drive cars driven in Minecraft, or Minecraft played inside a BeamNG map. | Code available · Experimental | — |
 | [Minecraft ↔ Hytale crossplay (SSquadTeam)](#project-minecraft-hytale-crossplay-ssquadteam) | Lets Minecraft and Hytale players share a synchronized Hytale-hosted world. | Code available · In development | — |
+| [Minepunk (Minecraft in Cyberpunk 2077)](#project-minepunk) | Runs real Minecraft Java inside Cyberpunk 2077, with Steve replacing V and Minecraft items acting on Night City. | Code available · Experimental | — |
+| [MineSkate 3 (Skate 3 in Minecraft)](#project-mineskate3) | NeoForge mod that runs the Skate 3 Rust engine inside Minecraft so you skate on blocks with Skate 3 physics and trick HUD. | Code available · Experimental | — |
 | [Morrowind in Elden Ring](#project-morrowind-elden-ring) | Recreates Morrowind’s world and gameplay inside Elden Ring. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n89NFtIUWDI) |
 | [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) | Game Boy and Game Boy Color emulator written in Lua that runs inside Multi Theft Auto, the GTA: San Andreas multiplayer mod. | Code available | — |
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
+| [PalCraft (Minecraft in Palworld)](#project-palcraft) | Runs Minecraft: Java Edition beside Palworld so you play Palworld as Steve with Minecraft movement, building and combat. | Code available · Experimental | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
 | [SekiroCraft-Passthrough](#project-sekirocraft-passthrough) | Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes. | Code available · Experimental | — |
@@ -5255,6 +5261,157 @@ BeamNG.drive runs car physics, engine, tyres and damage in the background while 
 
 - [Source code](https://github.com/JASGENIUS/minecraft-beamng)
 - [crossover-modder (creator's companion playbook)](https://github.com/JASGENIUS/crossover-modder)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-palcraft"></a>
+
+### PalCraft (Minecraft in Palworld)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Palworld  
+**Creator:** EQQX0  
+**Status:** Code available · Experimental  
+**Approach:** UE4SS Lua bridge plus a D3D11 compositor on the Palworld side and a Fabric mod on the Minecraft side  
+
+Minecraft owns the player, camera, blocks and weapons while Palworld owns the islands and Pals: Palworld draws its frame from Minecraft's camera and a compositor paints Minecraft blocks, hand and hotbar into it with depth occlusion. Hitting Pals with swords, arrows or TNT lowers their Palworld health, Minecraft armour rules apply to Pal hits, and F8 switches to a Palworld mode for catching Pals and base building. There are no tagged releases; the README documents version 0.2.2.
+
+**Requirements:** Palworld on Steam (DirectX 11) and Minecraft Java 1.21.1 with Fabric, per the README, which describes installation through the Melty launcher (UE4SS is installed into Palworld).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/EQQX0/PalCraft)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mineskate3"></a>
+
+### MineSkate 3 (Skate 3 in Minecraft)
+
+**Guest:** Skate 3  
+**Host:** Minecraft: Java Edition  
+**Creator:** tomTTFB  
+**Status:** Code available · Experimental  
+**Approach:** Skate 3 Rust engine embedded in a NeoForge mod, with an in-game data-conversion screen  
+
+Pressing J drops the player onto a board driven by Skate 3's own physics, tricks, grinds and camera, with the original trick HUD movie and scoring, skating on Minecraft blocks. It embeds the Skate 3 Rust Engine in the same way as 2010 Rust Rewrite Mashup does for MW2, requires an extracted Xbox 360 Skate 3 and a one-time data conversion, and the README says the build is early and untested in game.
+
+**Requirements:** Minecraft 1.21.1 with NeoForge 21.1.x, an extracted Xbox 360 copy of Skate 3 (default.xex plus data folder, not an ISO), and Python 3.11+ with numpy and Pillow for the one-time conversion; a controller is recommended.
+
+- [Source code](https://github.com/tomTTFB/mineskate3)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-grovecraft"></a>
+
+### GroveCraft (Minecraft in GTA: San Andreas)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Grand Theft Auto: San Andreas  
+**Creator:** Axel12Q  
+**Status:** Released · Code available · Experimental  
+**Approach:** ASI plugin plus Fabric mod linked by a shared bridge  
+
+Minecraft Java runs alongside GTA San Andreas and its blocks, creatures and UI are drawn into the GTA world, adding mining, building, crafting, smelting, hunger, water, beds, trading and procedural villages and camps while CJ keeps San Andreas vehicles and missions. The map is prepared by a reproducible script using DragonFF. The 0.1.0-alpha.1 pre-release ships a Windows zip, a source zip and checksums; the README is in Spanish and is distinct from the other GTA SA and Minecraft entries.
+
+**Requirements:** Classic GTA:SA NewSteam R2 LV gta-sa.exe (not compatible with 1.0, Definitive Edition, SA-MP or MTA), Minecraft Java 26.3 with Java 25, Fabric Loader 0.19.5 and Fabric API, Ultimate ASI Loader 9.7.4, SilentPatchSA 34.1, and Python 3.12+ with Git for map preparation.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Axel12Q/GroveCraft)
+- [Release / download](https://github.com/Axel12Q/GroveCraft/releases)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-minecraft-in-gta3"></a>
+
+### Minecraft in GTA III (re3)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Grand Theft Auto III (re3)  
+**Creator:** akilex02  
+**Status:** Code available · Experimental  
+**Approach:** re3 hooks patch plus a Fabric mod linked through POSIX shared memory  
+
+Minecraft (a Fabric mod) and re3 run side by side and share state through POSIX shared memory: Minecraft drives the player, its blocks are drawn in Liberty City and GTA's collision is sent back so Steve can walk on the city; F9 hands control between the games. The repository contains no game code or data and needs the user's own GTA III files and a re3 source tree. It is a two-commit prototype with a stand-in Python tester.
+
+**Requirements:** Linux only; the user's own GTA III files, a re3 source tree built with CMake, and Minecraft Java 26.3 with Fabric and Java 25.
+
+**Platforms documented:** Linux
+
+- [Source code](https://github.com/akilex02/minecraft-in-gta3)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-minepunk"></a>
+
+### Minepunk (Minecraft in Cyberpunk 2077)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Cyberpunk 2077  
+**Creator:** Duocor3  
+**Status:** Code available · Experimental  
+**Approach:** RED4ext plugin, CET script and ReShade add-on on the Cyberpunk side and a Fabric mod on the Minecraft side, linked over a local connection  
+
+Cyberpunk sends its camera to Minecraft every frame and Minecraft draws on a transparent background that is depth-blended into Cyberpunk's frame by a ReShade add-on; events such as pearl landings, damage and TNT explosions pass both ways, health is a shared value and built blocks are solid. It is two mods (a Fabric mod and a RED4ext plugin, Cyber Engine Tweaks script and ReShade add-on), build-from-source only, with no tags or releases. It is separate from the unverified viral-claim entry for Minecraft in Cyberpunk 2077.
+
+**Requirements:** Cyberpunk 2077 2.31 (Steam, base game) with Cyber Engine Tweaks 1.37.1, RED4ext 1.30.0, redscript, Codeware 1.18.1, ReShade 6.8.0 with add-on support and World Builder 1.0.7; Minecraft Java 26.3 with Fabric; Visual Studio Build Tools, JDK 25 and Git to build.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Duocor3/minepunk)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-cybercraft-itzbloxy"></a>
+
+### CyberCraft (Minecraft in Cyberpunk 2077)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Cyberpunk 2077  
+**Creator:** ItzBloxy  
+**Status:** Released · Code available · Experimental  
+**Approach:** RED4ext plugin plus SkyCraft's Fabric mod on a shared-memory bridge  
+
+Minecraft runs hidden next to Cyberpunk 2077 and keeps its own blocks, items, mobs, health and inventory while Cyberpunk keeps its world, NPCs and quests and draws everything, talking over shared memory using SkyCraft's own Minecraft mod unchanged. It adds block placing and breaking, Minecraft physics, combat and a wolf companion, and the README marks it early and experimental, tested on one setup.
+
+**Requirements:** Cyberpunk 2077 2.31 (D3D12), Minecraft 26.3 with Fabric 0.19.5+ and RED4ext.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/ItzBloxy/CyberCraft)
+- [Release / download](https://github.com/ItzBloxy/CyberCraft/releases)
+- [SkyCraft (upstream)](https://github.com/chasmlol/SkyCraft)
 
 **Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.

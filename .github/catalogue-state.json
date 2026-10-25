@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-25",
-    "head_sha": "4e583a9a13e04c3d1f0df79d8662d5a76ba2d1cc",
-    "project_count": 190,
+    "head_sha": "aee1c5f8932d6a3c2c55005df6c516b27c63471d",
+    "project_count": 196,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-25: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 136 GitHub-linked entries (no new releases) + 12 deep rechecks (classic64 gained macOS; just-doom-it Workshop date corrected) + discovery (~35 searches plus GitHub repo searches; +8 new: twilight-souls, mta-gb, mariosouls, libratchet-skyrim, muck64, sm64-vc-native, gta-sa-minecraft-muki01, minecraft-beamng). head_sha is the parent commit. 4 records in unreachable_from_routine (retro-handheld-emulator, doom-in-balatro, ultracraft, mario64-in-minecraft). No play-tests."
+    "scope": "Second run 2026-10-25: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 143 GitHub-linked repos (RetroConsole v0.2.6 updated; DaffyDabz repos still gone) + 12 deep rechecks (11 re-read, bethception unreachable) + discovery (~30 searches plus aggregator diff; +6 new: palcraft, mineskate3, grovecraft, minecraft-in-gta3, minepunk, cybercraft-itzbloxy). head_sha is the parent commit. 5 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -447,6 +447,36 @@
       "name": "Skyrim recreated in Age of Empires II DE",
       "url": "https://www.dsogaming.com/news/the-elder-scrolls-v-skyrim-recreated-in-age-of-empires-2/",
       "why": "Press only (2023), Workshop release unconfirmed; scenario recreation, likely adjacent",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "Keel62155/Minecraft-X-Games",
+      "url": "https://github.com/Keel62155/Minecraft-X-Games",
+      "why": "Hub repo, one SkyCraft-based release per game (RedCraft for RDR2 is the only new host); no LICENSE; per-game READMEs not read (found 2026-10-25, not independently read beyond subagent report)",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "gta5craft/GtaCraft",
+      "url": "https://github.com/gta5craft/GtaCraft",
+      "why": "MIT, v0.1.3 (2026-10-13), overlaps GTA V Minecraft entries; same-host SkyCraft-lineage (found 2026-10-25, not independently read beyond subagent report)",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "benedettoscala/VegasCraft",
+      "url": "https://github.com/benedettoscala/VegasCraft",
+      "why": "MIT, 0.2.2; overlaps New VegasCraft (Davozh); could be extra link (found 2026-10-25, not independently read beyond subagent report)",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "franguchico/MineRing",
+      "url": "https://github.com/franguchico/MineRing",
+      "why": "MIT launcher/co-op installer for Minecraft in Elden Ring; overlaps Minecraft Ring and EldenCraft (found 2026-10-25, not independently read beyond subagent report)",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "chasesfloorboard/skycraft-deck",
+      "url": "https://github.com/chasesfloorboard/skycraft-deck",
+      "why": "Steam Deck installer for SkyCraft; adjacent at most; could be a note on SkyCraft (found 2026-10-25, not independently read beyond subagent report)",
       "date": "2026-10-25"
     }
   ],
