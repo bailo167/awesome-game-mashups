@@ -436,6 +436,18 @@
       "url": "https://github.com/speti4/doom-pane",
       "why": "Doom in a Claude Code pane (October 2026); host is a terminal tool, same bucket as claude-doom",
       "date": "2026-10-25"
+    },
+    {
+      "name": "waylandcraft (EVV1E)",
+      "url": "https://github.com/EVV1E/waylandcraft",
+      "why": "GPL-3.0, tags to v2.1.0, Modrinth; Wayland compositor inside Minecraft showing Linux app windows (demo osu!). Hosts desktop apps rather than rebuilding a game, so adjacent at best; editorial call, not yet added",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "Skyrim recreated in Age of Empires II DE",
+      "url": "https://www.dsogaming.com/news/the-elder-scrolls-v-skyrim-recreated-in-age-of-empires-2/",
+      "why": "Press only (2023), Workshop release unconfirmed; scenario recreation, likely adjacent",
+      "date": "2026-10-25"
     }
   ],
   "structural_upgrade": {
@@ -519,6 +531,11 @@
     {
       "id": "mario64-in-minecraft",
       "host": "github.com (Zckyy)",
+      "date": "2026-10-25"
+    },
+    {
+      "id": "bethception",
+      "host": "nexusmods.com (403)",
       "date": "2026-10-25"
     }
   ]

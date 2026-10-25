@@ -390,7 +390,7 @@ Runs DOOM through Hytale's in-game world-map display at a targeted 35 FPS, with 
 - [Source code](https://github.com/ssquadteam/DoomMaps)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -547,7 +547,7 @@ Recreates generator objectives and skill checks, pallets/vaulting, health states
 - [Release / download](https://www.curseforge.com/minecraft-bedrock/addons/dead-by-daylight)
 - [Watch demo](https://www.youtube.com/watch?v=plcN45eaRwg)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -574,7 +574,7 @@ A modern port/continuation of the older Arcade Mod with six playable arcade recr
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/arcade-mod-reloaded)
 - [Project page](https://modrinth.com/mod/arcade-mod-reloaded)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -960,7 +960,7 @@ Synchronizes blocks, players, mobs, time/weather, chat, skins and build/break in
 - [Source code](https://github.com/Atmerek/CrossplayProject)
 - [Release / download](https://github.com/Atmerek/CrossplayProject/releases/tag/v1.3)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1077,7 +1077,7 @@ Frames are streamed over WebSocket to ComputerCraft monitors and player inputs a
 
 - [Source code](https://github.com/amatheo/ccboy)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1234,7 +1234,7 @@ Minecraft supplies movement, blocks, hearts, inventory and combat while Fallout 
 - [Release / download](https://github.com/zeyvu/FalloutCraft/releases/tag/v0.1.3)
 - [Creator profile](https://github.com/zeyvu)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1310,7 +1310,7 @@ The public v0.1.0 build includes an Overworld mode that keeps CS:GO-style moveme
 - [Release / download](https://github.com/FrosttysBots/CS-Craft/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/FrosttysBots)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1497,7 +1497,7 @@ Lets Jimmy skate through Bullworth using Skate 3 physics and controller input, w
 - [Release / download](https://github.com/Faiqie/BullySkate/releases/tag/v0.1.2)
 - [Creator profile](https://github.com/Faiqie)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1732,7 +1732,7 @@ Spider-Man supplies swinging, wall running, crawling, point launches and its cha
 - [Watch demo](https://www.youtube.com/watch?v=O6Mkm_NGCX8)
 - [Creator profile](https://github.com/luki-1)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3220,7 +3220,7 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 - [MoeWhite19/BNes (original)](https://github.com/MoeWhite19/BNes)
 - [Nestalgia](https://github.com/tiagohm/nestalgia)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3473,7 +3473,7 @@ An experimental, work-in-progress, offline-only passthrough: AoTTG2 (BepInEx) ru
 - [Creator profile](https://github.com/mpere056)
 - [AI Game Modding Guides](https://github.com/trevaintdead/ai-game-modding-guides)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3991,7 +3991,7 @@ Both games run together on Windows and talk over a custom bridge: Nine Sols keep
 **Status:** Released · Code available · Experimental  
 **Approach:** NeoForge mod hosting libretro cores server-side and streaming video/audio to in-world screens  
 
-Players place a Retro Console block and a multiblock Screen wall, pick a game from a library UI and play on the in-world TV or a fullscreen viewer. Emulation runs server-side with video and audio streamed to nearby players, per-player saves and co-op (added in 0.2.0); the creator lists NES, SNES, GBA, Genesis, PS1, PS2, PSP and Dreamcast cores as tested or supported. The mod ships no libretro cores, BIOS files or ROMs; the user must supply them.
+Players place a Retro Console block and a multiblock Screen wall, pick a game from a library UI and play on the in-world TV or a fullscreen viewer. Emulation runs server-side with video and audio streamed to nearby players, per-player saves and co-op (added in 0.2.0); the creator lists NES, SNES, GBA, Genesis, PS1, PS2, PSP, Dreamcast and Nintendo DS/3DS cores as tested or supported, and the README adds Doom 3 via the boom3 core. The mod ships no libretro cores, BIOS files or ROMs; the user must supply them.
 
 **Requirements:** Minecraft Java 1.21.1 with NeoForge 21.1.x and Java 21 on 64-bit Windows or Linux (macOS unsupported); the user supplies libretro cores, BIOS files (PS2, Dreamcast) and legally obtained ROMs.
 
@@ -4001,7 +4001,7 @@ Players place a Retro Console block and a multiblock Screen wall, pick a game fr
 - [Release / download](https://github.com/Gaigen/retroconsole/releases)
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/retroconsole)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4133,7 +4133,7 @@ A UE4SS mod for Voices of the Void that adds in-world props (handheld, home cons
 - [Release / download](https://github.com/modestimpala/VEmu/releases)
 - [libretro](https://www.libretro.com/)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
