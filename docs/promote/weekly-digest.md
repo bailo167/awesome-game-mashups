@@ -1,7 +1,15 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-24. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-25. These are additions to the index, not necessarily new releases.
 
+- **[Twilight Souls](https://github.com/bailo167/awesome-game-mashups#project-twilight-souls)** — Total conversion that rebuilds Dark Souls' world, stats and bonfires inside The Legend of Zelda: Twilight Princess so you play as Link in Lordran. (Released · Experimental)
+- **[SM64 Vice City Native](https://github.com/bailo167/awesome-game-mashups#project-sm64-vc-native)** — ASI plugin that runs Mario's Super Mario 64 physics inside classic GTA: Vice City via libsm64. (Code available · Experimental)
+- **[Muck 64](https://github.com/bailo167/awesome-game-mashups#project-muck64)** — Plays Super Mario 64 in Muck through libsm64 and a BepInEx plugin. (Released · Code available · Experimental)
+- **[MTA-GB (Game Boy emulator in Multi Theft Auto)](https://github.com/bailo167/awesome-game-mashups#project-mta-gb)** — Game Boy and Game Boy Color emulator written in Lua that runs inside Multi Theft Auto, the GTA: San Andreas multiplayer mod. (Code available)
+- **[Minecraft × BeamNG.drive](https://github.com/bailo167/awesome-game-mashups#project-minecraft-beamng)** — Two-way bridge: BeamNG.drive cars driven in Minecraft, or Minecraft played inside a BeamNG map. (Code available · Experimental)
+- **[MarioSouls](https://github.com/bailo167/awesome-game-mashups#project-mariosouls)** — Replaces Dark Souls: Prepare to Die Edition's Pyromancer with Mario, running Super Mario 64 movement and attacks via libsm64. (Released · Code available · Experimental)
+- **[libratchet (Ratchet & Clank: Rift Apart movement in Skyrim)](https://github.com/bailo167/awesome-game-mashups#project-libratchet-skyrim)** — Engine-independent Rust libraries rebuilding Rift Apart's movement, weapons and bolts, with an SKSE host that makes the Skyrim player Ratchet. (Released · Code available · Experimental)
+- **[GTA SA Minecraft (muki01)](https://github.com/bailo167/awesome-game-mashups#project-gta-sa-minecraft-muki01)** — C++ ASI plugin that adds Minecraft block building, crafting and mobs to GTA: San Andreas. (Released · Code available · Experimental)
 - **[TES64 (Super Mario 64 in Skyrim)](https://github.com/bailo167/awesome-game-mashups#project-tes64)** — SKSE plugin that turns the Skyrim player into Super Mario 64's Mario, using libsm64 movement on Skyrim's collision. (Released · Code available)
 - **[SoHCraft (Minecraft in Ocarina of Time)](https://github.com/bailo167/awesome-game-mashups#project-sohcraft)** — Plays Minecraft as Steve inside Ship of Harkinian Ocarina of Time, with online co-op; experimental Windows release. (Released · Code available · Experimental)
 - **[sm64-roblox](https://github.com/bailo167/awesome-game-mashups#project-sm64-roblox)** — Luau port of Super Mario 64's movement and physics code running inside Roblox. (Code available · Related)
@@ -41,5 +49,3 @@ Week ending 2026-10-24. These are additions to the index, not necessarily new re
 - **[Gorilla Passthrough (Gorilla Tag x Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-gorilla-passthrough)** — Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world. (Released · Code available · Experimental)
 - **[BlockBreach](https://github.com/bailo167/awesome-game-mashups#project-blockbreach)** — Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game. (Released · Code available · Experimental)
 - **[BlockBoy / BlockBoy Arcade](https://github.com/bailo167/awesome-game-mashups#project-blockboy)** — Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. (Released · Code available)
-- **[RetroConsole (libretro consoles in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retroconsole)** — A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. (Released · Code available · Experimental)
-- **[Hollow Sols (Nine Sols in Hollow Knight's Godhome)](https://github.com/bailo167/awesome-game-mashups#project-hollow-sols)** — A two-process BepInEx passthrough that lets Nine Sols' Yi fight Hollow Knight's 44 Godhome boss encounters with his native movement and combat. (Released · Code available · Experimental)

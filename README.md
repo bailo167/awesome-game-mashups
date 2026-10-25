@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**182 entries:** 161 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**190 entries:** 169 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-24. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-25. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[TES64 (Super Mario 64 in Skyrim)](#project-tes64) · [SoHCraft (Minecraft in Ocarina of Time)](#project-sohcraft) · [sm64-roblox](#project-sm64-roblox) · [SM64 in SMBZ-G (Super Mario 64 Mario in Super Mario Bros. Z)](#project-sm64-in-smbz) · [Skyring (Elden Ring combat in Skyrim)](#project-skyring) · [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) · [QuakeCraft (Quake III Arena in Minecraft)](#project-quakecraft) · [PerkeleRim (My Summer Car in Skyrim)](#project-perkelerim)
+[Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native) · [Muck 64](#project-muck64) · [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) · [Minecraft × BeamNG.drive](#project-minecraft-beamng) · [MarioSouls](#project-mariosouls) · [libratchet (Ratchet & Clank: Rift Apart movement in Skyrim)](#project-libratchet-skyrim) · [GTA SA Minecraft (muki01)](#project-gta-sa-minecraft-muki01)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -94,6 +94,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Good Enough Game Integration (GEGI)](#project-good-enough-game-integration) | Plays itch.io and Newgrounds web games interactively inside Minecraft through an embedded Chromium view. | Released · Code available | — |
 | [Gorilla Passthrough (Gorilla Tag x Minecraft)](#project-gorilla-passthrough) | Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world. | Released · Code available · Experimental | — |
 | [GrandTheftMinecraft](#project-grandtheftminecraft) | Recreates Minecraft creative-mode building, inventory, mobs and items directly inside GTA V Story Mode. | Released · Code available · Experimental | — |
+| [GTA SA Minecraft (muki01)](#project-gta-sa-minecraft-muki01) | C++ ASI plugin that adds Minecraft block building, crafting and mobs to GTA: San Andreas. | Released · Code available · Experimental | — |
 | [GTA San AnSkateas](#project-gta-san-anskateas) | Runs Skate 3 skating, tricks and physics on GTA San Andreas streets and collision. | Released · Code available · Experimental | — |
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
 | [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64) | Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. | Released · Code available · Experimental | — |
@@ -112,15 +113,18 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [LethalCraft](#project-lethalcraft) | Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. | Released · Code available · Experimental | — |
 | [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) | A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. | Released | — |
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
+| [libratchet (Ratchet & Clank: Rift Apart movement in Skyrim)](#project-libratchet-skyrim) | Engine-independent Rust libraries rebuilding Rift Apart's movement, weapons and bolts, with an SKSE host that makes the Skyrim player Ratchet. | Released · Code available · Experimental | — |
 | [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) | Link sits at a desk PC in Majora's Mask: Recompiled and plays DOOM on its screen. | Released · Code available · Demo | — |
 | [Mario 64 Survivor (Super Mario 64 in Risk of Rain 2)](#project-mario-64-survivor) | BepInEx mod that adds Super Mario 64's Mario as a Risk of Rain 2 survivor with libsm64 movement. | Released · Code available | — |
 | [Mario for Rec Room](#project-mario-for-rec-room) | Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. | Released · Code available · Experimental | [Watch](https://youtu.be/UF2uwklFTF0) |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
+| [MarioSouls](#project-mariosouls) | Replaces Dark Souls: Prepare to Die Edition's Pyromancer with Mario, running Super Mario 64 movement and attacks via libsm64. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
 | [MINEKILL](#project-minekill) | Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels. | Released · Code available · Experimental | — |
 | [MinePeak](#project-minepeak) | Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install. | Released · Code available · Experimental | — |
 | [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) | Plays Morrowind, run by OpenMW, live on Fallout 4's Pip-Boy screen via a holotape. | Released · Code available | — |
+| [Muck 64](#project-muck64) | Plays Super Mario 64 in Muck through libsm64 and a BepInEx plugin. | Released · Code available · Experimental | — |
 | [MW2 x Risk of Rain 2 (MW2xRoR2)](#project-mw2xror2) | Adds a Risk of Rain 2 survivor that plays with Modern Warfare 2's own movement, weapons, HUD and killstreaks. | Released · Code available · Experimental | — |
 | [NG64 — Mario in BeamNG.drive](#project-ng64-beamng) | Lets you play as Super Mario 64's Mario in BeamNG.drive. | Released · Code available · Experimental | — |
 | [NucleDoom](#project-nucledoom) | Runs DOOM inside Minecraft with controls and sound. | Released · Code available | — |
@@ -158,6 +162,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Supersonic Mario](#project-supersonic-mario) | A BakkesMod plugin that lets players run around Rocket League matches as Super Mario 64's Mario. | Released · Code available | — |
 | [talemonpokemon](#project-talemonpokemon) | Recreates Pokémon catching, battles, evolution and trainer progression inside Hytale. | Released | [Watch](https://www.youtube.com/watch?v=wJbgOMAv5-s) |
 | [TES64 (Super Mario 64 in Skyrim)](#project-tes64) | SKSE plugin that turns the Skyrim player into Super Mario 64's Mario, using libsm64 movement on Skyrim's collision. | Released · Code available | — |
+| [Twilight Souls](#project-twilight-souls) | Total conversion that rebuilds Dark Souls' world, stats and bonfires inside The Legend of Zelda: Twilight Princess so you play as Link in Lordran. | Released · Experimental | — |
 | [UltraDoom / UltrakillDoom](#project-ultradoom) | Lets you play DOOM on the shop terminals inside ULTRAKILL. | Released · Code available | [Watch](https://www.youtube.com/watch?v=Y7zpELS2QfQ) |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
@@ -200,8 +205,10 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Minecraft X Half-Life](#project-minecraft-x-half-life) | Ports SkyCraft's Minecraft passthrough model to Half-Life. | Code available · In development · Experimental | — |
 | [Minecraft X Saints Row: The Third Remastered](#project-minecraft-x-saints-row-3) | Runs real Minecraft inside Saints Row: The Third Remastered, with building, TNT and combat in Stilwater. | Code available · In development · Experimental | — |
 | [Minecraft Zombies (bo2mc)](#project-bo2-minecraft-zombies) | Black Ops II Zombies rounds every night in a Minecraft world on the IW4L Rust engine. | Released · Code available · Experimental · Unavailable | — |
+| [Minecraft × BeamNG.drive](#project-minecraft-beamng) | Two-way bridge: BeamNG.drive cars driven in Minecraft, or Minecraft played inside a BeamNG map. | Code available · Experimental | — |
 | [Minecraft ↔ Hytale crossplay (SSquadTeam)](#project-minecraft-hytale-crossplay-ssquadteam) | Lets Minecraft and Hytale players share a synchronized Hytale-hosted world. | Code available · In development | — |
 | [Morrowind in Elden Ring](#project-morrowind-elden-ring) | Recreates Morrowind’s world and gameplay inside Elden Ring. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n89NFtIUWDI) |
+| [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) | Game Boy and Game Boy Color emulator written in Lua that runs inside Multi Theft Auto, the GTA: San Andreas multiplayer mod. | Code available | — |
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
@@ -211,6 +218,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Skate Fortress 2](#project-skate-fortress-2) | Runs Skate 3's recovered skating simulation inside Team Fortress 2, including tricks, grinds, bails and multiplayer prediction. | Code available · In development · Experimental | — |
 | [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) | Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. | In development · Video only | [Watch](https://www.youtube.com/watch?v=KZQqJivPKac) |
 | [Skyring (Elden Ring combat in Skyrim)](#project-skyring) | Pre-alpha SKSE plugin that runs Elden Ring hidden and streams its rolls, stamina and swings onto the Skyrim character. | Code available · In development · Experimental | — |
+| [SM64 Vice City Native](#project-sm64-vc-native) | ASI plugin that runs Mario's Super Mario 64 physics inside classic GTA: Vice City via libsm64. | Code available · Experimental | — |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
 | [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
 | [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Unavailable | — |
@@ -1117,7 +1125,7 @@ Recreates two Crash Bandicoot levels in Minecraft with custom gameplay mechanics
 - [Release / download](https://www.curseforge.com/minecraft/worlds/minecraft-but-its-crash-bandicoot)
 - [Watch demo](https://www.youtube.com/watch?v=E4y9sj8vXJs)
 
-**Dated source review:** 2026-10-17
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2839,7 +2847,7 @@ A DDNet client fork that spawns a libsm64 Mario from the menu or a /mario server
 - [Release / download](https://github.com/headshot2017/ddnet-sm64/releases/tag/v1.0)
 - [Creator profile](https://github.com/headshot2017)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2860,14 +2868,14 @@ A plugin for ClassiCube, a C client compatible with Minecraft Classic, that uses
 
 **Requirements:** ClassiCube and the user's own Super Mario 64 (US) ROM.
 
-**Platforms documented:** Windows, Linux
+**Platforms documented:** Windows, Linux, macOS
 
 - [Source code](https://github.com/headshot2017/Classic64)
 - [Release / download](https://github.com/headshot2017/Classic64/releases/tag/v1.2)
 - [Creator profile](https://github.com/headshot2017)
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2894,7 +2902,7 @@ Emulates the NES inside unmodified Minecraft Java 1.16 using only resource-pack 
 - [Release / download](https://github.com/5uso/MinecraftNES/releases/tag/1.0.0)
 - [Creator profile](https://github.com/5uso)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2951,7 +2959,7 @@ A Fabric mod in which players order computer parts from an in-game satellite and
 - [Creator profile](https://github.com/Delta2Force)
 - [PCGamesN coverage (Doom on an in-game PC)](https://www.pcgamesn.com/minecraft/virtual-pc-mod-doom)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2979,7 +2987,7 @@ An Elin mod that adds a playable DOOM arcade cabinet, running the Managed Doom e
 - [Creator profile](https://github.com/chitsii)
 - [Managed Doom upstream](https://github.com/sinshu/managed-doom)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3128,7 +3136,7 @@ A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry'
 - [Creator profile](https://github.com/thecreeez)
 - [Garry's Mod side by ScientificWays](https://github.com/ScientificWays/gmod-minecraft-bridge)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3785,7 +3793,7 @@ A mod for Zelda 64: Recompiled that loads a native doomgeneric-based library whi
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 - [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4019,7 +4027,7 @@ A Fabric mod by tomalbrc that embeds a Java Game Boy emulator (based on coffee-g
 - [BlockBoy (original)](https://github.com/tomalbrc/BlockBoy)
 - [coffee-gb upstream](https://github.com/trekawek/coffee-gb)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4045,7 +4053,7 @@ A passthrough mod that runs Minecraft Java (Fabric) next to Five Nights at Fredd
 - [Source code](https://github.com/pebbleford/sbcraft)
 - [Release / download](https://github.com/pebbleford/sbcraft/releases/latest)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4072,7 +4080,7 @@ A single-player passthrough mod: Ready or Not's camera drives Minecraft's, Minec
 - [Release / download](https://github.com/ImmortalSouull/BlockBreach/releases)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4098,7 +4106,7 @@ A BepInEx plugin for Gorilla Tag and a Fabric mod for Minecraft that run at the 
 - [Source code](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough)
 - [Release / download](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough/releases)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5045,6 +5053,210 @@ A Quake III Arena engine runs beside Minecraft Java (Fabric) over Win32 shared m
 - [Creator demo (YouTube)](https://www.youtube.com/watch?v=l7rIfBAF9Cc)
 
 **Dated source review:** 2026-10-24
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-twilight-souls"></a>
+
+### Twilight Souls
+
+**Guest:** Dark Souls Remastered  
+**Host:** The Legend of Zelda: Twilight Princess  
+**Creator:** Artholos  
+**Status:** Released · Experimental  
+**Approach:** Total conversion importing Dark Souls content into the Twilight Princess engine  
+
+A work-in-progress total conversion for the Twilight Princess engine (via its PC port) that imports Dark Souls' areas, stats, equipment and bonfire levelling. The creator states it is rebuilt inside Twilight Princess rather than an AI passthrough or two-process mashup. The 0.1.2.0 demo covers the Undead Asylum and Firelink Shrine; the installer builds the game locally from the player's own game files.
+
+**Requirements:** The player's own GameCube Twilight Princess and Steam Dark Souls Remastered game files; the Wii version and Prepare to Die Edition are unsupported. The installer builds locally and the download contains no game assets.
+
+**Platforms documented:** Windows, SteamOS, Linux
+
+- [Release / download](https://arthenfold.org/creators/artholos/twilight-souls)
+- [Dexerto coverage](https://www.dexerto.com/legend-of-zelda/modder-is-rebuilding-all-of-dark-souls-inside-zelda-twilight-princess-3418617/)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mta-gb"></a>
+
+### MTA-GB (Game Boy emulator in Multi Theft Auto)
+
+**Guest:** Game Boy / Game Boy Color games  
+**Host:** Multi Theft Auto (Grand Theft Auto: San Andreas multiplayer)  
+**Creator:** MegadreamsBE  
+**Status:** Code available  
+**Approach:** Game Boy emulator implemented in Lua as an MTA resource  
+
+An emulator with a working CPU, GPU and most MMU functions, running as a Multi Theft Auto server resource so Game Boy games such as Tetris, Link's Awakening and Pokémon Blue render inside the GTA multiplayer environment. Game Boy Color support is experimental, the ROM path is hardcoded in src/gameboy.lua, and no ROM is included. Latest commit is from January 2025.
+
+**Requirements:** A Multi Theft Auto server and the player's own Game Boy ROM, edited into src/gameboy.lua and meta.xml.
+
+- [Source code](https://github.com/MegadreamsBE/mta-gb)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mariosouls"></a>
+
+### MarioSouls
+
+**Guest:** Super Mario 64  
+**Host:** Dark Souls: Prepare to Die Edition  
+**Creator:** TedCassirer  
+**Status:** Released · Code available · Experimental  
+**Approach:** libsm64-style Mario movement integrated into the Dark Souls PTDE game  
+
+A Windows mod for Dark Souls: Prepare to Die Edition that lets you start as Mario with Super Mario 64 movement, jumps and attacks while keeping Dark Souls progression, equipment and world interaction. Mario's Gloves give punches, kicks, dives and ground pounds. The README calls it experimental, supports PTDE only (Dark Souls Remastered is a future target) and ships a Windows installer preview that builds from the player's own game files and a US SM64 ROM.
+
+**Requirements:** Dark Souls: Prepare to Die Edition (Steam), a US Super Mario 64 ROM in .z64 format; DSfix 2.4 optional. ROMs and game assets are not included.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/TedCassirer/mariosouls)
+- [Release / download](https://github.com/TedCassirer/mariosouls/releases)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-libratchet-skyrim"></a>
+
+### libratchet (Ratchet & Clank: Rift Apart movement in Skyrim)
+
+**Guest:** Ratchet & Clank: Rift Apart  
+**Host:** The Elder Scrolls V: Skyrim Special Edition  
+**Creator:** DenQQQQQ  
+**Status:** Released · Code available · Experimental  
+**Approach:** Engine-independent Rust libraries reimplementing Rift Apart gameplay, hosted by an SKSE plugin  
+
+libratchet, libarsenal and libbolts rebuild Ratchet & Clank: Rift Apart's jumps, glide, dashes, wall jumps, Swingshot, OmniWrench combat, weapons and bolt drops as engine-independent Rust code, in the manner of libsm64. The included SKSE plugin makes the player Ratchet in Skyrim Special Edition with Rift Apart's camera, sounds and effects. The installer builds the mod from the user's own copy of Rift Apart; the repository contains no game files. A Bevy sandbox is included.
+
+**Requirements:** Skyrim Special Edition with SKSE and the user's own copy of Ratchet & Clank: Rift Apart; Install.bat builds the mod from those files.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/DenQQQQQ/libratchet-skyrim)
+- [Release / download](https://github.com/DenQQQQQ/libratchet-skyrim/releases)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-muck64"></a>
+
+### Muck 64
+
+**Guest:** Super Mario 64  
+**Host:** Muck  
+**Creator:** Heisenberg-87s  
+**Status:** Released · Code available · Experimental  
+**Approach:** libsm64 integrated through a BepInEx plugin (MuckMario.dll)  
+
+An alpha BepInEx 5 mod for the Unity game Muck that switches the player into Mario with SM64 physics via libsm64 (F1 toggle, terrain collision rescan, colour customiser). The README is in Thai and requires the player's own US SM64 ROM named baserom.us.z64 or sm64.z64. No licence file is published.
+
+**Requirements:** Muck (Steam), BepInEx 5 x64, and a US Super Mario 64 ROM named baserom.us.z64 or sm64.z64.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Heisenberg-87s/Muck64)
+- [Release / download](https://github.com/Heisenberg-87s/Muck64/releases)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-sm64-vc-native"></a>
+
+### SM64 Vice City Native
+
+**Guest:** Super Mario 64  
+**Host:** Grand Theft Auto: Vice City  
+**Creator:** Gerstep360  
+**Status:** Code available · Experimental  
+**Approach:** libsm64 running inside a 32-bit ASI plugin  
+
+A 32-bit ASI plugin for classic GTA: Vice City (PC 1.0) that uses libsm64 to run Mario's original physics, animations and model, with Vice City map and vehicle collisions, entering and driving vehicles, GTA weapon and damage integration, a death and hospital transition and an SM64-style HUD. The README (Spanish) states it needs no emulator. No release or licence is published.
+
+**Requirements:** Classic GTA: Vice City PC 1.0 with an ASI loader; the README does not state the ROM requirement in the part read.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Gerstep360/sm64-vc-native)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-gta-sa-minecraft-muki01"></a>
+
+### GTA SA Minecraft (muki01)
+
+**Guest:** Minecraft  
+**Host:** Grand Theft Auto: San Andreas  
+**Creator:** muki01  
+**Status:** Released · Code available · Experimental  
+**Approach:** C++ ASI plugin reimplementing Minecraft mechanics inside GTA: San Andreas  
+
+An in-development ASI plugin for GTA: San Andreas 1.0 US that lets you mine, place and craft blocks in Los Santos, fight Creepers and the Warden, blow holes in the map with TNT and drive with a hotbar. It is a separate codebase from the other GTA and Minecraft entries.
+
+**Requirements:** GTA: San Andreas 1.0 US with an ASI loader.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/muki01/GTA-SA-Minecraft)
+- [Release / download](https://github.com/muki01/GTA-SA-Minecraft/releases)
+
+**Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-minecraft-beamng"></a>
+
+### Minecraft × BeamNG.drive
+
+**Guest:** BeamNG.drive  
+**Host:** Minecraft: Java Edition  
+**Creator:** JASGENIUS  
+**Status:** Code available · Experimental  
+**Approach:** Two-process bridge: BeamNG physics drives a Minecraft-rendered car; Minecraft blocks feed BeamNG terrain  
+
+BeamNG.drive runs car physics, engine, tyres and damage in the background while Minecraft (Fabric) draws the car's model bent to match BeamNG's soft-body nodes, and Minecraft blocks become solid ground in BeamNG. A reverse mode puts Steve into a BeamNG map where cars can be driven or blown up with TNT. It is run from a repository clone with play.bat; there are no tagged releases.
+
+**Requirements:** Windows 10/11, BeamNG.drive (tested 0.39.4), Minecraft Java 1.21.1 with Fabric, Java 21, and a GPU able to run both games.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/JASGENIUS/minecraft-beamng)
+- [crossover-modder (creator's companion playbook)](https://github.com/JASGENIUS/crossover-modder)
+
+**Dated source review:** 2026-10-25
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

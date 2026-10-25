@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-24",
-    "head_sha": "fd88343c4c89920dcfdb0fd5119d1968b0c92283",
-    "project_count": 182,
+    "verified_at": "2026-10-25",
+    "head_sha": "4e583a9a13e04c3d1f0df79d8662d5a76ba2d1cc",
+    "project_count": 190,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-24 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of GitHub-linked entries (no new releases) + 12 deep rechecks (ultrakill64 and ultrakill-in-ultrakill dropped 'released': no releases, only committed binaries) + discovery (~17 searches; +6 new: sm64-roblox (adjacent), tes64, mario-64-survivor, botwcraft, minecraft-death-stranding, quakecraft). head_sha is the parent commit. 4 records in unreachable_from_routine (unchanged). No play-tests."
+    "scope": "Run 2026-10-25: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 136 GitHub-linked entries (no new releases) + 12 deep rechecks (classic64 gained macOS; just-doom-it Workshop date corrected) + discovery (~35 searches plus GitHub repo searches; +8 new: twilight-souls, mta-gb, mariosouls, libratchet-skyrim, muck64, sm64-vc-native, gta-sa-minecraft-muki01, minecraft-beamng). head_sha is the parent commit. 4 records in unreachable_from_routine (retro-handheld-emulator, doom-in-balatro, ultracraft, mario64-in-minecraft). No play-tests."
   },
   "deferred_candidates": [
     {
@@ -412,6 +412,30 @@
       "url": "https://github.com/patodois/minecraft-link",
       "why": "Protocol client mod with releases from 2026-10-24 but no documented game pair; adjacent at most",
       "date": "2026-10-24"
+    },
+    {
+      "name": "NanoBunTV/Minecraft-Retro64-Plus",
+      "url": "https://github.com/NanoBunTV/Minecraft-Retro64-Plus",
+      "why": "Rewrite/successor of listed retro64 (v1.0.0, 2026-10-17, no LICENSE, Modrinth download unfetched); candidate note on retro64 rather than a new entry",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "DrexHD/NotEnoughMinecraft",
+      "url": "https://github.com/DrexHD/NotEnoughMinecraft",
+      "why": "MIT, server-side Minecraft-in-Minecraft rendering; release dates not verified (Modrinth unread, repo last updated 2026-01), not an October find; verify Modrinth dates before adding",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "FrsrG/InitialDPassthrough",
+      "url": "https://github.com/FrsrG/InitialDPassthrough",
+      "why": "Stub repo (one-line README, no licence, no tags, 2026-10-06); watchlist at most",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "speti4/doom-pane, takosasi-dev/doom-hell-pane, emirtuncer/doom-mod",
+      "url": "https://github.com/speti4/doom-pane",
+      "why": "Doom in a Claude Code pane (October 2026); host is a terminal tool, same bucket as claude-doom",
+      "date": "2026-10-25"
     }
   ],
   "structural_upgrade": {
@@ -480,22 +504,22 @@
     {
       "id": "retro-handheld-emulator",
       "host": "builtbybit.com",
-      "date": "2026-10-20"
+      "date": "2026-10-25"
     },
     {
       "id": "doom-in-balatro",
       "host": "reddit.com / github.com (creator UwUDev)",
-      "date": "2026-10-17"
+      "date": "2026-10-25"
     },
     {
       "id": "ultracraft",
       "host": "github.com (alfr0762/ultracraft)",
-      "date": "2026-10-20"
+      "date": "2026-10-25"
     },
     {
-      "id": "crash-bandicoot-remake",
-      "host": "curseforge.com (cfwidget returned HTML)",
-      "date": "2026-10-22"
+      "id": "mario64-in-minecraft",
+      "host": "github.com (Zckyy)",
+      "date": "2026-10-25"
     }
   ]
 }
