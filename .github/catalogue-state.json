@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-26",
-    "head_sha": "3029d654dfd458bb7b9df8f1a717a8e71e1ca695",
-    "project_count": 196,
+    "head_sha": "133fb64a439b2e960384af81dfca2cf4da2a270f",
+    "project_count": 197,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-26: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 149 GitHub-linked repos (only FortressCraft 0.6.0 changed; DaffyDabz, ultracraft, mario64-in-minecraft still gone) + 12 deep rechecks (11 GitHub/API records re-read, hellgate-doom-portal unreachable via cfwidget) + discovery (~10 searches, no new qualifying projects; Steve Passthrough deferred). head_sha is the parent commit. 6 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-10-26 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 149 GitHub-linked repos (no tag changes; 4 repos still private/gone: skate3-gmod, bo2-minecraft-zombies, ultracraft, mario64-in-minecraft) + 12 deep rechecks (all GitHub-sourced, all re-read) + tag check of 52 deferred leads + discovery (~20 searches; 1 new: bannerlord-minecraft-passthrough; 4 leads deferred). head_sha is the parent commit. 6 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -483,6 +483,30 @@
       "name": "Minecraft Steve Passthrough [Enhanced] (utku67)",
       "url": "https://gta5mod.net/?p=285941",
       "why": "Found 2026-10-26: only a repost page and a gta5-mods.com listing (v1.4) read via search snippets; no repo/licence; overlaps minecraft-gta-v",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "aubuliOFFICIAL/skycraft-classic-le",
+      "url": "https://github.com/aubuliOFFICIAL/skycraft-classic-le",
+      "why": "MIT, no tags; README says unfinished source-review prototype (Skyrim 1.9.32 + Minecraft 26.3), no playable release",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "scringleflump/Skycraft-item-drops",
+      "url": "https://github.com/scringleflump/Skycraft-item-drops",
+      "why": "Loot add-on for SkyCraft; no LICENSE, no tags; at most a note on skycraft",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "ResistingGuide4/Snaptic_SM64",
+      "url": "https://github.com/ResistingGuide4/Snaptic_SM64",
+      "why": "MIT, tags v0.1.0/v0.1.1; SM64 level content in the Snaptic demo, no Mario runtime; adjacent at most",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "patodois/rewrite-bridge and link-java",
+      "url": "https://github.com/patodois/rewrite-bridge",
+      "why": "Protocol framework; host plugins not published; watchlist until a game pair ships (see minecraft-link)",
       "date": "2026-10-26"
     }
   ],

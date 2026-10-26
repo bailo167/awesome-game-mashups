@@ -2,6 +2,7 @@
 
 Week ending 2026-10-26. These are additions to the index, not necessarily new releases.
 
+- **[Bannerlord x Minecraft Passthrough](https://github.com/bailo167/awesome-game-mashups#project-bannerlord-minecraft-passthrough)** — Puts Minecraft's Steve into Mount & Blade II: Bannerlord battles, with Minecraft combat, blocks and inventory running side by side. (Released · Code available)
 - **[Twilight Souls](https://github.com/bailo167/awesome-game-mashups#project-twilight-souls)** — Total conversion that rebuilds Dark Souls' world, stats and bonfires inside The Legend of Zelda: Twilight Princess so you play as Link in Lordran. (Released · Experimental)
 - **[SM64 Vice City Native](https://github.com/bailo167/awesome-game-mashups#project-sm64-vc-native)** — ASI plugin that runs Mario's Super Mario 64 physics inside classic GTA: Vice City via libsm64. (Code available · Experimental)
 - **[PalCraft (Minecraft in Palworld)](https://github.com/bailo167/awesome-game-mashups#project-palcraft)** — Runs Minecraft: Java Edition beside Palworld so you play Palworld as Steve with Minecraft movement, building and combat. (Code available · Experimental)

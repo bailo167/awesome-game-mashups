@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**196 entries:** 175 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**197 entries:** 176 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native) · [PalCraft (Minecraft in Palworld)](#project-palcraft) · [Muck 64](#project-muck64) · [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) · [MineSkate 3 (Skate 3 in Minecraft)](#project-mineskate3) · [Minepunk (Minecraft in Cyberpunk 2077)](#project-minepunk) · [Minecraft × BeamNG.drive](#project-minecraft-beamng)
+[Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) · [Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native) · [PalCraft (Minecraft in Palworld)](#project-palcraft) · [Muck 64](#project-muck64) · [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) · [MineSkate 3 (Skate 3 in Minecraft)](#project-mineskate3) · [Minepunk (Minecraft in Cyberpunk 2077)](#project-minepunk)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -54,6 +54,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 |---|---|---|---|
 | [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) | Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world. | Released · Code available | — |
 | [Arcade Mod Reloaded](#project-arcade-mod-reloaded) | Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. | Released · Code available | — |
+| [Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) | Puts Minecraft's Steve into Mount & Blade II: Bannerlord battles, with Minecraft combat, blocks and inventory running side by side. | Released · Code available | — |
 | [Bethception - Unified Gaming Framework](#project-bethception) | Plays Fallout 1, 2 and 3 and several Elder Scrolls games on Fallout 4's Pip-Boy. | Released | — |
 | [BlockBoy / BlockBoy Arcade](#project-blockboy) | Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. | Released · Code available | — |
 | [BlockBreach](#project-blockbreach) | Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game. | Released · Code available · Experimental | — |
@@ -891,7 +892,7 @@ Runs a fully featured second Minecraft instance on an in-world display and forwa
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/project-inception)
 - [Creator profile](https://github.com/Arc-blroth)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -944,7 +945,7 @@ A framework for writing one minigame that runs across Minecraft and Hytale with 
 - [Project page](https://hytale2mc.com/)
 - [Creator profile](https://github.com/alskea)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -990,7 +991,7 @@ Creator footage shows Minecraft and Hytale clients sharing one Hytale-hosted wor
 - [Supporting source](https://www.gamesradar.com/games/rpg/hytale-gets-crossplay-with-minecraft-thanks-to-15-year-old-modder-presumably-channeling-some-form-of-black-magic/)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1148,7 +1149,7 @@ Recreates two Crash Bandicoot levels in Minecraft with custom gameplay mechanics
 **Status:** Released · Code available · Experimental  
 **Approach:** Minecraft Fabric mod + Valheim BepInEx plugin communicating through shared memory  
 
-Minecraft runs hidden and supplies movement, inventory, HUD, blocks and combat while Valheim supplies terrain, weather, creatures and dungeons. The bridge streams Valheim collision into Minecraft, renders Minecraft content in Valheim and carries combat and loot between both games.
+Minecraft runs hidden and supplies movement, inventory, HUD, blocks and combat while Valheim supplies terrain, weather, creatures and dungeons. The bridge streams Valheim collision into Minecraft, renders Minecraft content in Valheim and carries combat and loot between both games. The README now carries a 'Project paused' banner (short break until early November); the latest release still works as described.
 
 **Requirements:** Valheim on Steam, an owned Minecraft: Java Edition account, and roughly 3 GB of additional RAM for the Minecraft guest. The creator documents Gale/r2modman-style mod-manager setup and an optional guided installer.
 
@@ -1158,7 +1159,7 @@ Minecraft runs hidden and supplies movement, inventory, HUD, blocks and combat w
 - [Release / download](https://github.com/LoAlCo/ValCraft/releases/tag/v0.7.0)
 - [Creator profile](https://github.com/LoAlCo)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1213,7 +1214,7 @@ Minecraft remains responsible for simulating the Wither Storm while the bridge d
 - [Watch demo](https://www.youtube.com/watch?v=spm-u_cZvl8)
 - [Creator profile](https://github.com/VortexisTV)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1263,7 +1264,7 @@ A playable Vice City / Skate 3 mashup built from the open reVC/re3 lineage and t
 - [Release / download](https://github.com/irregularnetwork/GTA-Skate-3-Trilogy/releases/tag/1.1)
 - [Creator profile](https://github.com/irregularnetwork)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1289,7 +1290,7 @@ Minecraft runs hidden and supplies player physics, blocks, items, mobs, inventor
 - [Source code](https://github.com/SawyerTheNerd/Minecraft-X-HalfLife)
 - [Creator profile](https://github.com/SawyerTheNerd)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1343,7 +1344,7 @@ Pressing J drops the WoW character onto a skateboard using Skate 3's physics, wi
 - [Watch demo](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4)
 - [Creator profile](https://github.com/Kimmo3223)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1371,7 +1372,7 @@ An installer/launcher for a three-game mashup. Inside GTA San Andreas, F6 switch
 - [Watch demo](https://streamable.com/19fo55)
 - [Creator profile](https://github.com/Sm1jjj)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1401,7 +1402,7 @@ Creator footage shows Minecraft movement, combat, building and items operating t
 - [benilla upstream](https://github.com/samwhosung/benilla)
 - [Creator video: release and multiplayer download (2026-10-05)](https://www.youtube.com/watch?v=dKZN2nKc4bc)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1449,7 +1450,7 @@ Minecraft supplies the player physics, blocks, inventory and interactions while 
 - [Release / download](https://github.com/Yaekai/OWCraft/releases/tag/v0.1.1)
 - [Creator profile](https://github.com/Yaekai)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1527,11 +1528,11 @@ Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty 
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/mrborghini/libertycraft)
-- [Release / download](https://github.com/mrborghini/libertycraft/releases)
+- [Release / download](https://github.com/mrborghini/libertycraft/releases/tag/v0.1.8)
 - [Watch demo](https://www.youtube.com/watch?v=C1oCbMNOUqg)
 - [Creator profile](https://github.com/mrborghini)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5414,6 +5415,32 @@ Minecraft runs hidden next to Cyberpunk 2077 and keeps its own blocks, items, mo
 - [SkyCraft (upstream)](https://github.com/chasmlol/SkyCraft)
 
 **Dated source review:** 2026-10-25
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-bannerlord-minecraft-passthrough"></a>
+
+### Bannerlord x Minecraft Passthrough
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Mount & Blade II: Bannerlord  
+**Creator:** Emre Türksoy  
+**Status:** Released · Code available  
+**Approach:** Bannerlord C# module plus ReShade add-on and a Fabric mod on a shared-memory bridge  
+
+Minecraft Java runs next to Bannerlord and talks to it over shared memory. You play in Bannerlord's window while your input drives the real Minecraft player, Bannerlord is drawn from Minecraft's camera and Steve is depth-composited into the scene. Minecraft combat rules apply to Bannerlord soldiers, terrain is mirrored into Minecraft as barrier blocks, and Steve keeps a Minecraft inventory in the campaign save.
+
+**Requirements:** Windows 10/11, Steam Bannerlord, Minecraft: Java Edition 26.3 with the official launcher (Fabric Loader 0.19.5+, Java 25 mod); Install.bat sets up the module, ReShade and the Fabric profile.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/emretrksy/bannerlord-minecraft-passthrough)
+- [Release / download](https://github.com/emretrksy/bannerlord-minecraft-passthrough/releases)
+
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
