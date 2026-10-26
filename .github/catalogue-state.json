@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-25",
-    "head_sha": "aee1c5f8932d6a3c2c55005df6c516b27c63471d",
+    "verified_at": "2026-10-26",
+    "head_sha": "3029d654dfd458bb7b9df8f1a717a8e71e1ca695",
     "project_count": 196,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Second run 2026-10-25: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 143 GitHub-linked repos (RetroConsole v0.2.6 updated; DaffyDabz repos still gone) + 12 deep rechecks (11 re-read, bethception unreachable) + discovery (~30 searches plus aggregator diff; +6 new: palcraft, mineskate3, grovecraft, minecraft-in-gta3, minepunk, cybercraft-itzbloxy). head_sha is the parent commit. 5 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-10-26: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 149 GitHub-linked repos (only FortressCraft 0.6.0 changed; DaffyDabz, ultracraft, mario64-in-minecraft still gone) + 12 deep rechecks (11 GitHub/API records re-read, hellgate-doom-portal unreachable via cfwidget) + discovery (~10 searches, no new qualifying projects; Steve Passthrough deferred). head_sha is the parent commit. 6 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -478,6 +478,12 @@
       "url": "https://github.com/chasesfloorboard/skycraft-deck",
       "why": "Steam Deck installer for SkyCraft; adjacent at most; could be a note on SkyCraft (found 2026-10-25, not independently read beyond subagent report)",
       "date": "2026-10-25"
+    },
+    {
+      "name": "Minecraft Steve Passthrough [Enhanced] (utku67)",
+      "url": "https://gta5mod.net/?p=285941",
+      "why": "Found 2026-10-26: only a repost page and a gta5-mods.com listing (v1.4) read via search snippets; no repo/licence; overlaps minecraft-gta-v",
+      "date": "2026-10-26"
     }
   ],
   "structural_upgrade": {
@@ -567,6 +573,11 @@
       "id": "bethception",
       "host": "nexusmods.com (403)",
       "date": "2026-10-25"
+    },
+    {
+      "id": "hellgate-doom-portal",
+      "host": "api.cfwidget.com (non-JSON response)",
+      "date": "2026-10-26"
     }
   ]
 }

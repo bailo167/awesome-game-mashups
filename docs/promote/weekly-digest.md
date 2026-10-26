@@ -1,6 +1,6 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-25. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-26. These are additions to the index, not necessarily new releases.
 
 - **[Twilight Souls](https://github.com/bailo167/awesome-game-mashups#project-twilight-souls)** — Total conversion that rebuilds Dark Souls' world, stats and bonfires inside The Legend of Zelda: Twilight Princess so you play as Link in Lordran. (Released · Experimental)
 - **[SM64 Vice City Native](https://github.com/bailo167/awesome-game-mashups#project-sm64-vc-native)** — ASI plugin that runs Mario's Super Mario 64 physics inside classic GTA: Vice City via libsm64. (Code available · Experimental)
@@ -50,8 +50,3 @@ Week ending 2026-10-25. These are additions to the index, not necessarily new re
 - **[Granny Minecraft Passthrough](https://github.com/bailo167/awesome-game-mashups#project-granny-minecraft-passthrough)** — Runs real Minecraft Java alongside Granny Legacy and blends it into Granny's house. (Code available · Experimental)
 - **[Fallout: PipBoy Edition](https://github.com/bailo167/awesome-game-mashups#project-fallout-pipboy-edition)** — Plays Fallout 1 inside Fallout 4's Pip-Boy and terminals. (Released)
 - **[Bethception - Unified Gaming Framework](https://github.com/bailo167/awesome-game-mashups#project-bethception)** — Plays Fallout 1, 2 and 3 and several Elder Scrolls games on Fallout 4's Pip-Boy. (Released)
-- **[VEmu](https://github.com/bailo167/awesome-game-mashups#project-vemu)** — Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. (Released · Code available)
-- **[SBCraft](https://github.com/bailo167/awesome-game-mashups#project-sbcraft)** — Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game. (Released · Code available · Experimental)
-- **[Gorilla Passthrough (Gorilla Tag x Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-gorilla-passthrough)** — Plays Gorilla Tag in VR as a gorilla inside a real running Minecraft world. (Released · Code available · Experimental)
-- **[BlockBreach](https://github.com/bailo167/awesome-game-mashups#project-blockbreach)** — Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game. (Released · Code available · Experimental)
-- **[BlockBoy / BlockBoy Arcade](https://github.com/bailo167/awesome-game-mashups#project-blockboy)** — Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. (Released · Code available)

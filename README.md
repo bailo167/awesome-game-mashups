@@ -8,7 +8,7 @@
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-25. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-26. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -423,7 +423,7 @@ Minecraft clients can connect to a Hytale server without a client mod. HyCraft c
 - [Release / download](https://github.com/EdwardBelt/HyCraft/releases/tag/v1.1.4)
 - [Creator profile](https://github.com/EdwardBelt)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -448,7 +448,7 @@ Turns ULTRAKILL's diegetic shop terminals into playable DOOM instances. A legiti
 - [Watch demo](https://www.youtube.com/watch?v=Y7zpELS2QfQ)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -500,7 +500,7 @@ Runs classic DOOM inside Minecraft with controls and sound support. The project 
 - [Release / download](https://modrinth.com/mod/nucledoom)
 - [Creator profile](https://github.com/Patbox)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -527,7 +527,7 @@ A historically important technical precursor: Wasmcraft compiles WebAssembly pro
 - [Watch demo](https://www.youtube.com/watch?v=wCHB1UgwM9o)
 - [Creator profile](https://github.com/SuperTails)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -863,7 +863,7 @@ Portal-themed Zombies map using Portal textures, models and teleporters; not a f
 
 - [Release / download](https://steamcommunity.com/sharedfiles/filedetails/?id=856630622)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1185,7 +1185,7 @@ CJ can switch into Skate 3-style skating on San Andreas streets, using Skate 3 c
 - [Release / download](https://github.com/ryglizzy/GTA-San-AnSkateas/releases/tag/v1.2)
 - [Creator profile](https://github.com/ryglizzy)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1924,7 +1924,7 @@ A native GTA V mod adds a Minecraft hotbar and creative inventory, hundreds of b
 - [Release / download](https://github.com/cyteon/GrandTheftMinecraft/releases/tag/v1.5.1)
 - [Creator profile](https://github.com/cyteon)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3159,18 +3159,18 @@ A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry'
 **Status:** Released · Code available · Experimental  
 **Approach:** Minecraft Fabric mod + Source SDK 2013 TF2 bridge exchanging state over a shared-memory protocol  
 
-A two-process passthrough in which Minecraft draws the world and owns its blocks, mobs, dimensions and saves, while a locally built Team Fortress 2 bridge supplies the player, classes, weapons, projectiles, Engineer buildings, menus and HUD. The creator documents mob targeting, block breaking and explosions, and lists known gaps such as Medic healing against Minecraft mobs. It is a source preview built from the Source SDK, not a one-click installer.
+A two-process passthrough in which Minecraft draws the world and owns its blocks, mobs, dimensions and saves, while a locally built Team Fortress 2 bridge supplies the player, classes, weapons, projectiles, Engineer buildings, menus and HUD. The creator documents mob targeting, block breaking and explosions, and lists known gaps such as Medic healing against Minecraft mobs. Release 0.6.0 (22 Oct 2026) adds a Mann vs. Machine "Ghost Town" dimension reached by a portal, with wave-based robot fights that need a separately downloaded third-party map (Coal Town); the notes mention one unexplained TF2 crash. It is a source preview built from the Source SDK, not a one-click installer.
 
 **Requirements:** Windows 10/11 or Linux (Linux is new and less tested), Team Fortress 2 and Source SDK Base 2013 Multiplayer on Steam, Minecraft Java Edition 26.3 with Fabric Loader 0.19.5. Setup scripts clone Valve's Source SDK 2013, apply the repository's patch and build locally (Git, JDK and a C++ toolchain); ready-made zips per OS are on the Releases page. Single-player/offline only; no game files are included.
 
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/VVRLD/FortressCraft)
-- [Release / download](https://github.com/VVRLD/FortressCraft/releases/tag/v0.5.9)
+- [Release / download](https://github.com/VVRLD/FortressCraft/releases)
 - [Creator profile](https://github.com/VVRLD)
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3827,7 +3827,7 @@ A Fabric mod for Minecraft Java Edition that reads DOOM's WAD and rebuilds its m
 - [Creator profile](https://github.com/pragyaangaur)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4219,7 +4219,7 @@ Real Granny Legacy and Minecraft Java Edition run at the same time and Minecraft
 - [Release / download](https://github.com/cabcrab/Granny-Minecraft-Passthrough/releases)
 - [Creator profile](https://github.com/cabcrab)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4246,7 +4246,7 @@ A reverse-direction passthrough: Minecraft is the host world while ULTRAKILL run
 - [Release / download](https://github.com/xandermodsstuff-dot/ultrakill-minecraft/releases)
 - [Creator profile](https://github.com/xandermodsstuff-dot)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4273,7 +4273,7 @@ A Windows experimental mod where Minecraft 1.20.1 (Fabric or standalone Forge) h
 - [Release / download](https://github.com/Xu060113/SekiroCraft-Passthrough/releases)
 - [Creator profile](https://github.com/Xu060113)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-26
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
