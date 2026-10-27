@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-27",
-    "head_sha": "2e3993a705adcea27aa03ebbb8a225e1f716a817",
-    "project_count": 201,
+    "head_sha": "5f26a01ab764eb092e98d1713648402147813780",
+    "project_count": 202,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-27: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 150 GitHub-linked repos (1 release update: warcraft-cs v0.13.0; 4 repos still private/gone) + 13 deep rechecks (6 GitHub-sourced, 7 via Nexus/Steam/YouTube/X APIs; black-ops-ii-hijacked-minecraft unreadable and not stamped) + recheck of 14 deferred leads + discovery (~34 searches; 4 new). head_sha is the parent commit. 6 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-10-27 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 154 GitHub-linked repos (no release changes; 4 repos still private/gone) + 14 deep rechecks (GitHub, Modrinth, Steam, Nexus, GameBanana, Reforger; hellgate-doom-portal unreadable and not stamped) + deferred-lead rechecks + discovery (~20 searches plus GitHub repo searches; 1 new: retrocraft). head_sha is the parent commit. 7 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -32,7 +32,7 @@
     {
       "name": "Cyberblock (Minecraft in Cyberpunk 2077, rodthegod2)",
       "url": "https://github.com/rodthegod2/cyberblock",
-      "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk",
+      "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk; rechecked 2026-10-27: README says passthrough layer verified in game, 786 commits, still no tag/release or in-game footage",
       "date": "2026-10-13"
     },
     {
@@ -502,6 +502,24 @@
       "url": "https://www.videogameschronicle.com/news/modder-releases-super-mario-odyssey-recreated-in-mario-64/",
       "why": "Press only; probably a ROM-hack-style recreation, adjacent at most",
       "date": "2026-10-27"
+    },
+    {
+      "name": "ApprenticeChaos/ViceAbyss (Vice City passthrough in Subnautica 2)",
+      "url": "https://github.com/ApprenticeChaos/ViceAbyss",
+      "why": "Created 2026-10-27, one commit, README is one line; no licence, tags or releases; recheck for an implementation",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "NintenSynth (SM64 to Roblox via wasynth)",
+      "url": "https://github.com/sonicthehedghehog56-sys/NintenSynth",
+      "why": "Created 2026-10-21, early development, no licence/tag/release; overlaps sm64-roblox",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "67god6769/MinecraftInsideRocketLeague",
+      "url": "https://github.com/67god6769/MinecraftInsideRocketLeague",
+      "why": "Stub repo, no README/licence/tags",
+      "date": "2026-10-27"
     }
   ],
   "structural_upgrade": {
@@ -599,8 +617,8 @@
     },
     {
       "id": "hellgate-doom-portal",
-      "host": "api.cfwidget.com (non-JSON response)",
-      "date": "2026-10-26"
+      "host": "api.cfwidget.com (404 on two attempts 2026-10-27)",
+      "date": "2026-10-27"
     }
   ]
 }

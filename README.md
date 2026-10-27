@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**201 entries:** 180 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**202 entries:** 181 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) · [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) · [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft) · [Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) · [Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native) · [PalCraft (Minecraft in Palworld)](#project-palcraft)
+[VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) · [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) · [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft) · [Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) · [Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -146,6 +146,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Experimental | — |
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
 | [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) | A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. | Released · Code available · Experimental | — |
+| [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) | A Fabric mod that adds handhelds, home consoles, arcade cabinets and CRT televisions to Minecraft 1.21.1, each backed by a real libretro emulator core. | Released · Code available · Experimental | — |
 | [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) | A lineage of in-game console emulators for Garry's Mod, from GNES (2016) to the RetroArch-based Retromod 2.0. | Released | — |
 | [SBCraft](#project-sbcraft) | Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game. | Released · Code available · Experimental | — |
 | [Schedule I Doom TV](#project-schedule-i-doom-tv) | Plays DOOM on the in-game televisions in Schedule I. | Released · Code available | — |
@@ -827,7 +828,7 @@ No matching public source/release verified as of 2026-10-01.
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2011,7 +2012,7 @@ A Resident Evil Requiem plugin, removed from Nexus Mods by staff as of 2026-10-0
 
 - [Release / download](https://www.nexusmods.com/residentevilrequiem/mods/3087)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2544,7 +2545,7 @@ Skyth's mod runs Super Mario 64's decompiled movement through libsm64 in Sonic G
 
 - [Release / download](https://gamebanana.com/mods/368411)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2942,7 +2943,7 @@ ckosmic built a series of Garry's Mod addons for playing retro console games on 
 - [GEMU by ckosmic (2017, historical)](https://steamcommunity.com/sharedfiles/filedetails/?id=945777403)
 - [Retromod 1.0 (2018, deprecated)](https://steamcommunity.com/sharedfiles/filedetails/?id=1457560331)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3023,7 +3024,7 @@ A Forge mod that uses Minecraft as a platform for emulators: GBA cartridges foun
 
 - [Release / download](https://modrinth.com/mod/juni-emu)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3048,7 +3049,7 @@ An Arma Reforger mod that adds an in-world arcade cabinet running an original so
 - [Release / download](https://reforger.armaplatform.com/workshop/444F4F4D54455354-DOOMTEST)
 - [Source (ARMA_RETROFORGER)](https://github.com/josharghhh/ARMA_RETROFORGER)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4387,7 +4388,7 @@ A Skyrim SE/AE SKSE plugin bridging a modified Chocolate Doom runtime: seven DOO
 - [Release / download](https://github.com/Caffs/SkyDoom/releases/tag/v0.1.0-beta)
 - [Creator profile](https://github.com/Caffs)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4415,7 +4416,7 @@ A SkyCraft-derived bridge in which Garry's Mod and Minecraft Java run at once an
 - [Creator profile](https://github.com/cheetahdotcat)
 - [Derived from SkyCraft fork (hawktuahs)](https://github.com/hawktuahs/SkycraftFork)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4442,7 +4443,7 @@ A Dying Light plugin that launches Garry's Mod hidden at the menu and hooks Dyin
 - [Release / download](https://github.com/GooseMcGee/DyingLight-GMod/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/GooseMcGee)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4469,7 +4470,7 @@ Minecraft chunk meshes, entity models, particles, sky and held items stream over
 - [Release / download](https://github.com/ShadowBlade83/HalfLife2Minecraft/releases/tag/v1.7.5)
 - [Creator profile](https://github.com/ShadowBlade83)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4496,7 +4497,7 @@ A sm64coopdx mod that drives Super Mario 64 with the Rust Skate 3 engine re-impl
 - [Creator profile](https://github.com/SAitken91)
 - [Skate 3 Rust engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4524,7 +4525,7 @@ A pair of mods that bridge two games running at the same time: a "Satisfactory T
 - [Project page](https://mods.factorio.com/mod/TransferToSatisfactory)
 - [Demo video](https://www.youtube.com/watch?v=CzhwXyWXVRw)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4550,7 +4551,7 @@ A BepInEx mod that places an in-world Game Boy console in R.E.P.O. The player su
 - [Source code](https://github.com/Omniscye/Empress_Gameboy_Emulator)
 - [Release / download](https://thunderstore.io/c/repo/p/Omniscye/Empress_Gameboy_Emulator/)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4577,7 +4578,7 @@ A MelonLoader mod that adds a Game Boy to The Long Dark's inventory. Equipping i
 - [Release / download](https://github.com/Lzc4/CabinBoy/releases)
 - [UnityGB (core upstream)](https://github.com/Inkdrop/UnityGB)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5556,6 +5557,33 @@ Minecraft renders the world and both VR eyes while a background, non-VR Gorilla 
 - [Creator profile](https://github.com/easyax2)
 - [SkyCraft (design basis)](https://github.com/chasmlol/SkyCraft)
 - [Gorilla Passthrough (reverse direction)](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough)
+
+**Dated source review:** 2026-10-27
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-retrocraft"></a>
+
+### Retrocraft (libretro consoles in Minecraft)
+
+**Guest:** libretro-emulated console and arcade games (NES to Wii, MAME)  
+**Host:** Minecraft: Java Edition (Fabric)  
+**Creator:** Sammwy  
+**Status:** Released · Code available · Experimental  
+**Approach:** Fabric mod running libretro cores with hybrid server/client emulation, rendering to in-world screens  
+
+Players insert cartridges or discs and play on in-world handhelds, TVs and arcade cabinets, alone or with friends gathered around a screen. The README lists NES, SNES, Game Boy/Color, GBA, DS, 3DS, PSP, Mega Drive, N64, PlayStation, PS2, Dreamcast, GameCube, Wii and MAME arcade, uses hybrid server/client emulation for multiplayer, and downloads cores on demand from the official libretro buildbot. It states that no ROMs, BIOS files or cores ship with the mod, so users supply their own.
+
+**Requirements:** Minecraft Java 1.21.1 with Fabric and Java 21; the user supplies ROMs and, for some systems (PS1, PS2, Dreamcast, GameCube/Wii, some arcade sets), BIOS files; libretro cores are downloaded on demand.
+
+**Platforms documented:** Windows, Linux, macOS
+
+- [Source code](https://github.com/sammwyy/retrocraft)
+- [Release / download](https://github.com/sammwyy/retrocraft/releases)
+- [Creator profile](https://github.com/sammwyy)
 
 **Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
