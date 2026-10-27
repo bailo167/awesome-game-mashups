@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-26",
-    "head_sha": "133fb64a439b2e960384af81dfca2cf4da2a270f",
-    "project_count": 197,
+    "verified_at": "2026-10-27",
+    "head_sha": "2e3993a705adcea27aa03ebbb8a225e1f716a817",
+    "project_count": 201,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-26 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 149 GitHub-linked repos (no tag changes; 4 repos still private/gone: skate3-gmod, bo2-minecraft-zombies, ultracraft, mario64-in-minecraft) + 12 deep rechecks (all GitHub-sourced, all re-read) + tag check of 52 deferred leads + discovery (~20 searches; 1 new: bannerlord-minecraft-passthrough; 4 leads deferred). head_sha is the parent commit. 6 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-10-27: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 150 GitHub-linked repos (1 release update: warcraft-cs v0.13.0; 4 repos still private/gone) + 13 deep rechecks (6 GitHub-sourced, 7 via Nexus/Steam/YouTube/X APIs; black-ops-ii-hijacked-minecraft unreadable and not stamped) + recheck of 14 deferred leads + discovery (~34 searches; 4 new). head_sha is the parent commit. 6 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -360,18 +360,6 @@
       "date": "2026-10-24"
     },
     {
-      "name": "easyax2/gorillacraft (Gorilla Tag locomotion in VR Minecraft)",
-      "url": "https://github.com/easyax2/gorillacraft",
-      "why": "MIT, pre-releases only (v0.10.18, 2026-10-17); reverse of gorilla-passthrough, VR-specific; Gorilla Tag features not in yet",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "ShadowBlade83/Left4Craft2 (Minecraft in Left 4 Dead 2)",
-      "url": "https://github.com/ShadowBlade83/Left4Craft2",
-      "why": "CC BY-NC 4.0, v1.7.5-l4d2.1 (2026-10-19); overlaps l4d2-minecraft; editorial call (second entry or extra link)",
-      "date": "2026-10-24"
-    },
-    {
       "name": "ecogamezz/WOWCraft-mac-intel-Edition",
       "url": "https://github.com/ecogamezz/WOWCraft-mac-intel-Edition",
       "why": "MIT macOS Intel port of wowcraft (v1.0, 2026-10-17); candidate extra_link on wowcraft",
@@ -456,18 +444,6 @@
       "date": "2026-10-25"
     },
     {
-      "name": "gta5craft/GtaCraft",
-      "url": "https://github.com/gta5craft/GtaCraft",
-      "why": "MIT, v0.1.3 (2026-10-13), overlaps GTA V Minecraft entries; same-host SkyCraft-lineage (found 2026-10-25, not independently read beyond subagent report)",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "benedettoscala/VegasCraft",
-      "url": "https://github.com/benedettoscala/VegasCraft",
-      "why": "MIT, 0.2.2; overlaps New VegasCraft (Davozh); could be extra link (found 2026-10-25, not independently read beyond subagent report)",
-      "date": "2026-10-25"
-    },
-    {
       "name": "franguchico/MineRing",
       "url": "https://github.com/franguchico/MineRing",
       "why": "MIT launcher/co-op installer for Minecraft in Elden Ring; overlaps Minecraft Ring and EldenCraft (found 2026-10-25, not independently read beyond subagent report)",
@@ -508,6 +484,24 @@
       "url": "https://github.com/patodois/rewrite-bridge",
       "why": "Protocol framework; host plugins not published; watchlist until a game pair ships (see minecraft-link)",
       "date": "2026-10-26"
+    },
+    {
+      "name": "franguchico/MineRing and Minecraft-X-Games (re-read 2026-10-27)",
+      "url": "https://github.com/franguchico/MineRing",
+      "why": "MineRing is a Windows launcher port of justbustin's minecraft-crossover-bridge (MIT, v0.2.1-v0.2.3); candidate extra_link only. Minecraft-X-Games now has 8 releases but no LICENSE",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "Minetale (Hytale in Minecraft)",
+      "url": "https://skinmc.net/project/minetale-hytale-in-minecraft",
+      "why": "Listing only; probably a themed conversion, adjacent at most",
+      "date": "2026-10-27"
+    },
+    {
+      "name": "Super Mario Odyssey recreated in Mario 64",
+      "url": "https://www.videogameschronicle.com/news/modder-releases-super-mario-odyssey-recreated-in-mario-64/",
+      "why": "Press only; probably a ROM-hack-style recreation, adjacent at most",
+      "date": "2026-10-27"
     }
   ],
   "structural_upgrade": {
@@ -597,6 +591,11 @@
       "id": "bethception",
       "host": "nexusmods.com (403)",
       "date": "2026-10-25"
+    },
+    {
+      "id": "black-ops-ii-hijacked-minecraft",
+      "host": "x.com via fxtwitter (post NOT_FOUND); luckeyfaraday/claude-of-duty repo 404",
+      "date": "2026-10-27"
     },
     {
       "id": "hellgate-doom-portal",

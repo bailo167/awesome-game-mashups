@@ -1,7 +1,11 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-26. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-27. These are additions to the index, not necessarily new releases.
 
+- **[VegasCraft (benedettoscala)](https://github.com/bailo167/awesome-game-mashups#project-vegascraft-benedettoscala)** — Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. (Released · Code available · Experimental)
+- **[Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](https://github.com/bailo167/awesome-game-mashups#project-left4craft2)** — Lets you play Left 4 Dead 2 as Steve, with Minecraft physics, HUD and blocks while L4D2 runs the world and infected. (Released · Code available · Experimental)
+- **[GtaCraft (GTA V x Minecraft, gta5craft)](https://github.com/bailo167/awesome-game-mashups#project-gtacraft-gta5craft)** — Connects GTA V Story Mode and Minecraft Java so you can switch between a Minecraft Overworld and a Minecraft mirror of Los Santos and drive on block terrain. (Released · Code available · Experimental)
+- **[GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-gorillacraft)** — Lets you play Minecraft in VR as a Gorilla Tag gorilla, with Gorilla Tag's arm-swing movement driven across Minecraft's blocks. (Code available · Experimental)
 - **[Bannerlord x Minecraft Passthrough](https://github.com/bailo167/awesome-game-mashups#project-bannerlord-minecraft-passthrough)** — Puts Minecraft's Steve into Mount & Blade II: Bannerlord battles, with Minecraft combat, blocks and inventory running side by side. (Released · Code available)
 - **[Twilight Souls](https://github.com/bailo167/awesome-game-mashups#project-twilight-souls)** — Total conversion that rebuilds Dark Souls' world, stats and bonfires inside The Legend of Zelda: Twilight Princess so you play as Link in Lordran. (Released · Experimental)
 - **[SM64 Vice City Native](https://github.com/bailo167/awesome-game-mashups#project-sm64-vc-native)** — ASI plugin that runs Mario's Super Mario 64 physics inside classic GTA: Vice City via libsm64. (Code available · Experimental)
@@ -45,9 +49,3 @@ Week ending 2026-10-26. These are additions to the index, not necessarily new re
 - **[FactorioToSatisfactory Challenge](https://github.com/bailo167/awesome-game-mashups#project-factorio-to-satisfactory)** — Transfers items live from a running Factorio game into a running Satisfactory game. (Released · Experimental)
 - **[Empress Gameboy Emulator](https://github.com/bailo167/awesome-game-mashups#project-empress-gameboy-repo)** — Adds a Game Boy cabinet to R.E.P.O. that runs your own ROMs inside the game, including multiplayer. (Released · Code available)
 - **[CabinBoy](https://github.com/bailo167/awesome-game-mashups#project-cabinboy-long-dark)** — Puts a working Game Boy emulator in The Long Dark as a handheld item that plays your own ROMs. (Released · Code available)
-- **[ULTRAKILL inside Minecraft](https://github.com/bailo167/awesome-game-mashups#project-ultrakill-minecraft)** — Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD. (Code available · Experimental)
-- **[Skyrim: PipBoy Edition](https://github.com/bailo167/awesome-game-mashups#project-skyrim-pipboy-edition)** — Plays Skyrim inside Fallout 4's Pip-Boy and terminals. (Released)
-- **[SekiroCraft-Passthrough](https://github.com/bailo167/awesome-game-mashups#project-sekirocraft-passthrough)** — Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes. (Code available · Experimental)
-- **[Granny Minecraft Passthrough](https://github.com/bailo167/awesome-game-mashups#project-granny-minecraft-passthrough)** — Runs real Minecraft Java alongside Granny Legacy and blends it into Granny's house. (Code available · Experimental)
-- **[Fallout: PipBoy Edition](https://github.com/bailo167/awesome-game-mashups#project-fallout-pipboy-edition)** — Plays Fallout 1 inside Fallout 4's Pip-Boy and terminals. (Released)
-- **[Bethception - Unified Gaming Framework](https://github.com/bailo167/awesome-game-mashups#project-bethception)** — Plays Fallout 1, 2 and 3 and several Elder Scrolls games on Fallout 4's Pip-Boy. (Released)

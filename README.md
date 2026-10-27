@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**197 entries:** 176 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**201 entries:** 180 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-26. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-27. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) · [Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native) · [PalCraft (Minecraft in Palworld)](#project-palcraft) · [Muck 64](#project-muck64) · [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) · [MineSkate 3 (Skate 3 in Minecraft)](#project-mineskate3) · [Minepunk (Minecraft in Cyberpunk 2077)](#project-minepunk)
+[VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) · [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) · [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft) · [Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) · [Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native) · [PalCraft (Minecraft in Palworld)](#project-palcraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -100,6 +100,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [GTA SA Minecraft (muki01)](#project-gta-sa-minecraft-muki01) | C++ ASI plugin that adds Minecraft block building, crafting and mobs to GTA: San Andreas. | Released · Code available · Experimental | — |
 | [GTA San AnSkateas](#project-gta-san-anskateas) | Runs Skate 3 skating, tricks and physics on GTA San Andreas streets and collision. | Released · Code available · Experimental | — |
 | [GTA Skate 3 Trilogy](#project-gta-skate-3-trilogy) | Combines a Vice City rewrite with Skate 3's skating runtime. | Released · Code available · Experimental | — |
+| [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) | Connects GTA V Story Mode and Minecraft Java so you can switch between a Minecraft Overworld and a Minecraft mirror of Los Santos and drive on block terrain. | Released · Code available · Experimental | — |
 | [gzdoom-sm64 — Mario in Doom](#project-gzdoom-sm64) | Replaces the Doom player with Super Mario 64's Mario inside the GZDoom engine. | Released · Code available · Experimental | — |
 | [Halfcraft (Minecraft in Half Sword)](#project-halfcraft) | Puts real Minecraft blocks, mobs and combat into Half Sword's arenas. | Released · Code available · Experimental | — |
 | [HalfCraft (Minecraft in Half-Life 2, whiskydumb)](#project-halfcraft-whiskydumb) | Runs real Minecraft hidden over shared memory inside Half-Life 2 / Episodes via a Source SDK 2013 mod. | Released · Code available · Experimental | — |
@@ -113,6 +114,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
 | [L4D2 x Minecraft](#project-l4d2-minecraft) | Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
+| [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) | Lets you play Left 4 Dead 2 as Steve, with Minecraft physics, HUD and blocks while L4D2 runs the world and infected. | Released · Code available · Experimental | — |
 | [LethalCraft](#project-lethalcraft) | Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. | Released · Code available · Experimental | — |
 | [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) | A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. | Released | — |
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
@@ -168,6 +170,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Twilight Souls](#project-twilight-souls) | Total conversion that rebuilds Dark Souls' world, stats and bonfires inside The Legend of Zelda: Twilight Princess so you play as Link in Lordran. | Released · Experimental | — |
 | [UltraDoom / UltrakillDoom](#project-ultradoom) | Lets you play DOOM on the shop terminals inside ULTRAKILL. | Released · Code available | [Watch](https://www.youtube.com/watch?v=Y7zpELS2QfQ) |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
+| [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) | Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. | Released · Code available · Experimental | — |
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
 | [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
 | [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) | Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. | Released · Code available | — |
@@ -189,6 +192,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
 | [fnv-libsm64](#project-fnv-libsm64) | Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. | Code available · Experimental | — |
+| [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft) | Lets you play Minecraft in VR as a Gorilla Tag gorilla, with Gorilla Tag's arm-swing movement driven across Minecraft's blocks. | Code available · Experimental | — |
 | [Granny Minecraft Passthrough](#project-granny-minecraft-passthrough) | Runs real Minecraft Java alongside Granny Legacy and blends it into Granny's house. | Code available · Experimental | — |
 | [GTA Trilogy Multiverse Portals](#project-gta-trilogy-multiverse) | Runs GTA III, Vice City and San Andreas simultaneously with live portals between them. | In development · Video only | [Watch](https://www.youtube.com/watch?v=fpsq2MyWznc) |
 | [HalfCraft (Minecraft in Half-Life)](#project-halfcraft-half-life) | Bridges a real Minecraft Java instance into Half-Life's Black Mesa campaign through shared memory; source only, no release. | Code available · Experimental | — |
@@ -752,7 +756,7 @@ Primary creator footage demonstrates Minecraft Classic rendered inside Hytale's 
 - [Creator post](https://x.com/iamcxv711/status/2012610249174536397)
 - [Supporting source](https://www.pcgamer.com/hardware/doom-windows-95-even-hytale-itself-it-seems-like-theres-nothing-that-modders-cant-make-hytale-run/)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -803,7 +807,7 @@ Minecraft Java runs beside GTA V rather than being reimplemented. GTA drives Min
 - [Packaged GTA V Enhanced derivative](https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough)
 - [LowBacon GTA V passthrough variant (MIT, source only)](https://github.com/LowBacon/minecraft-gta5-passthrough)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1423,7 +1427,7 @@ Creator footage shows CS:GO-style weapons, shooting and movement inside Project 
 
 - [Watch demo](https://www.youtube.com/watch?v=n2fEHpLJUNk)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1658,7 +1662,7 @@ DryxioGTA's creator demo shows GTA III, Vice City and San Andreas running simult
 - [GTA Vice City running in a GTA III texture in a GTA SA texture (video)](https://www.youtube.com/watch?v=X_w6fo4KVy0)
 - [Play Vice City and GTA 3 inside San Andreas (video)](https://www.youtube.com/watch?v=bJhmdD5mFMw)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2061,7 +2065,7 @@ A downloadable My Winter Car mod that launches Freedoom on the game's programmab
 - [Freedoom](https://freedoom.github.io/)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2169,7 +2173,7 @@ An ASI plugin and Fabric mod pair that runs Minecraft Java next to GTA IV and re
 - [Release / download](https://www.nexusmods.com/gta4/mods/1498)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2351,7 +2355,7 @@ An X video posted on 30 Sep 2026 ('I put Tarkov into Skyrim. Now with guns and e
 
 - [Creator post](https://x.com/cydonix/status/2105177318968955044)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2488,7 +2492,7 @@ gmDoom is a partial source port of DOOM for Garry's Mod that reads a user's IWAD
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=145310679)
 - [gmDoom Maps source (Jcw87)](https://github.com/Jcw87/gmod-doom-maps)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3773,7 +3777,7 @@ A submission (issue #5) and the creator video describe the open-source Rust fait
 - [Watch demo](https://www.youtube.com/watch?v=I2PfYtFe1bY)
 - [Upstream faith-runner (movement core)](https://github.com/tnrjns/faith-runner)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3852,7 +3856,7 @@ Glenny's YouTube videos show Skyrim-style shouts (Unrelenting Force, Whirlwind S
 - [Aura Whisper shout (video)](https://www.youtube.com/watch?v=vhqNBWJz-pE)
 - [Summoning Durnehviir (video)](https://www.youtube.com/watch?v=8bA7ZEtCnbg)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4193,7 +4197,7 @@ A Nexus mod by RPGKing117 that, per its summary, lets you play Skyrim inside the
 - [Creator profile](https://github.com/rpgking117)
 - [Successor: Bethception](https://www.nexusmods.com/fallout4/mods/105294)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4301,7 +4305,7 @@ A Nexus mod by RPGKing117 that streams a patched Fallout 1 Community Edition int
 - [Creator profile](https://github.com/rpgking117)
 - [Successor: Bethception](https://www.nexusmods.com/fallout4/mods/105294)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4312,24 +4316,24 @@ A Nexus mod by RPGKing117 that streams a patched Fallout 1 Community Edition int
 
 ### Warcraft CS
 
-**Guest:** Counter-Strike 1.6  
-**Host:** Warcraft III (1.26a)  
+**Guest:** Counter-Strike 1.6, Half-Life (optional weapons)  
+**Host:** Warcraft III (1.26a; 1.27a experimental)  
 **Creator:** Yazgul  
 **Status:** Released · Code available · Experimental  
 **Approach:** Native modules injected into Warcraft III add a first-person camera, CS-style weapon and movement logic and a HUD, with adapted ReGameDLL_CS/ReHLDS code  
 
-An offline single-player fan project that lets the player control a Warcraft III hero or unit in first person with Counter-Strike 1.6 style recoil, bunnyhop and air-strafe movement, weapons, a gold-based buy menu and C4, while Warcraft keeps the world, enemies, quests and health. F6 toggles between first person and RTS. The README calls it an early prototype with known limitations.
+An offline single-player fan project that lets the player control a Warcraft III hero or unit in first person with Counter-Strike 1.6 style recoil, bunnyhop and air-strafe movement, weapons, grenades and C4, while Warcraft keeps the world, enemies, quests and health. Purchases use a dollar wallet or gold (v0.13.0 dual-currency buying); optional Half-Life weapons (Crowbar, Tau, Gluon, RPG) load from the player's own Half-Life files (v0.12.0). Firearm shots trace posed model geometry with a 2x headshot multiplier on verified 1.26a models, and classic movement is the default (v0.13.0). F6 toggles between first person and RTS. Experimental, partial Warcraft III 1.27a (D3D9) support was added in v0.12.0 and the release notes claim no real 1.27a gameplay test. The README calls it an offline single-player prototype with full campaign and custom-map compatibility still being tested.
 
-**Requirements:** Windows x64, your own Warcraft III 1.26a x86 install (Game.dll 1.26.0.6401; Reforged unsupported) and OpenGL; Counter-Strike 1.6 loose files are needed only for the full weapon mode. The standard launcher builds the mod locally (MSVC, Windows SDK, Python 3.10-3.14); a separate DLL-included EXE is offered. No game assets are bundled.
+**Requirements:** Windows 10/11 x64 (.NET Framework 4.x, PowerShell 5.1) and your own Warcraft III 1.26a x86 install (Game.dll 1.26.0.6401, OpenGL) or experimental 1.27a (Game.dll 1.27.0.52240, D3D9); Reforged, other patches and multiplayer are unsupported. Your own Counter-Strike 1.6 loose files are needed for CS weapons; optional Half-Life weapons also use your owned Half-Life files. Internet access is needed for setup and updates. The WarcraftCSLauncher_DLL_Included.exe release asset ships prebuilt modules; the standard launcher and ZIPs are source-only and build locally (MSVC/Windows SDK, Python 3.10-3.14, NumPy). No game assets are bundled.
 
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/YazgulDev/warcraft-cs)
-- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.11.0)
+- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.13.0)
 - [Creator profile](https://github.com/YazgulDev)
 - [Press: cybersport.ru](https://www.cybersport.ru/tags/cs2/modder-skrestil-warcraft-iii-i-cs-1-6-teper-mozhno-poigrat-v-shuter-na-karte-rts)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5441,6 +5445,119 @@ Minecraft Java runs next to Bannerlord and talks to it over shared memory. You p
 - [Release / download](https://github.com/emretrksy/bannerlord-minecraft-passthrough/releases)
 
 **Dated source review:** 2026-10-26
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-gtacraft-gta5craft"></a>
+
+### GtaCraft (GTA V x Minecraft, gta5craft)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Grand Theft Auto V (Legacy, Story Mode)  
+**Creator:** mannin1337  
+**Status:** Released · Code available · Experimental  
+**Approach:** C++ ScriptHookV ASI plugin and a modified SkyCraft Fabric mod exchanging state over local Windows shared memory  
+
+Experimental single-player preview in which Minecraft supplies the world and simulation while GTA V supplies characters, vehicles and action. A GtaCraft.asi plugin and a modified SkyCraft Fabric mod exchange world and player state over local Windows shared memory. The README lists a switchable natural Overworld and a Minecraft mirror of the GTA world, driving with block collision and a bulldozer mode, building and mining in both worlds, GTA weapons and explosions damaging Minecraft terrain, a native GTA HUD over the Minecraft world, and English and Hungarian menus. It lists known limits around terrain collision, depth, long sessions and police behaviour.
+
+**Requirements:** Windows x64 with DirectX 11; licensed GTA V Legacy 1.0.3889.0 (Story Mode only; GTA Enhanced, GTA Online and FiveM unsupported); Minecraft Java 26.3 with Fabric Loader 0.19.5 and Fabric API 0.161.0+26.3; Java 25 x64; Prism Launcher instance; matching ScriptHookV and Legacy ASI loader; a separately built custom archive loader and collider mount (the loader binary is not distributed).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/gta5craft/GtaCraft)
+- [Release / download](https://github.com/gta5craft/GtaCraft/releases)
+- [Creator profile](https://github.com/gta5craft)
+- [SkyCraft (foundation)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-27
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-vegascraft-benedettoscala"></a>
+
+### VegasCraft (benedettoscala)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Fallout: New Vegas  
+**Creator:** benedettoscala  
+**Status:** Released · Code available · Experimental  
+**Approach:** 32-bit xNVSE plugin plus 64-bit Fabric mod over a SkyCraft-derived shared-memory bridge (protocol v20)  
+
+Experimental Windows port in which New Vegas renders the Mojave while a Minecraft Java instance runs alongside, supplies gameplay and inventory, and sends block geometry and interface frames back. It uses a 32-bit xNVSE plugin and a 64-bit Fabric mod over a shared-memory protocol derived from SkyCraft (extended to v20). The README says block rendering, the interface overlay, combat, health and automatic startup were confirmed; Pip-Boy pages, weapon and arm changes, world generation and reload behaviour still need full in-game regression testing, and multiplayer is not validated. Some inherited interface text and logs still mention Skyrim or SkyCraft.
+
+**Requirements:** Windows; Fallout: New Vegas standard executable 1.4.0.525 with xNVSE 6 or later (GECK and NoGore executable unsupported); Minecraft Java 26.3 on an account that owns it; Fabric Loader 0.19.5+ (Fabric API 0.161.0+26.3 bundled); 64-bit Java 25.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/benedettoscala/VegasCraft)
+- [Release / download](https://github.com/benedettoscala/VegasCraft/releases)
+- [Creator profile](https://github.com/benedettoscala)
+- [SkyCraft (inspiration)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-27
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-left4craft2"></a>
+
+### Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)
+
+**Guest:** Minecraft: Java Edition (Fabric)  
+**Host:** Left 4 Dead 2  
+**Creator:** ShadowBlade83  
+**Status:** Released · Code available · Experimental  
+**Approach:** Fabric mod, x86 ReShade add-on (HL2Minecraft.addon32) and VScript in L4D2, ported from HL2Craft  
+
+A port of the author's HL2Craft approach to Left 4 Dead 2. A hidden Minecraft Java instance handles Steve's physics, inventory, HUD and blocks while L4D2 runs the world, infected and campaigns; a ReShade add-on and VScript link the two and you can build barricades the infected must break. The README reports in-game checks on map c1m1 of Minecraft physics, Minecraft HUD, removed L4D2 weapons and HUD, and visible blocks; infected damage to Steve was recently fixed and not yet re-checked. Known issues include getting stuck on stairs, no Minecraft versions of special infected and single player (with bots) only.
+
+**Requirements:** Windows 10/11, Steam Left 4 Dead 2 (run with -insecure, local games only), ReShade 6.8.0 with full add-on support (DirectX 9), Minecraft Java 26.3 on your own account with Fabric Loader 0.19.5+, Fabric API and JDK 25; a 32-bit MinGW-w64 toolchain only to build the add-on.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/ShadowBlade83/Left4Craft2)
+- [Release / download](https://github.com/ShadowBlade83/Left4Craft2/releases)
+- [Creator profile](https://github.com/ShadowBlade83)
+- [HL2Minecraft (upstream by the same creator)](https://github.com/ShadowBlade83/HalfLife2Minecraft)
+
+**Dated source review:** 2026-10-27
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-gorillacraft"></a>
+
+### GorillaCraft (Gorilla Tag locomotion in VR Minecraft)
+
+**Guest:** Gorilla Tag  
+**Host:** Minecraft: Java Edition (VR)  
+**Creator:** easyax2  
+**Status:** Code available · Experimental  
+**Approach:** BepInEx plugin in Gorilla Tag plus a Fabric mod in Minecraft, passing locomotion and state between the two  
+
+Minecraft renders the world and both VR eyes while a background, non-VR Gorilla Tag instance supplies climbing and arm-based locomotion; two small mods (a BepInEx plugin and a Fabric mod) pass data between them. The README lists OpenXR rendering, Gorilla Tag movement on Minecraft blocks, a gorilla model, block placing and breaking with controllers, room-scale punching, swimming, survival hunger and mob aggro, VR menus and HUD and multiplayer gorilla avatars on a Fabric server. It says Gorilla Tag's tag-game features are not in yet and that VR play had not yet been tested while wearing a headset. Design is based on SkyCraft, with no shared code per the README. Reverse direction of gorilla-passthrough.
+
+**Requirements:** PC VR headset with an OpenXR runtime (WiVRn, SteamVR or Oculus) and Minecraft's OpenGL renderer; Gorilla Tag on Steam with BepInEx 5 and the GorillaCraft plugin; Prism Launcher with a Microsoft account that owns Minecraft: Java Edition; servers need Fabric 26.3 with GorillaCraft and Fabric API.
+
+**Platforms documented:** Windows, Linux
+
+- [Source code](https://github.com/easyax2/gorillacraft)
+- [Release / download](https://github.com/easyax2/gorillacraft/releases)
+- [Creator profile](https://github.com/easyax2)
+- [SkyCraft (design basis)](https://github.com/chasmlol/SkyCraft)
+- [Gorilla Passthrough (reverse direction)](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough)
+
+**Dated source review:** 2026-10-27
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
