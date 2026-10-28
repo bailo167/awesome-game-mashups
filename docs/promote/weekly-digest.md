@@ -1,7 +1,8 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-27. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-28. These are additions to the index, not necessarily new releases.
 
+- **[balatro-doom (KittyShopper)](https://github.com/bailo167/awesome-game-mashups#project-balatro-doom-kittyshopper)** — A work-in-progress Steamodded mod that loads a doomgeneric build as a native Lua library inside Balatro. (Code available · Experimental)
 - **[VegasCraft (benedettoscala)](https://github.com/bailo167/awesome-game-mashups#project-vegascraft-benedettoscala)** — Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. (Released · Code available · Experimental)
 - **[Retrocraft (libretro consoles in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retrocraft)** — A Fabric mod that adds handhelds, home consoles, arcade cabinets and CRT televisions to Minecraft 1.21.1, each backed by a real libretro emulator core. (Released · Code available · Experimental)
 - **[Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](https://github.com/bailo167/awesome-game-mashups#project-left4craft2)** — Lets you play Left 4 Dead 2 as Steve, with Minecraft physics, HUD and blocks while L4D2 runs the world and infected. (Released · Code available · Experimental)
@@ -40,13 +41,3 @@ Week ending 2026-10-27. These are additions to the index, not necessarily new re
 - **[FNAFSBCraft (Minecraft inside FNAF: Security Breach)](https://github.com/bailo167/awesome-game-mashups#project-fnafsbcraft)** — Plays Five Nights at Freddy's: Security Breach as Steve, with a Minecraft client running beside the game. (Released · Code available · Experimental)
 - **[DoomCraft](https://github.com/bailo167/awesome-game-mashups#project-doomcraft-roryekay)** — Runs Minecraft Java gameplay inside classic Doom and Doom II through a patched GZDoom engine. (Released · Code available · Experimental)
 - **[CK3 x Bannerlord Bridge](https://github.com/bailo167/awesome-game-mashups#project-ck3-bannerlord-bridge)** — Fights Crusader Kings III battles in Mount & Blade II: Bannerlord and returns the results to CK3. (Released · Code available · Experimental)
-- **[Warcraft CS](https://github.com/bailo167/awesome-game-mashups#project-warcraft-cs)** — Brings Counter-Strike 1.6 weapons, movement and buy menu into Warcraft III as a first-person mode. (Released · Code available · Experimental)
-- **[SkyDoom](https://github.com/bailo167/awesome-game-mashups#project-skydoom)** — Runs a modified Chocolate Doom inside Skyrim, bridging weapons, damage and HUD through SKSE. (Released · Code available · Experimental)
-- **[Skate 64 (Skating with a Plumber in a Magical Land)](https://github.com/bailo167/awesome-game-mashups#project-skate-64)** — Retargets Skate 3's skating engine onto Mario inside sm64coopdx. (Code available · Experimental)
-- **[MINEKILL](https://github.com/bailo167/awesome-game-mashups#project-minekill)** — Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels. (Released · Code available · Experimental)
-- **[HL2Minecraft](https://github.com/bailo167/awesome-game-mashups#project-hl2minecraft)** — Streams Minecraft chunks and entities into Half-Life 2's Direct3D 9 scene. (Released · Code available · Experimental)
-- **[GModLight](https://github.com/bailo167/awesome-game-mashups#project-gmodlight)** — Brings Garry's Mod hands, physgun, weapons and spawn menu into Dying Light. (Released · Code available · Experimental)
-- **[Garry's Modcraft](https://github.com/bailo167/awesome-game-mashups#project-garrys-modcraft)** — Runs Minecraft alongside Garry's Mod in one shared world with props, NPCs and redstone-to-Wiremod links. (Released · Code available · Experimental)
-- **[FactorioToSatisfactory Challenge](https://github.com/bailo167/awesome-game-mashups#project-factorio-to-satisfactory)** — Transfers items live from a running Factorio game into a running Satisfactory game. (Released · Experimental)
-- **[Empress Gameboy Emulator](https://github.com/bailo167/awesome-game-mashups#project-empress-gameboy-repo)** — Adds a Game Boy cabinet to R.E.P.O. that runs your own ROMs inside the game, including multiplayer. (Released · Code available)
-- **[CabinBoy](https://github.com/bailo167/awesome-game-mashups#project-cabinboy-long-dark)** — Puts a working Game Boy emulator in The Long Dark as a handheld item that plays your own ROMs. (Released · Code available)

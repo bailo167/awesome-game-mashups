@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**202 entries:** 181 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**203 entries:** 182 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-27. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-28. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) · [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) · [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft) · [Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) · [Twilight Souls](#project-twilight-souls) · [SM64 Vice City Native](#project-sm64-vc-native)
+[balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) · [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) · [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft) · [Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) · [Twilight Souls](#project-twilight-souls)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -188,6 +188,7 @@ Public code can still require compilation. Video-only entries have no public bui
 |---|---|---|---|
 | [ArkWeb](#project-arkweb) | Runs Spider-Man's native traversal through Batman: Arkham Knight's Gotham. | Code available · Experimental | [Watch](https://www.youtube.com/watch?v=O6Mkm_NGCX8) |
 | [Attack on Elden Ring](#project-attack-on-elden-ring) | Brings Attack on Titan Tribute Game 2's ODM gear movement into Elden Ring using both games at once. | Code available · Experimental | — |
+| [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) | A work-in-progress Steamodded mod that loads a doomgeneric build as a native Lua library inside Balatro. | Code available · Experimental | — |
 | [BOTWCraft (Minecraft in Breath of the Wild)](#project-botwcraft) | Work-in-progress passthrough that lets a Minecraft Java client play Breath of the Wild running in Cemu. | Code available · Experimental | — |
 | [CS:GO systems inside Project Zomboid](#project-csgo-project-zomboid) | Adds CS:GO weapons, shooting and movement to Project Zomboid. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n2fEHpLJUNk) |
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
@@ -1482,7 +1483,7 @@ Runs Skate 3's board physics, tricks and scoring on Garry's Mod maps, with multi
 - [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/9.0)
 - [Creator profile](https://github.com/the-schwilliam)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1587,7 +1588,7 @@ Minecraft's colour and depth are composited into Fallout: New Vegas while FNV ca
 - [Source code](https://github.com/Davozh/new-vegascraft)
 - [Creator profile](https://github.com/Davozh)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1611,7 +1612,7 @@ Unlike the passthrough projects, Minebonk uses one Megabonk process and rebuilds
 - [Source code](https://github.com/MGuibas/Minebonk)
 - [Creator profile](https://github.com/MGuibas)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1690,7 +1691,7 @@ A real Minecraft instance runs hidden and owns movement, health, hunger, invento
 - [Release / download](https://github.com/goonsn/Killcraft/releases/tag/v1.0.2)
 - [Creator profile](https://github.com/goonsn)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1717,7 +1718,7 @@ Mario's triple jumps, wall kicks, long jumps, ground pounds, attacks, health wed
 - [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.2)
 - [Creator profile](https://github.com/deltarooo)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1771,7 +1772,7 @@ Garry's Mod runs hidden beside Red Dead Redemption 2 and supplies the player, sa
 - [Release / download](https://github.com/codeByAlexff/garrys-redemption/releases/tag/v0.1.0-beta)
 - [Creator profile](https://github.com/codeByAlexff)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1799,7 +1800,7 @@ The project patches IW4L for a native Mac crossover: Halo CE Spartans, sounds/ef
 - [Halo map importer scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/HALO_MAPS.md)
 - [Autonomous bot-match scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/BOT_MATCHES.md)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1876,7 +1877,7 @@ GEGI adds an in-game browser catalogue and embeds playable itch.io and Newground
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/gegi)
 - [Creator profile](https://github.com/Pr1nted)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1958,7 +1959,7 @@ Minecraft Java runs alongside Elden Ring and owns the Minecraft player, blocks, 
 - [Creator profile](https://github.com/siddoff)
 - [Upstream Minecraft Crossover Bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2148,7 +2149,7 @@ A Hearts of Iron IV Workshop mod that runs the whole DOOM engine, based on doomg
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3800765971)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2278,11 +2279,11 @@ Adds SNES, NES and Genesis console stations with CRT TVs, plus GB/GBC/GBA handhe
 
 **Platforms documented:** Windows
 
-- [Source code](https://github.com/Nighthawk42/gemu)
+- [Source code](https://github.com/Nighthawk42/gemu/tree/legacy)
 - [Release / download](https://github.com/Nighthawk42/gemu/releases)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3801421244)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2308,7 +2309,7 @@ Spawning NG64's Mario from BeamNG.drive's vehicle selector gives Super Mario 64'
 - [Source code](https://github.com/zer0ducksgiven/NG64)
 - [Release / download](https://github.com/zer0ducksgiven/NG64/releases)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3095,6 +3096,7 @@ A Reddit post by UwUDev (July 2024) shows Doom integrated into Balatro's Jokers 
 - [Creator post](https://www.reddit.com/r/balatro/comments/1eby5y7/literally_nobody_asked_for_it_but_here_it_is_doom/)
 - [Supporting source](https://rogueliker.com/doom-balatro/)
 - [Creator profile](https://github.com/UwUDev)
+- [Separate repo: balatro-doom (KittyShopper)](https://codeberg.org/KittyShopper/balatro-doom)
 
 **Dated source review:** 2026-10-09
 **Catalogue play-test:** Not recorded.
@@ -5586,6 +5588,32 @@ Players insert cartridges or discs and play on in-world handhelds, TVs and arcad
 - [Creator profile](https://github.com/sammwyy)
 
 **Dated source review:** 2026-10-27
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-balatro-doom-kittyshopper"></a>
+
+### balatro-doom (KittyShopper)
+
+**Guest:** DOOM  
+**Host:** Balatro  
+**Creator:** KittyShopper  
+**Status:** Code available · Experimental  
+**Approach:** doomgeneric fork built as a Lua native library (doom.dll) loaded by a Steamodded mod inside Balatro  
+
+A Codeberg repository by KittyShopper that embeds DOOM in Balatro through Steamodded and a doomgeneric fork built as a Lua native library (doom.dll). The README requires compiling doom.dll yourself, supplying the shareware doom1.wad and replacing Balatro's lua51.dll, which it warns may break other mods. The repo describes itself as WIP and not finished; it is separate from the earlier UwUDev Reddit demo.
+
+**Requirements:** Balatro with the Steamodded loader; doom.dll compiled by the user from KittyShopper's doomgeneric fork (lua branch); doom1.wad next to it; a replacement lua51.dll in the Balatro folder (the README warns this may break other mods). No pre-compiled binary is provided.
+
+- [Source code](https://codeberg.org/KittyShopper/balatro-doom)
+- [Creator profile](https://codeberg.org/KittyShopper)
+- [doomgeneric fork (lua branch)](https://codeberg.org/KittyShopper/doomgeneric/src/branch/lua)
+- [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
+
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

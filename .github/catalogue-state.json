@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-27",
-    "head_sha": "5f26a01ab764eb092e98d1713648402147813780",
-    "project_count": 202,
+    "verified_at": "2026-10-28",
+    "head_sha": "add5a4799d27f3372c9631161722363c6634342c",
+    "project_count": 203,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-27 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 154 GitHub-linked repos (no release changes; 4 repos still private/gone) + 14 deep rechecks (GitHub, Modrinth, Steam, Nexus, GameBanana, Reforger; hellgate-doom-portal unreadable and not stamped) + deferred-lead rechecks + discovery (~20 searches plus GitHub repo searches; 1 new: retrocraft). head_sha is the parent commit. 7 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-10-28: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 154 GitHub-linked repos (2 releases: retroconsole v0.3.0, warcraft-cs v0.14.0; 4 repos still private/gone) + 12 deep rechecks (skategm, new-vegascraft, minebonk, killcraft, er-mario, garrys-redemption, halo-mw2-director, good-enough-game-integration, minecraft-ring, ng64-beamng, doom-hearts-of-iron-iv, gemu-gmod) + discovery (~23 searches; 1 new: balatro-doom-kittyshopper). head_sha is the parent commit. 7 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -520,6 +520,12 @@
       "url": "https://github.com/67god6769/MinecraftInsideRocketLeague",
       "why": "Stub repo, no README/licence/tags",
       "date": "2026-10-27"
+    },
+    {
+      "name": "MCQuake3 (Minecraft Fabric mod)",
+      "url": "https://modrinth.com/mod/mcquake3",
+      "why": "Quake III gameplay recreation in Minecraft (MIT, Modrinth); likely adjacent and may overlap quakecraft; creator and exact dates unconfirmed",
+      "date": "2026-10-28"
     }
   ],
   "structural_upgrade": {
