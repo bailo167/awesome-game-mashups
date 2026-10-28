@@ -615,7 +615,7 @@ Four destructible Minecraft maps built inside Halo 3. This is more than a textur
 - [Project page](https://www.patreon.com/infernoplus/posts/halocraft-73930239)
 - [Official Halo spotlight](https://www.halowaypoint.com/news/halo-mcc-modtacular-2)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -639,7 +639,7 @@ A large multiplayer-focused Dark Souls overhaul that evolved into a Halo/Dark So
 - [Original release post](https://www.patreon.com/infernoplus/posts/dark-souls-46865100)
 - [Community tooling: DS Gadget for Remastest](https://github.com/Nordgaren/DS-Gadget-for-Remastest)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -663,7 +663,7 @@ A seven-year solo recreation designed to be playable from beginning to end, cove
 - [Release / download](https://rivero7462.itch.io/ocarina-of-time-in-minecraft)
 - [Watch demo](https://www.youtube.com/watch?v=HSGioTZ_rf4)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -688,7 +688,7 @@ A complete playable recreation of Pokémon Red built in vanilla Minecraft, repro
 
 - [Release / download](https://www.curseforge.com/minecraft/worlds/pokemon-red)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -711,7 +711,7 @@ Runs on emulator and, with reduced render distance, on original Nintendo 64 hard
 - [Creator post](https://x.com/arthurtilly413/status/1924566904498487662)
 - [Creator GitHub](https://github.com/arthurtilly)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -736,7 +736,7 @@ An ongoing recreation of Morrowind in Elden Ring. A May 2026 update showed major
 - [Creator second channel (AnotherPlus): Update Video #1 (2025-10-29)](https://www.youtube.com/watch?v=l7GP9jdKbVk)
 - [Creator second channel (AnotherPlus): Update Video #2 (2026-05-06)](https://www.youtube.com/watch?v=U57Px9REH98)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -923,7 +923,7 @@ A DOOM source port for Minecraft. Mocha Doom owns the game simulation while Mine
 
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/latte-doom)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1044,7 +1044,7 @@ Recreates a substantial Pokémon adventure loop inside Hytale: starter selection
 - [Release / download](https://www.curseforge.com/hytale/mods/talemonpokemon)
 - [Watch demo](https://www.youtube.com/watch?v=wJbgOMAv5-s)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1067,7 +1067,7 @@ A work-in-progress multiplayer Pokémon-style project inside Hytale. Creator foo
 - [Supporting source](https://www.dexerto.com/pokemon/hytale-modder-is-turning-classic-pokemon-into-an-mmo-you-can-play-with-friends-3409404/)
 - [Creator follow-up: field abilities preview (2026-09-18)](https://x.com/pokeworldonlin/status/2100900271962431670)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1112,7 +1112,7 @@ Recreates Geometry Dash-style 2D side-scrolling levels as a downloadable Hytale 
 - [Release / download](https://www.curseforge.com/hytale/worlds/geometrytale)
 - [Watch demo](https://www.youtube.com/watch?v=N13Usbcgn60)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2033,14 +2033,14 @@ A Resident Evil Requiem plugin, removed from Nexus Mods by staff as of 2026-10-0
 
 A GTA V script mod adds Sonic-style acceleration and momentum, Spin Dash, homing attacks, wall-running, parry/slow-motion, custom combat, rival races, animations and sound effects while GTA V remains the host world.
 
-**Requirements:** GTA V Story Mode, Script Hook V, ScriptHookVDotNet Enhanced, OpenIV, and the separate character models documented by the creator for the supported Sonic/Metal Sonic functionality. The creator says not to use it in GTA Online.
+**Requirements:** GTA V Story Mode, Script Hook V, ScriptHookVDotNet Enhanced, OpenIV, and the separate character models documented by the creator for the supported Sonic/Metal Sonic functionality. The creator says not to use it in GTA Online; plus the separate Metal Sonic add-on ped required for rival/Race Mode.
 
 **Platforms documented:** Windows
 
 - [Release / download](https://www.gta5-mods.com/scripts/sonic-the-hedgehog-ultimate-speed-combat-mod)
 - [Watch demo](https://www.youtube.com/watch?v=M_YSZfanFOE)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2336,7 +2336,7 @@ A libsm64-based mod that runs SM64's Mario movement inside Halo CE in the Master
 - [Release / download](https://github.com/KodyJKing/smc64/releases)
 - [Watch demo](https://www.youtube.com/watch?v=tj5fAk7KkHA)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2703,7 +2703,7 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
 - [Inspired by minecraft-crossover-bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3264,7 +3264,7 @@ A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement
 - [Creator showcase video](https://github.com/buhhrad/MW2xRoR2/raw/main/docs/media/showcase.mp4)
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-28
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
