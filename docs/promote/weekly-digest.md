@@ -3,6 +3,8 @@
 Week ending 2026-10-29. These are additions to the index, not necessarily new releases.
 
 - **[ViceAbyss (Vice City in Subnautica 2)](https://github.com/bailo167/awesome-game-mashups#project-viceabyss)** — Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. (Released · Experimental)
+- **[Valheim GameBoy](https://github.com/bailo167/awesome-game-mashups#project-valheim-gameboy)** — A BepInEx mod that adds a Game Boy emulator to Valheim. (Released · Experimental)
+- **[Playable GameBoy (Project Zomboid)](https://github.com/bailo167/awesome-game-mashups#project-playable-gameboy-zomboid)** — Runs Game Boy ROMs through the LuaGB emulator inside Project Zomboid. (Released · Experimental)
 - **[LC DOOM (Lethal Company)](https://github.com/bailo167/awesome-game-mashups#project-lethal-company-doom-cryptoc1)** — Play DOOM on the ship's terminal in Lethal Company, via a BepInEx mod. (Released)
 - **[balatro-doom (KittyShopper)](https://github.com/bailo167/awesome-game-mashups#project-balatro-doom-kittyshopper)** — A work-in-progress Steamodded mod that loads a doomgeneric build as a native Lua library inside Balatro. (Code available · Experimental)
 - **[VegasCraft (benedettoscala)](https://github.com/bailo167/awesome-game-mashups#project-vegascraft-benedettoscala)** — Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. (Released · Code available · Experimental)

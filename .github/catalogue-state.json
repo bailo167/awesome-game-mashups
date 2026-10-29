@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-29",
-    "head_sha": "167b6cbc424f39ad94ffd1d77de9787bae46d991",
-    "project_count": 205,
+    "head_sha": "e99593ac419b38e2fbe0cfbb1746dfa169fa35cc",
+    "project_count": 207,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-29: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 155 GitHub-linked entries (no new releases; 5 repos still private/gone; ultraring has a tag-only v0.2.0) + 12 deep rechecks (minecraft-elden-ring-tobynjacobs, minecraft-skyrim-earlier-footage, morrowind-pipboy-edition, ultraring, doom-ring, halfcraft-half-life, lethalmario64, doomcraft-roryekay, ck3-bannerlord-bridge, stellar-blade-minecraft, subnauticraft-dacotin2, fnafsbcraft) + discovery (~18 searches; 2 new, 2 deferred leads added). head_sha is the parent commit. 7 records in unreachable_from_routine (all under 7 days old, skipped). No play-tests."
+    "scope": "Run 2026-10-29 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 157 GitHub-linked entries (libertycraft v0.1.11, warcraft-cs v0.15.0, retroconsole v0.3.1 updated; 5 repos private/gone) + 12 deep rechecks (doom-hytale-papispielt, skate3-gmod, chanyoris, arcade-paradise-freeplay, g64, doom-in-doom, doomsona, doom-sonic-mania, minecraft-in-minecraft-chungus-2, factorio-doom, celeste-doom, minecraft-x-saints-row-3) + discovery (~30 searches; 2 new, 3 deferred leads added). head_sha is the parent commit. 10 records in unreachable_from_routine (craftmsc, viceabyss, palcraft added today). No play-tests."
   },
   "deferred_candidates": [
     {
@@ -243,12 +243,6 @@
       "name": "@chasmmmmmmmmmmm DS-games mashup (Kotaku 2026-10-02)",
       "url": "https://x.com/chasmmmmmmmmmmm/status/2104888657593110730",
       "why": "X post and press only, no repo found",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "Valheim Game Boy emulator (Mixone, 2021)",
-      "url": "https://www.pcgamesn.com/valheim/mod-gameboy-emulator",
-      "why": "Press only; no Nexus/Thunderstore file page found, 2021 report said loader not public; check Mixone's Nexus profile",
       "date": "2026-10-21"
     },
     {
@@ -543,6 +537,24 @@
       "name": "art0007i/ResoniteMario64",
       "url": "https://thunderstore.io/c/resonite/p/art0007i/ResoniteMario64/",
       "why": "libsm64 mod for Resonite (social VR platform; host fit questionable); licence and dates not read",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "SRB2GB (Game Boy emulator Lua addon for SRB2)",
+      "url": "https://mb.srb2.org/addons/srb2gb-a-gameboy-emulator.3785/",
+      "why": "mb.srb2.org 403; search snippet only; verify author/date/licence",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "Playable Game Boy (A21), 7 Days to Die",
+      "url": "https://www.nexusmods.com/7daystodie/mods/4634",
+      "why": "Nexus record marked DELETED; adjacent/watchlist at most",
+      "date": "2026-10-29"
+    },
+    {
+      "name": "Asphaltian/sgba (GBA emulator for s&box)",
+      "url": "https://github.com/Asphaltian/sgba",
+      "why": "GPL-3.0, no tags; s&box is a creation platform, host fit questionable",
       "date": "2026-10-29"
     }
   ],

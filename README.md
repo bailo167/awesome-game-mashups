@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**205 entries:** 184 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**207 entries:** 186 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) · [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) · [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) · [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft)
+[ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy) · [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid) · [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) · [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -139,6 +139,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [OWCraft](#project-owcraft) | Runs real Minecraft movement, blocks and inventory on Outer Wilds planets. | Released · Code available · Experimental | — |
 | [PerkeleRim (My Summer Car in Skyrim)](#project-perkelerim) | Runs My Summer Car hidden while Skyrim draws the world, so you can drive the van and drink in Whiterun. | Released · Code available · Experimental | [Watch](https://youtu.be/IJzDb4E7bYA) |
 | [PipeLink Launcher — GTA SA × Skate 3 × MW2](#project-pipelink-launcher) | Runs Skate 3 and MW2 gameplay modes inside GTA San Andreas. | Released · Code available · Experimental | [Watch](https://streamable.com/19fo55) |
+| [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid) | Runs Game Boy ROMs through the LuaGB emulator inside Project Zomboid. | Released · Experimental | — |
 | [Pokémon Red in Minecraft](#project-pokemon-red) | Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft. | Released | — |
 | [Project Inception](#project-project-inception) | Runs a playable second Minecraft game on a screen inside Minecraft. | Released · Code available | — |
 | [QuakeCraft (Quake III Arena in Minecraft)](#project-quakecraft) | Two-process bridge running Quake III Arena's movement and weapons alongside Minecraft Java. | Released · Code available | — |
@@ -172,6 +173,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Twilight Souls](#project-twilight-souls) | Total conversion that rebuilds Dark Souls' world, stats and bonfires inside The Legend of Zelda: Twilight Princess so you play as Link in Lordran. | Released · Experimental | — |
 | [UltraDoom / UltrakillDoom](#project-ultradoom) | Lets you play DOOM on the shop terminals inside ULTRAKILL. | Released · Code available | [Watch](https://www.youtube.com/watch?v=Y7zpELS2QfQ) |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
+| [Valheim GameBoy](#project-valheim-gameboy) | A BepInEx mod that adds a Game Boy emulator to Valheim. | Released · Experimental | — |
 | [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) | Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. | Released · Code available · Experimental | — |
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
 | [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) | Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. | Released · Experimental | — |
@@ -5669,6 +5671,52 @@ An experimental Windows alpha passthrough in the SkyCraft lineage: GTA Vice City
 - [Release / download](https://github.com/ApprenticeChaos/ViceAbyss/releases/tag/v0.1.0-alpha.2)
 - [Creator profile](https://github.com/ApprenticeChaos)
 - [SkyCraft (inspiration)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-29
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-valheim-gameboy"></a>
+
+### Valheim GameBoy
+
+**Guest:** Game Boy games (emulated)  
+**Host:** Valheim  
+**Creator:** Mixone93  
+**Status:** Released · Experimental  
+**Approach:** Game Boy emulator in a Valheim client mod  
+
+A historical Nexus Mods client mod for Valheim that embeds a Game Boy emulator in the game. The Nexus page is the only primary source read: it gives a one-line summary, version 1.1.0 and no licence, source link or requirements text, so how the emulator is surfaced in-game is not documented in the catalogue.
+
+**Requirements:** Valheim; the Nexus summary read does not list further requirements.
+
+- [Release / download](https://www.nexusmods.com/valheim/mods/852)
+
+**Dated source review:** 2026-10-29
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-playable-gameboy-zomboid"></a>
+
+### Playable GameBoy (Project Zomboid)
+
+**Guest:** Game Boy games (LuaGB emulator)  
+**Host:** Project Zomboid (Build 41)  
+**Creator:** yanmingsohu  
+**Status:** Released · Experimental  
+**Approach:** LuaGB Game Boy emulator running in Project Zomboid Lua  
+
+A Nexus Mods technical demo for Project Zomboid (Build 41) that runs Game Boy ROMs, converted to Lua by the user, with the LuaGB emulator inside the game's Lua environment and the Steam Workshop mod Video Game Consoles as a dependency. The author's own page warns that it is very slow and that most ROMs do not work.
+
+**Requirements:** Project Zomboid Build 41 with the Steam Workshop mod Video Game Consoles (2831786301); ROMs are converted to .lua with a Node.js script supplied by the author.
+
+- [Release / download](https://www.nexusmods.com/projectzomboid/mods/134)
 
 **Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
