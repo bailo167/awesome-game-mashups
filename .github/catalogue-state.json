@@ -643,6 +643,21 @@
       "id": "hellgate-doom-portal",
       "host": "api.cfwidget.com (404 on two attempts 2026-10-27)",
       "date": "2026-10-27"
+    },
+    {
+      "id": "craftmsc",
+      "host": "nexusmods.com (403; GraphQL query not resolved)",
+      "date": "2026-10-29"
+    },
+    {
+      "id": "viceabyss",
+      "host": "github.com (repo returns credential prompt/404 on 2026-10-29, hours after being added; WebSearch finds nothing)",
+      "date": "2026-10-29"
+    },
+    {
+      "id": "palcraft",
+      "host": "github.com (repo returns credential prompt/404 on 2026-10-29)",
+      "date": "2026-10-29"
     }
   ]
 }

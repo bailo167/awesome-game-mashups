@@ -1536,7 +1536,7 @@ Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty 
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/mrborghini/libertycraft)
-- [Release / download](https://github.com/mrborghini/libertycraft/releases/tag/v0.1.8)
+- [Release / download](https://github.com/mrborghini/libertycraft/releases/tag/v0.1.11)
 - [Watch demo](https://www.youtube.com/watch?v=C1oCbMNOUqg)
 - [Creator profile](https://github.com/mrborghini)
 
@@ -1640,7 +1640,7 @@ Reads DOOM WAD map data and creates the level block-by-block in Hytale, mapping 
 - [Project page](https://www.curseforge.com/hytale/mods/doom)
 - [Creator profile](https://gitlab.com/papispielt)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1851,7 +1851,7 @@ A Garry's Mod add-on and native Rust bridge run Skate 3's reconstructed board/sk
 - [Creator profile](https://github.com/DaffyDabz)
 - [Upstream Skate 3 rebuild](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1989,7 +1989,7 @@ An original competitive block-puzzle game is rendered pixel-by-pixel into a 128Ã
 - [Project page](https://modrinth.com/plugin/chanyoris)
 - [Creator profile](https://modrinth.com/user/Hatune)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2257,7 +2257,7 @@ Adds a Freeplay cabinet that you buy from the in-game Arcademania shop and place
 
 - [Release / download](https://www.nexusmods.com/arcadeparadise/mods/7)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2387,7 +2387,7 @@ G64 is a Garry's Mod addon that uses ckosmic's fork of libsm64 to run Super Mari
 - [Watch demo](https://www.youtube.com/watch?v=JMLDKfCohl0)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=2814638140)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2416,7 +2416,7 @@ kgsws found a code-execution vulnerability in DOS DOOM2.EXE and used it to load 
 - [Project page](https://doomwiki.org/wiki/ACE_Engine)
 - [ACE Engine (follow-up, LGPL-2.1)](https://github.com/kgsws/doom_ace)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2471,7 +2471,7 @@ DOOMSona adds Doom cartridges to Persona 5 Royal's second-hand shop and runs the
 - [Release / download](https://gamebanana.com/mods/511278)
 - [Demo video (embedded on the GameBanana page)](https://www.youtube.com/watch?v=3RgkXJbLBDw)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2600,7 +2600,7 @@ An entry in the Sonic Hacking Contest 2020 that embeds Chocolate Doom in Sonic M
 - [Source code](https://github.com/TheStoneBanana/mania-doom)
 - [Project page](https://old.sonicstadium.org/?p=61884)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2625,7 +2625,7 @@ sammyuri's team wrote a tiny 3D Minecraft for the CHUNGUS 2 redstone CPU and ran
 - [Watch demo](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 - [CHUNGUS 2 assembler (MIT)](https://github.com/sammyuri/chungus-2-assembler)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2650,7 +2650,7 @@ This Factorio 2.1 mod runs Doom with its levels, menus, sounds, music, HUD and s
 - [Release / download](https://mods.factorio.com/mod/doom)
 - [Watch demo](https://www.youtube.com/watch?v=ZgFlZszci2Y)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2669,13 +2669,13 @@ This Factorio 2.1 mod runs Doom with its levels, menus, sounds, music, HUD and s
 
 Celeste Doom ports the C# Managed Doom engine onto Celeste's Monocle framework. Doom 1, Doom 2 and Final Doom run as a modded Celeste level, with input mapped through Everest. Players supply their own WAD.
 
-**Requirements:** Celeste with Everest; user-supplied Doom WAD (Kex/Unity rerelease UIs break)
+**Requirements:** Celeste with Everest; user-supplied Doom WAD copied into the Celeste directory (Kex/Unity rerelease UIs break)
 
 - [Release / download](https://gamebanana.com/mods/646780)
 - [Source mirror (grubbyplaya/DoomCeleste)](https://github.com/grubbyplaya/DoomCeleste)
 - [Creator demo video (grubbycoder, YouTube)](https://www.youtube.com/watch?v=AzSelUBEEYc)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2732,7 +2732,7 @@ Both games run at once: Saints Row owns the world, vehicles and camera, while on
 - [Creator profile](https://github.com/SawyerTheNerd)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4014,7 +4014,7 @@ Players place a Retro Console block and a multiblock Screen wall, pick a game fr
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/Gaigen/retroconsole)
-- [Release / download](https://github.com/Gaigen/retroconsole/releases)
+- [Release / download](https://github.com/Gaigen/retroconsole/releases/tag/v0.3.1)
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/retroconsole)
 
 **Dated source review:** 2026-10-25
@@ -4334,7 +4334,7 @@ An offline single-player fan project that lets the player control a Warcraft III
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/YazgulDev/warcraft-cs)
-- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.13.0)
+- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.15.0)
 - [Creator profile](https://github.com/YazgulDev)
 - [Press: cybersport.ru](https://www.cybersport.ru/tags/cs2/modder-skrestil-warcraft-iii-i-cs-1-6-teper-mozhno-poigrat-v-shuter-na-karte-rts)
 
