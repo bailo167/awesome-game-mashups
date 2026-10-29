@@ -1,7 +1,9 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-28. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-29. These are additions to the index, not necessarily new releases.
 
+- **[ViceAbyss (Vice City in Subnautica 2)](https://github.com/bailo167/awesome-game-mashups#project-viceabyss)** — Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. (Released · Experimental)
+- **[LC DOOM (Lethal Company)](https://github.com/bailo167/awesome-game-mashups#project-lethal-company-doom-cryptoc1)** — Play DOOM on the ship's terminal in Lethal Company, via a BepInEx mod. (Released)
 - **[balatro-doom (KittyShopper)](https://github.com/bailo167/awesome-game-mashups#project-balatro-doom-kittyshopper)** — A work-in-progress Steamodded mod that loads a doomgeneric build as a native Lua library inside Balatro. (Code available · Experimental)
 - **[VegasCraft (benedettoscala)](https://github.com/bailo167/awesome-game-mashups#project-vegascraft-benedettoscala)** — Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. (Released · Code available · Experimental)
 - **[Retrocraft (libretro consoles in Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-retrocraft)** — A Fabric mod that adds handhelds, home consoles, arcade cabinets and CRT televisions to Minecraft 1.21.1, each backed by a real libretro emulator core. (Released · Code available · Experimental)
@@ -36,8 +38,3 @@ Week ending 2026-10-28. These are additions to the index, not necessarily new re
 - **[HalfCraft (Minecraft in Half-Life 2, whiskydumb)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft-whiskydumb)** — Runs real Minecraft hidden over shared memory inside Half-Life 2 / Episodes via a Source SDK 2013 mod. (Released · Code available · Experimental)
 - **[BOTWCraft (Minecraft in Breath of the Wild)](https://github.com/bailo167/awesome-game-mashups#project-botwcraft)** — Work-in-progress passthrough that lets a Minecraft Java client play Breath of the Wild running in Cemu. (Code available · Experimental)
 - **[DoomValley (Doom in Stardew Valley)](https://github.com/bailo167/awesome-game-mashups#project-doomvalley)** — Playable Doom running inside Stardew Valley as a SMAPI mod, built on doomgeneric. (Released · Code available · Demo)
-- **[SubnautiCraft (Minecraft inside Subnautica)](https://github.com/bailo167/awesome-game-mashups#project-subnauticraft-dacotin2)** — Lets you play Subnautica as Steve, with Minecraft physics, blocks and crafting blended into Subnautica's seafloor. (Released · Code available · Experimental)
-- **[Stellar Bridge (Stellar Blade x Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-stellar-blade-minecraft)** — Plays Stellar Blade's EVE inside Minecraft Java by streaming her simulated pose into a Fabric mod. (Released · Code available · Experimental)
-- **[FNAFSBCraft (Minecraft inside FNAF: Security Breach)](https://github.com/bailo167/awesome-game-mashups#project-fnafsbcraft)** — Plays Five Nights at Freddy's: Security Breach as Steve, with a Minecraft client running beside the game. (Released · Code available · Experimental)
-- **[DoomCraft](https://github.com/bailo167/awesome-game-mashups#project-doomcraft-roryekay)** — Runs Minecraft Java gameplay inside classic Doom and Doom II through a patched GZDoom engine. (Released · Code available · Experimental)
-- **[CK3 x Bannerlord Bridge](https://github.com/bailo167/awesome-game-mashups#project-ck3-bannerlord-bridge)** — Fights Crusader Kings III battles in Mount & Blade II: Bannerlord and returns the results to CK3. (Released · Code available · Experimental)

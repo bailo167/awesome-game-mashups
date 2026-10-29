@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**203 entries:** 182 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**205 entries:** 184 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-28. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-29. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) · [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) · [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft) · [Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) · [Twilight Souls](#project-twilight-souls)
+[ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) · [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) · [GtaCraft (GTA V x Minecraft, gta5craft)](#project-gtacraft-gta5craft) · [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -114,6 +114,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Killcraft](#project-killcraft) | Runs Minecraft movement, combat, inventory, mobs and building inside ULTRAKILL levels. | Released · Code available · Experimental | — |
 | [L4D2 x Minecraft](#project-l4d2-minecraft) | Runs real Minecraft inside Left 4 Dead 2 with building, items, mobs and experimental co-op. | Released · Code available · Experimental | — |
 | [Latte Doom](#project-latte-doom) | Runs DOOM inside Minecraft using the Mocha Doom engine. | Released | — |
+| [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) | Play DOOM on the ship's terminal in Lethal Company, via a BepInEx mod. | Released | — |
 | [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2) | Lets you play Left 4 Dead 2 as Steve, with Minecraft physics, HUD and blocks while L4D2 runs the world and infected. | Released · Code available · Experimental | — |
 | [LethalCraft](#project-lethalcraft) | Minecraft inside Lethal Company through a SkyCraft-derived bridge, with Steam/LAN co-op. | Released · Code available · Experimental | — |
 | [LethalMario64 (Mario 64 in Lethal Company)](#project-lethalmario64) | A Lethal Company suit mod that turns the player into the real Super Mario 64 Mario via libsm64; released on Thunderstore, no linked source. | Released | — |
@@ -173,6 +174,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
 | [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) | Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. | Released · Code available · Experimental | — |
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
+| [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) | Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. | Released · Experimental | — |
 | [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
 | [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) | Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. | Released · Code available | — |
 | [Warcraft CS](#project-warcraft-cs) | Brings Counter-Strike 1.6 weapons, movement and buy menu into Warcraft III as a first-person mode. | Released · Code available · Experimental | — |
@@ -779,7 +781,7 @@ Primary creator footage exists, but no public repository/download was located; b
 - [Creator post](https://x.com/TobynJacobs/status/2104884843297599594)
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -849,7 +851,7 @@ Earlier viral Minecraft-in-Skyrim footage was not independently sourced. Do not 
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3292,7 +3294,7 @@ An F4SE mod that renders The Elder Scrolls III: Morrowind, running through OpenM
 - [Creator profile](https://github.com/rpgking117)
 - [Nexus Mods page (version 1.23.1 updated 2026-05-16 per the Nexus API)](https://www.nexusmods.com/fallout4/mods/104456)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3460,7 +3462,7 @@ ULTRAKILL handles V1's movement, dashes, slides, weapons and HUD while Elden Rin
 - [ULTRAKILL Crossover Bridge](https://github.com/Themetralla3000/ultrakill-crossover-bridge)
 - [Minecraft Ring](https://github.com/siddoff/Minecraft-Ring)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3583,14 +3585,14 @@ A BepInEx-side exporter reads the player's own PEAK install and builds each day'
 ### DOOM RING
 
 **Guest:** DOOM Eternal (guns, HUD, sounds, combat music, movement)  
-**Host:** Elden Ring (2.7.1)  
+**Host:** Elden Ring (2.7.2)  
 **Creator:** stanleymov  
 **Status:** Released · Related  
 **Approach:** Rust installer that builds assets from the local DOOM Eternal install and implements Doom-style first-person play in Elden Ring  
 
 A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weapons, dash and double jump, glory kills, Blood Punch, the Crucible and DOOM Eternal's combat music rules, with assets built at setup from the player's own DOOM Eternal files. Release v1.3 (2026-10-22) adds support for Elden Ring 1.17.2 and fixes boss fights, glory-kill and cutscene-door bugs and weapon damage timing.
 
-**Requirements:** Elden Ring (app version 1.17.2 for v1.3; v1.2 required 2.7.1) and DOOM Eternal installed through Steam, Windows 10/11 and about 3 GB free space during install. Offline.
+**Requirements:** Elden Ring offline with Easy Anti-Cheat off (app version 2.7.2 = game 1.17.2 for v1.3; v1.2 required app 2.7.1) and DOOM Eternal installed through Steam, Windows 10/11 and about 3 GB free space during install.
 
 **Platforms documented:** Windows
 
@@ -3598,7 +3600,7 @@ A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weap
 - [Release / download](https://github.com/stanleymov/DOOM-RING/releases/tag/v1.3)
 - [Creator profile](https://github.com/stanleymov)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3886,7 +3888,7 @@ A SkyCraft-derived bridge in which the real GoldSrc Half-Life keeps movement, BS
 - [Creator profile](https://github.com/sogutemir)
 - [Upstream SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3962,7 +3964,7 @@ A BepInEx mod for Lethal Company that adds a Mario suit giving the player SM64 M
 - [Release / download](https://thunderstore.io/c/lethal-company/p/Kosmikstars/LethalMario64/)
 - [libsm64](https://github.com/libsm64/libsm64)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4606,7 +4608,7 @@ A Windows prototype that bridges a Fabric Minecraft mod with a patched GZDoom 4.
 - [Source code](https://github.com/roryekay/doomcraft)
 - [Release / download](https://github.com/roryekay/doomcraft/releases/tag/v0.1.0)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4632,7 +4634,7 @@ A CK3 mod, a tray app and a Bannerlord module that run both games at once: armie
 - [Source code](https://github.com/graff0n/ck3-bannerlord-bridge)
 - [Release / download](https://github.com/graff0n/ck3-bannerlord-bridge/releases)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4659,7 +4661,7 @@ Stellar Blade runs alongside Minecraft Java (Fabric) and simulates EVE's control
 - [Release / download](https://github.com/MotherSphere/stellarblade-minecraft/releases)
 - [SkyCraft (transport upstream)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4686,7 +4688,7 @@ A BepInEx plugin for Subnautica paired with a Fabric Minecraft mod: Steve moves,
 - [SkyCraft (upstream credit)](https://github.com/chasmlol/SkyCraft)
 - [universal-modder (upstream credit)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4714,7 +4716,7 @@ A SkyCraft fork with the Skyrim half replaced by a UE4SS mod for Security Breach
 - [Creator profile](https://github.com/Mielesgames)
 - [SkyCraft (upstream fork source)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-22
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5614,6 +5616,61 @@ A Codeberg repository by KittyShopper that embeds DOOM in Balatro through Steamo
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
 **Dated source review:** 2026-10-28
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-lethal-company-doom-cryptoc1"></a>
+
+### LC DOOM (Lethal Company)
+
+**Guest:** DOOM (1993)  
+**Host:** Lethal Company  
+**Creator:** Cryptoc1  
+**Status:** Released  
+**Approach:** Managed C# Doom port (ManagedDoom) hosted in the game's ship terminal through a BepInEx plugin  
+
+A Lethal Company BepInEx mod that lets the player play DOOM on the ship's terminal. The README credits id Software, ManagedDoom and DoomInUnityInspector, indicating a managed C# Doom port running inside the game. Distributed through Thunderstore (v1.1.2, December 2023); the repository's last commit is January 2024.
+
+**Requirements:** Lethal Company with BepInExPack, installed through Thunderstore or a mod manager.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/Cryptoc1/lc-doom)
+- [Release / download](https://thunderstore.io/c/lethal-company/p/Cryptoc1/LC_DOOM/)
+- [Creator profile](https://github.com/Cryptoc1)
+
+**Dated source review:** 2026-10-29
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-viceabyss"></a>
+
+### ViceAbyss (Vice City in Subnautica 2)
+
+**Guest:** GTA Vice City (character animation, weapons, HUD)  
+**Host:** Subnautica 2  
+**Creator:** ApprenticeChaos  
+**Status:** Released · Experimental  
+**Approach:** SkyCraft-style passthrough: Vice City runs in the background and local shared-memory and file bridges drive Subnautica 2 entities  
+
+An experimental Windows alpha passthrough in the SkyCraft lineage: GTA Vice City runs in the background and supplies Tommy Vercetti's animated character, weapons and HUD while Subnautica 2 owns the world, movement, oxygen and creatures; local shared-memory and file bridges connect them. Fish kills can trigger a one-star wanted level and a NeedlerShark-mounted cop. Assets are extracted from the player's own Vice City install. The README lists a Vice City freeze during long background play as a known issue.
+
+**Requirements:** GTA Vice City 1.0 English (x86) and Subnautica 2 Build112084 (v0.10.0), plus the Killable Creatures and Simple Minimap mods at pinned versions; the release bundle includes the launcher and installer.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/ApprenticeChaos/ViceAbyss)
+- [Release / download](https://github.com/ApprenticeChaos/ViceAbyss/releases/tag/v0.1.0-alpha.2)
+- [Creator profile](https://github.com/ApprenticeChaos)
+- [SkyCraft (inspiration)](https://github.com/chasmlol/SkyCraft)
+
+**Dated source review:** 2026-10-29
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
