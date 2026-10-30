@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**208 entries:** 187 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**209 entries:** 188 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[WowFC](#project-wowfc) · [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy) · [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid) · [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) · [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft)
+[WowFC](#project-wowfc) · [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom) · [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy) · [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid) · [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) · [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -230,6 +230,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [PalCraft (Minecraft in Palworld)](#project-palcraft) | Runs Minecraft: Java Edition beside Palworld so you play Palworld as Steve with Minecraft movement, building and combat. | Code available · Experimental | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
+| [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom) | Security exploit that makes a crafted RollerCoaster Tycoon (1999) save file take over the game's thread and run Doom in its window. | Code available · Demo | — |
 | [SekiroCraft-Passthrough](#project-sekirocraft-passthrough) | Minecraft 1.20.1 characters, blocks and mobs operating inside Sekiro's scenes. | Code available · Experimental | — |
 | [Skate 3 Board for Garry's Mod](#project-skate3-gmod) | Runs Skate 3's board physics, tricks, cameras and bails inside Garry's Mod. | Code available · In development · Experimental · Unavailable | — |
 | [Skate 64 (Skating with a Plumber in a Magical Land)](#project-skate-64) | Retargets Skate 3's skating engine onto Mario inside sm64coopdx. | Code available · Experimental | — |
@@ -334,7 +335,7 @@ Minecraft remains running as the game-logic side while Skyrim renders the world.
 - [Creator profile](https://github.com/chasmlol)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -360,7 +361,7 @@ Minecraft runs natively on macOS while the host game runs under CrossOver. The b
 - [Source code](https://github.com/justbustin/minecraft-crossover-bridge)
 - [Creator profile](https://github.com/justbustin)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -384,7 +385,7 @@ A deliberately rough proof-of-concept built in a few nights. DOOM is rendered as
 - [Creator profile](https://github.com/tr7zw)
 - [vanilla-mocha-doom dependency](https://github.com/gaborbata/vanilla-mocha-doom/)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1567,7 +1568,7 @@ Minecraft owns player physics, inventory, combat, blocks and mobs while Subnauti
 - [Source code](https://github.com/FumperForrest/SubCraft)
 - [Creator profile](https://github.com/FumperForrest)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1909,7 +1910,7 @@ A Source SDK 2013 / Team Fortress 2 mod links the recovered Skate 3 simulation i
 - [Creator profile](https://github.com/Naitrate)
 - [Upstream Skate 3 Rust Engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2102,7 +2103,7 @@ Pressing M replaces Spider-Man with Mario running the actual Super Mario 64 move
 - [Overstrike mod manager](https://github.com/Tkachov/Overstrike)
 - [Submission issue](https://github.com/bailo167/awesome-game-mashups/issues/3)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2129,7 +2130,7 @@ A builder's toolkit for passthrough mods, where a guest game (usually Minecraft)
 - [Honest limits](https://github.com/Orinkle/passthrough-mod-toolkit#honest-limits)
 - [30-second stub demo](https://github.com/Orinkle/passthrough-mod-toolkit#30-second-demo)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2209,7 +2210,7 @@ Adds DOOM as an app on Schedule I's in-game TVs. A native DOOM runtime renders o
 - [DOOM II TV edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2483)
 - [Ultimate Doom / TNT / Plutonia edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2484)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2447,7 +2448,7 @@ Retro64 uses a libsm64 fork to simulate Super Mario 64's movement code in Minecr
 - [Watch demo](https://www.youtube.com/watch?v=2yWKqc2rmHI)
 - [Project page](https://retro64mod.github.io/)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2526,7 +2527,7 @@ Headshotnoby's plugin embeds libsm64 into GTA San Andreas so Mario moves with SM
 - [Release / download](https://github.com/headshot2017/sm64-san-andreas/releases)
 - [Watch demo](https://www.youtube.com/watch?v=AS86LTwcGcA)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2577,7 +2578,7 @@ Supersonic Mario uses libsm64 to drop a playable, networked SM64 Mario into Rock
 - [Source code](https://github.com/Serialbocks/SupersonicMarioPlugin)
 - [Release / download](https://github.com/Serialbocks/SupersonicMarioPlugin/releases/tag/v1.1.1)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2760,7 +2761,7 @@ A BepInEx plugin that uses the libsm64 Unity runtime to put Super Mario 64's Mar
 - [Creator profile](https://github.com/Squaresweets)
 - [libsm64-unity upstream](https://github.com/libsm64/libsm64-unity-dev)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4250,9 +4251,9 @@ Real Granny Legacy and Minecraft Java Edition run at the same time and Minecraft
 **Status:** Code available · Experimental  
 **Approach:** Fabric mod plus a BepInEx plugin talking over localhost; derived from the universal-modder passthrough example per the README.  
 
-A reverse-direction passthrough: Minecraft is the host world while ULTRAKILL runs hidden beside it and supplies V1's movement, weapons, arms and HUD. ULTRAKILL weapons damage Minecraft mobs, mobs hurt V1, and explosions break blocks. The README calls 0.1.3 an early release.
+A reverse-direction passthrough: Minecraft is the host world while ULTRAKILL runs hidden beside it and supplies V1's movement, weapons, arms and HUD. ULTRAKILL weapons damage Minecraft mobs, mobs hurt V1, and explosions break blocks. Release 0.2.0 (2026-10-30) adds online multiplayer and lets Steve fight ULTRAKILL enemies, with an off-by-default PvP setting; the mod and the ULTRAKILL DLL must be updated together.
 
-**Requirements:** Windows, Minecraft Java 26.3 with Fabric Loader 0.19.3 or newer and Fabric API, plus ULTRAKILL on Steam with BepInEx 5; single-player only.
+**Requirements:** Windows, Minecraft Java 26.3 with Fabric Loader 0.19.3 or newer and Fabric API, plus ULTRAKILL on Steam with BepInEx 5; 0.2.0 adds online multiplayer.
 
 **Platforms documented:** Windows
 
@@ -4260,7 +4261,7 @@ A reverse-direction passthrough: Minecraft is the host world while ULTRAKILL run
 - [Release / download](https://github.com/xandermodsstuff-dot/ultrakill-minecraft/releases)
 - [Creator profile](https://github.com/xandermodsstuff-dot)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4793,7 +4794,7 @@ A SkyCraft-lineage passthrough in which Minecraft Java 26.3 runs hidden while Re
 **Status:** Released · Code available · Experimental  
 **Approach:** SKSE plugin plus MSCLoader mod linking two simultaneously running games  
 
-An SKSE plugin for Skyrim Special/Anniversary Edition and an MSCLoader mod for My Summer Car run at the same time: Skyrim owns the world and draws everything while My Summer Car simulates the character, vehicles and drinking. A launcher batch file finds both games, installs the mods and starts them; the README calls v0.1.1 playable start to finish but young and links a trailer.
+An SKSE plugin for Skyrim Special/Anniversary Edition and an MSCLoader mod for My Summer Car run at the same time: Skyrim owns the world and draws everything while My Summer Car simulates the character, vehicles and drinking. A launcher batch file finds both games, installs the mods and starts them; the README calls v0.1.1 playable start to finish but young and links a trailer. Release v0.2.0 (2026-10-30) adds blackouts, food and drink effects, gold as money, hotbar powers, dwemer oil stations, solid vehicles, a Helgen intro and automated launcher setup.
 
 **Requirements:** Windows 10/11 able to run both games; Skyrim SE/AE (latest Steam version, or SE 1.5.97) with SKSE64 and Address Library; My Summer Car with MSCLoader. Run Start PerkeleRim.bat from the release zip and press F10 in Skyrim to hand over.
 
@@ -4804,7 +4805,7 @@ An SKSE plugin for Skyrim Special/Anniversary Edition and an MSCLoader mod for M
 - [Watch demo](https://youtu.be/IJzDb4E7bYA)
 - [Creator profile](https://github.com/rackmarten)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5745,6 +5746,34 @@ A WoW addon (Retail 12.0+, with a Classic install path in the README) that runs 
 - [Release / download](https://github.com/huchang47/WowFC/releases)
 - [Creator profile](https://github.com/huchang47)
 - [CurseForge](https://www.curseforge.com/wow/addons/WowFC)
+
+**Dated source review:** 2026-10-30
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-rcecoaster-doom"></a>
+
+### RCECoaster (Doom in RollerCoaster Tycoon)
+
+**Guest:** Doom (doomgeneric)  
+**Host:** RollerCoaster Tycoon (1999)  
+**Creator:** Rick de Jager  
+**Status:** Code available · Demo  
+**Approach:** Memory-corruption exploit loading a Doom (doomgeneric) shellcode blob that renders through the host's screen buffer  
+
+A proof-of-concept exploit for the 1999 Hasbro release of RollerCoaster Tycoon. A crafted save file gains code execution, grabs the game's screen-buffer handles and replaces the current thread with a shellcode build of Doom (doomgeneric Windows port compiled with MinGW), so Doom renders in the RCT window. The user supplies doom1.wad beside the save file. It relies on fixed offsets for one specific game build and the README lists stability limits such as screen resizing.
+
+**Requirements:** Linux build environment with a Rust compiler and i686-w64-mingw32-gcc; the exact 1999 Hasbro Interactive RollerCoaster Tycoon build named in the README; your own doom1.wad. Security PoC: use only in a disposable environment.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/RickdeJager/RCECoaster)
+- [Creator profile](https://github.com/RickdeJager)
+- [Exploit write-up](https://github.com/RickdeJager/RCECoaster/blob/HEAD/docs/WRITEUP.md)
+- [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
 **Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.

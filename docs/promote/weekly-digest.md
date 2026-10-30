@@ -3,6 +3,7 @@
 Week ending 2026-10-30. These are additions to the index, not necessarily new releases.
 
 - **[WowFC](https://github.com/bailo167/awesome-game-mashups#project-wowfc)** — World of Warcraft addon that runs NES/Famicom games in a draggable in-game window. (Released · Code available)
+- **[RCECoaster (Doom in RollerCoaster Tycoon)](https://github.com/bailo167/awesome-game-mashups#project-rcecoaster-doom)** — Security exploit that makes a crafted RollerCoaster Tycoon (1999) save file take over the game's thread and run Doom in its window. (Code available · Demo)
 - **[ViceAbyss (Vice City in Subnautica 2)](https://github.com/bailo167/awesome-game-mashups#project-viceabyss)** — Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. (Released · Experimental)
 - **[Valheim GameBoy](https://github.com/bailo167/awesome-game-mashups#project-valheim-gameboy)** — A BepInEx mod that adds a Game Boy emulator to Valheim. (Released · Experimental)
 - **[Playable GameBoy (Project Zomboid)](https://github.com/bailo167/awesome-game-mashups#project-playable-gameboy-zomboid)** — Runs Game Boy ROMs through the LuaGB emulator inside Project Zomboid. (Released · Experimental)

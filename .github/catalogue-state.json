@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-30",
-    "head_sha": "40a6d0ac8e035de3993072a83f185aa317d93aaa",
-    "project_count": 208,
+    "head_sha": "95c83f274c795614edd66e0e1f96a289fc156091",
+    "project_count": 209,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-30: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 157 GitHub-linked entries (retroconsole v0.3.2, warcraft-cs v0.16.0 updated; 6 repos private/gone) + 12 deep rechecks (11 re-read, retro-machines licence/source corrected; waw-zombies-web-crossovers unreachable, x.com 402) + discovery (~26 searches, 8 deferred leads rechecked; 1 new: wowfc, 3 deferred leads added). head_sha is the parent commit (40a6d0a). 11 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-10-30 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 159 GitHub repos (ultrakill-minecraft 0.2.0, perkelerim v0.2.0 updated; 5 repos private/gone, already recorded) + 12 deep rechecks (tags, LICENSE, commit dates) + discovery (8 searches, 1 new: rcecoaster-doom; 1 deferred lead added). head_sha is the parent commit. 11 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -573,6 +573,12 @@
       "name": "Pyxrs/Terracraft",
       "url": "https://github.com/Pyxrs/Terracraft",
       "why": "Terraria content in Minecraft; tags 0.0.0/0.1.0; README/LICENSE unread; likely adjacent",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "basiccube/SpicyTopping-libsm64 (Mario in Pizza Tower mod)",
+      "url": "https://github.com/basiccube/SpicyTopping-libsm64",
+      "why": "Bare libsm64 fork for 'The Spicy Topping' Pizza Tower mod; no README of its own, no release; actual mod repo not found",
       "date": "2026-10-30"
     }
   ],
