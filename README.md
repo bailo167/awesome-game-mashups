@@ -8,7 +8,7 @@
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-29. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-30. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -145,7 +145,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [QuakeCraft (Quake III Arena in Minecraft)](#project-quakecraft) | Two-process bridge running Quake III Arena's movement and weapons alongside Minecraft Java. | Released · Code available | — |
 | [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) | Runs Minecraft Java in the background of Resident Evil 4 UHD and draws its player, HUD and blocks inside RE4; alpha. | Released · Code available · Experimental | — |
 | [Retro Handheld Emulator 1x1 scale](#project-retro-handheld-emulator) | Runs playable Game Boy games on a giant in-world display inside Hytale. | Released | — |
-| [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Experimental | — |
+| [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Code available · Experimental | — |
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
 | [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) | A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. | Released · Code available · Experimental | — |
 | [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) | A Fabric mod that adds handhelds, home consoles, arcade cabinets and CRT televisions to Minecraft 1.21.1, each backed by a real libretro emulator core. | Released · Code available · Experimental | — |
@@ -305,7 +305,7 @@ A from-scratch Rust rewrite of MW2 that combines MW2 multiplayer, Skate 3-style 
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3324,7 +3324,7 @@ A Lucas' Simpsons Hit & Run Mod Launcher hack that embeds doomgeneric (Chocolate
 - [Creator profile](https://github.com/EnAppelsin)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3352,7 +3352,7 @@ Windows alpha in which Source (Left 4 Dead 2) owns the map, movement and infecte
 - [Creator profile](https://github.com/Rizen1322)
 - [Universal Modder (template origin)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3380,7 +3380,7 @@ A Windows mod based on chasmlol's SkyCraft framework: Minecraft Java runs in the
 - [Creator profile](https://github.com/Wanesia)
 - [SkyCraft (upstream framework)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3408,7 +3408,7 @@ A passthrough mod: Minecraft 26.3 (Fabric) runs alongside Half Sword (Early Acce
 - [Creator profile](https://github.com/Deez-coder)
 - [Universal Modder](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3436,7 +3436,7 @@ A BepInEx Subnautica plugin paired with a Fabric Minecraft mod: shared health, h
 - [Creator profile](https://github.com/JasonNinja15)
 - [SubCraft (separate project)](https://github.com/FumperForrest/SubCraft)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3519,7 +3519,7 @@ A fork of ER Mario re-done for Sekiro 1.06: libsm64 runs Mario in the game proce
 - [Creator profile](https://github.com/BassGaming)
 - [Upstream: ER Mario](https://github.com/deltarooo/er-mario)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3548,7 +3548,7 @@ A BepInEx mod that puts SM64's Mario, running on libsm64's real physics, into ol
 - [Creator profile](https://github.com/Shippy089)
 - [Wing Cap showcase (YouTube, linked from README)](https://youtu.be/82K-5s4_zy8)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3575,7 +3575,7 @@ A BepInEx-side exporter reads the player's own PEAK install and builds each day'
 - [Release / download](https://github.com/E1GAT0-dotcom/MinePeak/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/E1GAT0-dotcom)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3918,7 +3918,7 @@ A Beat Saber mod that uses ckosmic's modified libsm64 and libsm64-unity to put M
 - [Creator profile](https://github.com/ckosmic)
 - [libsm64 fork](https://github.com/ckosmic/libsm64/tree/changes)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3932,17 +3932,18 @@ A Beat Saber mod that uses ckosmic's modified libsm64 and libsm64-unity to put M
 **Guest:** Game Boy (rboy emulator)  
 **Host:** Minecraft: Java Edition (Fabric 1.20.1)  
 **Creator:** modmuss50  
-**Status:** Released · Experimental  
+**Status:** Released · Code available · Experimental  
 **Approach:** Fabric mod embedding a modified mvdnes/rboy Game Boy emulator, with ROM loading by button or drag-and-drop  
 
 A Fabric mod for Minecraft 1.20.1 that embeds a modified version of the open-source rboy Game Boy emulator, built to run inside a Minecraft mod. Players load their own ROMs with an Open ROM button or by dragging a file into the Minecraft window; the free 2048-gb homebrew game is bundled and no copyrighted ROMs are included. The creator calls it a prototype made in a couple of days, with better audio, link-cable play and other consoles listed only as future ideas. It overlaps in kind with the other emulator-in-Minecraft entries.
 
 **Requirements:** Minecraft Java Edition 1.20.1 with Fabric (client and server); the user supplies Game Boy ROMs.
 
+- [Source code](https://github.com/modmuss50/RetroMachines)
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/retro-machines)
 - [rboy emulator](https://github.com/mvdnes/rboy)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4016,7 +4017,7 @@ Players place a Retro Console block and a multiblock Screen wall, pick a game fr
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/Gaigen/retroconsole)
-- [Release / download](https://github.com/Gaigen/retroconsole/releases/tag/v0.3.1)
+- [Release / download](https://github.com/Gaigen/retroconsole/releases/tag/v0.3.2)
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/retroconsole)
 
 **Dated source review:** 2026-10-25
@@ -4336,7 +4337,7 @@ An offline single-player fan project that lets the player control a Warcraft III
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/YazgulDev/warcraft-cs)
-- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.15.0)
+- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.16.0)
 - [Creator profile](https://github.com/YazgulDev)
 - [Press: cybersport.ru](https://www.cybersport.ru/tags/cs2/modder-skrestil-warcraft-iii-i-cs-1-6-teper-mozhno-poigrat-v-shuter-na-karte-rts)
 
@@ -4746,7 +4747,7 @@ A SMAPI mod that source-ports doomgeneric into Stardew Valley's process so Doom 
 - [Watch demo](https://youtu.be/cm0XKAgUfPw)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-23
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

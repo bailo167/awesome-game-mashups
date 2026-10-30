@@ -670,6 +670,11 @@
       "id": "palcraft",
       "host": "github.com (repo returns credential prompt/404 on 2026-10-29)",
       "date": "2026-10-29"
+    },
+    {
+      "id": "waw-zombies-web-crossovers",
+      "host": "x.com (HTTP 402 via WebFetch); Dexerto secondary only",
+      "date": "2026-10-30"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-10-29. These are additions to the index, not necessarily new releases.
+Week ending 2026-10-30. These are additions to the index, not necessarily new releases.
 
 - **[ViceAbyss (Vice City in Subnautica 2)](https://github.com/bailo167/awesome-game-mashups#project-viceabyss)** — Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. (Released · Experimental)
 - **[Valheim GameBoy](https://github.com/bailo167/awesome-game-mashups#project-valheim-gameboy)** — A BepInEx mod that adds a Game Boy emulator to Valheim. (Released · Experimental)
@@ -39,4 +39,3 @@ Week ending 2026-10-29. These are additions to the index, not necessarily new re
 - **[Mario 64 Survivor (Super Mario 64 in Risk of Rain 2)](https://github.com/bailo167/awesome-game-mashups#project-mario-64-survivor)** — BepInEx mod that adds Super Mario 64's Mario as a Risk of Rain 2 survivor with libsm64 movement. (Released · Code available)
 - **[HalfCraft (Minecraft in Half-Life 2, whiskydumb)](https://github.com/bailo167/awesome-game-mashups#project-halfcraft-whiskydumb)** — Runs real Minecraft hidden over shared memory inside Half-Life 2 / Episodes via a Source SDK 2013 mod. (Released · Code available · Experimental)
 - **[BOTWCraft (Minecraft in Breath of the Wild)](https://github.com/bailo167/awesome-game-mashups#project-botwcraft)** — Work-in-progress passthrough that lets a Minecraft Java client play Breath of the Wild running in Cemu. (Code available · Experimental)
-- **[DoomValley (Doom in Stardew Valley)](https://github.com/bailo167/awesome-game-mashups#project-doomvalley)** — Playable Doom running inside Stardew Valley as a SMAPI mod, built on doomgeneric. (Released · Code available · Demo)
