@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**207 entries:** 186 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**208 entries:** 187 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy) · [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid) · [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) · [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) · [Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](#project-left4craft2)
+[WowFC](#project-wowfc) · [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy) · [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid) · [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) · [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) · [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -183,6 +183,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [WitcherCraft](#project-witchercraft) | Lets you play The Witcher 3 as Minecraft's Steve (walk, build, fight) while real Minecraft runs alongside. | Released · Code available | — |
 | [Wither Storm × GTA V Passthrough](#project-wither-storm-gta-v) | Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=spm-u_cZvl8) |
 | [WowCraft — Minecraft inside World of Warcraft](#project-wowcraft) | Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1. | Released · Experimental | [Watch](https://www.youtube.com/watch?v=sX3lsLiPS2s) |
+| [WowFC](#project-wowfc) | World of Warcraft addon that runs NES/Famicom games in a draggable in-game window. | Released · Code available | — |
 
 ### Code, demos and projects in development
 
@@ -5720,6 +5721,32 @@ A Nexus Mods technical demo for Project Zomboid (Build 41) that runs Game Boy RO
 - [Release / download](https://www.nexusmods.com/projectzomboid/mods/134)
 
 **Dated source review:** 2026-10-29
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-wowfc"></a>
+
+### WowFC
+
+**Guest:** NES / Famicom games (Lua emulator)  
+**Host:** World of Warcraft  
+**Creator:** huchang47  
+**Status:** Released · Code available  
+**Approach:** NES emulator (CPU/PPU) written in Lua and run as a WoW addon  
+
+A WoW addon (Retail 12.0+, with a Classic install path in the README) that runs NES/Famicom games inside the game UI. Users supply their own .nes ROMs, convert them to Lua data with the bundled ROM converter and /reload. It supports mappers 0-4, key remapping, turbo, frame skip, an optional scanline-accurate renderer, a sound toggle and a performance-boost mode that uncaps the WoW frame limit.
+
+**Requirements:** World of Warcraft Retail 12.0+; your own legal .nes ROMs converted with the bundled WowFC_ROM_Converter.exe, then /reload; slash commands /fc and /WowFC.
+
+- [Source code](https://github.com/huchang47/WowFC)
+- [Release / download](https://github.com/huchang47/WowFC/releases)
+- [Creator profile](https://github.com/huchang47)
+- [CurseForge](https://www.curseforge.com/wow/addons/WowFC)
+
+**Dated source review:** 2026-10-30
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

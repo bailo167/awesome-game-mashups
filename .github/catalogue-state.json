@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-29",
-    "head_sha": "e99593ac419b38e2fbe0cfbb1746dfa169fa35cc",
-    "project_count": 207,
+    "verified_at": "2026-10-30",
+    "head_sha": "40a6d0ac8e035de3993072a83f185aa317d93aaa",
+    "project_count": 208,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-29 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 157 GitHub-linked entries (libertycraft v0.1.11, warcraft-cs v0.15.0, retroconsole v0.3.1 updated; 5 repos private/gone) + 12 deep rechecks (doom-hytale-papispielt, skate3-gmod, chanyoris, arcade-paradise-freeplay, g64, doom-in-doom, doomsona, doom-sonic-mania, minecraft-in-minecraft-chungus-2, factorio-doom, celeste-doom, minecraft-x-saints-row-3) + discovery (~30 searches; 2 new, 3 deferred leads added). head_sha is the parent commit. 10 records in unreachable_from_routine (craftmsc, viceabyss, palcraft added today). No play-tests."
+    "scope": "Run 2026-10-30: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 157 GitHub-linked entries (retroconsole v0.3.2, warcraft-cs v0.16.0 updated; 6 repos private/gone) + 12 deep rechecks (11 re-read, retro-machines licence/source corrected; waw-zombies-web-crossovers unreachable, x.com 402) + discovery (~26 searches, 8 deferred leads rechecked; 1 new: wowfc, 3 deferred leads added). head_sha is the parent commit (40a6d0a). 11 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -556,6 +556,24 @@
       "url": "https://github.com/Asphaltian/sgba",
       "why": "GPL-3.0, no tags; s&box is a creation platform, host fit questionable",
       "date": "2026-10-29"
+    },
+    {
+      "name": "Mariocraft 64 (libsm64 Fabric mod)",
+      "url": "https://moddex.gg/mod/mariocraft-64",
+      "why": "moddex.gg 403; snippets only, no repo, licence or author found; overlaps retro64",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "Molior RS (RuneScape in Neverwinter Nights 2)",
+      "url": "https://www.pcgamer.com/",
+      "why": "PC Gamer snippet only; no primary source fetched",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "Pyxrs/Terracraft",
+      "url": "https://github.com/Pyxrs/Terracraft",
+      "why": "Terraria content in Minecraft; tags 0.0.0/0.1.0; README/LICENSE unread; likely adjacent",
+      "date": "2026-10-30"
     }
   ],
   "structural_upgrade": {
