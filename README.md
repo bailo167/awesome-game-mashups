@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**209 entries:** 188 core projects, 8 unconfirmed sightings and 13 related projects. Not all entries are verified releases.
+**212 entries:** 190 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-30. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-10-31. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[WowFC](#project-wowfc) · [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom) · [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy) · [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid) · [LC DOOM (Lethal Company)](#project-lethal-company-doom-cryptoc1) · [balatro-doom (KittyShopper)](#project-balatro-doom-kittyshopper) · [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala)
+[The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) · [WowFC](#project-wowfc) · [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom) · [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy) · [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -53,6 +53,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | Project | What it is | Status | Demo |
 |---|---|---|---|
 | [2010 Rust Rewrite Mashup](#project-rust-rewrite-mashup) | Combines Modern Warfare 2 multiplayer, Skate-style skating and a Minecraft world. | Released · Code available | — |
+| [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) | Rust DLL that runs Doom inside Armored Core VI and shows its frames on a 160x100 screen of 16,000 effect particles. | Released · Code available · Demo | — |
 | [Arcade Mod Reloaded](#project-arcade-mod-reloaded) | Adds six playable arcade games, including Tetris, Pac-Man and Donkey Kong, to Minecraft. | Released · Code available | — |
 | [Bannerlord x Minecraft Passthrough](#project-bannerlord-minecraft-passthrough) | Puts Minecraft's Steve into Mount & Blade II: Bannerlord battles, with Minecraft combat, blocks and inventory running side by side. | Released · Code available | — |
 | [Bethception - Unified Gaming Framework](#project-bethception) | Plays Fallout 1, 2 and 3 and several Elder Scrolls games on Fallout 4's Pip-Boy. | Released | — |
@@ -240,6 +241,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [SM64 Vice City Native](#project-sm64-vc-native) | ASI plugin that runs Mario's Super Mario 64 physics inside classic GTA: Vice City via libsm64. | Code available · Experimental | — |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
 | [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
+| [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) | World of Warcraft addon that emulates a RISC-V Linux machine in Lua to run Doom. | Code available · Experimental | — |
 | [Ultracraft](#project-ultracraft) | Plays the real ULTRAKILL inside real Minecraft: Java Edition, drawing it into Minecraft's window. | Released · Unavailable | — |
 | [Ultrakill in Ultrakill](#project-ultrakill-in-ultrakill) | Plays ULTRAKILL on in-game terminals inside ULTRAKILL, three instances deep. | Code available · Demo | — |
 | [ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) | Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD. | Code available · Experimental | — |
@@ -269,6 +271,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 |---|---|---|---|
 | [ccboy — Game Boy in Minecraft](#project-ccboy) | Streams Game Boy gameplay from an external emulator to ComputerCraft monitors in Minecraft. | Code available · Related | — |
 | [Chanyoris](#project-chanyoris) | Runs a full competitive falling-block puzzle game inside a Minecraft map item. | Released · Related | — |
+| [Computerraria (RISC-V computer in Terraria)](#project-computerraria) | A RISC-V (rv32i) computer built in Terraria's wiring system; related precursor to in-game computers. | Code available · Related | — |
 | [DOOM RING](#project-doom-ring) | DOOM Eternal's guns, glory kills, HUD and combat music inside Elden Ring, built from your own DOOM Eternal install. | Released · Related | — |
 | [DOOMTEST (Arma Reforger)](#project-doomtest-arma-reforger) | A Doom-style shooter, with a map editor, on an arcade cabinet inside Arma Reforger. | Released · Related | — |
 | [GEMU — retro consoles in Garry's Mod](#project-gemu-gmod) | Puts playable retro consoles and handhelds into Garry's Mod. | Released · Code available · Experimental · Related | — |
@@ -2785,7 +2788,7 @@ Three ULTRAKILL instances run at once; each frame, screenshots are passed betwee
 - [Source code](https://github.com/Squaresweets/Ultrakill-in-Ultrakill)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2813,7 +2816,7 @@ A fork of GZDoom 3.2.0 that swaps the Doom player for a playable Super Mario 64 
 - [Creator profile](https://github.com/headshot2017)
 - [libsm64 upstream](https://github.com/libsm64/libsm64)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2839,7 +2842,7 @@ A fork of XProger's open-source OpenLara engine that adds a libsm64 Mario to Tom
 - [Creator profile](https://github.com/headshot2017)
 - [OpenLara upstream](https://github.com/XProger/OpenLara)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3294,11 +3297,11 @@ An F4SE mod that renders The Elder Scrolls III: Morrowind, running through OpenM
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/rpgking117/Holo-Wind-Windows)
-- [Release / download](https://github.com/rpgking117/Holo-Wind-Windows/releases)
+- [Release / download](https://github.com/rpgking117/Holo-Wind-Windows/releases/tag/V1.23.0)
 - [Creator profile](https://github.com/rpgking117)
 - [Nexus Mods page (version 1.23.1 updated 2026-05-16 per the Nexus API)](https://www.nexusmods.com/fallout4/mods/104456)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3630,7 +3633,7 @@ An xNVSE plugin that runs SM64's own movement code through libsm64, collides it 
 - [Source code](https://github.com/larsoyd/fnv-libsm64)
 - [Creator profile](https://github.com/larsoyd)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3658,7 +3661,7 @@ Minecraft Java runs alongside Lethal Company and the two talk through a bridge a
 - [Creator profile](https://github.com/ThatGuyTHD)
 - [Upstream: SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3685,7 +3688,7 @@ Two small mods linked through shared memory: PEAK draws blocks, lighting and fog
 - [Creator profile](https://github.com/aeironnsarmiento)
 - [Upstream: SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3712,7 +3715,7 @@ Brings Skate 3's Flick-It controls, board physics, grinds, manuals, tricks, bail
 - [Release / download](https://github.com/becaring/SK8V/releases/tag/1.1.10)
 - [Creator profile](https://github.com/becaring)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3759,10 +3762,12 @@ Joins the creator's Black Ops II Zombies rebuild with chasmlol's 2010 Rust Rewri
 
 A Hytale server plugin that wraps the pure-Java JPC x86 emulator and renders 640x480 VGA output at about 30 FPS on the in-game world map, with disk and CD image support and keyboard/mouse input via chat commands or input modes.
 
+**Requirements:** Hytale server with the TaleLib and VideoMaps plugins, a Win95/FreeDOS/other x86 disk image (.img/.iso) in mods/SSquadTeam_TempleMaps/, an et4000.bin VGA BIOS in data/bios/, and a build from source (./gradlew build); no release download.
+
 - [Source code](https://github.com/ssquadteam/TempleMaps)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3995,7 +4000,7 @@ Both games run together on Windows and talk over a custom bridge: Nine Sols keep
 - [Source code](https://github.com/emmveepee/Hollow-Sols-Godhome)
 - [Release / download](https://github.com/emmveepee/Hollow-Sols-Godhome/releases/tag/v0.1.0)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4362,7 +4367,7 @@ An offline single-player fan project that lets the player control a Warcraft III
 
 A BepInEx plugin for ULTRAKILL and a Fabric mod for Minecraft that exchange data through memory-mapped files. Minecraft runs the player, physics, inventory, mining and building, mobs and GUI while ULTRAKILL draws the world natively and feeds its level collision into Minecraft. The README lists combat balance and burning-mob effects as not done and says it takes architecture ideas, but no code, from SkyCraft.
 
-**Requirements:** ULTRAKILL (Unity 2022.3 Mono) with BepInEx 5.4.23.2 win_x64, Minecraft 26.3 with Fabric, your own copies of both games and a build from source; the README says the author develops on Linux with ULTRAKILL under Wine and native Windows is supported in code but untested.
+**Requirements:** ULTRAKILL (Steam, Unity 2022.3 Mono x64) with BepInEx 5.4.23.2 win_x64, Minecraft 26.3 with Fabric Loader 0.19.5+ and Java 25, your own copies of both games; install Minekill.ULTRAKILL.dll and minekill-minecraft-0.1.0.jar from the same release (or build from source). The README says the author develops on Linux with ULTRAKILL under Wine and Windows is untested.
 
 **Platforms documented:** Linux (Wine)
 
@@ -4370,7 +4375,7 @@ A BepInEx plugin for ULTRAKILL and a Fabric mod for Minecraft that exchange data
 - [Release / download](https://github.com/niliota/MINEKILL/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/niliota)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4777,7 +4782,7 @@ A SkyCraft-lineage passthrough in which Minecraft Java 26.3 runs hidden while Re
 - [Creator profile](https://github.com/Utimaa)
 - [SkyCraft (credited upstream)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4833,7 +4838,7 @@ A Windows package that runs Ship of Harkinian (Ocarina of Time, with ShipwrightO
 - [Creator profile](https://github.com/Shqn3)
 - [ocarina-coop sohcraft branch](https://github.com/Shqn3/ocarina-coop/tree/sohcraft)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5776,6 +5781,87 @@ A proof-of-concept exploit for the 1999 Hasbro release of RollerCoaster Tycoon. 
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
 **Dated source review:** 2026-10-30
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-ac6-fxr-doom"></a>
+
+### AC6-FXR-DOOM-POC (Doom in Armored Core VI)
+
+**Guest:** Doom (doomgeneric)  
+**Host:** Armored Core VI: Fires of Rubicon  
+**Creator:** lugia19  
+**Status:** Released · Code available · Demo  
+**Approach:** Rust DLL running doomgeneric on a thread and feeding frame pixels to particle colours through a hooked effect external-value function  
+
+A proof-of-concept mod for Armored Core VI: Fires of Rubicon (1.09.1). A DLL loaded through me3 (ModEngine 3) runs Doom (doomgeneric) on its own thread and hooks the function that visual effects read external values through, so each of 16,000 particles is coloured from Doom's frame buffer. Equipping the RF-024 TURNER and RF-025 SCUDDER weapons and firing them while standing still builds the screen; keyboard input is passed to Doom. The release zip bundles shareware doom1.wad.
+
+**Requirements:** Armored Core VI on Steam pinned to version 1.09.1, me3 (ModEngine 3), and the RF-024 TURNER and RF-025 SCUDDER weapons equipped; the release zip includes shareware doom1.wad (optional own doom.wad/doom2.wad).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/lugia19/AC6-FXR-DOOM-POC)
+- [Release / download](https://github.com/lugia19/AC6-FXR-DOOM-POC/releases)
+- [Creator profile](https://github.com/lugia19)
+- [AC6-FXR-DLL-POC (technique)](https://github.com/lugia19/AC6-FXR-DLL-POC)
+- [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
+
+**Dated source review:** 2026-10-31
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-wow-doom-within"></a>
+
+### The Doom Within (Doom in World of Warcraft)
+
+**Guest:** Doom  
+**Host:** World of Warcraft  
+**Creator:** tna0y  
+**Status:** Code available · Experimental  
+**Approach:** Lua addon emulating a RISC-V Linux environment inside the WoW addon sandbox  
+
+A World of Warcraft addon written in Lua that embeds an emulated RISC-V/Linux environment and runs Doom inside the game client. The README points to a CurseForge listing for downloads and to the related vladvis/risc-v-wow-emu emulator for running other programs; building uses a Makefile and, on Windows, deploy.bat. The CurseForge listing was not independently read.
+
+**Requirements:** World of Warcraft client with addons enabled; README says the addon is distributed on CurseForge (listing not independently verified) or built from source with the Makefile (Linux/WSL).
+
+**Platforms documented:** Windows, macOS
+
+- [Source code](https://github.com/tna0y/wow-doom-within)
+- [Creator profile](https://github.com/tna0y)
+- [CurseForge listing (named in README, unverified)](https://legacy.curseforge.com/wow/addons/doom-within)
+- [risc-v-wow-emu](https://github.com/vladvis/risc-v-wow-emu)
+
+**Dated source review:** 2026-10-31
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-computerraria"></a>
+
+### Computerraria (RISC-V computer in Terraria)
+
+**Guest:** RISC-V computer (Pong and other programs)  
+**Host:** Terraria  
+**Creator:** Xander Naumenko (misprit7)  
+**Status:** Code available · Related  
+**Approach:** CPU built in Terraria's wiring system  
+**Scope note:** A CPU built in Terraria's wiring system rather than another game running inside it.  
+
+A fully rv32i-compliant RISC-V computer built from Terraria's wiring system, with tooling to run programs on it (the creator's video shows Pong and Rust programs). It is a systems recreation of a CPU rather than another commercial game running inside Terraria, so it is kept as an adjacent historical precursor.
+
+- [Source code](https://github.com/misprit7/computerraria)
+- [Creator profile](https://github.com/misprit7)
+- [Creator video explanation](https://youtu.be/zXPiqk0-zDY)
+
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-30",
-    "head_sha": "95c83f274c795614edd66e0e1f96a289fc156091",
-    "project_count": 209,
+    "verified_at": "2026-10-31",
+    "head_sha": "0af2cb183f4d830721a115d5723ab56907ad5e5c",
+    "project_count": 212,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-30 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 159 GitHub repos (ultrakill-minecraft 0.2.0, perkelerim v0.2.0 updated; 5 repos private/gone, already recorded) + 12 deep rechecks (tags, LICENSE, commit dates) + discovery (8 searches, 1 new: rcecoaster-doom; 1 deferred lead added). head_sha is the parent commit. 11 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-10-31: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 160 GitHub entries (morrowind-pipboy-edition corrected; others tag-naming quirks) + 12 deep rechecks (bo2-minecraft-zombies unreadable, replaced by sohcraft) + discovery (~17 searches, 3 new: ac6-fxr-doom, wow-doom-within, computerraria; 3 deferred leads added). head_sha is the parent commit. 12 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -580,6 +580,24 @@
       "url": "https://github.com/basiccube/SpicyTopping-libsm64",
       "why": "Bare libsm64 fork for 'The Spicy Topping' Pizza Tower mod; no README of its own, no release; actual mod repo not found",
       "date": "2026-10-30"
+    },
+    {
+      "name": "Deathbringer's Reign (Baldur's Gate 1 in BG3, 786r786)",
+      "url": "https://www.nexusmods.com/baldursgate3/mods/18315",
+      "why": "Nexus page 403 from sandbox; press only (FinalBoss, GameStar), date conflict; likely adjacent campaign rebuild",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "m7rk/vrchat-gameboy",
+      "url": "https://github.com/m7rk/vrchat-gameboy",
+      "why": "MIT, no release; README says almost playable Game Boy emulator in VRChat Udon; not independently read",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "Factorio forum game console (Pong/Snake/T-Rex) and Factorio RISC-V CPU projects",
+      "url": "https://forums.factorio.com/viewtopic.php?p=615404",
+      "why": "Forum/press only, no repo located; adjacent to factorio-doom",
+      "date": "2026-10-31"
     }
   ],
   "structural_upgrade": {
@@ -699,6 +717,11 @@
       "id": "waw-zombies-web-crossovers",
       "host": "x.com (HTTP 402 via WebFetch); Dexerto secondary only",
       "date": "2026-10-30"
+    },
+    {
+      "id": "bo2-minecraft-zombies",
+      "host": "github.com (raw README/LICENSE and releases 404; git ls-remote asks for credentials)",
+      "date": "2026-10-31"
     }
   ]
 }
