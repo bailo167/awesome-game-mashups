@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-10-31",
-    "head_sha": "0af2cb183f4d830721a115d5723ab56907ad5e5c",
-    "project_count": 212,
+    "head_sha": "b278c9cda385b31c6e91eb6ecaeb547335c18b74",
+    "project_count": 213,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-31: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 160 GitHub entries (morrowind-pipboy-edition corrected; others tag-naming quirks) + 12 deep rechecks (bo2-minecraft-zombies unreadable, replaced by sohcraft) + discovery (~17 searches, 3 new: ac6-fxr-doom, wow-doom-within, computerraria; 3 deferred leads added). head_sha is the parent commit. 12 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-10-31 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 163 GitHub entries (no real new releases; tag-naming quirks only; 4 dead repos unreadable as expected) + 12 deep rechecks + discovery (~18 searches across 2 agents; 1 new: smolnes-nut; 2 deferred leads added). head_sha is the parent commit. 12 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -74,7 +74,7 @@
     {
       "name": "Stonqz27/SK8V-Enhanced",
       "url": "https://github.com/Stonqz27/SK8V-Enhanced",
-      "why": "Enhanced-edition port of sk8v (pre-release 2026-10-12); could be noted on sk8v",
+      "why": "Enhanced-edition port of sk8v (pre-release 2026-10-12); could be noted on sk8v; rechecked 2026-10-31: Apache-2.0, second preview tag 1.1.8-enhanced.2-preview",
       "date": "2026-10-13"
     },
     {
@@ -598,6 +598,18 @@
       "url": "https://forums.factorio.com/viewtopic.php?p=615404",
       "why": "Forum/press only, no repo located; adjacent to factorio-doom",
       "date": "2026-10-31"
+    },
+    {
+      "name": "cykoder/quake-arcade",
+      "url": "https://github.com/cykoder/quake-arcade",
+      "why": "QuakeC arcade cabinet with an original Pong clone; no licence or tags; likely out of scope (not another game rebuilt)",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "Spider-Man web-swinging in Batman: Arkham Knight (@NikTek)",
+      "url": "https://x.com/NikTek/status/2106015141099643239",
+      "why": "Social post only (2026-10-02, says AI-assisted); no repo/download; likely adjacent/video-only",
+      "date": "2026-10-31"
     }
   ],
   "structural_upgrade": {
@@ -637,7 +649,7 @@
       "reachable": 115,
       "unavailable_404_410": 0,
       "unresolved": 8,
-      "outcome": "INCOMPLETE — unresolved HTTP responses retained, not treated as verified or dead",
+      "outcome": "INCOMPLETE \u2014 unresolved HTTP responses retained, not treated as verified or dead",
       "artifact_name": "link-reachability"
     },
     "pages": "Enabled by the owner on 2026-10-09; deployed by Catalogue integrity run 37885377282 and read back.",

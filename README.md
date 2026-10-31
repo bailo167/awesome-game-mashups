@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**212 entries:** 190 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
+**213 entries:** 191 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) · [WowFC](#project-wowfc) · [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom) · [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy) · [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid)
+[The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [smolnes-nut](#project-smolnes-nut) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) · [WowFC](#project-wowfc) · [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom) · [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -239,6 +239,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Skyrim Shouts and Dragons in Fallout 4 (Glenny)](#project-skyrim-shouts-fallout-4-glenny) | Creator videos show Skyrim's dragon shouts and dragons running in Fallout 4; no download yet. | In development · Video only | [Watch](https://www.youtube.com/watch?v=KZQqJivPKac) |
 | [Skyring (Elden Ring combat in Skyrim)](#project-skyring) | Pre-alpha SKSE plugin that runs Elden Ring hidden and streams its rolls, stamina and swings onto the Skyrim character. | Code available · In development · Experimental | — |
 | [SM64 Vice City Native](#project-sm64-vc-native) | ASI plugin that runs Mario's Super Mario 64 physics inside classic GTA: Vice City via libsm64. | Code available · Experimental | — |
+| [smolnes-nut](#project-smolnes-nut) | Ports the smolnes NES emulator to Squirrel so it runs inside Portal 2's VScript, with a (barely playable) in-map demo. | Code available · Experimental | — |
 | [SubCraft](#project-subcraft) | Connects Minecraft physics, blocks and mobs to Subnautica's world and rendering. | Code available · In development · Experimental | — |
 | [TempleMaps](#project-templemaps-hytale) | Runs Windows 95 and FreeDOS on a Hytale world map through the JPC x86 emulator. | Code available · Experimental | — |
 | [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) | World of Warcraft addon that emulates a RISC-V Linux machine in Lua to run Doom. | Code available · Experimental | — |
@@ -412,7 +413,7 @@ Runs DOOM through Hytale's in-game world-map display at a targeted 35 FPS, with 
 - [Source code](https://github.com/ssquadteam/DoomMaps)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -562,14 +563,14 @@ A historically important technical precursor: Wasmcraft compiles WebAssembly pro
 
 Recreates generator objectives and skill checks, pallets/vaulting, health states, hooks, lockers, Trapper bear traps, terror radius, carrying/wiggle mechanics and custom UI.
 
-**Requirements:** Minecraft Bedrock (CurseForge lists 1.26.50, 1.26.40, 1.26.30 and 1.21.130); the 'Beta APIs' (GameTest Framework) world toggle must be on.
+**Requirements:** Minecraft Bedrock (CurseForge lists the newest file, V2, for 26.40 and 26.50; older files list 1.21.130 and 26.30); the 'Beta APIs' (GameTest Framework) world toggle must be on.
 
 **Platforms documented:** Minecraft Bedrock Edition
 
 - [Release / download](https://www.curseforge.com/minecraft-bedrock/addons/dead-by-daylight)
 - [Watch demo](https://www.youtube.com/watch?v=plcN45eaRwg)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -596,7 +597,7 @@ A modern port/continuation of the older Arcade Mod with six playable arcade recr
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/arcade-mod-reloaded)
 - [Project page](https://modrinth.com/mod/arcade-mod-reloaded)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4866,7 +4867,7 @@ A Source SDK 2013 mod for Half-Life 2, Episode One and Episode Two (or the HL2:D
 - [Creator profile](https://github.com/whiskydumb)
 - [hl2dm-sp (HL2:DM engine base)](https://github.com/hardlightbridge/hl2dm-sp)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4893,7 +4894,7 @@ A mod for the fan fighting game SMBZ-G that replaces Mario with SM64 Mario; it n
 - [Release / download](https://github.com/headshot2017/sm64-in-smbz/releases)
 - [Creator profile](https://github.com/headshot2017)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4920,7 +4921,7 @@ Skyrim is the visible host and Elden Ring (offline, loaded with me3) runs hidden
 - [Creator profile](https://github.com/BennettCode)
 - [SkyCraft (named pattern)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4945,7 +4946,7 @@ A --!strict Luau port of Super Mario 64's movement code, based on the n64decomp 
 - [Original Roblox game](https://www.roblox.com/games/10238956318/funny-64-bit-platformer)
 - [SM64 decompilation](https://github.com/n64decomp/sm64)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4971,7 +4972,7 @@ Press F10 to become Mario: libsm64 movement runs on Skyrim's real world collisio
 - [libsm64](https://github.com/libsm64/libsm64)
 - [NG64 (same creator)](https://github.com/zer0ducksgiven/NG64)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4998,7 +4999,7 @@ Adds Mario as a character-select survivor with his full SM64 moveset, voice and 
 - [libsm64](https://github.com/libsm64/libsm64)
 - [Melty installer (third party)](https://melty.gg/m/mario-64-survivor)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5025,7 +5026,7 @@ A Minecraft Java client runs beside Breath of the Wild in Cemu and a native Vulk
 - [Release / download](https://github.com/arskyandre/botwcraft-fabric/releases)
 - [SkyCraft (adapted)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5051,7 +5052,7 @@ Minecraft Java runs next to Death Stranding Director's Cut and is composited int
 - [Source code](https://github.com/mihailinl/minecraft-in-death-stranding)
 - [universal-modder (model)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5070,7 +5071,7 @@ Minecraft Java runs next to Death Stranding Director's Cut and is composited int
 
 A Quake III Arena engine runs beside Minecraft Java (Fabric) over Win32 shared memory, with Quake's pmove strafe-jumping and weapons composited into the Minecraft window and Quake weapons damaging Minecraft mobs and blocks. The README (in Russian) links the creator's YouTube demo and requires the player's own pak0.pk3. No licence file is published.
 
-**Requirements:** Windows 10/11 x64, Minecraft Java with Fabric and Fabric API, a JDK with the Foreign Function and Memory API, and the user's own Quake III pak0.pk3.
+**Requirements:** Windows 10/11 x64, Minecraft 26.3 Java with Fabric Loader 0.19.5+ and Fabric API, a JDK with the Foreign Function and Memory API (launcher flag --enable-native-access=ALL-UNNAMED), and the user's own Quake III pak0.pk3.
 
 **Platforms documented:** Windows
 
@@ -5078,7 +5079,7 @@ A Quake III Arena engine runs beside Minecraft Java (Fabric) over Win32 shared m
 - [Release / download](https://github.com/kilobyt1/QuakeCraft/releases)
 - [Creator demo (YouTube)](https://www.youtube.com/watch?v=l7rIfBAF9Cc)
 
-**Dated source review:** 2026-10-24
+**Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5860,6 +5861,32 @@ A fully rv32i-compliant RISC-V computer built from Terraria's wiring system, wit
 - [Source code](https://github.com/misprit7/computerraria)
 - [Creator profile](https://github.com/misprit7)
 - [Creator video explanation](https://youtu.be/zXPiqk0-zDY)
+
+**Dated source review:** 2026-10-31
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-smolnes-nut"></a>
+
+### smolnes-nut
+
+**Guest:** Nintendo Entertainment System (smolnes emulator)  
+**Host:** Portal 2  
+**Creator:** p2r3 (PortalRunner)  
+**Status:** Code available · Experimental  
+**Approach:** NES emulator (port of binji/smolnes) written in Squirrel running in Portal 2's VScript runtime  
+
+A Squirrel port of binji's smolnes NES emulator, usable as a library in any Squirrel environment. Its Portal 2 example loads a ROM as a hex-byte array and renders frames in the game's Triple Laser map; the README says the demo ROM (LJ65) is impossible to play at that resolution and only mapper 1 has been tested.
+
+**Requirements:** Portal 2 with the example portal2_dlc3 folder and smolnes.nut copied into the game files; load map sp_a2_triple_laser via the console; the user supplies a ROM converted to a Squirrel array of hex bytes.
+
+**Platforms documented:** Windows, Linux
+
+- [Source code](https://github.com/p2r3/smolnes-nut)
+- [smolnes upstream (binji)](https://github.com/binji/smolnes)
 
 **Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
