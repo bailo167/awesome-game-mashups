@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**213 entries:** 191 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
+**215 entries:** 193 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [smolnes-nut](#project-smolnes-nut) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) · [WowFC](#project-wowfc) · [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom) · [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) · [Valheim GameBoy](#project-valheim-gameboy)
+[MineDoom](#project-minedoom) · [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) · [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [smolnes-nut](#project-smolnes-nut) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) · [WowFC](#project-wowfc) · [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -77,6 +77,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [DOOM on Hytale — PapiSpielt](#project-doom-hytale-papispielt) | Reconstructs classic DOOM WAD levels as Hytale worlds with enemies and items mapped into Hytale. | Released · Code available · Experimental | — |
 | [Doom-in-Doom](#project-doom-in-doom) | Runs a second copy of Doom on a wall inside unmodified DOS Doom II using a code-execution exploit. | Released · Code available | [Watch](https://www.youtube.com/watch?v=c6hnQ1RKhbo) |
 | [DoomCraft](#project-doomcraft-roryekay) | Runs Minecraft Java gameplay inside classic Doom and Doom II through a patched GZDoom engine. | Released · Code available · Experimental | — |
+| [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) | Adds a craftable CRT television to Minecraft that shows an isolated LZDoom process running player-supplied WADs. | Released · Code available | — |
 | [DOOMSona (DOOM in Persona 5 Royal)](#project-doomsona) | Makes full Doom playable on the retro console in Persona 5 Royal, complete with in-game rewards. | Released · Code available | — |
 | [DoomValley (Doom in Stardew Valley)](#project-doomvalley) | Playable Doom running inside Stardew Valley as a SMAPI mod, built on doomgeneric. | Released · Code available · Demo | [Watch](https://youtu.be/cm0XKAgUfPw) |
 | [EldenCraft](#project-eldencraft) | Runs real Minecraft Java inside Elden Ring, composited into one frame with mining, building, the Nether and progression. | Released · Code available · Experimental | — |
@@ -128,6 +129,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [MarioSouls](#project-mariosouls) | Replaces Dark Souls: Prepare to Die Edition's Pyromancer with Mario, running Super Mario 64 movement and attacks via libsm64. | Released · Code available · Experimental | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
+| [MineDoom](#project-minedoom) | Runs id Software's original 1997 linuxdoom C engine natively inside Minecraft's process via JNI, started from a Doom Block. | Released · Code available | — |
 | [MINEKILL](#project-minekill) | Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels. | Released · Code available · Experimental | — |
 | [MinePeak](#project-minepeak) | Rebuilds PEAK's daily island and climbing rules inside Minecraft from your own PEAK install. | Released · Code available · Experimental | — |
 | [Morrowind: PipBoy Edition (Holo-Wind)](#project-morrowind-pipboy-edition) | Plays Morrowind, run by OpenMW, live on Fallout 4's Pip-Boy screen via a holotape. | Released · Code available | — |
@@ -5889,6 +5891,59 @@ A Squirrel port of binji's smolnes NES emulator, usable as a library in any Squi
 - [smolnes upstream (binji)](https://github.com/binji/smolnes)
 
 **Dated source review:** 2026-10-31
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-minedoom"></a>
+
+### MineDoom
+
+**Guest:** Doom (id Software linuxdoom-1.10)  
+**Host:** Minecraft: Java Edition  
+**Creator:** Sanjeet Balamurugan  
+**Status:** Released · Code available  
+**Approach:** Original Doom C engine compiled to a native library (dll/so) and run in-process through JNI, rendered via a Doom Block  
+
+A Fabric mod that compiles the linuxdoom-1.10 source into a native library bundled in the jar and loads it into the Minecraft process (no VM, emulator or video). Right-clicking a placed Doom Block starts the game; setjmp/longjmp isolates engine errors and Quit Game so Minecraft keeps running. No game data is bundled: the player supplies a WAD.
+
+**Requirements:** Minecraft 26.3 (Java Edition), Fabric Loader 0.19.5+, Fabric API 0.162.0+26.3, Java 25; the player supplies doom1.wad, doom.wad or doom2.wad.
+
+**Platforms documented:** Windows, Linux
+
+- [Source code](https://github.com/SanjeetBalamurugan/mine-doom)
+- [Release / download](https://github.com/SanjeetBalamurugan/mine-doom/releases)
+- [Project page](https://www.curseforge.com/minecraft/mc-mods/mine-doom)
+
+**Dated source review:** 2026-11-01
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-doomcraft-chromusmaster"></a>
+
+### DoomCraft (ChromusMaster)
+
+**Guest:** Doom and WAD games (LZDoom)  
+**Host:** Minecraft: Java Edition  
+**Creator:** ChromusMaster  
+**Status:** Released · Code available  
+**Approach:** LZDoom runs as a separate native process; its framebuffer and audio are streamed onto an in-world CRT television block  
+
+A Fabric mod whose TV block captures the framebuffer of an LZDoom process running outside the JVM, forwards player input and plays its audio. Not the same project as doomcraft-roryekay. The README is in Brazilian Portuguese and users supply their own WADs.
+
+**Requirements:** Minecraft 26.2 (Java Edition), Fabric Loader 0.19.3, Java 25; the player supplies WAD files.
+
+**Platforms documented:** Windows, Linux, macOS
+
+- [Source code](https://github.com/ChromusMaster/DoomCraft)
+- [Release / download](https://github.com/ChromusMaster/DoomCraft/releases)
+
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

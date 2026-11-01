@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-10-31",
-    "head_sha": "b278c9cda385b31c6e91eb6ecaeb547335c18b74",
-    "project_count": 213,
+    "verified_at": "2026-11-01",
+    "head_sha": "07c46b7a7a1b170995dfb993beba89526e213a42",
+    "project_count": 215,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-10-31 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 163 GitHub entries (no real new releases; tag-naming quirks only; 4 dead repos unreadable as expected) + 12 deep rechecks + discovery (~18 searches across 2 agents; 1 new: smolnes-nut; 2 deferred leads added). head_sha is the parent commit. 12 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-01: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 164 GitHub entries (no real new releases; 4 repos unreadable as known) + 12 deep rechecks (no field changes) + discovery (~16 searches; 2 new: minedoom, doomcraft-chromusmaster; 1 deferred lead added). head_sha is the parent commit. 12 records in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -610,6 +610,12 @@
       "url": "https://x.com/NikTek/status/2106015141099643239",
       "why": "Social post only (2026-10-02, says AI-assisted); no repo/download; likely adjacent/video-only",
       "date": "2026-10-31"
+    },
+    {
+      "name": "AbsentmindedGCN/BRC-CODE-DMG (Game Boy emulator in Bomb Rush Cyberfunk)",
+      "url": "https://github.com/AbsentmindedGCN/BRC-CODE-DMG",
+      "why": "MIT, tags GB-Emu-v1.2.0..v1.6.1 (2026-03..06), BepInEx phone-app emulator; found 2026-11-01, add after reading README/LICENSE directly",
+      "date": "2026-11-01"
     }
   ],
   "structural_upgrade": {
@@ -649,7 +655,7 @@
       "reachable": 115,
       "unavailable_404_410": 0,
       "unresolved": 8,
-      "outcome": "INCOMPLETE \u2014 unresolved HTTP responses retained, not treated as verified or dead",
+      "outcome": "INCOMPLETE — unresolved HTTP responses retained, not treated as verified or dead",
       "artifact_name": "link-reachability"
     },
     "pages": "Enabled by the owner on 2026-10-09; deployed by Catalogue integrity run 37885377282 and read back.",
