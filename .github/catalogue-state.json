@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-11-01",
-    "head_sha": "07c46b7a7a1b170995dfb993beba89526e213a42",
-    "project_count": 215,
+    "head_sha": "030c60d2bc0aebcf9e93becede8eac620e213984",
+    "project_count": 216,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-01: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 164 GitHub entries (no real new releases; 4 repos unreadable as known) + 12 deep rechecks (no field changes) + discovery (~16 searches; 2 new: minedoom, doomcraft-chromusmaster; 1 deferred lead added). head_sha is the parent commit. 12 records in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-01 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 166 GitHub entries (3 releases updated: libertycraft, er-mario, warcraft-cs; known-unreadable repos unchanged) + 12 deep rechecks (retroconsole fields, AI statements for gorilla-passthrough/mariosouls, libratchet requirements) + discovery (~23 searches; 1 new: mcemu, a historical precursor). head_sha is the parent commit. 12 records remain in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {

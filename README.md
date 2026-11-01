@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**215 entries:** 193 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
+**216 entries:** 194 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[MineDoom](#project-minedoom) · [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) · [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [smolnes-nut](#project-smolnes-nut) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) · [WowFC](#project-wowfc) · [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom)
+[MineDoom](#project-minedoom) · [MCEmu](#project-mcemu) · [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) · [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [smolnes-nut](#project-smolnes-nut) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) · [WowFC](#project-wowfc)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -127,6 +127,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Mario for Rec Room](#project-mario-for-rec-room) | Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. | Released · Code available · Experimental | [Watch](https://youtu.be/UF2uwklFTF0) |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
 | [MarioSouls](#project-mariosouls) | Replaces Dark Souls: Prepare to Die Edition's Pyromancer with Mario, running Super Mario 64 movement and attacks via libsm64. | Released · Code available · Experimental | — |
+| [MCEmu](#project-mcemu) | Historical Forge mod that runs NES ROMs as cartridges inside Minecraft 1.12.2. | Released · Code available · Archived | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
 | [MineDoom](#project-minedoom) | Runs id Software's original 1997 linuxdoom C engine natively inside Minecraft's process via JNI, started from a Doom Block. | Released · Code available | — |
@@ -150,7 +151,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Retro Handheld Emulator 1x1 scale](#project-retro-handheld-emulator) | Runs playable Game Boy games on a giant in-world display inside Hytale. | Released | — |
 | [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Code available · Experimental | — |
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
-| [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) | A NeoForge mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. | Released · Code available · Experimental | — |
+| [RetroConsole (libretro consoles in Minecraft)](#project-retroconsole) | A NeoForge and Fabric mod that embeds libretro emulators in Minecraft 1.21.1 so players can run console games on in-world TV walls, with server-side emulation streamed to nearby players. | Released · Code available · Experimental | — |
 | [Retrocraft (libretro consoles in Minecraft)](#project-retrocraft) | A Fabric mod that adds handhelds, home consoles, arcade cabinets and CRT televisions to Minecraft 1.21.1, each backed by a real libretro emulator core. | Released · Code available · Experimental | — |
 | [Retromod 2.0 (and GNES / GEMU) — ckosmic's Garry's Mod emulators](#project-ckosmic-gmod-emulators) | A lineage of in-game console emulators for Garry's Mod, from GNES (2016) to the RetroArch-based Retromod 2.0. | Released | — |
 | [SBCraft](#project-sbcraft) | Runs real Minecraft Java alongside FNAF: Security Breach and blends its blocks, items and mobs into the game. | Released · Code available · Experimental | — |
@@ -2984,7 +2985,7 @@ A Fabric mod in which players order computer parts from an in-game satellite and
 - [Creator profile](https://github.com/Delta2Force)
 - [PCGamesN coverage (Doom on an in-game PC)](https://www.pcgamesn.com/minecraft/virtual-pc-mod-doom)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3499,7 +3500,7 @@ An experimental, work-in-progress, offline-only passthrough: AoTTG2 (BepInEx) ru
 - [Creator profile](https://github.com/mpere056)
 - [AI Game Modding Guides](https://github.com/trevaintdead/ai-game-modding-guides)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3821,7 +3822,7 @@ A mod for Zelda 64: Recompiled that loads a native doomgeneric-based library whi
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 - [Zelda 64: Recompiled](https://github.com/Zelda64Recomp/Zelda64Recomp)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4018,11 +4019,11 @@ Both games run together on Windows and talk over a custom bridge: Nine Sols keep
 **Host:** Minecraft  
 **Creator:** Gaigen  
 **Status:** Released · Code available · Experimental  
-**Approach:** NeoForge mod hosting libretro cores server-side and streaming video/audio to in-world screens  
+**Approach:** NeoForge/Fabric mod hosting libretro cores server-side and streaming video/audio to in-world screens  
 
-Players place a Retro Console block and a multiblock Screen wall, pick a game from a library UI and play on the in-world TV or a fullscreen viewer. Emulation runs server-side with video and audio streamed to nearby players, per-player saves and co-op (added in 0.2.0); the creator lists NES, SNES, GBA, Genesis, PS1, PS2, PSP, Dreamcast and Nintendo DS/3DS cores as tested or supported, and the README adds Doom 3 via the boom3 core. The mod ships no libretro cores, BIOS files or ROMs; the user must supply them.
+Players place a Retro Console block and a multiblock Screen wall, pick a game from a library UI and play on the in-world TV or a fullscreen viewer. Emulation runs server-side with video and audio streamed to nearby players, per-player saves and co-op (added in 0.2.0); the creator lists NES, SNES, GBA, Genesis, PS1, PS2, PSP, Dreamcast and Nintendo DS/3DS cores as tested or supported, and the README adds Doom 3 via the boom3 core. The mod ships no libretro cores, BIOS files or ROMs; the user must supply them. 0.3.0 added a Fabric port and RPG Maker XP/VX/VX Ace via the mkxp-z core, which is not on the libretro buildbot; 0.3.2 adds an opt-in new client UI for 1.21.1.
 
-**Requirements:** Minecraft Java 1.21.1 with NeoForge 21.1.x and Java 21 on 64-bit Windows or Linux (macOS unsupported); the user supplies libretro cores, BIOS files (PS2, Dreamcast) and legally obtained ROMs.
+**Requirements:** Minecraft Java 1.21.1 with NeoForge 21.1.x, or Fabric Loader 0.16+ with Fabric API, and Java 21, on 64-bit Windows or Linux (macOS unsupported); the user supplies libretro cores, BIOS files (PS2, Dreamcast) and legally obtained ROMs. A GPU with OpenGL 3.3+ is needed for the hardware-render cores (README says PS2, PSP, Dreamcast, Doom 3, RPG Maker).
 
 **Platforms documented:** Windows, Linux
 
@@ -4030,7 +4031,7 @@ Players place a Retro Console block and a multiblock Screen wall, pick a game fr
 - [Release / download](https://github.com/Gaigen/retroconsole/releases/tag/v0.3.2)
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/retroconsole)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4056,7 +4057,7 @@ A Fabric mod by tomalbrc that embeds a Java Game Boy emulator (based on coffee-g
 - [BlockBoy (original)](https://github.com/tomalbrc/BlockBoy)
 - [coffee-gb upstream](https://github.com/trekawek/coffee-gb)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4082,7 +4083,7 @@ A passthrough mod that runs Minecraft Java (Fabric) next to Five Nights at Fredd
 - [Source code](https://github.com/pebbleford/sbcraft)
 - [Release / download](https://github.com/pebbleford/sbcraft/releases/latest)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4109,7 +4110,7 @@ A single-player passthrough mod: Ready or Not's camera drives Minecraft's, Minec
 - [Release / download](https://github.com/ImmortalSouull/BlockBreach/releases)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4135,7 +4136,7 @@ A BepInEx plugin for Gorilla Tag and a Fabric mod for Minecraft that run at the 
 - [Source code](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough)
 - [Release / download](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough/releases)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4162,7 +4163,7 @@ A UE4SS mod for Voices of the Void that adds in-world props (handheld, home cons
 - [Release / download](https://github.com/modestimpala/VEmu/releases)
 - [libretro](https://www.libretro.com/)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5130,7 +5131,7 @@ An emulator with a working CPU, GPU and most MMU functions, running as a Multi T
 
 - [Source code](https://github.com/MegadreamsBE/mta-gb)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5156,7 +5157,7 @@ A Windows mod for Dark Souls: Prepare to Die Edition that lets you start as Mari
 - [Source code](https://github.com/TedCassirer/mariosouls)
 - [Release / download](https://github.com/TedCassirer/mariosouls/releases)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5175,14 +5176,14 @@ A Windows mod for Dark Souls: Prepare to Die Edition that lets you start as Mari
 
 libratchet, libarsenal and libbolts rebuild Ratchet & Clank: Rift Apart's jumps, glide, dashes, wall jumps, Swingshot, OmniWrench combat, weapons and bolt drops as engine-independent Rust code, in the manner of libsm64. The included SKSE plugin makes the player Ratchet in Skyrim Special Edition with Rift Apart's camera, sounds and effects. The installer builds the mod from the user's own copy of Rift Apart; the repository contains no game files. A Bevy sandbox is included.
 
-**Requirements:** Skyrim Special Edition with SKSE and the user's own copy of Ratchet & Clank: Rift Apart; Install.bat builds the mod from those files.
+**Requirements:** Skyrim Special Edition/Anniversary Edition 1.6.1170 with SKSE and Address Library, and the user's own copy of Ratchet & Clank: Rift Apart on the same PC; Install.bat builds the mod from those files (about 3 GB free, internet needed on first run). The author tested only Steam Skyrim 1.6.1170, Steam Rift Apart and Mod Organizer 2; Epic, GOG, other Skyrim versions and Vortex are untested.
 
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/DenQQQQQ/libratchet-skyrim)
 - [Release / download](https://github.com/DenQQQQQ/libratchet-skyrim/releases)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5942,6 +5943,31 @@ A Fabric mod whose TV block captures the framebuffer of an LZDoom process runnin
 
 - [Source code](https://github.com/ChromusMaster/DoomCraft)
 - [Release / download](https://github.com/ChromusMaster/DoomCraft/releases)
+
+**Dated source review:** 2026-11-01
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mcemu"></a>
+
+### MCEmu
+
+**Guest:** NES games (user-supplied ROMs)  
+**Host:** Minecraft: Java Edition (Forge 1.12.2)  
+**Creator:** Delta2Force  
+**Status:** Released · Code available · Archived  
+**Approach:** Forge mod embedding an NES emulator and exposing ROMs as in-game cartridge items  
+
+An early Minecraft emulator mod: ROMs placed in a roms/nes folder appear as cartridges in a creative tab and run on an embedded NES emulator in the game. By the creator of the later VM Computers mod; the repository has been archived by its owner.
+
+**Requirements:** Minecraft 1.12.2 with Forge; the player supplies NES ROMs in the roms/nes folder.
+
+- [Source code](https://github.com/Delta2Force/MCEmu)
+- [Release / download](https://github.com/Delta2Force/MCEmu/releases)
+- [Creator profile](https://github.com/Delta2Force)
 
 **Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.

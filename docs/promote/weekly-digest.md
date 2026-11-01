@@ -3,6 +3,7 @@
 Week ending 2026-11-01. These are additions to the index, not necessarily new releases.
 
 - **[MineDoom](https://github.com/bailo167/awesome-game-mashups#project-minedoom)** — Runs id Software's original 1997 linuxdoom C engine natively inside Minecraft's process via JNI, started from a Doom Block. (Released · Code available)
+- **[MCEmu](https://github.com/bailo167/awesome-game-mashups#project-mcemu)** — Historical Forge mod that runs NES ROMs as cartridges inside Minecraft 1.12.2. (Released · Code available · Archived)
 - **[DoomCraft (ChromusMaster)](https://github.com/bailo167/awesome-game-mashups#project-doomcraft-chromusmaster)** — Adds a craftable CRT television to Minecraft that shows an isolated LZDoom process running player-supplied WADs. (Released · Code available)
 - **[The Doom Within (Doom in World of Warcraft)](https://github.com/bailo167/awesome-game-mashups#project-wow-doom-within)** — World of Warcraft addon that emulates a RISC-V Linux machine in Lua to run Doom. (Code available · Experimental)
 - **[smolnes-nut](https://github.com/bailo167/awesome-game-mashups#project-smolnes-nut)** — Ports the smolnes NES emulator to Squirrel so it runs inside Portal 2's VScript, with a (barely playable) in-map demo. (Code available · Experimental)
