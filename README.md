@@ -1546,7 +1546,7 @@ Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty 
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/mrborghini/libertycraft)
-- [Release / download](https://github.com/mrborghini/libertycraft/releases/tag/v0.1.11)
+- [Release / download](https://github.com/mrborghini/libertycraft/releases/tag/v0.1.15)
 - [Watch demo](https://www.youtube.com/watch?v=C1oCbMNOUqg)
 - [Creator profile](https://github.com/mrborghini)
 
@@ -1727,7 +1727,7 @@ Mario's triple jumps, wall kicks, long jumps, ground pounds, attacks, health wed
 **Platforms documented:** Windows, macOS via CrossOver
 
 - [Source code](https://github.com/deltarooo/er-mario)
-- [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.2)
+- [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.3)
 - [Creator profile](https://github.com/deltarooo)
 
 **Dated source review:** 2026-10-28
@@ -4347,7 +4347,7 @@ An offline single-player fan project that lets the player control a Warcraft III
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/YazgulDev/warcraft-cs)
-- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.16.0)
+- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.17.0)
 - [Creator profile](https://github.com/YazgulDev)
 - [Press: cybersport.ru](https://www.cybersport.ru/tags/cs2/modder-skrestil-warcraft-iii-i-cs-1-6-teper-mozhno-poigrat-v-shuter-na-karte-rts)
 
