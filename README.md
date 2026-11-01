@@ -8,7 +8,7 @@
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-10-31. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-11-01. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -983,7 +983,7 @@ Synchronizes blocks, players, mobs, time/weather, chat, skins and build/break in
 - [Source code](https://github.com/Atmerek/CrossplayProject)
 - [Release / download](https://github.com/Atmerek/CrossplayProject/releases/tag/v1.3)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1100,7 +1100,7 @@ Frames are streamed over WebSocket to ComputerCraft monitors and player inputs a
 
 - [Source code](https://github.com/amatheo/ccboy)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1257,7 +1257,7 @@ Minecraft supplies movement, blocks, hearts, inventory and combat while Fallout 
 - [Release / download](https://github.com/zeyvu/FalloutCraft/releases/tag/v0.1.3)
 - [Creator profile](https://github.com/zeyvu)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1333,7 +1333,7 @@ The public v0.1.0 build includes an Overworld mode that keeps CS:GO-style moveme
 - [Release / download](https://github.com/FrosttysBots/CS-Craft/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/FrosttysBots)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1520,7 +1520,7 @@ Lets Jimmy skate through Bullworth using Skate 3 physics and controller input, w
 - [Release / download](https://github.com/Faiqie/BullySkate/releases/tag/v0.1.2)
 - [Creator profile](https://github.com/Faiqie)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1755,7 +1755,7 @@ Spider-Man supplies swinging, wall running, crawling, point launches and its cha
 - [Watch demo](https://www.youtube.com/watch?v=O6Mkm_NGCX8)
 - [Creator profile](https://github.com/luki-1)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2870,7 +2870,7 @@ A DDNet client fork that spawns a libsm64 Mario from the menu or a /mario server
 - [Release / download](https://github.com/headshot2017/ddnet-sm64/releases/tag/v1.0)
 - [Creator profile](https://github.com/headshot2017)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2898,7 +2898,7 @@ A plugin for ClassiCube, a C client compatible with Minecraft Classic, that uses
 - [Creator profile](https://github.com/headshot2017)
 - [ClassiCube](https://github.com/ClassiCube/ClassiCube)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2925,7 +2925,7 @@ Emulates the NES inside unmodified Minecraft Java 1.16 using only resource-pack 
 - [Release / download](https://github.com/5uso/MinecraftNES/releases/tag/1.0.0)
 - [Creator profile](https://github.com/5uso)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3010,7 +3010,7 @@ An Elin mod that adds a playable DOOM arcade cabinet, running the Managed Doom e
 - [Creator profile](https://github.com/chitsii)
 - [Managed Doom upstream](https://github.com/sinshu/managed-doom)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3160,7 +3160,7 @@ A Node.js bridge plus a Minecraft 1.18.2 Bukkit-style server plugin and a Garry'
 - [Creator profile](https://github.com/thecreeez)
 - [Garry's Mod side by ScientificWays](https://github.com/ScientificWays/gmod-minecraft-bridge)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3244,7 +3244,7 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 - [MoeWhite19/BNes (original)](https://github.com/MoeWhite19/BNes)
 - [Nestalgia](https://github.com/tiagohm/nestalgia)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
