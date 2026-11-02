@@ -2,6 +2,7 @@
 
 Week ending 2026-11-02. These are additions to the index, not necessarily new releases.
 
+- **[BRC CODE-DMG](https://github.com/bailo167/awesome-game-mashups#project-brc-code-dmg)** — Adds a Game Boy / Game Boy Color emulator to Bomb Rush Cyberfunk, played through the in-game phone. (Released · Code available)
 - **[MineDoom](https://github.com/bailo167/awesome-game-mashups#project-minedoom)** — Runs id Software's original 1997 linuxdoom C engine natively inside Minecraft's process via JNI, started from a Doom Block. (Released · Code available)
 - **[MCEmu](https://github.com/bailo167/awesome-game-mashups#project-mcemu)** — Historical Forge mod that runs NES ROMs as cartridges inside Minecraft 1.12.2. (Released · Code available · Archived)
 - **[DoomCraft (ChromusMaster)](https://github.com/bailo167/awesome-game-mashups#project-doomcraft-chromusmaster)** — Adds a craftable CRT television to Minecraft that shows an isolated LZDoom process running player-supplied WADs. (Released · Code available)

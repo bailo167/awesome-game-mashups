@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-11-01",
-    "head_sha": "030c60d2bc0aebcf9e93becede8eac620e213984",
-    "project_count": 216,
+    "verified_at": "2026-11-02",
+    "head_sha": "27d34e047c5f6c37994cc8ee0cbcd5d7d3abc086",
+    "project_count": 217,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-01 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 166 GitHub entries (3 releases updated: libertycraft, er-mario, warcraft-cs; known-unreadable repos unchanged) + 12 deep rechecks (retroconsole fields, AI statements for gorilla-passthrough/mariosouls, libratchet requirements) + discovery (~23 searches; 1 new: mcemu, a historical precursor). head_sha is the parent commit. 12 records remain in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-02: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 167 GitHub repos (1 release update: warcraft-cs v0.18.0) + 12 deep rechecks (6 from the interim commit plus mario64-in-minecraft revived from dead, muck64 AI statement, sm64-vc-native, twilight-souls, bethception, crash-bandicoot-remake) + discovery (16 searches; 1 new: brc-code-dmg; deferred leads rechecked unchanged). head_sha is the parent commit. 10 records remain in unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -32,25 +32,25 @@
     {
       "name": "Cyberblock (Minecraft in Cyberpunk 2077, rodthegod2)",
       "url": "https://github.com/rodthegod2/cyberblock",
-      "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk; rechecked 2026-10-27: README says passthrough layer verified in game, 786 commits, still no tag/release or in-game footage",
+      "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk; rechecked 2026-10-27: README says passthrough layer verified in game, 786 commits, still no tag/release or in-game footage; rechecked 2026-11-02: unchanged",
       "date": "2026-10-13"
     },
     {
       "name": "SM64 x Minecraft Crossmod (eiersohn1-arch)",
       "url": "https://github.com/eiersohn1-arch/sm64-minecraft-crossmod",
-      "why": "Rechecked 2026-10-13: still no LICENSE; Alphatest/Mario pre-releases 2026-10-03; commits are \"test\"",
+      "why": "Rechecked 2026-10-13: still no LICENSE; Alphatest/Mario pre-releases 2026-10-03; commits are \"test\"; rechecked 2026-11-02: unchanged",
       "date": "2026-10-13"
     },
     {
       "name": "AIjennings/OWCraft (multiplayer variant of SkyCraft framework)",
       "url": "https://github.com/AIjennings/OWCraft",
-      "why": "Fork of listed owcraft; v0.1.2-multiplayer (2026-10-11) adds co-op. Candidate for a note on owcraft, not a separate entry (rechecked 2026-10-13); rechecked 2026-10-20: still v0.1.2-multiplayer",
+      "why": "Fork of listed owcraft; v0.1.2-multiplayer (2026-10-11) adds co-op. Candidate for a note on owcraft, not a separate entry (rechecked 2026-10-13); rechecked 2026-10-20: still v0.1.2-multiplayer; rechecked 2026-11-02: unchanged",
       "date": "2026-10-13"
     },
     {
       "name": "GTACraft (bishoponyt)",
       "url": "https://github.com/bishoponyt/GTACraft",
-      "why": "Re-checked 2026-10-13: still no LICENSE; v.0.1.2 pre-release; README states AI-assisted development; overlaps grandtheftminecraft",
+      "why": "Re-checked 2026-10-13: still no LICENSE; v.0.1.2 pre-release; README states AI-assisted development; overlaps grandtheftminecraft; rechecked 2026-11-02: unchanged",
       "date": "2026-10-13"
     },
     {
@@ -62,7 +62,7 @@
     {
       "name": "nyaaarc/MetalGearSkate3",
       "url": "https://github.com/nyaaarc/MetalGearSkate3",
-      "why": "GPL-3.0, no release found despite README; not independently read",
+      "why": "GPL-3.0, no release found despite README; not independently read; rechecked 2026-11-02: unchanged",
       "date": "2026-10-13"
     },
     {
@@ -74,7 +74,7 @@
     {
       "name": "Stonqz27/SK8V-Enhanced",
       "url": "https://github.com/Stonqz27/SK8V-Enhanced",
-      "why": "Enhanced-edition port of sk8v (pre-release 2026-10-12); could be noted on sk8v; rechecked 2026-10-31: Apache-2.0, second preview tag 1.1.8-enhanced.2-preview",
+      "why": "Enhanced-edition port of sk8v (pre-release 2026-10-12); could be noted on sk8v; rechecked 2026-10-31: Apache-2.0, second preview tag 1.1.8-enhanced.2-preview; rechecked 2026-11-02: unchanged",
       "date": "2026-10-13"
     },
     {
@@ -610,12 +610,6 @@
       "url": "https://x.com/NikTek/status/2106015141099643239",
       "why": "Social post only (2026-10-02, says AI-assisted); no repo/download; likely adjacent/video-only",
       "date": "2026-10-31"
-    },
-    {
-      "name": "AbsentmindedGCN/BRC-CODE-DMG (Game Boy emulator in Bomb Rush Cyberfunk)",
-      "url": "https://github.com/AbsentmindedGCN/BRC-CODE-DMG",
-      "why": "MIT, tags GB-Emu-v1.2.0..v1.6.1 (2026-03..06), BepInEx phone-app emulator; found 2026-11-01, add after reading README/LICENSE directly",
-      "date": "2026-11-01"
     }
   ],
   "structural_upgrade": {
@@ -684,27 +678,17 @@
     {
       "id": "retro-handheld-emulator",
       "host": "builtbybit.com",
-      "date": "2026-10-25"
+      "date": "2026-11-02"
     },
     {
       "id": "doom-in-balatro",
       "host": "reddit.com / github.com (creator UwUDev)",
-      "date": "2026-10-25"
+      "date": "2026-11-02"
     },
     {
       "id": "ultracraft",
       "host": "github.com (alfr0762/ultracraft)",
-      "date": "2026-10-25"
-    },
-    {
-      "id": "mario64-in-minecraft",
-      "host": "github.com (Zckyy)",
-      "date": "2026-10-25"
-    },
-    {
-      "id": "bethception",
-      "host": "nexusmods.com (403)",
-      "date": "2026-10-25"
+      "date": "2026-11-02"
     },
     {
       "id": "black-ops-ii-hijacked-minecraft",

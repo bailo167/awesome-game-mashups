@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**216 entries:** 194 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
+**217 entries:** 195 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[MineDoom](#project-minedoom) · [MCEmu](#project-mcemu) · [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) · [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [smolnes-nut](#project-smolnes-nut) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom) · [WowFC](#project-wowfc)
+[BRC CODE-DMG](#project-brc-code-dmg) · [MineDoom](#project-minedoom) · [MCEmu](#project-mcemu) · [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) · [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [smolnes-nut](#project-smolnes-nut) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -60,6 +60,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [BlockBoy / BlockBoy Arcade](#project-blockboy) | Server-side Game Boy and Game Boy Color emulator mod for Minecraft, playable on in-world maps or arcade machines. | Released · Code available | — |
 | [BlockBreach](#project-blockbreach) | Runs Minecraft Java alongside Ready or Not and composites its blocks, mobs and explosions into the game. | Released · Code available · Experimental | — |
 | [BNes Fork (NES on Minecraft servers)](#project-bnes-fork) | Runs NES games on in-world arcade machines in Minecraft Paper servers, drawing frames on map items with synced controls and Plasmo Voice audio. | Released · Code available | — |
+| [BRC CODE-DMG](#project-brc-code-dmg) | Adds a Game Boy / Game Boy Color emulator to Bomb Rush Cyberfunk, played through the in-game phone. | Released · Code available | — |
 | [BullySkate](#project-bullyskate) | Lets Jimmy skate through Bullworth using Skate 3 physics. | Released · Code available | — |
 | [CabinBoy](#project-cabinboy-long-dark) | Puts a working Game Boy emulator in The Long Dark as a handheld item that plays your own ROMs. | Released · Code available | — |
 | [Celeste Doom](#project-celeste-doom) | An Everest code mod that runs classic Doom, with sound, as a level inside Celeste. | Released | — |
@@ -123,6 +124,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [LibertyCraft](#project-libertycraft) | Runs Minecraft movement, inventory and building inside GTA IV's Liberty City. | Released · Code available · In development · Experimental | [Watch](https://www.youtube.com/watch?v=C1oCbMNOUqg) |
 | [libratchet (Ratchet & Clank: Rift Apart movement in Skyrim)](#project-libratchet-skyrim) | Engine-independent Rust libraries rebuilding Rift Apart's movement, weapons and bolts, with an SKSE host that makes the Skyrim player Ratchet. | Released · Code available · Experimental | — |
 | [Majora's Mask Recompiled DOOM Mod](#project-mm-recomp-doom) | Link sits at a desk PC in Majora's Mask: Recompiled and plays DOOM on its screen. | Released · Code available · Demo | — |
+| [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) | Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. | Released · Code available · Experimental | — |
 | [Mario 64 Survivor (Super Mario 64 in Risk of Rain 2)](#project-mario-64-survivor) | BepInEx mod that adds Super Mario 64's Mario as a Risk of Rain 2 survivor with libsm64 movement. | Released · Code available | — |
 | [Mario for Rec Room](#project-mario-for-rec-room) | Super Mario 64's Mario physics in old offline Rec Room builds via libsm64 and BepInEx. | Released · Code available · Experimental | [Watch](https://youtu.be/UF2uwklFTF0) |
 | [Mario Mode — SM64 in Spider-Man 2](#project-sm64-spiderman2) | Runs Super Mario 64's movement, health and combat directly inside Marvel's Spider-Man 2's New York. | Released · Code available · Experimental | — |
@@ -211,7 +213,6 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Halocraft](#project-halocraft) | Adds destructible Minecraft-style blocks and maps to Halo 3 multiplayer. | Released · Unavailable | [Watch](https://www.youtube.com/watch?v=QHgoyJnQMVI) |
 | [HytaleDoom](#project-hytale-doom) | Lets you control DOOM from inside Hytale. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=RxVj6_NKRDY) |
 | [Knee-Deep in the Mines](#project-knee-deep-in-the-mines) | Rebuilds DOOM's maps, monsters, weapons and sounds from the WAD as playable Minecraft worlds. | Code available · Experimental | [Watch](https://github.com/pragyaangaur/Knee-Deep-In-The-Mines/blob/main/docs/gameplay.gif) |
-| [Mario 64 in Minecraft (Zckyy)](#project-mario64-in-minecraft) | Lets you play as Super Mario 64's Mario inside Minecraft, with the decompiled SM64 movement code driven by Minecraft's blocks. | Released · Code available · Experimental · Unavailable | — |
 | [Minebonk](#project-minebonk) | Rebuilds Minecraft-style combat, inventory, mobs and bosses natively inside Megabonk. | Code available · In development | — |
 | [Minecraft Classic 0.30 inside Hytale](#project-minecraft-classic-hytale) | Shows Minecraft Classic running on Hytale’s in-game world-map screen. | In development · Video only | [Watch](https://x.com/iamcxv711/status/2012610249174536397) |
 | [Minecraft Crossover Bridge](#project-minecraft-crossover-bridge) | Brings Minecraft blocks, mobs and combat into Monster Hunter: World or Elden Ring on Apple Silicon Macs. | Code available · In development | — |
@@ -1151,7 +1152,7 @@ Recreates two Crash Bandicoot levels in Minecraft with custom gameplay mechanics
 - [Release / download](https://www.curseforge.com/minecraft/worlds/minecraft-but-its-crash-bandicoot)
 - [Watch demo](https://www.youtube.com/watch?v=E4y9sj8vXJs)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3205,7 +3206,7 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 **Guest:** Super Mario 64  
 **Host:** Minecraft: Java Edition 1.21.4  
 **Creator:** Zckyy  
-**Status:** Released · Code available · Experimental · Unavailable  
+**Status:** Released · Code available · Experimental  
 **Approach:** Minecraft Fabric mod bridging to libsm64 (compiled SM64 decompilation) with Minecraft blocks converted to SM64 collision  
 
 A Fabric mod that runs Super Mario 64's decompiled movement code through libsm64 inside Minecraft Java Edition. Minecraft's blocks are turned into SM64 collision each tick (stairs as ramps, ice, lava and water surface types), and Mario's model, voice and music are loaded from the user's own ROM. The README lists the SM64 moveset, shader support and automated in-game tests, and states it is single-player only with no SM64 objects or enemies. sm64.dll is built locally by the user with a provided script.
@@ -3220,7 +3221,7 @@ A Fabric mod that runs Super Mario 64's decompiled movement code through libsm64
 - [libsm64](https://github.com/libsm64/libsm64)
 - [n64decomp/sm64](https://github.com/n64decomp/sm64)
 
-**Dated source review:** 2026-10-19
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4190,7 +4191,7 @@ RPGKing117's Nexus mod page describes a single installer and framework that lets
 - [Creator profile](https://github.com/rpgking117)
 - [Fallout PipBoy Edition (superseded)](https://www.nexusmods.com/fallout4/mods/105198)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5108,7 +5109,7 @@ A work-in-progress total conversion for the Twilight Princess engine (via its PC
 - [Release / download](https://arthenfold.org/creators/artholos/twilight-souls)
 - [Dexerto coverage](https://www.dexerto.com/legend-of-zelda/modder-is-rebuilding-all-of-dark-souls-inside-zelda-twilight-princess-3418617/)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5209,7 +5210,7 @@ An alpha BepInEx 5 mod for the Unity game Muck that switches the player into Mar
 - [Source code](https://github.com/Heisenberg-87s/Muck64)
 - [Release / download](https://github.com/Heisenberg-87s/Muck64/releases)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5234,7 +5235,7 @@ A 32-bit ASI plugin for classic GTA: Vice City (PC 1.0) that uses libsm64 to run
 
 - [Source code](https://github.com/Gerstep360/sm64-vc-native)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5970,6 +5971,33 @@ An early Minecraft emulator mod: ROMs placed in a roms/nes folder appear as cart
 - [Creator profile](https://github.com/Delta2Force)
 
 **Dated source review:** 2026-11-01
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-brc-code-dmg"></a>
+
+### BRC CODE-DMG
+
+**Guest:** Game Boy / Game Boy Color games (bundled Tobu Tobu Girl DX; optional user-supplied ROMs)  
+**Host:** Bomb Rush Cyberfunk  
+**Creator:** Absentminded (AbsentmindedGCN)  
+**Status:** Released · Code available  
+**Approach:** BepInEx plugin porting the CODE-DMG Game Boy emulator core into the game's phone UI  
+
+Ports Bot Randomness's CODE-DMG emulator into Bomb Rush Cyberfunk as a phone app. The README lists audio emulation, Game Boy Color and Super Game Boy compatibility, auto save/load, control remapping and a pixel-grid filter. It ships with the open-source homebrew Tobu Tobu Girl DX; other ROMs are loaded by setting RomPath in the generated config file.
+
+**Requirements:** Bomb Rush Cyberfunk with the BepInEx plugin (the README uses r2modman for the config file). Your own ROMs are optional via RomPath; link-cable multiplayer is experimental and needs the All City Network mod.
+
+- [Source code](https://github.com/AbsentmindedGCN/BRC-CODE-DMG)
+- [Release / download](https://github.com/AbsentmindedGCN/BRC-CODE-DMG/releases)
+- [Project page](https://thunderstore.io/c/bomb-rush-cyberfunk/p/TransRights/Game_Boy_Emulator/)
+- [Creator profile](https://github.com/AbsentmindedGCN)
+- [Upstream emulator: BotRandomness/CODE-DMG](https://github.com/BotRandomness/CODE-DMG)
+
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
