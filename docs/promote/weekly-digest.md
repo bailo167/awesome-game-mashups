@@ -1,6 +1,6 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-11-01. These are additions to the index, not necessarily new releases.
+Week ending 2026-11-02. These are additions to the index, not necessarily new releases.
 
 - **[MineDoom](https://github.com/bailo167/awesome-game-mashups#project-minedoom)** — Runs id Software's original 1997 linuxdoom C engine natively inside Minecraft's process via JNI, started from a Doom Block. (Released · Code available)
 - **[MCEmu](https://github.com/bailo167/awesome-game-mashups#project-mcemu)** — Historical Forge mod that runs NES ROMs as cartridges inside Minecraft 1.12.2. (Released · Code available · Archived)
@@ -21,4 +21,3 @@ Week ending 2026-11-01. These are additions to the index, not necessarily new re
 - **[Left4Craft2 (Minecraft in Left 4 Dead 2, ShadowBlade83)](https://github.com/bailo167/awesome-game-mashups#project-left4craft2)** — Lets you play Left 4 Dead 2 as Steve, with Minecraft physics, HUD and blocks while L4D2 runs the world and infected. (Released · Code available · Experimental)
 - **[GtaCraft (GTA V x Minecraft, gta5craft)](https://github.com/bailo167/awesome-game-mashups#project-gtacraft-gta5craft)** — Connects GTA V Story Mode and Minecraft Java so you can switch between a Minecraft Overworld and a Minecraft mirror of Los Santos and drive on block terrain. (Released · Code available · Experimental)
 - **[GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-gorillacraft)** — Lets you play Minecraft in VR as a Gorilla Tag gorilla, with Gorilla Tag's arm-swing movement driven across Minecraft's blocks. (Code available · Experimental)
-- **[Bannerlord x Minecraft Passthrough](https://github.com/bailo167/awesome-game-mashups#project-bannerlord-minecraft-passthrough)** — Puts Minecraft's Steve into Mount & Blade II: Bannerlord battles, with Minecraft combat, blocks and inventory running side by side. (Released · Code available)

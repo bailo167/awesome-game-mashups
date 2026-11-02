@@ -8,7 +8,7 @@
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-11-01. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-11-02. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -4348,7 +4348,7 @@ An offline single-player fan project that lets the player control a Warcraft III
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/YazgulDev/warcraft-cs)
-- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.17.0)
+- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.18.0)
 - [Creator profile](https://github.com/YazgulDev)
 - [Press: cybersport.ru](https://www.cybersport.ru/tags/cs2/modder-skrestil-warcraft-iii-i-cs-1-6-teper-mozhno-poigrat-v-shuter-na-karte-rts)
 
@@ -5260,7 +5260,7 @@ An in-development ASI plugin for GTA: San Andreas 1.0 US that lets you mine, pla
 - [Source code](https://github.com/muki01/GTA-SA-Minecraft)
 - [Release / download](https://github.com/muki01/GTA-SA-Minecraft/releases)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5286,7 +5286,7 @@ BeamNG.drive runs car physics, engine, tyres and damage in the background while 
 - [Source code](https://github.com/JASGENIUS/minecraft-beamng)
 - [crossover-modder (creator's companion playbook)](https://github.com/JASGENIUS/crossover-modder)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5334,7 +5334,7 @@ Pressing J drops the player onto a board driven by Skate 3's own physics, tricks
 
 - [Source code](https://github.com/tomTTFB/mineskate3)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5360,7 +5360,7 @@ Minecraft Java runs alongside GTA San Andreas and its blocks, creatures and UI a
 - [Source code](https://github.com/Axel12Q/GroveCraft)
 - [Release / download](https://github.com/Axel12Q/GroveCraft/releases)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5385,7 +5385,7 @@ Minecraft (a Fabric mod) and re3 run side by side and share state through POSIX 
 
 - [Source code](https://github.com/akilex02/minecraft-in-gta3)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5410,7 +5410,7 @@ Cyberpunk sends its camera to Minecraft every frame and Minecraft draws on a tra
 
 - [Source code](https://github.com/Duocor3/minepunk)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
