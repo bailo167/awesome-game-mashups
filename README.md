@@ -444,7 +444,7 @@ Minecraft clients can connect to a Hytale server without a client mod. HyCraft c
 - [Release / download](https://github.com/EdwardBelt/HyCraft/releases/tag/v1.1.4)
 - [Creator profile](https://github.com/EdwardBelt)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -965,7 +965,7 @@ A framework for writing one minigame that runs across Minecraft and Hytale with 
 - [Project page](https://hytale2mc.com/)
 - [Creator profile](https://github.com/alskea)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1011,7 +1011,7 @@ Creator footage shows Minecraft and Hytale clients sharing one Hytale-hosted wor
 - [Supporting source](https://www.gamesradar.com/games/rpg/hytale-gets-crossplay-with-minecraft-thanks-to-15-year-old-modder-presumably-channeling-some-form-of-black-magic/)
 - [Creator profile](https://github.com/ssquadteam)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1206,7 +1206,7 @@ CJ can switch into Skate 3-style skating on San Andreas streets, using Skate 3 c
 - [Release / download](https://github.com/ryglizzy/GTA-San-AnSkateas/releases/tag/v1.2)
 - [Creator profile](https://github.com/ryglizzy)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1284,7 +1284,7 @@ A playable Vice City / Skate 3 mashup built from the open reVC/re3 lineage and t
 - [Release / download](https://github.com/irregularnetwork/GTA-Skate-3-Trilogy/releases/tag/1.1)
 - [Creator profile](https://github.com/irregularnetwork)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1552,7 +1552,7 @@ Minecraft owns movement, inventory, hotbar and blocks while GTA IV owns Liberty 
 - [Watch demo](https://www.youtube.com/watch?v=C1oCbMNOUqg)
 - [Creator profile](https://github.com/mrborghini)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1945,7 +1945,7 @@ A native GTA V mod adds a Minecraft hotbar and creative inventory, hundreds of b
 - [Release / download](https://github.com/cyteon/GrandTheftMinecraft/releases/tag/v1.5.1)
 - [Creator profile](https://github.com/cyteon)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3192,7 +3192,7 @@ A two-process passthrough in which Minecraft draws the world and owns its blocks
 - [Creator profile](https://github.com/VVRLD)
 - [Source SDK 2013 (Valve)](https://github.com/ValveSoftware/source-sdk-2013)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3851,7 +3851,7 @@ A Fabric mod for Minecraft Java Edition that reads DOOM's WAD and rebuilds its m
 - [Creator profile](https://github.com/pragyaangaur)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4244,7 +4244,7 @@ Real Granny Legacy and Minecraft Java Edition run at the same time and Minecraft
 - [Release / download](https://github.com/cabcrab/Granny-Minecraft-Passthrough/releases)
 - [Creator profile](https://github.com/cabcrab)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5438,7 +5438,7 @@ Minecraft runs hidden next to Cyberpunk 2077 and keeps its own blocks, items, mo
 - [Release / download](https://github.com/ItzBloxy/CyberCraft/releases)
 - [SkyCraft (upstream)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5464,7 +5464,7 @@ Minecraft Java runs next to Bannerlord and talks to it over shared memory. You p
 - [Source code](https://github.com/emretrksy/bannerlord-minecraft-passthrough)
 - [Release / download](https://github.com/emretrksy/bannerlord-minecraft-passthrough/releases)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-02
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

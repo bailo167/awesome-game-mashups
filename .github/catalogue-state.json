@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-11-02",
-    "head_sha": "27d34e047c5f6c37994cc8ee0cbcd5d7d3abc086",
+    "head_sha": "9dd5330b3f231059fa58ae996fc69fc81a6a29ea",
     "project_count": 217,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-02: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 167 GitHub repos (1 release update: warcraft-cs v0.18.0) + 12 deep rechecks (6 from the interim commit plus mario64-in-minecraft revived from dead, muck64 AI statement, sm64-vc-native, twilight-souls, bethception, crash-bandicoot-remake) + discovery (16 searches; 1 new: brc-code-dmg; deferred leads rechecked unchanged). head_sha is the parent commit. 10 records remain in unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-02 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 167 GitHub repos (no new releases) + 12 deep rechecks (cybercraft-itzbloxy, bannerlord-minecraft-passthrough, fortresscraft, grandtheftminecraft, granny-minecraft-passthrough, gta-san-anskateas, gta-skate-3-trilogy, hycraft, hytale2mc, knee-deep-in-the-mines, libertycraft, minecraft-hytale-crossplay-ssquadteam; all unchanged) + discovery (10 searches, 0 new; all hits already catalogued). head_sha is the parent commit. 11 records unreachable_from_routine (fnv-libsm64 repo newly inaccessible). No play-tests."
   },
   "deferred_candidates": [
     {
@@ -724,6 +724,11 @@
       "id": "bo2-minecraft-zombies",
       "host": "github.com (raw README/LICENSE and releases 404; git ls-remote asks for credentials)",
       "date": "2026-10-31"
+    },
+    {
+      "id": "fnv-libsm64",
+      "host": "github.com (larsoyd/fnv-libsm64: raw README/LICENSE 404 and ls-remote asks for credentials on 2026-11-02; WebSearch finds nothing; was readable 2026-10-31)",
+      "date": "2026-11-02"
     }
   ]
 }
