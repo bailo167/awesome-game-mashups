@@ -8,7 +8,7 @@
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-11-02. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-11-03. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -469,7 +469,7 @@ Turns ULTRAKILL's diegetic shop terminals into playable DOOM instances. A legiti
 - [Watch demo](https://www.youtube.com/watch?v=Y7zpELS2QfQ)
 - [Creator profile](https://github.com/Squaresweets)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -521,7 +521,7 @@ Runs classic DOOM inside Minecraft with controls and sound support. The project 
 - [Release / download](https://modrinth.com/mod/nucledoom)
 - [Creator profile](https://github.com/Patbox)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -548,7 +548,7 @@ A historically important technical precursor: Wasmcraft compiles WebAssembly pro
 - [Watch demo](https://www.youtube.com/watch?v=wCHB1UgwM9o)
 - [Creator profile](https://github.com/SuperTails)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -823,7 +823,7 @@ Minecraft Java runs beside GTA V rather than being reimplemented. GTA drives Min
 - [Packaged GTA V Enhanced derivative](https://github.com/utku6767/Gta-V-Enhanced-Minecraft-Steve-Passthrough)
 - [LowBacon GTA V passthrough variant (MIT, source only)](https://github.com/LowBacon/minecraft-gta5-passthrough)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -912,7 +912,7 @@ Runs a fully featured second Minecraft instance on an in-world display and forwa
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/project-inception)
 - [Creator profile](https://github.com/Arc-blroth)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1179,7 +1179,7 @@ Minecraft runs hidden and supplies movement, inventory, HUD, blocks and combat w
 - [Release / download](https://github.com/LoAlCo/ValCraft/releases/tag/v0.7.0)
 - [Creator profile](https://github.com/LoAlCo)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1234,7 +1234,7 @@ Minecraft remains responsible for simulating the Wither Storm while the bridge d
 - [Watch demo](https://www.youtube.com/watch?v=spm-u_cZvl8)
 - [Creator profile](https://github.com/VortexisTV)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1310,7 +1310,7 @@ Minecraft runs hidden and supplies player physics, blocks, items, mobs, inventor
 - [Source code](https://github.com/SawyerTheNerd/Minecraft-X-HalfLife)
 - [Creator profile](https://github.com/SawyerTheNerd)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1364,7 +1364,7 @@ Pressing J drops the WoW character onto a skateboard using Skate 3's physics, wi
 - [Watch demo](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4)
 - [Creator profile](https://github.com/Kimmo3223)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1392,7 +1392,7 @@ An installer/launcher for a three-game mashup. Inside GTA San Andreas, F6 switch
 - [Watch demo](https://streamable.com/19fo55)
 - [Creator profile](https://github.com/Sm1jjj)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1470,7 +1470,7 @@ Minecraft supplies the player physics, blocks, inventory and interactions while 
 - [Release / download](https://github.com/Yaekai/OWCraft/releases/tag/v0.1.1)
 - [Creator profile](https://github.com/Yaekai)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4022,17 +4022,17 @@ Both games run together on Windows and talk over a custom bridge: Nine Sols keep
 **Status:** Released · Code available · Experimental  
 **Approach:** NeoForge/Fabric mod hosting libretro cores server-side and streaming video/audio to in-world screens  
 
-Players place a Retro Console block and a multiblock Screen wall, pick a game from a library UI and play on the in-world TV or a fullscreen viewer. Emulation runs server-side with video and audio streamed to nearby players, per-player saves and co-op (added in 0.2.0); the creator lists NES, SNES, GBA, Genesis, PS1, PS2, PSP, Dreamcast and Nintendo DS/3DS cores as tested or supported, and the README adds Doom 3 via the boom3 core. The mod ships no libretro cores, BIOS files or ROMs; the user must supply them. 0.3.0 added a Fabric port and RPG Maker XP/VX/VX Ace via the mkxp-z core, which is not on the libretro buildbot; 0.3.2 adds an opt-in new client UI for 1.21.1.
+Players place a Retro Console block and a multiblock Screen wall, pick a game from a library UI and play on the in-world TV or a fullscreen viewer. Emulation runs server-side with video and audio streamed to nearby players, per-player saves and co-op (added in 0.2.0); the creator lists NES, SNES, GBA, Genesis, PS1, PS2, PSP, Dreamcast and Nintendo DS/3DS cores as tested or supported, and the README adds Doom 3 via the boom3 core. The mod ships no libretro cores, BIOS files or ROMs; the user must supply them. 0.3.0 added a Fabric port and RPG Maker XP/VX/VX Ace via the mkxp-z core, which is not on the libretro buildbot; 0.3.2 adds an opt-in new client UI for 1.21.1; 0.3.3 (2 Nov 2026) makes the save/load and console menu keys rebindable.
 
 **Requirements:** Minecraft Java 1.21.1 with NeoForge 21.1.x, or Fabric Loader 0.16+ with Fabric API, and Java 21, on 64-bit Windows or Linux (macOS unsupported); the user supplies libretro cores, BIOS files (PS2, Dreamcast) and legally obtained ROMs. A GPU with OpenGL 3.3+ is needed for the hardware-render cores (README says PS2, PSP, Dreamcast, Doom 3, RPG Maker).
 
 **Platforms documented:** Windows, Linux
 
 - [Source code](https://github.com/Gaigen/retroconsole)
-- [Release / download](https://github.com/Gaigen/retroconsole/releases/tag/v0.3.2)
+- [Release / download](https://github.com/Gaigen/retroconsole/releases/tag/v0.3.3-mc1.21.1)
 - [Project page](https://www.curseforge.com/minecraft/mc-mods/retroconsole)
 
-**Dated source review:** 2026-11-01
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4298,7 +4298,7 @@ A Windows experimental mod where Minecraft 1.20.1 (Fabric or standalone Forge) h
 - [Release / download](https://github.com/Xu060113/SekiroCraft-Passthrough/releases)
 - [Creator profile](https://github.com/Xu060113)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

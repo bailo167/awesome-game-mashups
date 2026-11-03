@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-11-02",
-    "head_sha": "9dd5330b3f231059fa58ae996fc69fc81a6a29ea",
+    "verified_at": "2026-11-03",
+    "head_sha": "cebfbba138aab6e37922f3c9ccb761bb4968a510",
     "project_count": 217,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-02 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 167 GitHub repos (no new releases) + 12 deep rechecks (cybercraft-itzbloxy, bannerlord-minecraft-passthrough, fortresscraft, grandtheftminecraft, granny-minecraft-passthrough, gta-san-anskateas, gta-skate-3-trilogy, hycraft, hytale2mc, knee-deep-in-the-mines, libertycraft, minecraft-hytale-crossplay-ssquadteam; all unchanged) + discovery (10 searches, 0 new; all hits already catalogued). head_sha is the parent commit. 11 records unreachable_from_routine (fnv-libsm64 repo newly inaccessible). No play-tests."
+    "scope": "Run 2026-11-03: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 164 reachable GitHub repos (1 new release: retroconsole v0.3.3) + 12 deep rechecks (retroconsole, ultradoom, nucledoom, wasmcraft, project-inception, valcraft, wither-storm-gta-v, minecraft-x-half-life, world-of-skatecraft, pipelink-launcher, owcraft, sekirocraft-passthrough, minecraft-gta-v: repo history/tags/LICENSE re-read; only retroconsole changed) + discovery (12 searches, 0 new; 1 new deferred lead; 62 GitHub deferred leads re-checked for reachability/newest tag). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -610,6 +610,12 @@
       "url": "https://x.com/NikTek/status/2106015141099643239",
       "why": "Social post only (2026-10-02, says AI-assisted); no repo/download; likely adjacent/video-only",
       "date": "2026-10-31"
+    },
+    {
+      "name": "Fixed-Seed/game-changer (and MartinHWolch/universal-modder)",
+      "url": "https://github.com/Fixed-Seed/game-changer",
+      "why": "MIT AI-agent modding toolkits (siblings of rehan-remade/universal-modder) whose worked passthrough example is the already-listed Minecraft-in-GTA V; generic tooling, not a separate mashup; at most a note on minecraft-gta-v",
+      "date": "2026-11-03"
     }
   ],
   "structural_upgrade": {
