@@ -4353,7 +4353,7 @@ An offline single-player fan project that lets the player control a Warcraft III
 - [Creator profile](https://github.com/YazgulDev)
 - [Press: cybersport.ru](https://www.cybersport.ru/tags/cs2/modder-skrestil-warcraft-iii-i-cs-1-6-teper-mozhno-poigrat-v-shuter-na-karte-rts)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4407,7 +4407,7 @@ A Skyrim SE/AE SKSE plugin bridging a modified Chocolate Doom runtime: seven DOO
 - [Release / download](https://github.com/Caffs/SkyDoom/releases/tag/v0.1.0-beta)
 - [Creator profile](https://github.com/Caffs)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4435,7 +4435,7 @@ A SkyCraft-derived bridge in which Garry's Mod and Minecraft Java run at once an
 - [Creator profile](https://github.com/cheetahdotcat)
 - [Derived from SkyCraft fork (hawktuahs)](https://github.com/hawktuahs/SkycraftFork)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4462,7 +4462,7 @@ A Dying Light plugin that launches Garry's Mod hidden at the menu and hooks Dyin
 - [Release / download](https://github.com/GooseMcGee/DyingLight-GMod/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/GooseMcGee)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4489,7 +4489,7 @@ Minecraft chunk meshes, entity models, particles, sky and held items stream over
 - [Release / download](https://github.com/ShadowBlade83/HalfLife2Minecraft/releases/tag/v1.7.5)
 - [Creator profile](https://github.com/ShadowBlade83)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4516,7 +4516,7 @@ A sm64coopdx mod that drives Super Mario 64 with the Rust Skate 3 engine re-impl
 - [Creator profile](https://github.com/SAitken91)
 - [Skate 3 Rust engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4544,7 +4544,7 @@ A pair of mods that bridge two games running at the same time: a "Satisfactory T
 - [Project page](https://mods.factorio.com/mod/TransferToSatisfactory)
 - [Demo video](https://www.youtube.com/watch?v=CzhwXyWXVRw)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4570,7 +4570,7 @@ A BepInEx mod that places an in-world Game Boy console in R.E.P.O. The player su
 - [Source code](https://github.com/Omniscye/Empress_Gameboy_Emulator)
 - [Release / download](https://thunderstore.io/c/repo/p/Omniscye/Empress_Gameboy_Emulator/)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4597,7 +4597,7 @@ A MelonLoader mod that adds a Game Boy to The Long Dark's inventory. Equipping i
 - [Release / download](https://github.com/Lzc4/CabinBoy/releases)
 - [UnityGB (core upstream)](https://github.com/Inkdrop/UnityGB)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5492,7 +5492,7 @@ Experimental single-player preview in which Minecraft supplies the world and sim
 - [Creator profile](https://github.com/gta5craft)
 - [SkyCraft (foundation)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5520,7 +5520,7 @@ Experimental Windows port in which New Vegas renders the Mojave while a Minecraf
 - [Creator profile](https://github.com/benedettoscala)
 - [SkyCraft (inspiration)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5548,7 +5548,7 @@ A port of the author's HL2Craft approach to Left 4 Dead 2. A hidden Minecraft Ja
 - [Creator profile](https://github.com/ShadowBlade83)
 - [HL2Minecraft (upstream by the same creator)](https://github.com/ShadowBlade83/HalfLife2Minecraft)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

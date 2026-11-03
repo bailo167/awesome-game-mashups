@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-11-03",
-    "head_sha": "cebfbba138aab6e37922f3c9ccb761bb4968a510",
+    "head_sha": "c02e81c0c8893341fef73fd7396bab79bec71016",
     "project_count": 217,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-03: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 164 reachable GitHub repos (1 new release: retroconsole v0.3.3) + 12 deep rechecks (retroconsole, ultradoom, nucledoom, wasmcraft, project-inception, valcraft, wither-storm-gta-v, minecraft-x-half-life, world-of-skatecraft, pipelink-launcher, owcraft, sekirocraft-passthrough, minecraft-gta-v: repo history/tags/LICENSE re-read; only retroconsole changed) + discovery (12 searches, 0 new; 1 new deferred lead; 62 GitHub deferred leads re-checked for reachability/newest tag). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-03 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 162 reachable GitHub entries (no new releases; 6 repos unreachable from sandbox) + 12 deep rechecks (warcraft-cs, skydoom, garrys-modcraft, gmodlight, hl2minecraft, skate-64, factorio-to-satisfactory, empress-gameboy-repo, cabinboy-long-dark, gtacraft-gta5craft, vegascraft-benedettoscala, left4craft2: README/LICENSE/tags/commits re-read) + discovery (8 searches, 0 new; 2 new deferred leads). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -615,6 +615,18 @@
       "name": "Fixed-Seed/game-changer (and MartinHWolch/universal-modder)",
       "url": "https://github.com/Fixed-Seed/game-changer",
       "why": "MIT AI-agent modding toolkits (siblings of rehan-remade/universal-modder) whose worked passthrough example is the already-listed Minecraft-in-GTA V; generic tooling, not a separate mashup; at most a note on minecraft-gta-v",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "SkyCraft ATM10Sky (waffledew)",
+      "url": "https://github.com/waffledew/SkyCraft-ATM10Sky",
+      "why": "MIT fork of SkyCraft targeting the ATM10 modpack (tag v0.1.2-atm10sky.9); candidate for a note on skycraft rather than a separate entry",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "SMUE5 (LunaRyuko)",
+      "url": "https://github.com/LunaRyuko/SMUE5",
+      "why": "libsm64 in Unreal Engine 5 proof of concept; no collision/interaction, author won't finish; engine experiment not a game mashup; no licence read",
       "date": "2026-11-03"
     }
   ],
