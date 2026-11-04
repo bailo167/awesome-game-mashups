@@ -1,7 +1,10 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-11-03. These are additions to the index, not necessarily new releases.
+Week ending 2026-11-04. These are additions to the index, not necessarily new releases.
 
+- **[ValCraft (Minecraft in Valheim, strangemap)](https://github.com/bailo167/awesome-game-mashups#project-valcraft-strangemap)** — Composites real Minecraft Java into Valheim so you explore Valheim's world as a Minecraft player with Minecraft blocks, weapons and TNT. (Released · Code available · Experimental)
+- **[Portalcraft (Portal 2 as a Minecraft player, Stink-O)](https://github.com/bailo167/awesome-game-mashups#project-portalcraft-stink-o)** — Runs real Portal 2 and Minecraft Java side by side so Minecraft's hand, inventory, building and digging work inside Portal 2's test chambers. (Released · Code available · Experimental)
+- **[Portalcraft (Minecraft in Portal 2, ZannaFella)](https://github.com/bailo167/awesome-game-mashups#project-portalcraft-zannafella)** — Draws real Minecraft Java into Portal 2 frames so Minecraft blocks, mobs and movement rules work inside Aperture's test chambers. (Released · Code available)
 - **[BRC CODE-DMG](https://github.com/bailo167/awesome-game-mashups#project-brc-code-dmg)** — Adds a Game Boy / Game Boy Color emulator to Bomb Rush Cyberfunk, played through the in-game phone. (Released · Code available)
 - **[MineDoom](https://github.com/bailo167/awesome-game-mashups#project-minedoom)** — Runs id Software's original 1997 linuxdoom C engine natively inside Minecraft's process via JNI, started from a Doom Block. (Released · Code available)
 - **[MCEmu](https://github.com/bailo167/awesome-game-mashups#project-mcemu)** — Historical Forge mod that runs NES ROMs as cartridges inside Minecraft 1.12.2. (Released · Code available · Archived)
@@ -16,4 +19,3 @@ Week ending 2026-11-03. These are additions to the index, not necessarily new re
 - **[Valheim GameBoy](https://github.com/bailo167/awesome-game-mashups#project-valheim-gameboy)** — A BepInEx mod that adds a Game Boy emulator to Valheim. (Released · Experimental)
 - **[Playable GameBoy (Project Zomboid)](https://github.com/bailo167/awesome-game-mashups#project-playable-gameboy-zomboid)** — Runs Game Boy ROMs through the LuaGB emulator inside Project Zomboid. (Released · Experimental)
 - **[LC DOOM (Lethal Company)](https://github.com/bailo167/awesome-game-mashups#project-lethal-company-doom-cryptoc1)** — Play DOOM on the ship's terminal in Lethal Company, via a BepInEx mod. (Released)
-- **[balatro-doom (KittyShopper)](https://github.com/bailo167/awesome-game-mashups#project-balatro-doom-kittyshopper)** — A work-in-progress Steamodded mod that loads a doomgeneric build as a native Lua library inside Balatro. (Code available · Experimental)

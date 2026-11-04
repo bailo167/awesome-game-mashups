@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**217 entries:** 195 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
+**220 entries:** 198 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-11-03. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-11-04. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[BRC CODE-DMG](#project-brc-code-dmg) · [MineDoom](#project-minedoom) · [MCEmu](#project-mcemu) · [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) · [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within) · [smolnes-nut](#project-smolnes-nut) · [Computerraria (RISC-V computer in Terraria)](#project-computerraria) · [AC6-FXR-DOOM-POC (Doom in Armored Core VI)](#project-ac6-fxr-doom)
+[ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) · [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella) · [BRC CODE-DMG](#project-brc-code-dmg) · [MineDoom](#project-minedoom) · [MCEmu](#project-mcemu) · [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) · [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -147,6 +147,8 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [PipeLink Launcher — GTA SA × Skate 3 × MW2](#project-pipelink-launcher) | Runs Skate 3 and MW2 gameplay modes inside GTA San Andreas. | Released · Code available · Experimental | [Watch](https://streamable.com/19fo55) |
 | [Playable GameBoy (Project Zomboid)](#project-playable-gameboy-zomboid) | Runs Game Boy ROMs through the LuaGB emulator inside Project Zomboid. | Released · Experimental | — |
 | [Pokémon Red in Minecraft](#project-pokemon-red) | Rebuilds the Pokémon Red adventure as a playable game inside vanilla Minecraft. | Released | — |
+| [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella) | Draws real Minecraft Java into Portal 2 frames so Minecraft blocks, mobs and movement rules work inside Aperture's test chambers. | Released · Code available | — |
+| [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) | Runs real Portal 2 and Minecraft Java side by side so Minecraft's hand, inventory, building and digging work inside Portal 2's test chambers. | Released · Code available · Experimental | — |
 | [Project Inception](#project-project-inception) | Runs a playable second Minecraft game on a screen inside Minecraft. | Released · Code available | — |
 | [QuakeCraft (Quake III Arena in Minecraft)](#project-quakecraft) | Two-process bridge running Quake III Arena's movement and weapons alongside Minecraft Java. | Released · Code available | — |
 | [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) | Runs Minecraft Java in the background of Resident Evil 4 UHD and draws its player, HUD and blocks inside RE4; alpha. | Released · Code available · Experimental | — |
@@ -179,6 +181,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Twilight Souls](#project-twilight-souls) | Total conversion that rebuilds Dark Souls' world, stats and bonfires inside The Legend of Zelda: Twilight Princess so you play as Link in Lordran. | Released · Experimental | — |
 | [UltraDoom / UltrakillDoom](#project-ultradoom) | Lets you play DOOM on the shop terminals inside ULTRAKILL. | Released · Code available | [Watch](https://www.youtube.com/watch?v=Y7zpELS2QfQ) |
 | [ValCraft](#project-valcraft) | Runs Minecraft movement, blocks, inventory and combat inside Valheim while both games stay active. | Released · Code available · Experimental | — |
+| [ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) | Composites real Minecraft Java into Valheim so you explore Valheim's world as a Minecraft player with Minecraft blocks, weapons and TNT. | Released · Code available · Experimental | — |
 | [Valheim GameBoy](#project-valheim-gameboy) | A BepInEx mod that adds a Game Boy emulator to Valheim. | Released · Experimental | — |
 | [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) | Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. | Released · Code available · Experimental | — |
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
@@ -494,7 +497,7 @@ An in-world portal and altar launch a playable DOOM II experience from Minecraft
 
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/project-1428983)
 
-**Dated source review:** 2026-10-20
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -629,7 +632,7 @@ Four destructible Minecraft maps built inside Halo 3. This is more than a textur
 - [Project page](https://www.patreon.com/infernoplus/posts/halocraft-73930239)
 - [Official Halo spotlight](https://www.halowaypoint.com/news/halo-mcc-modtacular-2)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -772,7 +775,7 @@ Primary creator footage demonstrates Minecraft Classic rendered inside Hytale's 
 - [Creator post](https://x.com/iamcxv711/status/2012610249174536397)
 - [Supporting source](https://www.pcgamer.com/hardware/doom-windows-95-even-hytale-itself-it-seems-like-theres-nothing-that-modders-cant-make-hytale-run/)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -843,7 +846,7 @@ No matching public source/release verified as of 2026-10-01.
 
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -884,7 +887,7 @@ Portal-themed Zombies map using Portal textures, models and teleporters; not a f
 
 - [Release / download](https://steamcommunity.com/sharedfiles/filedetails/?id=856630622)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1422,7 +1425,7 @@ Creator footage shows Minecraft movement, combat, building and items operating t
 - [benilla upstream](https://github.com/samwhosung/benilla)
 - [Creator video: release and multiplayer download (2026-10-05)](https://www.youtube.com/watch?v=dKZN2nKc4bc)
 
-**Dated source review:** 2026-10-26
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1443,7 +1446,7 @@ Creator footage shows CS:GO-style weapons, shooting and movement inside Project 
 
 - [Watch demo](https://www.youtube.com/watch?v=n2fEHpLJUNk)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1678,7 +1681,7 @@ DryxioGTA's creator demo shows GTA III, Vice City and San Andreas running simult
 - [GTA Vice City running in a GTA III texture in a GTA SA texture (video)](https://www.youtube.com/watch?v=X_w6fo4KVy0)
 - [Play Vice City and GTA 3 inside San Andreas (video)](https://www.youtube.com/watch?v=bJhmdD5mFMw)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1836,7 +1839,7 @@ The creator demo shows Hijacked geometry, collision, bots, navmesh, weapons and 
 - [Supporting source](https://www.minecraft-france.fr/call-of-duty-black-ops-2-directement-dans-minecraft/)
 - [Creator profile](https://github.com/luckeyfaraday)
 
-**Dated source review:** 2026-10-21
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2027,7 +2030,7 @@ A Resident Evil Requiem plugin, removed from Nexus Mods by staff as of 2026-10-0
 
 - [Release / download](https://www.nexusmods.com/residentevilrequiem/mods/3087)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2081,7 +2084,7 @@ A downloadable My Winter Car mod that launches Freedoom on the game's programmab
 - [Freedoom](https://freedoom.github.io/)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2189,7 +2192,7 @@ An ASI plugin and Fabric mod pair that runs Minecraft Java next to GTA IV and re
 - [Release / download](https://www.nexusmods.com/gta4/mods/1498)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2371,7 +2374,7 @@ An X video posted on 30 Sep 2026 ('I put Tarkov into Skyrim. Now with guns and e
 
 - [Creator post](https://x.com/cydonix/status/2105177318968955044)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2508,7 +2511,7 @@ gmDoom is a partial source port of DOOM for Garry's Mod that reads a user's IWAD
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=145310679)
 - [gmDoom Maps source (Jcw87)](https://github.com/Jcw87/gmod-doom-maps)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2560,7 +2563,7 @@ Skyth's mod runs Super Mario 64's decompiled movement through libsm64 in Sonic G
 
 - [Release / download](https://gamebanana.com/mods/368411)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2958,7 +2961,7 @@ ckosmic built a series of Garry's Mod addons for playing retro console games on 
 - [GEMU by ckosmic (2017, historical)](https://steamcommunity.com/sharedfiles/filedetails/?id=945777403)
 - [Retromod 1.0 (2018, deprecated)](https://steamcommunity.com/sharedfiles/filedetails/?id=1457560331)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3039,7 +3042,7 @@ A Forge mod that uses Minecraft as a platform for emulators: GBA cartridges foun
 
 - [Release / download](https://modrinth.com/mod/juni-emu)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3064,7 +3067,7 @@ An Arma Reforger mod that adds an in-world arcade cabinet running an original so
 - [Release / download](https://reforger.armaplatform.com/workshop/444F4F4D54455354-DOOMTEST)
 - [Source (ARMA_RETROFORGER)](https://github.com/josharghhh/ARMA_RETROFORGER)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3265,7 +3268,7 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 **Status:** Released · Code available · Experimental  
 **Approach:** Rust MW2 simulation library (IW4L crates via chasmlol's 2010 Rust Rewrite Mashup) loaded in-process by a BepInEx plugin; MW2 assets read from the player's own install  
 
-A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement and weapon handling (fire timing, recoil, spread, ADS, reloads) run in a Rust library built on IW4L's crates, loaded in-process, while RoR2 keeps damage, items and enemies, so RoR2 items proc off MW2 guns. Guns, attachments, camos, viewmodel, animations, sounds, HUD, minimap and menus are read at runtime from the player's own MW2 install. Includes Create-a-Class, perks as RoR2 items, deathstreaks, all 15 killstreaks, MW2 XP/ranks/challenges and co-op through RoR2 lobbies. v0.4.5 (2026-10-15) fixes random getting-stuck, restores MW2 kill-popup values, adds Copycat, a second Tactical Insertion plant and weapon bob; v0.4.4 (2026-10-11) targeted RoR2's 8 Oct 2026 update and fixed a co-op desync between mod-manager and manual installs.
+A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement and weapon handling (fire timing, recoil, spread, ADS, reloads) run in a Rust library built on IW4L's crates, loaded in-process, while RoR2 keeps damage, items and enemies, so RoR2 items proc off MW2 guns. Guns, attachments, camos, viewmodel, animations, sounds, HUD, minimap and menus are read at runtime from the player's own MW2 install. Includes Create-a-Class, perks as RoR2 items, deathstreaks, all 15 killstreaks, MW2 XP/ranks/challenges and co-op through RoR2 lobbies. v0.4.6 (2026-11-04) makes MW2 movement follow each stage's gravity (jump pads on Commencement/Mithrix work), raises jump height to RoR2 survivor level, adds crouch/prone binds and a lobby version-mismatch warning; v0.4.5 (2026-10-15) fixes random getting-stuck, restores MW2 kill-popup values, adds Copycat, a second Tactical Insertion plant and weapon bob; v0.4.4 (2026-10-11) targeted RoR2's 8 Oct 2026 update and fixed a co-op desync between mod-manager and manual installs.
 
 **Requirements:** Windows 10/11 64-bit; Risk of Rain 2 and Call of Duty: Modern Warfare 2 (2009) on Steam with MW2 multiplayer content (no game files included); BepInEx 5 and RoR2BepInExPack (the manual zip includes the pack). Experimental: solo tested on the 8 Oct 2026 RoR2 update; co-op not fully re-tested there, 3-4 player lobbies and other mods untested; Linux/Steam Deck untested.
 
@@ -3278,7 +3281,7 @@ A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement
 - [Creator showcase video](https://github.com/buhhrad/MW2xRoR2/raw/main/docs/media/showcase.mp4)
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3796,7 +3799,7 @@ A submission (issue #5) and the creator video describe the open-source Rust fait
 - [Watch demo](https://www.youtube.com/watch?v=I2PfYtFe1bY)
 - [Upstream faith-runner (movement core)](https://github.com/tnrjns/faith-runner)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3875,7 +3878,7 @@ Glenny's YouTube videos show Skyrim-style shouts (Unrelenting Force, Whirlwind S
 - [Aura Whisper shout (video)](https://www.youtube.com/watch?v=vhqNBWJz-pE)
 - [Summoning Durnehviir (video)](https://www.youtube.com/watch?v=8bA7ZEtCnbg)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4217,7 +4220,7 @@ A Nexus mod by RPGKing117 that, per its summary, lets you play Skyrim inside the
 - [Creator profile](https://github.com/rpgking117)
 - [Successor: Bethception](https://www.nexusmods.com/fallout4/mods/105294)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4325,7 +4328,7 @@ A Nexus mod by RPGKing117 that streams a patched Fallout 1 Community Edition int
 - [Creator profile](https://github.com/rpgking117)
 - [Successor: Bethception](https://www.nexusmods.com/fallout4/mods/105294)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5577,7 +5580,7 @@ Minecraft renders the world and both VR eyes while a background, non-VR Gorilla 
 - [SkyCraft (design basis)](https://github.com/chasmlol/SkyCraft)
 - [Gorilla Passthrough (reverse direction)](https://github.com/arvabarva/Gorillatag-Minecraft-Passtrough)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5604,7 +5607,7 @@ Players insert cartridges or discs and play on in-world handhelds, TVs and arcad
 - [Release / download](https://github.com/sammwyy/retrocraft/releases)
 - [Creator profile](https://github.com/sammwyy)
 
-**Dated source review:** 2026-10-27
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5998,6 +6001,87 @@ Ports Bot Randomness's CODE-DMG emulator into Bomb Rush Cyberfunk as a phone app
 - [Upstream emulator: BotRandomness/CODE-DMG](https://github.com/BotRandomness/CODE-DMG)
 
 **Dated source review:** 2026-11-02
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-portalcraft-zannafella"></a>
+
+### Portalcraft (Minecraft in Portal 2, ZannaFella)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Portal 2  
+**Creator:** ZannaFella  
+**Status:** Released · Code available  
+**Approach:** ReShade add-on for Portal 2 plus a Fabric mod, linked by shared memory  
+
+A Windows passthrough mod. Portal 2 stays the host while Minecraft Java 26.3 runs alongside it. A ReShade add-on hooks Portal 2's camera and composites Minecraft's colour and depth into each frame, a Fabric mod turns each Portal 2 map into invisible barrier blocks, and the two sides talk through shared memory. The README documents Minecraft blocks acting as Portal 2 colliders, Minecraft movement rules running in Portal 2's movement code, and Minecraft mob damage taken from Portal 2 health. Single player only. Separate from Stink-O's Portalcraft.
+
+**Requirements:** Windows, Portal 2 on Steam, a Minecraft Java Edition account, and a Fabric instance for Minecraft 26.3 (Modrinth App or official launcher); the README gives a Portal 2 build target and launch options.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/zannafella/Portalcraft)
+- [Release / download](https://github.com/zannafella/Portalcraft/releases)
+- [universal-modder (starting example)](https://github.com/rehan-remade/universal-modder)
+
+**Dated source review:** 2026-11-04
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-portalcraft-stink-o"></a>
+
+### Portalcraft (Portal 2 as a Minecraft player, Stink-O)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Portal 2  
+**Creator:** Stink-O  
+**Status:** Released · Code available · Experimental  
+**Approach:** Portal 2 plugin plus Fabric mod, with a launcher  
+
+An experimental Windows and Linux mod with a launcher. Portal 2 draws the scene while Minecraft Java runs hidden and supplies blocks, the player and a world, linked by a Portal 2 plugin and a Fabric mod, with portals that open onto a Minecraft world. The README warns of visual artifacts on every build. Separate from ZannaFella's Portalcraft.
+
+**Requirements:** Portal 2 on Steam and a Minecraft Java Edition Microsoft account; the launcher fetches Minecraft 26.3 and Java. See the README for platform caveats.
+
+**Platforms documented:** Windows, Linux
+
+- [Source code](https://github.com/Stink-O/portalcraft)
+- [Release / download](https://github.com/Stink-O/portalcraft/releases)
+
+**Dated source review:** 2026-11-04
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-valcraft-strangemap"></a>
+
+### ValCraft (Minecraft in Valheim, strangemap)
+
+**Guest:** Minecraft: Java Edition  
+**Host:** Valheim  
+**Creator:** strangemap  
+**Status:** Released · Code available · Experimental  
+**Approach:** Fabric mod plus BepInEx plugin and ReShade add-on, linked by shared memory  
+
+An experimental Windows passthrough mod. A Fabric mod renders an empty Minecraft world from Valheim's camera and shares colour and depth through shared memory; a BepInEx plugin and ReShade add-on composite it into Valheim's picture, turn Valheim's ground into invisible Minecraft barriers and Minecraft blocks into Valheim colliders, and map Minecraft swings, arrows, explosions and ender pearls to Valheim damage, chopping, digging and teleports. A separate codebase from LoAlCo's ValCraft.
+
+**Requirements:** Windows 10/11, Valheim on Steam running DirectX 11, and a Minecraft Java Edition Microsoft account; internet for the first install, which fetches BepInEx, ReShade, Prism Launcher, Minecraft and Fabric.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/strangemap/valcraft)
+- [Release / download](https://github.com/strangemap/valcraft/releases)
+- [Minecraft-Ring (inspiration)](https://github.com/siddoff/Minecraft-Ring)
+- [universal-modder (base passthrough)](https://github.com/rehan-remade/universal-modder)
+
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

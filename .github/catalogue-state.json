@@ -3,12 +3,12 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-11-03",
-    "head_sha": "c02e81c0c8893341fef73fd7396bab79bec71016",
-    "project_count": 217,
+    "verified_at": "2026-11-04",
+    "head_sha": "fddc63c6481f8a741abf00d11f318697f0c4a80c",
+    "project_count": 220,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-03 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 162 reachable GitHub entries (no new releases; 6 repos unreachable from sandbox) + 12 deep rechecks (warcraft-cs, skydoom, garrys-modcraft, gmodlight, hl2minecraft, skate-64, factorio-to-satisfactory, empress-gameboy-repo, cabinboy-long-dark, gtacraft-gta5craft, vegascraft-benedettoscala, left4craft2: README/LICENSE/tags/commits re-read) + discovery (8 searches, 0 new; 2 new deferred leads). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-04: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 168 GitHub repos (MW2xRoR2 v0.4.6 only new release; 7 repos unreachable from sandbox) + 25 records re-read (24 deep rechecks plus mw2xror2) + discovery (12+ searches, 3 new: portalcraft-zannafella, portalcraft-stink-o, valcraft-strangemap; 1 new deferred lead). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -326,7 +326,7 @@
     {
       "name": "2160039878-cyber/HollowCraft (Minecraft in Hollow Knight)",
       "url": "https://github.com/2160039878-cyber/HollowCraft",
-      "why": "MIT, source only, no tags (created 2026-10-19); README states AI use; add if a release appears",
+      "why": "MIT, source only, no tags (created 2026-10-19); README states AI use; add if a release appears; rechecked 2026-11-04: repo now 404 / credential prompt (private, removed or restricted; not proven deleted)",
       "date": "2026-10-24"
     },
     {
@@ -434,7 +434,7 @@
     {
       "name": "Keel62155/Minecraft-X-Games",
       "url": "https://github.com/Keel62155/Minecraft-X-Games",
-      "why": "Hub repo, one SkyCraft-based release per game (RedCraft for RDR2 is the only new host); no LICENSE; per-game READMEs not read (found 2026-10-25, not independently read beyond subagent report)",
+      "why": "Hub repo, one SkyCraft-based release per game (RedCraft for RDR2 is the only new host); no LICENSE; per-game READMEs not read (found 2026-10-25, not independently read beyond subagent report); rechecked 2026-11-04: hosts now identified (Ready Or Not, Cyberpunk, RDR2, GTA 5, PEAK); still no LICENSE",
       "date": "2026-10-25"
     },
     {
@@ -518,7 +518,7 @@
     {
       "name": "Mielesgames/miside-minecraft-passthrough",
       "url": "https://github.com/Mielesgames/miside-minecraft-passthrough",
-      "why": "Created 2026-10-27; README/tags are an unmodified copy of SkyCraft (MIT, chasmlol), no MiSide-specific work; recheck for a MiSide commit/release",
+      "why": "Created 2026-10-27; README/tags are an unmodified copy of SkyCraft (MIT, chasmlol), no MiSide-specific work; recheck for a MiSide commit/release; rechecked 2026-11-04: tags v0.1.0-v0.1.2 but README still unmodified SkyCraft copy, no releases",
       "date": "2026-10-28"
     },
     {
@@ -628,6 +628,12 @@
       "url": "https://github.com/LunaRyuko/SMUE5",
       "why": "libsm64 in Unreal Engine 5 proof of concept; no collision/interaction, author won't finish; engine experiment not a game mashup; no licence read",
       "date": "2026-11-03"
+    },
+    {
+      "name": "Mistyntoby/NeighborCraft (Minecraft in Hello Neighbor)",
+      "url": "https://github.com/Mistyntoby/NeighborCraft",
+      "why": "UE4SS + Fabric + ReShade, 100 commits, but no README/LICENSE or release; only a baseline tag",
+      "date": "2026-11-04"
     }
   ],
   "structural_upgrade": {
