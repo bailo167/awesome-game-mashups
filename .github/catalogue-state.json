@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-11-04",
-    "head_sha": "fddc63c6481f8a741abf00d11f318697f0c4a80c",
-    "project_count": 220,
+    "head_sha": "a5c53595a15d8cb1001ca918b3e9744cfee57fe8",
+    "project_count": 222,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-04: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 168 GitHub repos (MW2xRoR2 v0.4.6 only new release; 7 repos unreachable from sandbox) + 25 records re-read (24 deep rechecks plus mw2xror2) + discovery (12+ searches, 3 new: portalcraft-zannafella, portalcraft-stink-o, valcraft-strangemap; 1 new deferred lead). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-04 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 171 GitHub-sourced entries (no new releases; 6 repos unreachable from sandbox) + 13 records re-read (killcraft, er-mario, skategm, new-vegascraft, minebonk, geometrytale, pokemon-red, latte-doom, talemonpokemon, ocarina-of-time, minecraft-sm64, morrowind-elden-ring, pokeworlds-online; remastest, black-ops-ii and hellgate only partly readable so not stamped) + discovery (30+ searches, 2 new: resonitemario64, vrchat-gameboy; 5 new deferred leads). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -634,6 +634,36 @@
       "url": "https://github.com/Mistyntoby/NeighborCraft",
       "why": "UE4SS + Fabric + ReShade, 100 commits, but no README/LICENSE or release; only a baseline tag",
       "date": "2026-11-04"
+    },
+    {
+      "name": "CVRSuperMario64 (kafeijao, libsm64 in ChilloutVR)",
+      "url": "https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/CVRSuperMario64",
+      "why": "Likely a second libsm64 social-VR entry (reference for ResoniteMario64); not yet read",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "PokeFind (Pokémon in Hytale)",
+      "url": "https://www.google.com/search?q=PokeFind+Hytale",
+      "why": "Surfaced only as a search-result mention; no primary URL found; PokeWorlds Online games.gg 'fully playable' claim also unread",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "Minecraft in Skyrim (Nexus mod 48439)",
+      "url": "https://www.nexusmods.com/skyrim/mods/48439",
+      "why": "Possible historical precursor; page 403 from the sandbox, upload date unknown; compare with minecraft-skyrim-earlier-footage",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "Amnesia Minesweeper (Spelos)",
+      "url": "https://www.moddb.com/",
+      "why": "Minesweeper rebuilt as an Amnesia custom story; adjacent at best; ModDB page URL and date not yet found",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "Held Games guides to games rebuilt inside other games",
+      "url": "https://heldgames.com/",
+      "why": "Not yet fetched; likely good source of leads",
+      "date": "2026-11-04"
     }
   ],
   "structural_upgrade": {
@@ -716,13 +746,13 @@
     },
     {
       "id": "black-ops-ii-hijacked-minecraft",
-      "host": "x.com via fxtwitter (post NOT_FOUND); luckeyfaraday/claude-of-duty repo 404",
-      "date": "2026-10-27"
+      "host": "x.com via fxtwitter (404); github.com creator profile/repo 403 via proxy; only Minecraft-France secondary coverage readable",
+      "date": "2026-11-04"
     },
     {
       "id": "hellgate-doom-portal",
-      "host": "api.cfwidget.com (404 on two attempts 2026-10-27)",
-      "date": "2026-10-27"
+      "host": "curseforge.com page 404; cfwidget only works under the old slug hellgate-doom-portal (licence field empty, licence not confirmed)",
+      "date": "2026-11-04"
     },
     {
       "id": "craftmsc",

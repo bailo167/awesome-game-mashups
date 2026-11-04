@@ -2,7 +2,9 @@
 
 Week ending 2026-11-04. These are additions to the index, not necessarily new releases.
 
+- **[vrchat-gameboy (Game Boy emulator in VRChat)](https://github.com/bailo167/awesome-game-mashups#project-vrchat-gameboy)** — A Game Boy emulator written in UdonSharp that runs inside a VRChat world and boots Pokémon Blue. (Code available · Experimental)
 - **[ValCraft (Minecraft in Valheim, strangemap)](https://github.com/bailo167/awesome-game-mashups#project-valcraft-strangemap)** — Composites real Minecraft Java into Valheim so you explore Valheim's world as a Minecraft player with Minecraft blocks, weapons and TNT. (Released · Code available · Experimental)
+- **[ResoniteMario64 (Mario 64 in Resonite)](https://github.com/bailo167/awesome-game-mashups#project-resonitemario64)** — Spawns a controllable Super Mario 64 Mario, running on libsm64, inside Resonite worlds. (Released · Code available)
 - **[Portalcraft (Portal 2 as a Minecraft player, Stink-O)](https://github.com/bailo167/awesome-game-mashups#project-portalcraft-stink-o)** — Runs real Portal 2 and Minecraft Java side by side so Minecraft's hand, inventory, building and digging work inside Portal 2's test chambers. (Released · Code available · Experimental)
 - **[Portalcraft (Minecraft in Portal 2, ZannaFella)](https://github.com/bailo167/awesome-game-mashups#project-portalcraft-zannafella)** — Draws real Minecraft Java into Portal 2 frames so Minecraft blocks, mobs and movement rules work inside Aperture's test chambers. (Released · Code available)
 - **[BRC CODE-DMG](https://github.com/bailo167/awesome-game-mashups#project-brc-code-dmg)** — Adds a Game Boy / Game Boy Color emulator to Bomb Rush Cyberfunk, played through the in-game phone. (Released · Code available)

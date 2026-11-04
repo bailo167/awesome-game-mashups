@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**220 entries:** 198 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
+**222 entries:** 200 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) · [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella) · [BRC CODE-DMG](#project-brc-code-dmg) · [MineDoom](#project-minedoom) · [MCEmu](#project-mcemu) · [DoomCraft (ChromusMaster)](#project-doomcraft-chromusmaster) · [The Doom Within (Doom in World of Warcraft)](#project-wow-doom-within)
+[vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) · [ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [ResoniteMario64 (Mario 64 in Resonite)](#project-resonitemario64) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) · [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella) · [BRC CODE-DMG](#project-brc-code-dmg) · [MineDoom](#project-minedoom) · [MCEmu](#project-mcemu)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -152,6 +152,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Project Inception](#project-project-inception) | Runs a playable second Minecraft game on a screen inside Minecraft. | Released · Code available | — |
 | [QuakeCraft (Quake III Arena in Minecraft)](#project-quakecraft) | Two-process bridge running Quake III Arena's movement and weapons alongside Minecraft Java. | Released · Code available | — |
 | [RE4Craft / ResidentCraft4 (Minecraft in Resident Evil 4)](#project-residentcraft4) | Runs Minecraft Java in the background of Resident Evil 4 UHD and draws its player, HUD and blocks inside RE4; alpha. | Released · Code available · Experimental | — |
+| [ResoniteMario64 (Mario 64 in Resonite)](#project-resonitemario64) | Spawns a controllable Super Mario 64 Mario, running on libsm64, inside Resonite worlds. | Released · Code available | — |
 | [Retro Handheld Emulator 1x1 scale](#project-retro-handheld-emulator) | Runs playable Game Boy games on a giant in-world display inside Hytale. | Released | — |
 | [Retro Machines (Game Boy in Minecraft)](#project-retro-machines) | Embeds a modified rboy Game Boy emulator in a Minecraft Fabric mod so you can load your own Game Boy ROMs in-game; a 2023 prototype. | Released · Code available · Experimental | — |
 | [Retro64](#project-retro64) | Lets you toggle into Super Mario 64's Mario, with original physics, inside a Minecraft world. | Released · Code available | [Watch](https://www.youtube.com/watch?v=2yWKqc2rmHI) |
@@ -255,6 +256,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) | Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD. | Code available · Experimental | — |
 | [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Code available · Demo | — |
 | [UltraRing](#project-ultraring) | Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. | Code available · Experimental | — |
+| [vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) | A Game Boy emulator written in UdonSharp that runs inside a VRChat world and boots Pokémon Blue. | Code available · Experimental | — |
 | [Wasmcraft game demos](#project-wasmcraft) | Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=wCHB1UgwM9o) |
 | [World of Skatecraft](#project-world-of-skatecraft) | Runs Skate 3 physics and tricks inside World of Warcraft 1.12.1. | Code available · Experimental | [Watch](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4) |
 
@@ -680,7 +682,7 @@ A seven-year solo recreation designed to be playable from beginning to end, cove
 - [Release / download](https://rivero7462.itch.io/ocarina-of-time-in-minecraft)
 - [Watch demo](https://www.youtube.com/watch?v=HSGioTZ_rf4)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -705,7 +707,7 @@ A complete playable recreation of Pokémon Red built in vanilla Minecraft, repro
 
 - [Release / download](https://www.curseforge.com/minecraft/worlds/pokemon-red)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -728,7 +730,7 @@ Runs on emulator and, with reduced render distance, on original Nintendo 64 hard
 - [Creator post](https://x.com/arthurtilly413/status/1924566904498487662)
 - [Creator GitHub](https://github.com/arthurtilly)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -753,7 +755,7 @@ An ongoing recreation of Morrowind in Elden Ring. A May 2026 update showed major
 - [Creator second channel (AnotherPlus): Update Video #1 (2025-10-29)](https://www.youtube.com/watch?v=l7GP9jdKbVk)
 - [Creator second channel (AnotherPlus): Update Video #2 (2026-05-06)](https://www.youtube.com/watch?v=U57Px9REH98)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -940,7 +942,7 @@ A DOOM source port for Minecraft. Mocha Doom owns the game simulation while Mine
 
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/latte-doom)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1061,7 +1063,7 @@ Recreates a substantial Pokémon adventure loop inside Hytale: starter selection
 - [Release / download](https://www.curseforge.com/hytale/mods/talemonpokemon)
 - [Watch demo](https://www.youtube.com/watch?v=wJbgOMAv5-s)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1084,7 +1086,7 @@ A work-in-progress multiplayer Pokémon-style project inside Hytale. Creator foo
 - [Supporting source](https://www.dexerto.com/pokemon/hytale-modder-is-turning-classic-pokemon-into-an-mmo-you-can-play-with-friends-3409404/)
 - [Creator follow-up: field abilities preview (2026-09-18)](https://x.com/pokeworldonlin/status/2100900271962431670)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1129,7 +1131,7 @@ Recreates Geometry Dash-style 2D side-scrolling levels as a downloadable Hytale 
 - [Release / download](https://www.curseforge.com/hytale/worlds/geometrytale)
 - [Watch demo](https://www.youtube.com/watch?v=N13Usbcgn60)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1500,7 +1502,7 @@ Runs Skate 3's board physics, tricks and scoring on Garry's Mod maps, with multi
 - [Release / download](https://github.com/the-schwilliam/SkateGM/releases/tag/9.0)
 - [Creator profile](https://github.com/the-schwilliam)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1605,7 +1607,7 @@ Minecraft's colour and depth are composited into Fallout: New Vegas while FNV ca
 - [Source code](https://github.com/Davozh/new-vegascraft)
 - [Creator profile](https://github.com/Davozh)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1629,7 +1631,7 @@ Unlike the passthrough projects, Minebonk uses one Megabonk process and rebuilds
 - [Source code](https://github.com/MGuibas/Minebonk)
 - [Creator profile](https://github.com/MGuibas)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1708,7 +1710,7 @@ A real Minecraft instance runs hidden and owns movement, health, hunger, invento
 - [Release / download](https://github.com/goonsn/Killcraft/releases/tag/v1.0.2)
 - [Creator profile](https://github.com/goonsn)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1735,7 +1737,7 @@ Mario's triple jumps, wall kicks, long jumps, ground pounds, attacks, health wed
 - [Release / download](https://github.com/deltarooo/er-mario/releases/tag/v0.4.3)
 - [Creator profile](https://github.com/deltarooo)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -6080,6 +6082,58 @@ An experimental Windows passthrough mod. A Fabric mod renders an empty Minecraft
 - [Release / download](https://github.com/strangemap/valcraft/releases)
 - [Minecraft-Ring (inspiration)](https://github.com/siddoff/Minecraft-Ring)
 - [universal-modder (base passthrough)](https://github.com/rehan-remade/universal-modder)
+
+**Dated source review:** 2026-11-04
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-resonitemario64"></a>
+
+### ResoniteMario64 (Mario 64 in Resonite)
+
+**Guest:** Super Mario 64 (Mario via libsm64)  
+**Host:** Resonite  
+**Creator:** art0007i  
+**Status:** Released · Code available  
+**Approach:** BepisLoader plugin embedding libsm64, with tag-based collider registration  
+
+A BepisLoader (BepInEx-based) mod that lets Resonite users spawn Mario from a Spawn Mario button or any object tagged SpawnMario, then control him with libsm64's real movement physics. Tagged static colliders, dynamic colliders and interactables make Resonite world geometry usable by Mario. v1.1.0 adds teleporters, poles, reworked gamepad and VR input with haptics, and a separate audio thread.
+
+**Requirements:** Resonite with BepisLoader installed and your own US Super Mario 64 ROM (MD5 20b854b239203baf6c961b850a4a51a2) renamed baserom.us.z64 next to the mod DLL.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/art0007i/ResoniteMario64)
+- [Release / download](https://github.com/art0007i/ResoniteMario64/releases)
+- [libsm64](https://github.com/libsm64/libsm64)
+- [CVRSuperMario64 (reference)](https://github.com/kafeijao/Kafe_CVR_Mods/tree/master/CVRSuperMario64)
+
+**Dated source review:** 2026-11-04
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-vrchat-gameboy"></a>
+
+### vrchat-gameboy (Game Boy emulator in VRChat)
+
+**Guest:** Game Boy (emulated; Pokémon Blue boots)  
+**Host:** VRChat  
+**Creator:** m7rk  
+**Status:** Code available · Experimental  
+**Approach:** Game Boy CPU/PPU emulation written in UdonSharp, based on ProjectDMG  
+
+A Game Boy emulator built entirely inside VRChat with UdonSharp, heavily based on ProjectDMG. The README says it passes the Blargg CPU tests and boots Pokémon Blue, but is only almost playable and needs roughly a 5x speed-up. No release or tag; the last commit is 2025-12-13.
+
+**Requirements:** VRChat world project (Unity with UdonSharp); the README does not state further requirements or platforms.
+
+- [Source code](https://github.com/m7rk/vrchat-gameboy)
+- [ProjectDMG (base emulator)](https://github.com/BluestormDNA/ProjectDMG)
 
 **Dated source review:** 2026-11-04
 **Catalogue play-test:** Not recorded.
