@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-11-05",
-    "head_sha": "beb3485337eafdfa0cdcdffdc51885b713bfb91f",
-    "project_count": 224,
+    "head_sha": "bcb719b4e5549ed7aa6c1b186331589d7394fea2",
+    "project_count": 225,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-05: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 173 GitHub repos (no new releases; 6 repos unreachable from sandbox) + 12 records re-read (remastest, garrys-redemption, halo-mw2-director, good-enough-game-integration, minecraft-ring, sonic-ultimate-speed-combat-gta-v, doom-hearts-of-iron-iv, gemu-gmod, ng64-beamng, smc64-halo, eldencraft, balatro-doom-kittyshopper) + discovery (30+ searches, 66 deferred repos rechecked, 2 new: rovm, osu-touch-grass; 3 new deferred leads). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-05 (second): contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 175 GitHub entries (no new releases; 6 repos unreachable from sandbox) + 12 records re-read (g64, doom-in-doom, doomsona, doom-sonic-mania, minecraft-in-minecraft-chungus-2, factorio-doom, minecraft-x-saints-row-3, ultraring, doom-ring, halfcraft-half-life, doomcraft-roryekay, ck3-bannerlord-bridge) + discovery (14 searches; 1 new: zagreus-journey). Deferred leads not individually rechecked this run. head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {

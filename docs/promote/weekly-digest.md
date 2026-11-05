@@ -2,6 +2,7 @@
 
 Week ending 2026-11-05. These are additions to the index, not necessarily new releases.
 
+- **[Zagreus' Journey (Hades inside Hades II)](https://github.com/bailo167/awesome-game-mashups#project-zagreus-journey)** — Adds the first Hades' Tartarus-to-Styx route, enemies and bosses to Hades II as a playable path for Melinoë. (Released · Code available)
 - **[RoVM (virtual computer and OS in Roblox)](https://github.com/bailo167/awesome-game-mashups#project-rovm)** — A 32-bit virtual computer and mini operating system written in Luau that runs a bundled Doom port inside Roblox. (Released · Code available · Related)
 - **[Osu Touch Grass (osu!lazer inside Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-osu-touch-grass)** — Runs the real osu!lazer client on redstone-activated monitor blocks inside Minecraft. (Code available · Experimental)
 - **[vrchat-gameboy (Game Boy emulator in VRChat)](https://github.com/bailo167/awesome-game-mashups#project-vrchat-gameboy)** — A Game Boy emulator written in UdonSharp that runs inside a VRChat world and boots Pokémon Blue. (Code available · Experimental)

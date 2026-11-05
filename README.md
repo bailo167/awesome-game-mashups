@@ -2,7 +2,7 @@
 
 > Games rebuilt **inside other games**.
 
-**224 entries:** 201 core projects, 8 unconfirmed sightings and 15 related projects. Not all entries are verified releases.
+**225 entries:** 202 core projects, 8 unconfirmed sightings and 15 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[RoVM (virtual computer and OS in Roblox)](#project-rovm) · [Osu Touch Grass (osu!lazer inside Minecraft)](#project-osu-touch-grass) · [vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) · [ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [ResoniteMario64 (Mario 64 in Resonite)](#project-resonitemario64) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) · [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella) · [BRC CODE-DMG](#project-brc-code-dmg)
+[Zagreus' Journey (Hades inside Hades II)](#project-zagreus-journey) · [RoVM (virtual computer and OS in Roblox)](#project-rovm) · [Osu Touch Grass (osu!lazer inside Minecraft)](#project-osu-touch-grass) · [vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) · [ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [ResoniteMario64 (Mario 64 in Resonite)](#project-resonitemario64) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) · [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -194,6 +194,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Wither Storm × GTA V Passthrough](#project-wither-storm-gta-v) | Runs Minecraft's Wither Storm simulation inside GTA V and bridges its effects into Los Santos. | Released · Code available · Experimental | [Watch](https://www.youtube.com/watch?v=spm-u_cZvl8) |
 | [WowCraft — Minecraft inside World of Warcraft](#project-wowcraft) | Runs Minecraft movement, combat, building and items through World of Warcraft 1.12.1. | Released · Experimental | [Watch](https://www.youtube.com/watch?v=sX3lsLiPS2s) |
 | [WowFC](#project-wowfc) | World of Warcraft addon that runs NES/Famicom games in a draggable in-game window. | Released · Code available | — |
+| [Zagreus' Journey (Hades inside Hades II)](#project-zagreus-journey) | Adds the first Hades' Tartarus-to-Styx route, enemies and bosses to Hades II as a playable path for Melinoë. | Released · Code available | — |
 
 ### Code, demos and projects in development
 
@@ -2406,7 +2407,7 @@ G64 is a Garry's Mod addon that uses ckosmic's fork of libsm64 to run Super Mari
 - [Watch demo](https://www.youtube.com/watch?v=JMLDKfCohl0)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=2814638140)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2435,7 +2436,7 @@ kgsws found a code-execution vulnerability in DOS DOOM2.EXE and used it to load 
 - [Project page](https://doomwiki.org/wiki/ACE_Engine)
 - [ACE Engine (follow-up, LGPL-2.1)](https://github.com/kgsws/doom_ace)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2490,7 +2491,7 @@ DOOMSona adds Doom cartridges to Persona 5 Royal's second-hand shop and runs the
 - [Release / download](https://gamebanana.com/mods/511278)
 - [Demo video (embedded on the GameBanana page)](https://www.youtube.com/watch?v=3RgkXJbLBDw)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2619,7 +2620,7 @@ An entry in the Sonic Hacking Contest 2020 that embeds Chocolate Doom in Sonic M
 - [Source code](https://github.com/TheStoneBanana/mania-doom)
 - [Project page](https://old.sonicstadium.org/?p=61884)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2644,7 +2645,7 @@ sammyuri's team wrote a tiny 3D Minecraft for the CHUNGUS 2 redstone CPU and ran
 - [Watch demo](https://www.youtube.com/watch?v=-BP7DhHTU-I)
 - [CHUNGUS 2 assembler (MIT)](https://github.com/sammyuri/chungus-2-assembler)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2669,7 +2670,7 @@ This Factorio 2.1 mod runs Doom with its levels, menus, sounds, music, HUD and s
 - [Release / download](https://mods.factorio.com/mod/doom)
 - [Watch demo](https://www.youtube.com/watch?v=ZgFlZszci2Y)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2751,7 +2752,7 @@ Both games run at once: Saints Row owns the world, vehicles and camera, while on
 - [Creator profile](https://github.com/SawyerTheNerd)
 - [universal-modder (upstream example)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3481,7 +3482,7 @@ ULTRAKILL handles V1's movement, dashes, slides, weapons and HUD while Elden Rin
 - [ULTRAKILL Crossover Bridge](https://github.com/Themetralla3000/ultrakill-crossover-bridge)
 - [Minecraft Ring](https://github.com/siddoff/Minecraft-Ring)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3619,7 +3620,7 @@ A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weap
 - [Release / download](https://github.com/stanleymov/DOOM-RING/releases/tag/v1.3)
 - [Creator profile](https://github.com/stanleymov)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3909,7 +3910,7 @@ A SkyCraft-derived bridge in which the real GoldSrc Half-Life keeps movement, BS
 - [Creator profile](https://github.com/sogutemir)
 - [Upstream SkyCraft](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4630,7 +4631,7 @@ A Windows prototype that bridges a Fabric Minecraft mod with a patched GZDoom 4.
 - [Source code](https://github.com/roryekay/doomcraft)
 - [Release / download](https://github.com/roryekay/doomcraft/releases/tag/v0.1.0)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4656,7 +4657,7 @@ A CK3 mod, a tray app and a Bannerlord module that run both games at once: armie
 - [Source code](https://github.com/graff0n/ck3-bannerlord-bridge)
 - [Release / download](https://github.com/graff0n/ck3-bannerlord-bridge/releases)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -6188,6 +6189,34 @@ The README says the actual osu!lazer client (built from source and embedded in t
 
 - [Source code](https://github.com/caxapexac/MinecraftOsuTouchGrass)
 - [Creator profile](https://github.com/caxapexac)
+
+**Dated source review:** 2026-11-05
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-zagreus-journey"></a>
+
+### Zagreus' Journey (Hades inside Hades II)
+
+**Guest:** Hades  
+**Host:** Hades II  
+**Creator:** NikkelM  
+**Status:** Released · Code available  
+**Approach:** Lua mod for Hades II that imports Hades biomes, rooms, enemies and bosses from the user's Hades installation  
+
+A Hades II mod that rebuilds the original Hades' route through Tartarus, Asphodel, Elysium and the Temple of Styx inside the sequel. Players enter through a Chaos Gate in the Crossroads and fight Hades 1 foes and bosses as Melinoë with her own weapons and boons, with new incantations, prophecies, NPC encounters, cosmetics and Chaos Trials. A Hades installation is required for the original game's assets. The README says the developers endorsed the mod; **1.3.0 was published on Thunderstore on 15 Sep 2026**.
+
+**Requirements:** Hades II and Hades (both installed), via a Hades II mod manager (Thunderstore dependencies include Hell2Modding, ModUtil and Chalk).
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/NikkelM/Hades-II-HadesBiomes)
+- [Release / download](https://thunderstore.io/c/hades-ii/p/NikkelM/Zagreus_Journey/)
+- [Release trailer](https://www.youtube.com/watch?v=rxuTLSPqIEE)
+- [PC Gamer coverage](https://www.pcgamer.com/games/action/theres-a-mod-that-lets-you-play-hades-1-in-hades-2)
 
 **Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
