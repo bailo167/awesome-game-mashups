@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**222 entries:** 200 core projects, 8 unconfirmed sightings and 14 related projects. Not all entries are verified releases.
+**224 entries:** 201 core projects, 8 unconfirmed sightings and 15 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-11-04. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-11-05. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) · [ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [ResoniteMario64 (Mario 64 in Resonite)](#project-resonitemario64) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) · [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella) · [BRC CODE-DMG](#project-brc-code-dmg) · [MineDoom](#project-minedoom) · [MCEmu](#project-mcemu)
+[RoVM (virtual computer and OS in Roblox)](#project-rovm) · [Osu Touch Grass (osu!lazer inside Minecraft)](#project-osu-touch-grass) · [vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) · [ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [ResoniteMario64 (Mario 64 in Resonite)](#project-resonitemario64) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) · [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella) · [BRC CODE-DMG](#project-brc-code-dmg)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -236,6 +236,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [Morrowind in Elden Ring](#project-morrowind-elden-ring) | Recreates Morrowind’s world and gameplay inside Elden Ring. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n89NFtIUWDI) |
 | [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) | Game Boy and Game Boy Color emulator written in Lua that runs inside Multi Theft Auto, the GTA: San Andreas multiplayer mod. | Code available | — |
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
+| [Osu Touch Grass (osu!lazer inside Minecraft)](#project-osu-touch-grass) | Runs the real osu!lazer client on redstone-activated monitor blocks inside Minecraft. | Code available · Experimental | — |
 | [PalCraft (Minecraft in Palworld)](#project-palcraft) | Runs Minecraft: Java Edition beside Palworld so you play Palworld as Steve with Minecraft movement, building and combat. | Code available · Experimental | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
@@ -291,6 +292,7 @@ These are leads, not confirmed downloads. Footage does not prove wider implement
 | [passthrough-mod-toolkit](#project-passthrough-mod-toolkit) | Generates the shared-memory bridge skeleton for two-process "passthrough" game mashups from one schema. | Code available · Experimental · Related | — |
 | [Portal Zombies](#project-portal-zombies) | Adds Portal-themed scenery and teleporters to a Black Ops III Zombies map. | Released · Unavailable · Related | — |
 | [Requiem x Minecraft — Building and Survival](#project-requiem-x-minecraft) | Adds Minecraft-style building, hotbar and survival mechanics to Resident Evil Requiem. | Released · Unavailable · Experimental · Related | — |
+| [RoVM (virtual computer and OS in Roblox)](#project-rovm) | A 32-bit virtual computer and mini operating system written in Luau that runs a bundled Doom port inside Roblox. | Released · Code available · Related | — |
 | [sm64-roblox](#project-sm64-roblox) | Luau port of Super Mario 64's movement and physics code running inside Roblox. | Code available · Related | — |
 | [Sonic the Hedgehog — Ultimate Speed & Combat Mod](#project-sonic-ultimate-speed-combat-gta-v) | Recreates Sonic-style high-speed movement and combat systems inside GTA V Story Mode. | Released · Experimental · Related | [Watch](https://www.youtube.com/watch?v=M_YSZfanFOE) |
 
@@ -658,7 +660,7 @@ A large multiplayer-focused Dark Souls overhaul that evolved into a Halo/Dark So
 - [Original release post](https://www.patreon.com/infernoplus/posts/dark-souls-46865100)
 - [Community tooling: DS Gadget for Remastest](https://github.com/Nordgaren/DS-Gadget-for-Remastest)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1791,7 +1793,7 @@ Garry's Mod runs hidden beside Red Dead Redemption 2 and supplies the player, sa
 - [Release / download](https://github.com/codeByAlexff/garrys-redemption/releases/tag/v0.1.0-beta)
 - [Creator profile](https://github.com/codeByAlexff)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1819,7 +1821,7 @@ The project patches IW4L for a native Mac crossover: Halo CE Spartans, sounds/ef
 - [Halo map importer scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/HALO_MAPS.md)
 - [Autonomous bot-match scope](https://github.com/0xburn/halo-mw2-director/blob/main/docs/BOT_MATCHES.md)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1896,7 +1898,7 @@ GEGI adds an in-game browser catalogue and embeds playable itch.io and Newground
 - [Release / download](https://www.curseforge.com/minecraft/mc-mods/gegi)
 - [Creator profile](https://github.com/Pr1nted)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1978,7 +1980,7 @@ Minecraft Java runs alongside Elden Ring and owns the Minecraft player, blocks, 
 - [Creator profile](https://github.com/siddoff)
 - [Upstream Minecraft Crossover Bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2059,7 +2061,7 @@ A GTA V script mod adds Sonic-style acceleration and momentum, Spin Dash, homing
 - [Release / download](https://www.gta5-mods.com/scripts/sonic-the-hedgehog-ultimate-speed-combat-mod)
 - [Watch demo](https://www.youtube.com/watch?v=M_YSZfanFOE)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2168,7 +2170,7 @@ A Hearts of Iron IV Workshop mod that runs the whole DOOM engine, based on doomg
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3800765971)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2302,7 +2304,7 @@ Adds SNES, NES and Genesis console stations with CRT TVs, plus GB/GBC/GBA handhe
 - [Release / download](https://github.com/Nighthawk42/gemu/releases)
 - [Project page](https://steamcommunity.com/sharedfiles/filedetails/?id=3801421244)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2328,7 +2330,7 @@ Spawning NG64's Mario from BeamNG.drive's vehicle selector gives Super Mario 64'
 - [Source code](https://github.com/zer0ducksgiven/NG64)
 - [Release / download](https://github.com/zer0ducksgiven/NG64/releases)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2355,7 +2357,7 @@ A libsm64-based mod that runs SM64's Mario movement inside Halo CE in the Master
 - [Release / download](https://github.com/KodyJKing/smc64/releases)
 - [Watch demo](https://www.youtube.com/watch?v=tj5fAk7KkHA)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2722,7 +2724,7 @@ Minecraft Java Edition and Elden Ring run at once: Elden Ring supplies the world
 - [Inspired by Minecraft-Ring](https://github.com/siddoff/Minecraft-Ring)
 - [Inspired by minecraft-crossover-bridge](https://github.com/justbustin/minecraft-crossover-bridge)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5635,7 +5637,7 @@ A Codeberg repository by KittyShopper that embeds DOOM in Balatro through Steamo
 - [doomgeneric fork (lua branch)](https://codeberg.org/KittyShopper/doomgeneric/src/branch/lua)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-28
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -6136,6 +6138,58 @@ A Game Boy emulator built entirely inside VRChat with UdonSharp, heavily based o
 - [ProjectDMG (base emulator)](https://github.com/BluestormDNA/ProjectDMG)
 
 **Dated source review:** 2026-11-04
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-rovm"></a>
+
+### RoVM (virtual computer and OS in Roblox)
+
+**Guest:** Doom (C port on the in-Roblox VM), Custom VM and mini OS  
+**Host:** Roblox  
+**Creator:** Plasmism  
+**Status:** Released · Code available · Related  
+**Approach:** Custom 32-bit CPU, scheduler, filesystem and compiler toolchain implemented in Luau inside Roblox  
+
+RoVM implements its own CPU, memory, scheduler, filesystem, assembler and C toolchain, and a framebuffer display entirely inside Roblox. Its bundled programs include Doom and Python; v2 reports a roughly 3x speed-up (about 6 to 18.1 MIPS). It is a general-purpose VM that hosts Doom rather than a dedicated crossover mod.
+
+**Requirements:** Roblox Studio; the releases page includes a Roblox place file. The README states no further requirements.
+
+- [Source code](https://github.com/Plasmism/RoVM)
+- [Release / download](https://github.com/Plasmism/RoVM/releases)
+- [Project page](https://devforum.roblox.com/t/rovm-a-virtual-computer-os-implemented-entirely-in-roblox/4317830)
+- [Roblox experience](https://www.roblox.com/games/98254938028298/RoVM-Roblox-Virtual-Machine)
+
+**Dated source review:** 2026-11-05
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-osu-touch-grass"></a>
+
+### Osu Touch Grass (osu!lazer inside Minecraft)
+
+**Guest:** osu!lazer  
+**Host:** Minecraft: Java Edition 1.21.1 (NeoForge)  
+**Creator:** caxapexac  
+**Status:** Code available · Experimental  
+**Approach:** Embedded .NET CoreCLR hosting the real osu!lazer client, sharing frames with Minecraft monitor blocks, plus a network-layer re-implementation over Minecraft packets  
+
+The README says the actual osu!lazer client (built from source and embedded in the JVM via CoreCLR) runs on monitor blocks in Minecraft, controlled with crafted pen, mouse and keyboard items. It also re-implements osu!'s network layer over Minecraft packets for per-world leaderboards, friends, spectating and head-to-head multiplayer rooms. Custom .osz maps can be imported.
+
+**Requirements:** Minecraft 1.21.1, NeoForge 21.1.72+, Architectury API 13.0.8+, Windows x64 only; about 370 MB of bundled binaries are extracted on first boot.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/caxapexac/MinecraftOsuTouchGrass)
+- [Creator profile](https://github.com/caxapexac)
+
+**Dated source review:** 2026-11-05
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

@@ -3,18 +3,18 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-11-04",
-    "head_sha": "a5c53595a15d8cb1001ca918b3e9744cfee57fe8",
-    "project_count": 222,
+    "verified_at": "2026-11-05",
+    "head_sha": "beb3485337eafdfa0cdcdffdc51885b713bfb91f",
+    "project_count": 224,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-04 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 171 GitHub-sourced entries (no new releases; 6 repos unreachable from sandbox) + 13 records re-read (killcraft, er-mario, skategm, new-vegascraft, minebonk, geometrytale, pokemon-red, latte-doom, talemonpokemon, ocarina-of-time, minecraft-sm64, morrowind-elden-ring, pokeworlds-online; remastest, black-ops-ii and hellgate only partly readable so not stamped) + discovery (30+ searches, 2 new: resonitemario64, vrchat-gameboy; 5 new deferred leads). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-05: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 173 GitHub repos (no new releases; 6 repos unreachable from sandbox) + 12 records re-read (remastest, garrys-redemption, halo-mw2-director, good-enough-game-integration, minecraft-ring, sonic-ultimate-speed-combat-gta-v, doom-hearts-of-iron-iv, gemu-gmod, ng64-beamng, smc64-halo, eldencraft, balatro-doom-kittyshopper) + discovery (30+ searches, 66 deferred repos rechecked, 2 new: rovm, osu-touch-grass; 3 new deferred leads). head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
       "name": "GTA VC inside GTA III inside San Andreas (Dryxio)",
       "url": "https://www.youtube.com/watch?v=X_w6fo4KVy0",
-      "why": "Creator video only; related to gta-trilogy-multiverse; rechecked 2026-10-20: press only, no repo/download found on Dryxio's GitHub or dryx.io",
+      "why": "Creator video only; related to gta-trilogy-multiverse; rechecked 2026-10-20: press only, no repo/download found on Dryxio's GitHub or dryx.io; rechecked 2026-11-05: Dryxio's GitHub still has no mashup repo, press says a code drop is planned around 2026-11-19",
       "date": "2026-10-08"
     },
     {
@@ -664,6 +664,24 @@
       "url": "https://heldgames.com/",
       "why": "Not yet fetched; likely good source of leads",
       "date": "2026-11-04"
+    },
+    {
+      "name": "Doom in RimWorld (7h0m4s)",
+      "url": "https://devtrackers.gg/rimworld/p/b7eb912e-doom-in-rimworld",
+      "why": "2024 proof of concept, author says not released as a mod; no repo",
+      "date": "2026-11-05"
+    },
+    {
+      "name": "Citrus Doom (Stormworks)",
+      "url": "https://www.gamepressure.com/newsroom/they-said-you-can-run-doom-on-anything-now-you-can-play-it-on-hot/z385f0",
+      "why": "2020 press only; Workshop page not located",
+      "date": "2026-11-05"
+    },
+    {
+      "name": "Squaresweets/RingingRabbitHole",
+      "url": "https://github.com/Squaresweets/RingingRabbitHole",
+      "why": "Undescribed repo (2026-10-23) by a creator already listed; not read",
+      "date": "2026-11-05"
     }
   ],
   "structural_upgrade": {

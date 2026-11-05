@@ -1,7 +1,9 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-11-04. These are additions to the index, not necessarily new releases.
+Week ending 2026-11-05. These are additions to the index, not necessarily new releases.
 
+- **[RoVM (virtual computer and OS in Roblox)](https://github.com/bailo167/awesome-game-mashups#project-rovm)** — A 32-bit virtual computer and mini operating system written in Luau that runs a bundled Doom port inside Roblox. (Released · Code available · Related)
+- **[Osu Touch Grass (osu!lazer inside Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-osu-touch-grass)** — Runs the real osu!lazer client on redstone-activated monitor blocks inside Minecraft. (Code available · Experimental)
 - **[vrchat-gameboy (Game Boy emulator in VRChat)](https://github.com/bailo167/awesome-game-mashups#project-vrchat-gameboy)** — A Game Boy emulator written in UdonSharp that runs inside a VRChat world and boots Pokémon Blue. (Code available · Experimental)
 - **[ValCraft (Minecraft in Valheim, strangemap)](https://github.com/bailo167/awesome-game-mashups#project-valcraft-strangemap)** — Composites real Minecraft Java into Valheim so you explore Valheim's world as a Minecraft player with Minecraft blocks, weapons and TNT. (Released · Code available · Experimental)
 - **[ResoniteMario64 (Mario 64 in Resonite)](https://github.com/bailo167/awesome-game-mashups#project-resonitemario64)** — Spawns a controllable Super Mario 64 Mario, running on libsm64, inside Resonite worlds. (Released · Code available)
@@ -17,7 +19,3 @@ Week ending 2026-11-04. These are additions to the index, not necessarily new re
 - **[AC6-FXR-DOOM-POC (Doom in Armored Core VI)](https://github.com/bailo167/awesome-game-mashups#project-ac6-fxr-doom)** — Rust DLL that runs Doom inside Armored Core VI and shows its frames on a 160x100 screen of 16,000 effect particles. (Released · Code available · Demo)
 - **[WowFC](https://github.com/bailo167/awesome-game-mashups#project-wowfc)** — World of Warcraft addon that runs NES/Famicom games in a draggable in-game window. (Released · Code available)
 - **[RCECoaster (Doom in RollerCoaster Tycoon)](https://github.com/bailo167/awesome-game-mashups#project-rcecoaster-doom)** — Security exploit that makes a crafted RollerCoaster Tycoon (1999) save file take over the game's thread and run Doom in its window. (Code available · Demo)
-- **[ViceAbyss (Vice City in Subnautica 2)](https://github.com/bailo167/awesome-game-mashups#project-viceabyss)** — Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. (Released · Experimental)
-- **[Valheim GameBoy](https://github.com/bailo167/awesome-game-mashups#project-valheim-gameboy)** — A BepInEx mod that adds a Game Boy emulator to Valheim. (Released · Experimental)
-- **[Playable GameBoy (Project Zomboid)](https://github.com/bailo167/awesome-game-mashups#project-playable-gameboy-zomboid)** — Runs Game Boy ROMs through the LuaGB emulator inside Project Zomboid. (Released · Experimental)
-- **[LC DOOM (Lethal Company)](https://github.com/bailo167/awesome-game-mashups#project-lethal-company-doom-cryptoc1)** — Play DOOM on the ship's terminal in Lethal Company, via a BepInEx mod. (Released)
