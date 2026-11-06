@@ -4,11 +4,11 @@
   "default_branch": "main",
   "last_completed_cycle": {
     "verified_at": "2026-11-06",
-    "head_sha": "998f6556f4f2f11ecf947694db7d368632506d5b",
+    "head_sha": "da40706e1a547c86db87c17a5b4e6d7f4ac94802",
     "project_count": 226,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-06: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 176 GitHub repos (2 new releases: mw2xror2 v0.4.7, warcraft-cs v0.19.0; 7 repos unreachable from sandbox) + 12 records re-read (minecraft-elden-ring-tobynjacobs, doom-hytale-papispielt, chanyoris, celeste-doom, lethalmario64, stellar-blade-minecraft, subnauticraft-dacotin2, fnafsbcraft, lethal-company-doom-cryptoc1, rust-rewrite-mashup, skycraft, minecraft-crossover-bridge) + discovery (about 35 searches; 1 new: mhw-minecraft-bridge-windows) + 14 deferred leads rechecked, 5 new leads deferred. head_sha is the parent commit. 13 records unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-06 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 177 GitHub entries (1 new release: doom-ring v1.4; 6 repos unreachable from sandbox) + 12 records re-read (doomvalley, halfcraft, hytale-doom, l4d2-minecraft, mario-for-rec-room, minepeak, passthrough-mod-toolkit, perkelerim, rcecoaster-doom, sm64-san-andreas, valheim-gameboy, playable-gameboy-zomboid) + discovery (about 23 searches by two subagents plus tag listings of deferred GitHub leads; 0 new); deferred leads only tag-listed, not re-read. head_sha is the parent commit. 14 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
@@ -840,6 +840,11 @@
     {
       "id": "arcade-paradise-freeplay",
       "host": "nexusmods.com (mod page and legacyMods query 403)",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "minecraft-skyrim-earlier-footage",
+      "host": "no primary source exists; only the Held Games guide (not re-read this run)",
       "date": "2026-11-06"
     }
   ]

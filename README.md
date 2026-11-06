@@ -402,7 +402,7 @@ A deliberately rough proof-of-concept built in a few nights. DOOM is rendered as
 - [Creator profile](https://github.com/tr7zw)
 - [vanilla-mocha-doom dependency](https://github.com/gaborbata/vanilla-mocha-doom/)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2147,7 +2147,7 @@ A builder's toolkit for passthrough mods, where a guest game (usually Minecraft)
 - [Honest limits](https://github.com/Orinkle/passthrough-mod-toolkit#honest-limits)
 - [30-second stub demo](https://github.com/Orinkle/passthrough-mod-toolkit#30-second-demo)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2544,7 +2544,7 @@ Headshotnoby's plugin embeds libsm64 into GTA San Andreas so Mario moves with SM
 - [Release / download](https://github.com/headshot2017/sm64-san-andreas/releases)
 - [Watch demo](https://www.youtube.com/watch?v=AS86LTwcGcA)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3371,7 +3371,7 @@ Windows alpha in which Source (Left 4 Dead 2) owns the map, movement and infecte
 - [Creator profile](https://github.com/Rizen1322)
 - [Universal Modder (template origin)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3427,7 +3427,7 @@ A passthrough mod: Minecraft 26.3 (Fabric) runs alongside Half Sword (Early Acce
 - [Creator profile](https://github.com/Deez-coder)
 - [Universal Modder](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3567,7 +3567,7 @@ A BepInEx mod that puts SM64's Mario, running on libsm64's real physics, into ol
 - [Creator profile](https://github.com/Shippy089)
 - [Wing Cap showcase (YouTube, linked from README)](https://youtu.be/82K-5s4_zy8)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3594,7 +3594,7 @@ A BepInEx-side exporter reads the player's own PEAK install and builds each day'
 - [Release / download](https://github.com/E1GAT0-dotcom/MinePeak/releases/tag/v0.1.0)
 - [Creator profile](https://github.com/E1GAT0-dotcom)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3613,15 +3613,15 @@ A BepInEx-side exporter reads the player's own PEAK install and builds each day'
 
 A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weapons, dash and double jump, glory kills, Blood Punch, the Crucible and DOOM Eternal's combat music rules, with assets built at setup from the player's own DOOM Eternal files. Release v1.3 (2026-10-22) adds support for Elden Ring 1.17.2 and fixes boss fights, glory-kill and cutscene-door bugs and weapon damage timing.
 
-**Requirements:** Elden Ring offline with Easy Anti-Cheat off (app version 2.7.2 = game 1.17.2 for v1.3; v1.2 required app 2.7.1) and DOOM Eternal installed through Steam, Windows 10/11 and about 3 GB free space during install.
+**Requirements:** Elden Ring offline with Easy Anti-Cheat off (app version 2.7.2 = game 1.17.2 for v1.3 and v1.4; v1.2 required app 2.7.1) and DOOM Eternal installed through Steam, Windows 10/11 and about 3 GB free space during install.
 
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/stanleymov/DOOM-RING)
-- [Release / download](https://github.com/stanleymov/DOOM-RING/releases/tag/v1.3)
+- [Release / download](https://github.com/stanleymov/DOOM-RING/releases/tag/v1.4)
 - [Creator profile](https://github.com/stanleymov)
 
-**Dated source review:** 2026-11-05
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4768,7 +4768,7 @@ A SMAPI mod that source-ports doomgeneric into Stardew Valley's process so Doom 
 - [Watch demo](https://youtu.be/cm0XKAgUfPw)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4824,7 +4824,7 @@ An SKSE plugin for Skyrim Special/Anniversary Edition and an MSCLoader mod for M
 - [Watch demo](https://youtu.be/IJzDb4E7bYA)
 - [Creator profile](https://github.com/rackmarten)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5717,7 +5717,7 @@ A historical Nexus Mods client mod for Valheim that embeds a Game Boy emulator i
 
 - [Release / download](https://www.nexusmods.com/valheim/mods/852)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5740,7 +5740,7 @@ A Nexus Mods technical demo for Project Zomboid (Build 41) that runs Game Boy RO
 
 - [Release / download](https://www.nexusmods.com/projectzomboid/mods/134)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5794,7 +5794,7 @@ A proof-of-concept exploit for the 1999 Hasbro release of RollerCoaster Tycoon. 
 - [Exploit write-up](https://github.com/RickdeJager/RCECoaster/blob/HEAD/docs/WRITEUP.md)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
