@@ -3,18 +3,18 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-11-05",
-    "head_sha": "bcb719b4e5549ed7aa6c1b186331589d7394fea2",
-    "project_count": 225,
+    "verified_at": "2026-11-06",
+    "head_sha": "998f6556f4f2f11ecf947694db7d368632506d5b",
+    "project_count": 226,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-05 (second): contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 175 GitHub entries (no new releases; 6 repos unreachable from sandbox) + 12 records re-read (g64, doom-in-doom, doomsona, doom-sonic-mania, minecraft-in-minecraft-chungus-2, factorio-doom, minecraft-x-saints-row-3, ultraring, doom-ring, halfcraft-half-life, doomcraft-roryekay, ck3-bannerlord-bridge) + discovery (14 searches; 1 new: zagreus-journey). Deferred leads not individually rechecked this run. head_sha is the parent commit. 11 records unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-06: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 176 GitHub repos (2 new releases: mw2xror2 v0.4.7, warcraft-cs v0.19.0; 7 repos unreachable from sandbox) + 12 records re-read (minecraft-elden-ring-tobynjacobs, doom-hytale-papispielt, chanyoris, celeste-doom, lethalmario64, stellar-blade-minecraft, subnauticraft-dacotin2, fnafsbcraft, lethal-company-doom-cryptoc1, rust-rewrite-mashup, skycraft, minecraft-crossover-bridge) + discovery (about 35 searches; 1 new: mhw-minecraft-bridge-windows) + 14 deferred leads rechecked, 5 new leads deferred. head_sha is the parent commit. 13 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
       "name": "GTA VC inside GTA III inside San Andreas (Dryxio)",
       "url": "https://www.youtube.com/watch?v=X_w6fo4KVy0",
-      "why": "Creator video only; related to gta-trilogy-multiverse; rechecked 2026-10-20: press only, no repo/download found on Dryxio's GitHub or dryx.io; rechecked 2026-11-05: Dryxio's GitHub still has no mashup repo, press says a code drop is planned around 2026-11-19",
+      "why": "Creator video only; related to gta-trilogy-multiverse; rechecked 2026-10-20: press only, no repo/download found on Dryxio's GitHub or dryx.io; rechecked 2026-11-05: Dryxio's GitHub still has no mashup repo, press says a code drop is planned around 2026-11-19; rechecked 2026-11-06: Dryxio GitHub profile still has no mashup repo (latest repo update Nov 2)",
       "date": "2026-10-08"
     },
     {
@@ -32,7 +32,7 @@
     {
       "name": "Cyberblock (Minecraft in Cyberpunk 2077, rodthegod2)",
       "url": "https://github.com/rodthegod2/cyberblock",
-      "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk; rechecked 2026-10-27: README says passthrough layer verified in game, 786 commits, still no tag/release or in-game footage; rechecked 2026-11-02: unchanged",
+      "why": "MIT, no releases/tags; README screenshots come from simulated-host tests, no in-game footage; possible upgrade for video-only minecraft-cyberpunk; rechecked 2026-10-27: README says passthrough layer verified in game, 786 commits, still no tag/release or in-game footage; rechecked 2026-11-02: unchanged; rechecked 2026-11-06: MIT confirmed, README says 2.0.0 will be tagged only after in-game tests pass, still no tag or in-game footage",
       "date": "2026-10-13"
     },
     {
@@ -80,7 +80,7 @@
     {
       "name": "NanoBunTV/Minecraft-CraftVM",
       "url": "https://github.com/NanoBunTV/Minecraft-CraftVM",
-      "why": "Rechecked 2026-10-17: tag v1.0.0 (2026-10-09), GPL-3.0-only per README, VirtualBox 7.2 host (Windows/Linux x64), download on Modrinth (unreachable); likely adjacent to vm-computers; GitHub releases page empty; rechecked 2026-10-20: README says download from Modrinth, tag v1.0.0 unchanged",
+      "why": "Rechecked 2026-10-17: tag v1.0.0 (2026-10-09), GPL-3.0-only per README, VirtualBox 7.2 host (Windows/Linux x64), download on Modrinth (unreachable); likely adjacent to vm-computers; GitHub releases page empty; rechecked 2026-10-20: README says download from Modrinth, tag v1.0.0 unchanged; rechecked 2026-11-06: no LICENSE file found on main (GPL claim not confirmed), tag v1.0.0 unchanged, Modrinth download unverified",
       "date": "2026-10-17"
     },
     {
@@ -682,6 +682,36 @@
       "url": "https://github.com/Squaresweets/RingingRabbitHole",
       "why": "Undescribed repo (2026-10-23) by a creator already listed; not read",
       "date": "2026-11-05"
+    },
+    {
+      "name": "ZHX4/Elden-Craft (Minecraft Ring fork)",
+      "url": "https://github.com/ZHX4/Elden-Craft",
+      "why": "MIT, v0.3.0-tlauncher-preview.1 (2026-10-08); derivative fork of listed minecraft-ring, likely a note not an entry",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Mineblox Royale (Pixelplayz2215)",
+      "url": "https://github.com/Pixelplayz2215/MinebloxRoyale",
+      "why": "v1.2.0.1 (2026-10-28), all rights reserved; battle-royale rules homage inside Minecraft, no cross-game runtime integration; at most adjacent",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Hanaka15/VegasCraft",
+      "url": "https://github.com/Hanaka15/VegasCraft",
+      "why": "MIT, no tags, README says early scaffold; separate from listed VegasCraft repos; watchlist at most",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Frag Party (Quake in Luau inside Roblox, Thomas Dimson)",
+      "url": "https://www.roblox.com/games/103880394742871/Frag-Party",
+      "why": "abit.ee (2026-07-09) says GPLv2 source on GitHub but no repo URL found; recheck for a repo",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Nickies' Cross-Game Invader Add-On (Morrowind <-> Oblivion)",
+      "url": "https://www.nexusmods.com/oblivion/mods/52683",
+      "why": "2023 historical precursor; Nexus 403, press only (PCGamesN); adjacent at most until a primary page is readable",
+      "date": "2026-11-06"
     }
   ],
   "structural_upgrade": {
@@ -775,17 +805,17 @@
     {
       "id": "craftmsc",
       "host": "nexusmods.com (403; GraphQL query not resolved)",
-      "date": "2026-10-29"
+      "date": "2026-11-06"
     },
     {
       "id": "viceabyss",
       "host": "github.com (repo returns credential prompt/404 on 2026-10-29, hours after being added; WebSearch finds nothing)",
-      "date": "2026-10-29"
+      "date": "2026-11-06"
     },
     {
       "id": "palcraft",
       "host": "github.com (repo returns credential prompt/404 on 2026-10-29)",
-      "date": "2026-10-29"
+      "date": "2026-11-06"
     },
     {
       "id": "waw-zombies-web-crossovers",
@@ -801,6 +831,16 @@
       "id": "fnv-libsm64",
       "host": "github.com (larsoyd/fnv-libsm64: raw README/LICENSE 404 and ls-remote asks for credentials on 2026-11-02; WebSearch finds nothing; was readable 2026-10-31)",
       "date": "2026-11-02"
+    },
+    {
+      "id": "skate3-gmod",
+      "host": "github.com (DaffyDabz/skate3-gmod: raw README 404 and ls-remote asks for credentials; consistent with existing dead status)",
+      "date": "2026-11-06"
+    },
+    {
+      "id": "arcade-paradise-freeplay",
+      "host": "nexusmods.com (mod page and legacyMods query 403)",
+      "date": "2026-11-06"
     }
   ]
 }

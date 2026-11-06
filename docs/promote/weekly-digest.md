@@ -1,7 +1,8 @@
 # New to Awesome Game Mashups
 
-Week ending 2026-11-05. These are additions to the index, not necessarily new releases.
+Week ending 2026-11-06. These are additions to the index, not necessarily new releases.
 
+- **[Minecraft × Monster Hunter: World — Windows Passthrough Mod](https://github.com/bailo167/awesome-game-mashups#project-mhw-minecraft-bridge-windows)** — Windows port of the Minecraft-in-Monster-Hunter: World passthrough bridge, with Minecraft blocks, mobs and combat drawn inside MHW. (Released · Code available · Experimental)
 - **[Zagreus' Journey (Hades inside Hades II)](https://github.com/bailo167/awesome-game-mashups#project-zagreus-journey)** — Adds the first Hades' Tartarus-to-Styx route, enemies and bosses to Hades II as a playable path for Melinoë. (Released · Code available)
 - **[RoVM (virtual computer and OS in Roblox)](https://github.com/bailo167/awesome-game-mashups#project-rovm)** — A 32-bit virtual computer and mini operating system written in Luau that runs a bundled Doom port inside Roblox. (Released · Code available · Related)
 - **[Osu Touch Grass (osu!lazer inside Minecraft)](https://github.com/bailo167/awesome-game-mashups#project-osu-touch-grass)** — Runs the real osu!lazer client on redstone-activated monitor blocks inside Minecraft. (Code available · Experimental)
@@ -18,5 +19,3 @@ Week ending 2026-11-05. These are additions to the index, not necessarily new re
 - **[smolnes-nut](https://github.com/bailo167/awesome-game-mashups#project-smolnes-nut)** — Ports the smolnes NES emulator to Squirrel so it runs inside Portal 2's VScript, with a (barely playable) in-map demo. (Code available · Experimental)
 - **[Computerraria (RISC-V computer in Terraria)](https://github.com/bailo167/awesome-game-mashups#project-computerraria)** — A RISC-V (rv32i) computer built in Terraria's wiring system; related precursor to in-game computers. (Code available · Related)
 - **[AC6-FXR-DOOM-POC (Doom in Armored Core VI)](https://github.com/bailo167/awesome-game-mashups#project-ac6-fxr-doom)** — Rust DLL that runs Doom inside Armored Core VI and shows its frames on a 160x100 screen of 16,000 effect particles. (Released · Code available · Demo)
-- **[WowFC](https://github.com/bailo167/awesome-game-mashups#project-wowfc)** — World of Warcraft addon that runs NES/Famicom games in a draggable in-game window. (Released · Code available)
-- **[RCECoaster (Doom in RollerCoaster Tycoon)](https://github.com/bailo167/awesome-game-mashups#project-rcecoaster-doom)** — Security exploit that makes a crafted RollerCoaster Tycoon (1999) save file take over the game's thread and run Doom in its window. (Code available · Demo)

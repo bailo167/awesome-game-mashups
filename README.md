@@ -2,13 +2,13 @@
 
 > Games rebuilt **inside other games**.
 
-**225 entries:** 202 core projects, 8 unconfirmed sightings and 15 related projects. Not all entries are verified releases.
+**226 entries:** 203 core projects, 8 unconfirmed sightings and 15 related projects. Not all entries are verified releases.
 
 [**Made one? Submit your project**](https://github.com/bailo167/awesome-game-mashups/issues/new?template=new-project.yml) · [Report a correction](https://github.com/bailo167/awesome-game-mashups/issues/new?template=correction.yml) · [Browse the visual site](https://bailo167.github.io/awesome-game-mashups/)
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-11-05. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-11-06. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -42,7 +42,7 @@ Editorial picks for variety, not a ranking or a claim of play-testing.
 
 Added to this index within seven days of the editorial update; not necessarily newly released games.
 
-[Zagreus' Journey (Hades inside Hades II)](#project-zagreus-journey) · [RoVM (virtual computer and OS in Roblox)](#project-rovm) · [Osu Touch Grass (osu!lazer inside Minecraft)](#project-osu-touch-grass) · [vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) · [ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [ResoniteMario64 (Mario 64 in Resonite)](#project-resonitemario64) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o) · [Portalcraft (Minecraft in Portal 2, ZannaFella)](#project-portalcraft-zannafella)
+[Minecraft × Monster Hunter: World — Windows Passthrough Mod](#project-mhw-minecraft-bridge-windows) · [Zagreus' Journey (Hades inside Hades II)](#project-zagreus-journey) · [RoVM (virtual computer and OS in Roblox)](#project-rovm) · [Osu Touch Grass (osu!lazer inside Minecraft)](#project-osu-touch-grass) · [vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) · [ValCraft (Minecraft in Valheim, strangemap)](#project-valcraft-strangemap) · [ResoniteMario64 (Mario 64 in Resonite)](#project-resonitemario64) · [Portalcraft (Portal 2 as a Minecraft player, Stink-O)](#project-portalcraft-stink-o)
 
 [Full weekly digest](docs/promote/weekly-digest.md) · [Atom feed](https://bailo167.github.io/awesome-game-mashups/feed.xml)
 
@@ -131,6 +131,7 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [MarioSouls](#project-mariosouls) | Replaces Dark Souls: Prepare to Die Edition's Pyromancer with Mario, running Super Mario 64 movement and attacks via libsm64. | Released · Code available · Experimental | — |
 | [MCEmu](#project-mcemu) | Historical Forge mod that runs NES ROMs as cartridges inside Minecraft 1.12.2. | Released · Code available · Archived | — |
 | [Minecraft PassthroughIV](#project-minecraft-passthrough-iv) | Draws a real Minecraft Java session into GTA IV's Liberty City. | Released · Experimental | — |
+| [Minecraft × Monster Hunter: World — Windows Passthrough Mod](#project-mhw-minecraft-bridge-windows) | Windows port of the Minecraft-in-Monster-Hunter: World passthrough bridge, with Minecraft blocks, mobs and combat drawn inside MHW. | Released · Code available · Experimental | — |
 | [MinecraftNES](#project-minecraftnes) | A NES emulator built entirely from vanilla Minecraft resource-pack shaders. | Released · Code available · Demo | — |
 | [MineDoom](#project-minedoom) | Runs id Software's original 1997 linuxdoom C engine natively inside Minecraft's process via JNI, started from a Doom Block. | Released · Code available | — |
 | [MINEKILL](#project-minekill) | Runs Minecraft's player, physics, mining and mobs inside ULTRAKILL's levels. | Released · Code available · Experimental | — |
@@ -323,7 +324,7 @@ A from-scratch Rust rewrite of MW2 that combines MW2 multiplayer, Skate 3-style 
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -351,7 +352,7 @@ Minecraft remains running as the game-logic side while Skyrim renders the world.
 - [Creator profile](https://github.com/chasmlol)
 - [Creator's Discord (chasm server)](https://discord.com/invite/ccFpNC26Ts)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -368,7 +369,7 @@ Minecraft remains running as the game-logic side while Skyrim renders the world.
 **Status:** Code available · In development  
 **Approach:** Fabric + native Windows bridge DLLs + shared memory + frame/depth compositing  
 
-Minecraft runs natively on macOS while the host game runs under CrossOver. The bridge composites Minecraft blocks, mobs and the player's hand into the host frame with depth/lighting, maps host collision into Minecraft, and bridges combat damage in both directions.
+Minecraft runs natively on macOS while the host game runs under CrossOver. The bridge composites Minecraft blocks, mobs and the player's hand into the host frame with depth/lighting, maps host collision into Minecraft, and bridges combat damage in both directions. A Windows-native port exists as mhw-minecraft-bridge-windows.
 
 **Requirements:** Apple Silicon Mac (tested M2 Max, macOS 14.3); CrossOver 26 (tested 26.3) with Windows Steam and the game in a bottle. Monster Hunter: World 15.23.00 (build 421810) via DXMT; Elden Ring app 1.17.1 (eldenring.exe 2.7.1.0) via D3DMetal (needs macOS 15.4+, or the documented macOS 14 shim), launched offline without Easy Anti-Cheat. Homebrew mingw-w64, Temurin 21 and 25, Xcode Command Line Tools, Minecraft: Java Edition 1.21.1 with Fabric. Built from source with the repo's install scripts; no binary releases.
 
@@ -377,7 +378,7 @@ Minecraft runs natively on macOS while the host game runs under CrossOver. The b
 - [Source code](https://github.com/justbustin/minecraft-crossover-bridge)
 - [Creator profile](https://github.com/justbustin)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -801,7 +802,7 @@ Primary creator footage exists, but no public repository/download was located; b
 - [Creator post](https://x.com/TobynJacobs/status/2104884843297599594)
 - [Supporting source](https://heldgames.com/guides/is-that-viral-mod-video-real)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1660,7 +1661,7 @@ Reads DOOM WAD map data and creates the level block-by-block in Hytale, mapping 
 - [Project page](https://www.curseforge.com/hytale/mods/doom)
 - [Creator profile](https://gitlab.com/papispielt)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2009,7 +2010,7 @@ An original competitive block-puzzle game is rendered pixel-by-pixel into a 128�
 - [Project page](https://modrinth.com/plugin/chanyoris)
 - [Creator profile](https://modrinth.com/user/Hatune)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2695,7 +2696,7 @@ Celeste Doom ports the C# Managed Doom engine onto Celeste's Monocle framework. 
 - [Source mirror (grubbyplaya/DoomCeleste)](https://github.com/grubbyplaya/DoomCeleste)
 - [Creator demo video (grubbycoder, YouTube)](https://www.youtube.com/watch?v=AzSelUBEEYc)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3273,7 +3274,7 @@ A community-maintained Paper plugin that embeds the Nestalgia NES emulator insid
 **Status:** Released · Code available · Experimental  
 **Approach:** Rust MW2 simulation library (IW4L crates via chasmlol's 2010 Rust Rewrite Mashup) loaded in-process by a BepInEx plugin; MW2 assets read from the player's own install  
 
-A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement and weapon handling (fire timing, recoil, spread, ADS, reloads) run in a Rust library built on IW4L's crates, loaded in-process, while RoR2 keeps damage, items and enemies, so RoR2 items proc off MW2 guns. Guns, attachments, camos, viewmodel, animations, sounds, HUD, minimap and menus are read at runtime from the player's own MW2 install. Includes Create-a-Class, perks as RoR2 items, deathstreaks, all 15 killstreaks, MW2 XP/ranks/challenges and co-op through RoR2 lobbies. v0.4.6 (2026-11-04) makes MW2 movement follow each stage's gravity (jump pads on Commencement/Mithrix work), raises jump height to RoR2 survivor level, adds crouch/prone binds and a lobby version-mismatch warning; v0.4.5 (2026-10-15) fixes random getting-stuck, restores MW2 kill-popup values, adds Copycat, a second Tactical Insertion plant and weapon bob; v0.4.4 (2026-10-11) targeted RoR2's 8 Oct 2026 update and fixed a co-op desync between mod-manager and manual installs.
+A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement and weapon handling (fire timing, recoil, spread, ADS, reloads) run in a Rust library built on IW4L's crates, loaded in-process, while RoR2 keeps damage, items and enemies, so RoR2 items proc off MW2 guns. Guns, attachments, camos, viewmodel, animations, sounds, HUD, minimap and menus are read at runtime from the player's own MW2 install. Includes Create-a-Class, perks as RoR2 items, deathstreaks, all 15 killstreaks, MW2 XP/ranks/challenges and co-op through RoR2 lobbies. v0.4.7 (2026-11-05) restores crouch and prone binds that a leftover developer test tool had been dropping since v0.4.3; v0.4.6 (2026-11-04) makes MW2 movement follow each stage's gravity (jump pads on Commencement/Mithrix work), raises jump height to RoR2 survivor level, adds crouch/prone binds and a lobby version-mismatch warning; v0.4.5 (2026-10-15) fixes random getting-stuck, restores MW2 kill-popup values, adds Copycat, a second Tactical Insertion plant and weapon bob; v0.4.4 (2026-10-11) targeted RoR2's 8 Oct 2026 update and fixed a co-op desync between mod-manager and manual installs.
 
 **Requirements:** Windows 10/11 64-bit; Risk of Rain 2 and Call of Duty: Modern Warfare 2 (2009) on Steam with MW2 multiplayer content (no game files included); BepInEx 5 and RoR2BepInExPack (the manual zip includes the pack). Experimental: solo tested on the 8 Oct 2026 RoR2 update; co-op not fully re-tested there, 3-4 player lobbies and other mods untested; Linux/Steam Deck untested.
 
@@ -3286,7 +3287,7 @@ A BepInEx mod that adds the MW2 Soldier to Risk of Rain 2. MW2's player movement
 - [Creator showcase video](https://github.com/buhhrad/MW2xRoR2/raw/main/docs/media/showcase.mp4)
 - [IW4L upstream](https://github.com/vladtrc/iw4L)
 
-**Dated source review:** 2026-11-04
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3987,7 +3988,7 @@ A BepInEx mod for Lethal Company that adds a Mario suit giving the player SM64 M
 - [Release / download](https://thunderstore.io/c/lethal-company/p/Kosmikstars/LethalMario64/)
 - [libsm64](https://github.com/libsm64/libsm64)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4350,18 +4351,18 @@ A Nexus mod by RPGKing117 that streams a patched Fallout 1 Community Edition int
 **Status:** Released · Code available · Experimental  
 **Approach:** Native modules injected into Warcraft III add a first-person camera, CS-style weapon and movement logic and a HUD, with adapted ReGameDLL_CS/ReHLDS code  
 
-An offline single-player fan project that lets the player control a Warcraft III hero or unit in first person with Counter-Strike 1.6 style recoil, bunnyhop and air-strafe movement, weapons, grenades and C4, while Warcraft keeps the world, enemies, quests and health. Purchases use a dollar wallet or gold (v0.13.0 dual-currency buying); optional Half-Life weapons (Crowbar, Tau, Gluon, RPG) load from the player's own Half-Life files (v0.12.0). Firearm shots trace posed model geometry with a 2x headshot multiplier on verified 1.26a models, and classic movement is the default (v0.13.0). F6 toggles between first person and RTS. Experimental, partial Warcraft III 1.27a (D3D9) support was added in v0.12.0 and the release notes claim no real 1.27a gameplay test. The README calls it an offline single-player prototype with full campaign and custom-map compatibility still being tested.
+An offline single-player fan project that lets the player control a Warcraft III hero or unit in first person with Counter-Strike 1.6 style recoil, bunnyhop and air-strafe movement, weapons, grenades and C4, while Warcraft keeps the world, enemies, quests and health. Purchases use a dollar wallet or gold (v0.13.0 dual-currency buying); optional Half-Life weapons (Crowbar, Tau, Gluon, RPG) load from the player's own Half-Life files (v0.12.0). Firearm shots trace posed model geometry with a 2x headshot multiplier on verified 1.26a models, and classic movement is the default (v0.13.0). F6 toggles between first person and RTS. Experimental, partial Warcraft III 1.27a (D3D9) support was added in v0.12.0 and the release notes claim no real 1.27a gameplay test. v0.19.0 (2026-11-04) adds active in-map portals, an F2 field-of-view and sky-preset panel and a heavy-weapon damage rebalance; v0.18.0 added automatic surface swimming on verified 1.26a. The README calls it an offline single-player prototype with full campaign and custom-map compatibility still being tested.
 
 **Requirements:** Windows 10/11 x64 (.NET Framework 4.x, PowerShell 5.1) and your own Warcraft III 1.26a x86 install (Game.dll 1.26.0.6401, OpenGL) or experimental 1.27a (Game.dll 1.27.0.52240, D3D9); Reforged, other patches and multiplayer are unsupported. Your own Counter-Strike 1.6 loose files are needed for CS weapons; optional Half-Life weapons also use your owned Half-Life files. Internet access is needed for setup and updates. The WarcraftCSLauncher_DLL_Included.exe release asset ships prebuilt modules; the standard launcher and ZIPs are source-only and build locally (MSVC/Windows SDK, Python 3.10-3.14, NumPy). No game assets are bundled.
 
 **Platforms documented:** Windows
 
 - [Source code](https://github.com/YazgulDev/warcraft-cs)
-- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.18.0)
+- [Release / download](https://github.com/YazgulDev/warcraft-cs/releases/tag/v0.19.0)
 - [Creator profile](https://github.com/YazgulDev)
 - [Press: cybersport.ru](https://www.cybersport.ru/tags/cs2/modder-skrestil-warcraft-iii-i-cs-1-6-teper-mozhno-poigrat-v-shuter-na-karte-rts)
 
-**Dated source review:** 2026-11-03
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4684,7 +4685,7 @@ Stellar Blade runs alongside Minecraft Java (Fabric) and simulates EVE's control
 - [Release / download](https://github.com/MotherSphere/stellarblade-minecraft/releases)
 - [SkyCraft (transport upstream)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4711,7 +4712,7 @@ A BepInEx plugin for Subnautica paired with a Fabric Minecraft mod: Steve moves,
 - [SkyCraft (upstream credit)](https://github.com/chasmlol/SkyCraft)
 - [universal-modder (upstream credit)](https://github.com/rehan-remade/universal-modder)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4739,7 +4740,7 @@ A SkyCraft fork with the Skyrim half replaced by a UE4SS mod for Security Breach
 - [Creator profile](https://github.com/Mielesgames)
 - [SkyCraft (upstream fork source)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5665,7 +5666,7 @@ A Lethal Company BepInEx mod that lets the player play DOOM on the ship's termin
 - [Release / download](https://thunderstore.io/c/lethal-company/p/Cryptoc1/LC_DOOM/)
 - [Creator profile](https://github.com/Cryptoc1)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -6219,6 +6220,33 @@ A Hades II mod that rebuilds the original Hades' route through Tartarus, Asphode
 - [PC Gamer coverage](https://www.pcgamer.com/games/action/theres-a-mod-that-lets-you-play-hades-1-in-hades-2)
 
 **Dated source review:** 2026-11-05
+**Catalogue play-test:** Not recorded.
+
+[Back to project list](#browse-projects)
+
+---
+
+<a name="project-mhw-minecraft-bridge-windows"></a>
+
+### Minecraft × Monster Hunter: World — Windows Passthrough Mod
+
+**Guest:** Minecraft: Java Edition 1.21.1  
+**Host:** Monster Hunter: World (Steam, Windows)  
+**Creator:** RXTIGA90  
+**Status:** Released · Code available · Experimental  
+**Approach:** dinput8.dll host-side bridge + Fabric mod + frame/depth compositing and shared state  
+
+A Windows build of the Minecraft crossover bridge: Minecraft's rendered frame is composited into Monster Hunter: World's frame with depth, Steve walks on invisible-block approximations of MHW terrain, and Minecraft weapons and mobs damage MHW monsters and the reverse. A native dinput8.dll component on the MHW side and a Fabric mod on the Minecraft side exchange state; Setup.bat, Play.bat and Uninstall.bat are provided. The README says to back up saves and play offline only. The 0.1.0-dev zip is a GitHub pre-release.
+
+**Requirements:** Windows 10/11; Monster Hunter: World 15.23.00 with Iceborne (Steam, offline mode only); Minecraft: Java Edition 1.21.1 with Fabric Loader 0.16+ and Fabric API (the installer sets up Fabric and a launcher profile); Minecraft must run in a window. The Shift+F12 save-and-quit helper needs MHW text set to Korean and the Windows Korean OCR language. Optional ViGEmBus.
+
+**Platforms documented:** Windows
+
+- [Source code](https://github.com/RXTIGA90/mhw-minecraft-bridge-windows)
+- [Release / download](https://github.com/RXTIGA90/mhw-minecraft-bridge-windows/releases)
+- [Creator profile](https://github.com/RXTIGA90)
+
+**Dated source review:** 2026-11-06
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
