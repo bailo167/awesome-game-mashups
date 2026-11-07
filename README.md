@@ -187,7 +187,6 @@ Added to this index within seven days of the editorial update; not necessarily n
 | [Valheim GameBoy](#project-valheim-gameboy) | A BepInEx mod that adds a Game Boy emulator to Valheim. | Released · Experimental | — |
 | [VegasCraft (benedettoscala)](#project-vegascraft-benedettoscala) | Lets you play Fallout: New Vegas with Minecraft Java's movement, inventory, blocks and combat running alongside it. | Released · Code available · Experimental | — |
 | [VEmu](#project-vemu) | Adds libretro-backed consoles and handhelds to Voices of the Void that play your own ROMs inside the game. | Released · Code available | — |
-| [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) | Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. | Released · Experimental | — |
 | [VM Computers](#project-vm-computers) | Build a working PC inside Minecraft that runs a real VirtualBox virtual machine, Doom included. | Released · Code available · Archived | — |
 | [WadSupport (DOOM in The Simpsons: Hit & Run)](#project-shar-wadsupport) | Runs DOOM, via doomgeneric, from an FMV call inside The Simpsons: Hit & Run mods, with a Kwik-E-Mart arcade demo mod. | Released · Code available | — |
 | [Warcraft CS](#project-warcraft-cs) | Brings Counter-Strike 1.6 weapons, movement and buy menu into Warcraft III as a first-person mode. | Released · Code available · Experimental | — |
@@ -210,7 +209,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [CS:GO systems inside Project Zomboid](#project-csgo-project-zomboid) | Adds CS:GO weapons, shooting and movement to Project Zomboid. | In development · Video only | [Watch](https://www.youtube.com/watch?v=n2fEHpLJUNk) |
 | [DOOM in Sonic Mania](#project-doom-sonic-mania) | Adds a main-menu option to Sonic Mania that boots a playable Chocolate Doom inside the game. | Code available | — |
 | [DoomMaps](#project-doom-maps) | Runs DOOM on Hytale’s in-game world-map screen. | Code available · Demo | — |
-| [fnv-libsm64](#project-fnv-libsm64) | Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. | Code available · Experimental | — |
+| [fnv-libsm64](#project-fnv-libsm64) | Plays Fallout: New Vegas as Super Mario 64's Mario via an xNVSE plugin using libsm64. | Code available · Experimental · Unavailable | — |
 | [GorillaCraft (Gorilla Tag locomotion in VR Minecraft)](#project-gorillacraft) | Lets you play Minecraft in VR as a Gorilla Tag gorilla, with Gorilla Tag's arm-swing movement driven across Minecraft's blocks. | Code available · Experimental | — |
 | [Granny Minecraft Passthrough](#project-granny-minecraft-passthrough) | Runs real Minecraft Java alongside Granny Legacy and blends it into Granny's house. | Code available · Experimental | — |
 | [GTA Trilogy Multiverse Portals](#project-gta-trilogy-multiverse) | Runs GTA III, Vice City and San Andreas simultaneously with live portals between them. | In development · Video only | [Watch](https://www.youtube.com/watch?v=fpsq2MyWznc) |
@@ -239,7 +238,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [MTA-GB (Game Boy emulator in Multi Theft Auto)](#project-mta-gb) | Game Boy and Game Boy Color emulator written in Lua that runs inside Multi Theft Auto, the GTA: San Andreas multiplayer mod. | Code available | — |
 | [New VegasCraft](#project-new-vegascraft) | Composites Minecraft into Fallout: New Vegas and lets you build in the Mojave. | Code available · In development · Experimental | — |
 | [Osu Touch Grass (osu!lazer inside Minecraft)](#project-osu-touch-grass) | Runs the real osu!lazer client on redstone-activated monitor blocks inside Minecraft. | Code available · Experimental | — |
-| [PalCraft (Minecraft in Palworld)](#project-palcraft) | Runs Minecraft: Java Edition beside Palworld so you play Palworld as Steve with Minecraft movement, building and combat. | Code available · Experimental | — |
+| [PalCraft (Minecraft in Palworld)](#project-palcraft) | Runs Minecraft: Java Edition beside Palworld so you play Palworld as Steve with Minecraft movement, building and combat. | Code available · Experimental · Unavailable | — |
 | [PeakCraft](#project-peakcraft) | Play PEAK with Minecraft physics, HUD and blocks: a SkyCraft port using shared-memory mods. | Code available · Experimental | — |
 | [PokeWorlds Online](#project-pokeworlds-online) | Rebuilds classic top-down Pokémon as a multiplayer game inside Hytale. | In development · Video only | [Watch](https://x.com/pokeworldonlin/status/2099499679314542720) |
 | [RCECoaster (Doom in RollerCoaster Tycoon)](#project-rcecoaster-doom) | Security exploit that makes a crafted RollerCoaster Tycoon (1999) save file take over the game's thread and run Doom in its window. | Code available · Demo | — |
@@ -259,6 +258,7 @@ Public code can still require compilation. Video-only entries have no public bui
 | [ULTRAKILL inside Minecraft](#project-ultrakill-minecraft) | Play a Minecraft world as V1 with ULTRAKILL running hidden and supplying movement, weapons and HUD. | Code available · Experimental | — |
 | [Ultrakill64](#project-ultrakill64) | A proof-of-concept that drops Super Mario 64's Mario into ULTRAKILL's sandbox using libsm64. | Code available · Demo | — |
 | [UltraRing](#project-ultraring) | Runs ULTRAKILL's V1 movement and weapons inside Elden Ring with both games open. | Code available · Experimental | — |
+| [ViceAbyss (Vice City in Subnautica 2)](#project-viceabyss) | Play Subnautica 2 as Tommy Vercetti, with GTA Vice City running in the background to supply live animation, HUD and weapons. | Released · Experimental · Unavailable | — |
 | [vrchat-gameboy (Game Boy emulator in VRChat)](#project-vrchat-gameboy) | A Game Boy emulator written in UdonSharp that runs inside a VRChat world and boots Pokémon Blue. | Code available · Experimental | — |
 | [Wasmcraft game demos](#project-wasmcraft) | Runs games including DOOM, Celeste Classic and Super Mario Bros. inside vanilla Minecraft. | Code available · Demo | [Watch](https://www.youtube.com/watch?v=wCHB1UgwM9o) |
 | [World of Skatecraft](#project-world-of-skatecraft) | Runs Skate 3 physics and tricks inside World of Warcraft 1.12.1. | Code available · Experimental | [Watch](https://github.com/Kimmo3223/world-of-skatecraft/blob/main/docs/media/skateboarding.mp4) |
@@ -3508,7 +3508,6 @@ An experimental, work-in-progress, offline-only passthrough: AoTTG2 (BepInEx) ru
 
 - [Source code](https://github.com/mpere056/attack-on-elden-ring)
 - [Creator profile](https://github.com/mpere056)
-- [AI Game Modding Guides](https://github.com/trevaintdead/ai-game-modding-guides)
 
 **Dated source review:** 2026-11-01
 **Catalogue play-test:** Not recorded.
@@ -3635,7 +3634,7 @@ A fan mod that turns Elden Ring into a first-person Doom Slayer game: eight weap
 **Guest:** Super Mario 64 (Mario via libsm64)  
 **Host:** Fallout: New Vegas (1.4.0.525)  
 **Creator:** larsoyd  
-**Status:** Code available · Experimental  
+**Status:** Code available · Experimental · Unavailable  
 **Approach:** xNVSE plugin embedding libsm64 with Havok collision  
 
 An xNVSE plugin that runs SM64's own movement code through libsm64, collides it with the game's Havok geometry and with NPCs and creatures, draws Mario with textures from the player's ROM, and lands his punches and kicks as hits by the Courier. Build from source.
@@ -3647,7 +3646,7 @@ An xNVSE plugin that runs SM64's own movement code through libsm64, collides it 
 - [Source code](https://github.com/larsoyd/fnv-libsm64)
 - [Creator profile](https://github.com/larsoyd)
 
-**Dated source review:** 2026-10-31
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -4604,7 +4603,6 @@ A MelonLoader mod that adds a Game Boy to The Long Dark's inventory. Equipping i
 
 - [Source code](https://github.com/Lzc4/CabinBoy)
 - [Release / download](https://github.com/Lzc4/CabinBoy/releases)
-- [UnityGB (core upstream)](https://github.com/Inkdrop/UnityGB)
 
 **Dated source review:** 2026-11-03
 **Catalogue play-test:** Not recorded.
@@ -4850,7 +4848,6 @@ A Windows package that runs Ship of Harkinian (Ocarina of Time, with ShipwrightO
 - [Source code](https://github.com/Shqn3/SoHCraft)
 - [Release / download](https://github.com/Shqn3/SoHCraft/releases/latest)
 - [Creator profile](https://github.com/Shqn3)
-- [ocarina-coop sohcraft branch](https://github.com/Shqn3/ocarina-coop/tree/sohcraft)
 
 **Dated source review:** 2026-10-31
 **Catalogue play-test:** Not recorded.
@@ -5310,7 +5307,7 @@ BeamNG.drive runs car physics, engine, tyres and damage in the background while 
 **Guest:** Minecraft: Java Edition  
 **Host:** Palworld  
 **Creator:** EQQX0  
-**Status:** Code available · Experimental  
+**Status:** Code available · Experimental · Unavailable  
 **Approach:** UE4SS Lua bridge plus a D3D11 compositor on the Palworld side and a Fabric mod on the Minecraft side  
 
 Minecraft owns the player, camera, blocks and weapons while Palworld owns the islands and Pals: Palworld draws its frame from Minecraft's camera and a compositor paints Minecraft blocks, hand and hotbar into it with depth occlusion. Hitting Pals with swords, arrows or TNT lowers their Palworld health, Minecraft armour rules apply to Pal hits, and F8 switches to a Palworld mode for catching Pals and base building. There are no tagged releases; the README documents version 0.2.2.
@@ -5321,7 +5318,7 @@ Minecraft owns the player, camera, blocks and weapons while Palworld owns the is
 
 - [Source code](https://github.com/EQQX0/PalCraft)
 
-**Dated source review:** 2026-10-25
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -5680,7 +5677,7 @@ A Lethal Company BepInEx mod that lets the player play DOOM on the ship's termin
 **Guest:** GTA Vice City (character animation, weapons, HUD)  
 **Host:** Subnautica 2  
 **Creator:** ApprenticeChaos  
-**Status:** Released · Experimental  
+**Status:** Released · Experimental · Unavailable  
 **Approach:** SkyCraft-style passthrough: Vice City runs in the background and local shared-memory and file bridges drive Subnautica 2 entities  
 
 An experimental Windows alpha passthrough in the SkyCraft lineage: GTA Vice City runs in the background and supplies Tommy Vercetti's animated character, weapons and HUD while Subnautica 2 owns the world, movement, oxygen and creatures; local shared-memory and file bridges connect them. Fish kills can trigger a one-star wanted level and a NeedlerShark-mounted cop. Assets are extracted from the player's own Vice City install. The README lists a Vice City freeze during long background play as a known issue.
@@ -5694,7 +5691,7 @@ An experimental Windows alpha passthrough in the SkyCraft lineage: GTA Vice City
 - [Creator profile](https://github.com/ApprenticeChaos)
 - [SkyCraft (inspiration)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-29
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
