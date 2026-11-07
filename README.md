@@ -8,7 +8,7 @@
 
 **Community:** [chasm server on Discord](https://discord.com/invite/ccFpNC26Ts) — the community behind SkyCraft and the 2010 Rust Rewrite Mashup, where many of these mashups are first shared · [chasm (chasmlol) on GitHub](https://github.com/chasmlol)
 
-**Catalogue updated:** 2026-11-06. This is an editorial update date, not a blanket verification date.
+**Catalogue updated:** 2026-11-07. This is an editorial update date, not a blanket verification date.
 
 Listed availability is not a play-test or safety certification. Source code is not automatically a ready-to-install download. Unconfirmed sightings and related projects are counted separately.
 
@@ -1585,7 +1585,7 @@ Minecraft owns player physics, inventory, combat, blocks and mobs while Subnauti
 - [Source code](https://github.com/FumperForrest/SubCraft)
 - [Creator profile](https://github.com/FumperForrest)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -1927,7 +1927,7 @@ A Source SDK 2013 / Team Fortress 2 mod links the recovered Skate 3 simulation i
 - [Creator profile](https://github.com/Naitrate)
 - [Upstream Skate 3 Rust Engine](https://github.com/SK8-ENGINE/skate-3-rust-engine)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2120,7 +2120,7 @@ Pressing M replaces Spider-Man with Mario running the actual Super Mario 64 move
 - [Overstrike mod manager](https://github.com/Tkachov/Overstrike)
 - [Submission issue](https://github.com/bailo167/awesome-game-mashups/issues/3)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2227,7 +2227,7 @@ Adds DOOM as an app on Schedule I's in-game TVs. A native DOOM runtime renders o
 - [DOOM II TV edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2483)
 - [Ultimate Doom / TNT / Plutonia edition (Nexus)](https://www.nexusmods.com/schedule1/mods/2484)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2465,7 +2465,7 @@ Retro64 uses a libsm64 fork to simulate Super Mario 64's movement code in Minecr
 - [Watch demo](https://www.youtube.com/watch?v=2yWKqc2rmHI)
 - [Project page](https://retro64mod.github.io/)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2595,7 +2595,7 @@ Supersonic Mario uses libsm64 to drop a playable, networked SM64 Mario into Rock
 - [Source code](https://github.com/Serialbocks/SupersonicMarioPlugin)
 - [Release / download](https://github.com/Serialbocks/SupersonicMarioPlugin/releases/tag/v1.1.1)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -2778,7 +2778,7 @@ A BepInEx plugin that uses the libsm64 Unity runtime to put Super Mario 64's Mar
 - [Creator profile](https://github.com/Squaresweets)
 - [libsm64-unity upstream](https://github.com/libsm64/libsm64-unity-dev)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3343,7 +3343,7 @@ A Lucas' Simpsons Hit & Run Mod Launcher hack that embeds doomgeneric (Chocolate
 - [Creator profile](https://github.com/EnAppelsin)
 - [doomgeneric upstream](https://github.com/ozkl/doomgeneric)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3399,7 +3399,7 @@ A Windows mod based on chasmlol's SkyCraft framework: Minecraft Java runs in the
 - [Creator profile](https://github.com/Wanesia)
 - [SkyCraft (upstream framework)](https://github.com/chasmlol/SkyCraft)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3455,7 +3455,7 @@ A BepInEx Subnautica plugin paired with a Fabric Minecraft mod: shared health, h
 - [Creator profile](https://github.com/JasonNinja15)
 - [SubCraft (separate project)](https://github.com/FumperForrest/SubCraft)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3538,7 +3538,7 @@ A fork of ER Mario re-done for Sekiro 1.06: libsm64 runs Mario in the game proce
 - [Creator profile](https://github.com/BassGaming)
 - [Upstream: ER Mario](https://github.com/deltarooo/er-mario)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)
@@ -3939,7 +3939,7 @@ A Beat Saber mod that uses ckosmic's modified libsm64 and libsm64-unity to put M
 - [Creator profile](https://github.com/ckosmic)
 - [libsm64 fork](https://github.com/ckosmic/libsm64/tree/changes)
 
-**Dated source review:** 2026-10-30
+**Dated source review:** 2026-11-07
 **Catalogue play-test:** Not recorded.
 
 [Back to project list](#browse-projects)

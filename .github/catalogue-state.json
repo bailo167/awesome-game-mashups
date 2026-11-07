@@ -3,18 +3,18 @@
   "repository": "bailo167/awesome-game-mashups",
   "default_branch": "main",
   "last_completed_cycle": {
-    "verified_at": "2026-11-06",
-    "head_sha": "da40706e1a547c86db87c17a5b4e6d7f4ac94802",
+    "verified_at": "2026-11-07",
+    "head_sha": "46bd72dd4ebc91cfdaea533d579d657976fc1cca",
     "project_count": 226,
     "open_issues": 0,
     "open_pull_requests": 1,
-    "scope": "Run 2026-11-06 PM: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 177 GitHub entries (1 new release: doom-ring v1.4; 6 repos unreachable from sandbox) + 12 records re-read (doomvalley, halfcraft, hytale-doom, l4d2-minecraft, mario-for-rec-room, minepeak, passthrough-mod-toolkit, perkelerim, rcecoaster-doom, sm64-san-andreas, valheim-gameboy, playable-gameboy-zomboid) + discovery (about 23 searches by two subagents plus tag listings of deferred GitHub leads; 0 new); deferred leads only tag-listed, not re-read. head_sha is the parent commit. 14 records unreachable_from_routine. No play-tests."
+    "scope": "Run 2026-11-07: contributions (no open issues; Dependabot PR #6 left open) + tag sweep of 177 GitHub entries (no new releases; 6 repos unreachable from sandbox) + 12 records re-read (subcraft, skate-fortress-2, sm64-spiderman2, schedule-i-doom-tv, retro64, supersonic-mario, ultrakill64, shar-wadsupport, witchercraft, subnauticraft, super-sekiro-64, sm64bs) + discovery (8 searches; 0 new, hits already catalogued); head_sha is the parent commit. 14 records unreachable_from_routine. No play-tests."
   },
   "deferred_candidates": [
     {
       "name": "GTA VC inside GTA III inside San Andreas (Dryxio)",
       "url": "https://www.youtube.com/watch?v=X_w6fo4KVy0",
-      "why": "Creator video only; related to gta-trilogy-multiverse; rechecked 2026-10-20: press only, no repo/download found on Dryxio's GitHub or dryx.io; rechecked 2026-11-05: Dryxio's GitHub still has no mashup repo, press says a code drop is planned around 2026-11-19; rechecked 2026-11-06: Dryxio GitHub profile still has no mashup repo (latest repo update Nov 2)",
+      "why": "Creator video only; related to gta-trilogy-multiverse; rechecked 2026-10-20: press only, no repo/download found on Dryxio's GitHub or dryx.io; rechecked 2026-11-05: Dryxio's GitHub still has no mashup repo, press says a code drop is planned around 2026-11-19; rechecked 2026-11-06: Dryxio GitHub profile still has no mashup repo (latest repo update Nov 2); rechecked 2026-11-07: press-only search, no source release found",
       "date": "2026-10-08"
     },
     {
